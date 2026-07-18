@@ -7,7 +7,7 @@ An autonomous personal news agent. Every morning, a GitHub Actions pipeline fetc
 ## How it works
 
 ```
-GitHub Actions (cron, 07:00 IST daily)
+GitHub Actions (cron, 9:00 AM ET daily)
 │
 ├─ 1. fetch_news.py      Hacker News API · Reddit JSON · RSS feeds
 │                        → data/raw/YYYY-MM-DD.json
@@ -61,7 +61,7 @@ Sources live in [scripts/sources.yaml](scripts/sources.yaml) — adding a feed i
    gh workflow run digest.yml
    ```
 
-The schedule is set in [.github/workflows/digest.yml](.github/workflows/digest.yml) (`30 1 * * *` UTC = 07:00 IST).
+The schedule is set in [.github/workflows/digest.yml](.github/workflows/digest.yml) (`0 13 * * *` UTC = 9:00 AM EDT).
 
 ## Run locally
 

@@ -2,8 +2,9 @@ name: Daily Digest
 
 on:
   schedule:
-    # 01:30 UTC = 07:00 IST. Adjust to taste.
-    - cron: "30 1 * * *"
+    # 13:00 UTC = 9:00 AM Eastern (EDT). Note: GitHub cron is fixed to UTC,
+    # so when DST ends this fires at 8:00 AM EST — bump to "0 14" if that matters.
+    - cron: "0 13 * * *"
   workflow_dispatch: {}
 
 permissions:
