@@ -1,0 +1,64 @@
+# News source configuration.
+# Add/remove sources here — no code changes needed.
+#
+# Source types:
+#   hackernews : official Firebase API (top stories)
+#   reddit     : public JSON endpoint, top posts of the last day
+#   rss        : any RSS/Atom feed
+#
+# `limit` caps how many items are pulled from that source per run.
+
+tech:
+  - type: hackernews
+    name: Hacker News
+    limit: 30
+  - type: reddit
+    name: r/technology
+    subreddit: technology
+    limit: 15
+  - type: reddit
+    name: r/programming
+    subreddit: programming
+    limit: 15
+  - type: rss
+    name: TechCrunch
+    url: https://techcrunch.com/feed/
+    limit: 15
+  - type: rss
+    name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    limit: 15
+  - type: rss
+    name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    limit: 15
+
+cricket:
+  - type: rss
+    name: ESPNcricinfo
+    url: https://www.espncricinfo.com/rss/content/story/feeds/0.xml
+    limit: 15
+  - type: reddit
+    name: r/Cricket
+    subreddit: Cricket
+    limit: 15
+
+football:
+  - type: rss
+    name: BBC Sport Football
+    url: https://feeds.bbci.co.uk/sport/football/rss.xml
+    limit: 15
+  - type: reddit
+    name: r/soccer
+    subreddit: soccer
+    limit: 15
+
+nba:
+  - type: rss
+    name: ESPN NBA
+    url: https://www.espn.com/espn/rss/nba/news
+    limit: 15
+  - type: reddit
+    name: r/nba
+    subreddit: nba
+    limit: 15

@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T20:33:09.305413+00:00",
+  "mode": "claude",
+  "overview": "The cricket world is in mourning as Sir Garry Sobers, widely regarded as the game's greatest all-rounder, has died at 89. Football builds toward a blockbuster World Cup 2026 final pitting Messi's Argentina against Lamine Yamal's Spain, while Chelsea smashed their transfer record with a \u00a3117m deal for Morgan Rogers. In tech, LG faces a user revolt over monitors silently installing software via Windows Update, and a GPT-5.6 prompt reportedly closed a 30-year-old gap in convex optimization. In the NBA, Giannis Antetokounmpo says he'll do 'whatever it takes' to win with the Heat as offseason drama swirls around Milwaukee.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "source": "Hacker News",
+          "score": 850,
+          "summary": "LG monitors are reportedly installing companion software on PCs through Windows Update without user consent, sparking widespread backlash from owners of its gaming monitors and TVs."
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "source": "Hacker News",
+          "score": 416,
+          "summary": "A result generated with GPT-5.6 is being credited with closing a 30-year-old open gap in convex optimization, drawing major attention as an example of AI contributing to research mathematics."
+        },
+        {
+          "title": "Spotify Deleted 75 Million AI-Generated Tracks \u2013 and It\u2019s Not Done Yet",
+          "url": "https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Spotify has removed 75 million AI-generated tracks from its platform and says the purge is not finished."
+        },
+        {
+          "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "source": "Ars Technica",
+          "score": null,
+          "summary": "San Francisco has ordered Apple and Google to remove AI 'nudify' apps from their app stores, escalating official action against non-consensual imagery tools."
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Databricks has reached a $188B valuation, extending its position as one of the biggest beneficiaries of the AI boom outside the model labs."
+        },
+        {
+          "title": "The Kimi K3 Moment",
+          "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+          "source": "Hacker News",
+          "score": 137,
+          "summary": "An essay dubbing this 'The Kimi K3 Moment' is driving discussion about the rapid rise of Moonshot's Kimi models and what it signals for the AI landscape."
+        },
+        {
+          "title": "What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+          "source": "Hacker News",
+          "score": 322,
+          "summary": "A widely shared graph illustrates the dramatic decline in Stack Overflow activity since the arrival of AI coding assistants."
+        },
+        {
+          "title": "The Zilog Z80 has turned 50",
+          "url": "https://goliath32.com/blog/z80.html",
+          "source": "Hacker News",
+          "score": 266,
+          "summary": "The Zilog Z80, one of the most influential microprocessors in computing history, has turned 50."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Garry Sobers dies, aged 89",
+          "url": "https://www.cricinfo.com/ci/content/story/1546030.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Sir Garry Sobers, the West Indies legend widely considered cricket's greatest all-rounder, has died at the age of 89."
+        },
+        {
+          "title": "Rohit in the spotlight with series on the line at Lord's",
+          "url": "https://www.cricinfo.com/ci/content/story/1546091.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Rohit Sharma is under the spotlight as India face England at Lord's with the ODI series on the line."
+        },
+        {
+          "title": "'Incredibly disappointing' - Associates criticise ICC's revamped ODI World Cup format",
+          "url": "https://www.cricinfo.com/ci/content/story/1545978.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Associate cricket nations have criticised the ICC's revamped ODI World Cup format, calling the changes 'incredibly disappointing' for the game's smaller teams."
+        },
+        {
+          "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
+          "url": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "A refreshed Knight Riders side meets familiar rivals Freedom in the MLC final."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Messi on his picture with Yamal: \u201cIt\u2019s incredible that we\u2019re here today, Lamine and I, facing each other after a photo was taken of us when he was just a baby. Life is full of surprises. We\u2019ll try to play a great match, but I hope he and his team don\u2019t have their best day.\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1uzfhwh/messi_on_his_picture_with_yamal_its_incredible/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Ahead of the World Cup final, Messi reflected on facing Lamine Yamal years after a famous photo of the two when Yamal was a baby, calling the matchup 'incredible' and wishing Spain anything but their best day."
+        },
+        {
+          "title": "Chelsea agree record \u00a3117m deal for Villa's Rogers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Chelsea have agreed a club-record \u00a3117m deal with Aston Villa to sign Morgan Rogers."
+        },
+        {
+          "title": "Inside Iraola's first week at Liverpool and big decisions he faces",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce34zpppy6qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "An inside look at Andoni Iraola's first week as Liverpool manager and the major squad decisions awaiting him."
+        },
+        {
+          "title": "\u0160uker on Tuchel comment that England don't want to play for 3rd: \"I think the rich don't want to play when they lose. Be quiet, respect all 211 participants & understand that the world doesn't belong only to them. Whoever wins, I assure you that when they're older, they'll still remember that medal\"",
+          "url": "https://www.reddit.com/r/soccer/comments/1uzwplp/\u0161uker_on_tuchel_comment_that_england_dont_want_to/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Davor \u0160uker rebuked Thomas Tuchel's dismissal of the World Cup third-place match, saying England should respect all 211 participants and that a bronze medal endures."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Giannis: 'Whatever it takes' to win with Heat",
+          "url": "https://www.espn.com/nba/story/_/id/49380527/giannis-antetokounmpo-hungry-chase-championship-heat",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": "Giannis Antetokounmpo says he will do 'whatever it takes' to win with the Miami Heat, cementing the offseason's biggest storyline."
+        },
+        {
+          "title": "NBA looking into deal between Bucks, Trent Jr.",
+          "url": "https://www.espn.com/nba/story/_/id/49377882/nba-investigating-bucks-four-year-deal-gary-trent-jr",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": "The NBA is looking into the circumstances of the deal between the Bucks and Gary Trent Jr."
+        },
+        {
+          "title": "Valanciunas leaves NBA to join Lithuanian club",
+          "url": "https://www.espn.com/nba/story/_/id/49369108/jonas-valanciunas-joins-zalgiris-14-seasons-nba",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": "Jonas Valanciunas is leaving the NBA to join a club in his native Lithuania."
+        },
+        {
+          "title": "U.S. rep: NBA should review ties to Joe Tsai",
+          "url": "https://www.espn.com/nba/story/_/id/49376013/congressman-calls-nba-review-joe-tsai-position-league",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": "A US representative has called on the NBA to review its ties to Nets owner Joe Tsai."
+        }
+      ]
+    }
+  ]
+}

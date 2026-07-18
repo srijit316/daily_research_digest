@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Digest — Tech · Cricket · Football · NBA</title>
+  <meta name="description" content="A curated daily news digest of tech and sports, assembled by an autonomous agent pipeline." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <h1>Daily Digest</h1>
+        <p class="tagline">Tech · Cricket · Football · NBA — curated by an autonomous agent</p>
+      </div>
+      <nav class="date-nav" aria-label="Digest date">
+        <button id="prev-day" title="Previous digest" aria-label="Previous digest">‹</button>
+        <select id="date-select" aria-label="Choose digest date"></select>
+        <button id="next-day" title="Next digest" aria-label="Next digest">›</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="status" class="status" hidden></div>
+
+    <section id="overview-card" class="overview" hidden>
+      <div class="overview-meta">
+        <span id="digest-date"></span>
+        <span id="digest-mode" class="mode-badge"></span>
+      </div>
+      <p id="overview-text"></p>
+    </section>
+
+    <div id="sections"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Fetched from Hacker News, Reddit &amp; RSS · curated by Claude Code ·
+        scheduled with GitHub Actions ·
+        <a id="repo-link" href="#" rel="noopener">source</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
