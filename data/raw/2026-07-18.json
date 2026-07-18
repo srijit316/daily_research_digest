@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "fetched_at": "2026-07-18T21:10:28.174773+00:00",
+  "fetched_at": "2026-07-18T21:23:21.086464+00:00",
   "item_count": 154,
   "items": [
     {
@@ -9,7 +9,7 @@
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 437,
+      "score": 446,
       "published_at": "2026-07-18T13:00:52+00:00"
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://haxxorwpm.0s.is/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 27,
+      "score": 35,
       "published_at": "2026-07-18T19:38:21+00:00"
     },
     {
@@ -27,17 +27,8 @@
       "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
       "source": "Hacker News",
       "category": "tech",
-      "score": 143,
+      "score": 156,
       "published_at": "2026-07-18T15:37:01+00:00"
-    },
-    {
-      "id": "4005f1d1b142",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 147,
-      "published_at": "2026-07-18T15:44:04+00:00"
     },
     {
       "id": "14d5813fcb25",
@@ -45,8 +36,17 @@
       "url": "https://ykdojo.github.io/claude-controls-mac/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 130,
+      "score": 136,
       "published_at": "2026-07-18T16:12:08+00:00"
+    },
+    {
+      "id": "4005f1d1b142",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 152,
+      "published_at": "2026-07-18T15:44:04+00:00"
     },
     {
       "id": "24cd97b35407",
@@ -54,17 +54,8 @@
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 180,
+      "score": 185,
       "published_at": "2026-07-18T17:32:40+00:00"
-    },
-    {
-      "id": "e1a98f755332",
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 125,
-      "published_at": "2026-07-18T15:32:04+00:00"
     },
     {
       "id": "7736e3dc40e5",
@@ -76,6 +67,24 @@
       "published_at": "2026-07-18T11:00:29+00:00"
     },
     {
+      "id": "e1a98f755332",
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 127,
+      "published_at": "2026-07-18T15:32:04+00:00"
+    },
+    {
+      "id": "3ba8e5950852",
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 621,
+      "published_at": "2026-07-18T03:14:20+00:00"
+    },
+    {
       "id": "287800377f1b",
       "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
@@ -85,21 +94,12 @@
       "published_at": "2026-07-18T16:02:45+00:00"
     },
     {
-      "id": "3ba8e5950852",
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 616,
-      "published_at": "2026-07-18T03:14:20+00:00"
-    },
-    {
       "id": "6b3a8d1a225d",
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "source": "Hacker News",
       "category": "tech",
-      "score": 877,
+      "score": 885,
       "published_at": "2026-07-18T10:21:19+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "url": "https://queue.acm.org/detail.cfm?id=3818307",
       "source": "Hacker News",
       "category": "tech",
-      "score": 144,
+      "score": 146,
       "published_at": "2026-07-18T17:27:24+00:00"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://q3edit.com",
       "source": "Hacker News",
       "category": "tech",
-      "score": 45,
+      "score": 47,
       "published_at": "2026-07-18T15:12:40+00:00"
     },
     {
@@ -126,7 +126,7 @@
       "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
       "source": "Hacker News",
       "category": "tech",
-      "score": 48,
+      "score": 49,
       "published_at": "2026-07-17T20:10:02+00:00"
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "source": "Hacker News",
       "category": "tech",
-      "score": 327,
+      "score": 329,
       "published_at": "2026-07-18T11:12:46+00:00"
     },
     {
@@ -153,7 +153,7 @@
       "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 122,
+      "score": 124,
       "published_at": "2026-07-18T08:33:31+00:00"
     },
     {
@@ -162,26 +162,8 @@
       "url": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 77,
+      "score": 82,
       "published_at": "2026-07-18T16:08:38+00:00"
-    },
-    {
-      "id": "f9b9314c464c",
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-      "url": "https://reotrucks.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 70,
-      "published_at": "2026-07-18T18:13:05+00:00"
-    },
-    {
-      "id": "7e54e0924b63",
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 267,
-      "published_at": "2026-07-17T19:41:02+00:00"
     },
     {
       "id": "c80b798ea386",
@@ -189,8 +171,17 @@
       "url": "https://arxiv.org/abs/2607.14587",
       "source": "Hacker News",
       "category": "tech",
-      "score": 69,
+      "score": 71,
       "published_at": "2026-07-18T08:50:07+00:00"
+    },
+    {
+      "id": "7e54e0924b63",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 268,
+      "published_at": "2026-07-17T19:41:02+00:00"
     },
     {
       "id": "6d8a107b806c",
@@ -198,7 +189,7 @@
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
       "source": "Hacker News",
       "category": "tech",
-      "score": 206,
+      "score": 207,
       "published_at": "2026-07-17T21:42:43+00:00"
     },
     {
@@ -207,8 +198,17 @@
       "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
       "source": "Hacker News",
       "category": "tech",
-      "score": 243,
+      "score": 248,
       "published_at": "2026-07-18T14:04:42+00:00"
+    },
+    {
+      "id": "f9b9314c464c",
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "url": "https://reotrucks.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 71,
+      "published_at": "2026-07-18T18:13:05+00:00"
     },
     {
       "id": "54ebf612e4d2",
@@ -931,6 +931,15 @@
       "published_at": "2026-07-18T04:16:38+00:00"
     },
     {
+      "id": "aef7fb0ba4f1",
+      "title": "Rihanna pays tribute to fellow Bajan National Hero Sir Garfield Sobers",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v06j5z/rihanna_pays_tribute_to_fellow_bajan_national/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T20:30:35+00:00"
+    },
+    {
       "id": "1e2baa4070ac",
       "title": "8 out of the top 10 highest scores for Bumrah are against England",
       "url": "https://www.reddit.com/r/Cricket/comments/1uznra5/8_out_of_the_top_10_highest_scores_for_bumrah_are/",
@@ -967,15 +976,6 @@
       "published_at": "2026-07-18T12:18:40+00:00"
     },
     {
-      "id": "38cdcd22242e",
-      "title": "Langer leads shortlist to become next England Test coach after Flower rules himself out",
-      "url": "https://www.reddit.com/r/Cricket/comments/1uzi58m/langer_leads_shortlist_to_become_next_england/",
-      "source": "r/Cricket",
-      "category": "cricket",
-      "score": null,
-      "published_at": "2026-07-18T01:20:58+00:00"
-    },
-    {
       "id": "107cee0f6bdf",
       "title": "Charles Dagnall takes a tumble in the Blast Finals Day Mascot Race",
       "url": "https://www.reddit.com/r/Cricket/comments/1v01d9s/charles_dagnall_takes_a_tumble_in_the_blast/",
@@ -983,6 +983,15 @@
       "category": "cricket",
       "score": null,
       "published_at": "2026-07-18T17:07:56+00:00"
+    },
+    {
+      "id": "38cdcd22242e",
+      "title": "Langer leads shortlist to become next England Test coach after Flower rules himself out",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzi58m/langer_leads_shortlist_to_become_next_england/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T01:20:58+00:00"
     },
     {
       "id": "184e3ae41ef2",
@@ -1012,22 +1021,13 @@
       "published_at": "2026-07-18T08:30:30+00:00"
     },
     {
-      "id": "e58216bbd693",
-      "title": "Match Thread: Tour Match - West Indies Select XI vs Pakistan, Day 1",
-      "url": "https://www.reddit.com/r/Cricket/comments/1uzumq6/match_thread_tour_match_west_indies_select_xi_vs/",
+      "id": "02e6ddce9c0c",
+      "title": "NORTHAMPTONSHIRE STEELBACKS ARE VITALITY T20 BLAST CHAMPIONS FOR THE THIRD TIME",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v074mn/northamptonshire_steelbacks_are_vitality_t20/",
       "source": "r/Cricket",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T12:30:07+00:00"
-    },
-    {
-      "id": "1392a4f7f773",
-      "title": "Northamptonshire Steelbacks will face Hampshire Hawks in this evenings T20 Blast Final",
-      "url": "https://www.reddit.com/r/Cricket/comments/1v01gfc/northamptonshire_steelbacks_will_face_hampshire/",
-      "source": "r/Cricket",
-      "category": "cricket",
-      "score": null,
-      "published_at": "2026-07-18T17:11:18+00:00"
+      "published_at": "2026-07-18T20:55:11+00:00"
     },
     {
       "id": "1eaa33cef66d",
@@ -1210,15 +1210,6 @@
       "published_at": "2026-07-18T17:31:28+00:00"
     },
     {
-      "id": "9406263d5dd7",
-      "title": "What happens when you search Marc Cucurella\u2019s name on Google?",
-      "url": "https://www.reddit.com/r/soccer/comments/1uzoct3/what_happens_when_you_search_marc_cucurellas_name/",
-      "source": "r/soccer",
-      "category": "football",
-      "score": null,
-      "published_at": "2026-07-18T06:36:26+00:00"
-    },
-    {
       "id": "8becac92ed04",
       "title": "Peter Crouch on how he unknowingly told Xabi Alonso he was interested in his wife",
       "url": "https://www.reddit.com/r/soccer/comments/1v01glu/peter_crouch_on_how_he_unknowingly_told_xabi/",
@@ -1226,6 +1217,15 @@
       "category": "football",
       "score": null,
       "published_at": "2026-07-18T17:11:31+00:00"
+    },
+    {
+      "id": "9406263d5dd7",
+      "title": "What happens when you search Marc Cucurella\u2019s name on Google?",
+      "url": "https://www.reddit.com/r/soccer/comments/1uzoct3/what_happens_when_you_search_marc_cucurellas_name/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-18T06:36:26+00:00"
     },
     {
       "id": "73e9de9c69e8",
@@ -1363,15 +1363,6 @@
       "published_at": "2026-07-18T02:39:06+00:00"
     },
     {
-      "id": "c4cf353e7c03",
-      "title": "Anthony Edwards says him and Lamelo have been working on their postgame interviews, trying to \"be more professional\"",
-      "url": "https://www.reddit.com/r/nba/comments/1uzdmti/anthony_edwards_says_him_and_lamelo_have_been/",
-      "source": "r/nba",
-      "category": "nba",
-      "score": null,
-      "published_at": "2026-07-17T22:03:12+00:00"
-    },
-    {
       "id": "6f5d86204076",
       "title": "Celtics rookies guess if quotes are from Joe Mazzulla or an ancient philosopher",
       "url": "https://www.reddit.com/r/nba/comments/1uzv40g/celtics_rookies_guess_if_quotes_are_from_joe/",
@@ -1379,6 +1370,15 @@
       "category": "nba",
       "score": null,
       "published_at": "2026-07-18T12:52:11+00:00"
+    },
+    {
+      "id": "c4cf353e7c03",
+      "title": "Anthony Edwards says him and Lamelo have been working on their postgame interviews, trying to \"be more professional\"",
+      "url": "https://www.reddit.com/r/nba/comments/1uzdmti/anthony_edwards_says_him_and_lamelo_have_been/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-17T22:03:12+00:00"
     },
     {
       "id": "58e3cd6a219a",

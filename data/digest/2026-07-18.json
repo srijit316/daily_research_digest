@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T21:10:35.807064+00:00",
-  "mode": "fallback",
-  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "generated_at": "2026-07-18T21:24:39.428329+00:00",
+  "mode": "claude",
+  "overview": "A privacy firestorm engulfed the tech world after LG's monitors and TVs were found quietly installing surveillance-adjacent software via Windows Update, while AI-market jitters sent tech stocks tumbling even as Databricks notched a $188B valuation. Cricket paused to mourn Sir Garry Sobers, widely considered the game's greatest all-rounder, who died at 89. Football is fixated on the World Cup final between Spain and Argentina \u2014 pitting Lionel Messi against Barcelona teammate Lamine Yamal \u2014 despite Spain's preparations being disrupted by a cancelled final training session, while Chelsea completed a club-record \u00a3117m deal for Aston Villa's Morgan Rogers. NBA news was quieter, headlined by a Charles Barkley\u2013Michael Jordan reconciliation and a charitable gesture from Michael Porter Jr.",
   "sections": [
     {
       "category": "tech",
@@ -12,57 +12,57 @@
           "title": "LG monitors silently install software through Windows Update without consent",
           "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
           "source": "Hacker News",
-          "score": 877,
-          "summary": null
+          "score": 885,
+          "summary": "LG's gaming monitors and TVs have reportedly been installing software through Windows Update without user consent, sparking a backlash over unauthorized AI recording features and required 'wiretapping' disclosures to guests."
         },
         {
-          "title": "Regressive JPEGs",
-          "url": "https://maurycyz.com/projects/bad_jpeg/",
+          "title": "AI hype seems to be cooling as tech stocks dramatically plunge",
+          "url": "https://www.reddit.com/r/technology/comments/1uzyd5q/ai_hype_seems_to_be_cooling_as_tech_stocks/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Tech stocks have dropped sharply as enthusiasm around AI shows signs of cooling among investors."
+        },
+        {
+          "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+          "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
           "source": "Hacker News",
-          "score": 616,
-          "summary": null
+          "score": 207,
+          "summary": "TP-Link Kasa smart cameras reportedly leaked users' home GPS coordinates over unauthenticated UDP traffic for six years before the issue was addressed."
+        },
+        {
+          "title": "Apple and Google ordered to purge \u2018nudify\u2019 apps from App Stores",
+          "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "San Francisco has ordered Apple and Google to remove AI 'nudify' apps from their app stores, escalating pressure on the platforms over non-consensual image-generation tools."
         },
         {
           "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
           "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
           "source": "Hacker News",
-          "score": 437,
-          "summary": null
+          "score": 446,
+          "summary": "A report claims GPT-5.6 used a generated prompt to help close a 30-year-old open problem in convex optimization, drawing attention as a notable AI research milestone."
         },
         {
-          "title": "What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-          "source": "Hacker News",
-          "score": 327,
-          "summary": null
-        },
-        {
-          "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-          "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-          "source": "Hacker News",
-          "score": 243,
-          "summary": null
+          "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Data and AI company Databricks has reached a $188 billion valuation, underscoring continued investor appetite for AI infrastructure firms."
         },
         {
           "title": "The Kimi K3 Moment",
           "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
           "source": "Hacker News",
-          "score": 180,
-          "summary": null
+          "score": 185,
+          "summary": "Coverage of the 'Kimi K3' AI model release explores its capabilities and what it signals for the competitive open-model landscape."
         },
         {
-          "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+          "title": "Regressive JPEGs",
+          "url": "https://maurycyz.com/projects/bad_jpeg/",
           "source": "Hacker News",
-          "score": 187,
-          "summary": null
-        },
-        {
-          "title": "Goodbye, and Thanks for All the Bikesheds",
-          "url": "https://queue.acm.org/detail.cfm?id=3818307",
-          "source": "Hacker News",
-          "score": 144,
-          "summary": null
+          "score": 621,
+          "summary": "A technical deep dive explains 'regressive JPEGs,' an alternative progressive-loading approach to the classic image format."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Rowles 201 crushes England U19s before Basson wreaks havoc",
-          "url": "https://www.cricinfo.com/ci/content/story/1546149.html?ex_cid=OTC-RSS",
+          "title": "Garry Sobers dies, aged 89",
+          "url": "https://www.cricinfo.com/ci/content/story/1546030.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": null
+          "summary": "Sir Garry Sobers, the West Indian cricket icon widely regarded as the greatest all-rounder the sport has produced, has died at age 89."
         },
         {
-          "title": "Weatherley 88* sets standard as Hampshire sweep past Notts",
-          "url": "https://www.cricinfo.com/ci/content/story/1546131.html?ex_cid=OTC-RSS",
+          "title": "Harsh Dubey replaces Washington Sundar for third ODI against England",
+          "url": "https://www.cricinfo.com/ci/content/story/1546007.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": null
+          "summary": "India has brought in Harsh Dubey in place of Washington Sundar for the third ODI against England."
         },
         {
-          "title": "Somerset 'thought they'd won it' but revved up Willey has final say",
-          "url": "https://www.cricinfo.com/ci/content/story/1546119.html?ex_cid=OTC-RSS",
+          "title": "BCCI secretary dismisses speculation on Rohit Sharma's ODI future",
+          "url": "https://www.cricinfo.com/ci/content/story/1546048.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": null
+          "summary": "BCCI's secretary has pushed back on speculation questioning Rohit Sharma's future in ODI cricket."
         },
         {
-          "title": "ODI World Cup Qualifier winner gains direct entry to 2027 main round",
-          "url": "https://www.reddit.com/r/Cricket/comments/1v02hjg/odi_world_cup_qualifier_winner_gains_direct_entry/",
+          "title": "NORTHAMPTONSHIRE STEELBACKS ARE VITALITY T20 BLAST CHAMPIONS FOR THE THIRD TIME",
+          "url": "https://www.reddit.com/r/Cricket/comments/1v074mn/northamptonshire_steelbacks_are_vitality_t20/",
           "source": "r/Cricket",
           "score": null,
-          "summary": null
+          "summary": "Northamptonshire Steelbacks won the Vitality T20 Blast for the third time, capping off Finals Day."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "O'Neill eyes 'couple of new faces' for Celtic",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8rnd6n1j78o?at_medium=RSS&at_campaign=rss",
+          "title": "Spain's final training session before World Cup final cancelled",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": null
-        },
-        {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "url": "https://www.bbc.co.uk/sport/football/predictor/mwc2026?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": null
+          "summary": "Spain's final training session ahead of the World Cup final was cancelled, adding uncertainty to their preparations against Argentina."
         },
         {
           "title": "Chelsea agree record \u00a3117m deal for Villa's Rogers",
           "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": null
+          "summary": "Chelsea have agreed a club-record \u00a3117m deal to sign Aston Villa forward Morgan Rogers."
         },
         {
-          "title": "Spain's final training session before World Cup final cancelled",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss",
+          "title": "False nines or firing forwards - England's potential life after Kane",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": null
+          "summary": "With Harry Kane's international future uncertain, analysts weigh whether England should shift to a false-nine setup or bet on emerging forwards."
+        },
+        {
+          "title": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98v13rgyrmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "A look at the shared history and personal bond between World Cup finalist coaches Luis de la Fuente and Lionel Scaloni."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "LeBron in high school being told if he\u2019s not at minimum a 1st ballot HOFer, he will be considered a draft bust",
-          "url": "https://www.reddit.com/r/nba/comments/1v04rhl/lebron_in_high_school_being_told_if_hes_not_at/",
+          "title": "Charles Barkley and MJ have officially reconciled",
+          "url": "https://www.reddit.com/r/nba/comments/1uzu34m/charles_barkley_and_mj_have_officially_reconciled/",
           "source": "r/nba",
           "score": null,
-          "summary": null
+          "summary": "Charles Barkley and Michael Jordan have reportedly ended their public feud and reconciled."
         },
         {
-          "title": "Trae Young tries to rip a Jalen Brunson jersey at Fanatics Fest",
-          "url": "https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/",
+          "title": "Michael Porter Jr. donates proceeds from signed card to his brother's, Jontay Porter, gambling addiction charity",
+          "url": "https://www.reddit.com/r/nba/comments/1uzg6pf/michael_porter_jr_donates_proceeds_from_signed/",
           "source": "r/nba",
           "score": null,
-          "summary": null
+          "summary": "Michael Porter Jr. is donating proceeds from a signed trading card to a charity supporting gambling addiction recovery, founded in connection with his brother Jontay Porter."
         },
         {
-          "title": "[OC] Ranking every NBA team name by how likely it is to be said in the bedroom",
-          "url": "https://www.reddit.com/r/nba/comments/1v0120x/oc_ranking_every_nba_team_name_by_how_likely_it/",
+          "title": "Anthony Edwards says he talked to KAT before every finals game to give him advice on the Spurs",
+          "url": "https://www.reddit.com/r/nba/comments/1uzdjli/anthony_edwards_says_he_talked_to_kat_before/",
           "source": "r/nba",
           "score": null,
-          "summary": null
+          "summary": "Anthony Edwards said he consulted with Karl-Anthony Towns before every game of the Timberwolves' Finals series against the Spurs."
         },
         {
-          "title": "[OC] What is the smallest group of NBA players needed to use every letter of the alphabet?",
-          "url": "https://www.reddit.com/r/nba/comments/1uzy1sy/oc_what_is_the_smallest_group_of_nba_players/",
+          "title": "After the Luka Doncic trade, What is the second most fleeced trade this decade so far?",
+          "url": "https://www.reddit.com/r/nba/comments/1uzjrmh/after_the_luka_doncic_trade_what_is_the_second/",
           "source": "r/nba",
           "score": null,
-          "summary": null
+          "summary": "NBA fans are debating which trade ranks as the second-most lopsided of the decade, following the Luka Doncic deal."
         }
       ]
     }
