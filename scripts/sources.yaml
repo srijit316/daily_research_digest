@@ -28,10 +28,6 @@ tech:
     name: The Verge
     url: https://www.theverge.com/rss/index.xml
     limit: 15
-  - type: rss
-    name: Ars Technica
-    url: https://feeds.arstechnica.com/arstechnica/index
-    limit: 15
 
 cricket:
   - type: rss
