@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "fetched_at": "2026-07-18T20:31:47.972167+00:00",
-  "item_count": 139,
+  "fetched_at": "2026-07-18T21:04:26.785771+00:00",
+  "item_count": 154,
   "items": [
     {
       "id": "90096d984821",
@@ -9,8 +9,26 @@
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 416,
+      "score": 434,
       "published_at": "2026-07-18T13:00:52+00:00"
+    },
+    {
+      "id": "557ee0dfceda",
+      "title": "Typing Speed Test, but for Developers",
+      "url": "https://haxxorwpm.0s.is/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 25,
+      "published_at": "2026-07-18T19:38:21+00:00"
+    },
+    {
+      "id": "c28a51dcb579",
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 137,
+      "published_at": "2026-07-18T15:37:01+00:00"
     },
     {
       "id": "4005f1d1b142",
@@ -18,7 +36,7 @@
       "url": "https://tangled.org/gleam.run/gleam",
       "source": "Hacker News",
       "category": "tech",
-      "score": 140,
+      "score": 147,
       "published_at": "2026-07-18T15:44:04+00:00"
     },
     {
@@ -27,26 +45,8 @@
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 137,
+      "score": 174,
       "published_at": "2026-07-18T17:32:40+00:00"
-    },
-    {
-      "id": "c28a51dcb579",
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 124,
-      "published_at": "2026-07-18T15:37:01+00:00"
-    },
-    {
-      "id": "e1a98f755332",
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 113,
-      "published_at": "2026-07-18T15:32:04+00:00"
     },
     {
       "id": "14d5813fcb25",
@@ -54,17 +54,17 @@
       "url": "https://ykdojo.github.io/claude-controls-mac/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 118,
+      "score": 129,
       "published_at": "2026-07-18T16:12:08+00:00"
     },
     {
-      "id": "f46843f2f4d9",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "id": "e1a98f755332",
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 136,
-      "published_at": "2026-07-18T17:27:24+00:00"
+      "score": 125,
+      "published_at": "2026-07-18T15:32:04+00:00"
     },
     {
       "id": "7736e3dc40e5",
@@ -72,7 +72,7 @@
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 181,
+      "score": 185,
       "published_at": "2026-07-18T11:00:29+00:00"
     },
     {
@@ -81,26 +81,8 @@
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 45,
+      "score": 46,
       "published_at": "2026-07-18T16:02:45+00:00"
-    },
-    {
-      "id": "557ee0dfceda",
-      "title": "Typing Speed Test, but for Developers",
-      "url": "https://haxxorwpm.0s.is/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 10,
-      "published_at": "2026-07-18T19:38:21+00:00"
-    },
-    {
-      "id": "56a4105d1c05",
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "url": "https://imaxxing.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 22,
-      "published_at": "2026-07-18T18:06:23+00:00"
     },
     {
       "id": "3ba8e5950852",
@@ -108,8 +90,26 @@
       "url": "https://maurycyz.com/projects/bad_jpeg/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 608,
+      "score": 615,
       "published_at": "2026-07-18T03:14:20+00:00"
+    },
+    {
+      "id": "56a4105d1c05",
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "url": "https://imaxxing.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 28,
+      "published_at": "2026-07-18T18:06:23+00:00"
+    },
+    {
+      "id": "f46843f2f4d9",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 143,
+      "published_at": "2026-07-18T17:27:24+00:00"
     },
     {
       "id": "6b3a8d1a225d",
@@ -117,7 +117,7 @@
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "source": "Hacker News",
       "category": "tech",
-      "score": 850,
+      "score": 869,
       "published_at": "2026-07-18T10:21:19+00:00"
     },
     {
@@ -126,7 +126,7 @@
       "url": "https://q3edit.com",
       "source": "Hacker News",
       "category": "tech",
-      "score": 40,
+      "score": 45,
       "published_at": "2026-07-18T15:12:40+00:00"
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
       "source": "Hacker News",
       "category": "tech",
-      "score": 47,
+      "score": 48,
       "published_at": "2026-07-17T20:10:02+00:00"
     },
     {
@@ -144,17 +144,8 @@
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "source": "Hacker News",
       "category": "tech",
-      "score": 322,
+      "score": 327,
       "published_at": "2026-07-18T11:12:46+00:00"
-    },
-    {
-      "id": "f9b9314c464c",
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-      "url": "https://reotrucks.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 65,
-      "published_at": "2026-07-18T18:13:05+00:00"
     },
     {
       "id": "e46ccefee893",
@@ -162,17 +153,8 @@
       "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 24,
+      "score": 26,
       "published_at": "2026-07-18T15:38:36+00:00"
-    },
-    {
-      "id": "e1ce09da1b56",
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 780,
-      "published_at": "2026-07-17T16:57:27+00:00"
     },
     {
       "id": "5cf01deebdd4",
@@ -189,8 +171,17 @@
       "url": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 72,
+      "score": 77,
       "published_at": "2026-07-18T16:08:38+00:00"
+    },
+    {
+      "id": "f9b9314c464c",
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "url": "https://reotrucks.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 69,
+      "published_at": "2026-07-18T18:13:05+00:00"
     },
     {
       "id": "c80b798ea386",
@@ -207,8 +198,17 @@
       "url": "https://goliath32.com/blog/z80.html",
       "source": "Hacker News",
       "category": "tech",
-      "score": 266,
+      "score": 267,
       "published_at": "2026-07-17T19:41:02+00:00"
+    },
+    {
+      "id": "6d8a107b806c",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 203,
+      "published_at": "2026-07-17T21:42:43+00:00"
     },
     {
       "id": "54ebf612e4d2",
@@ -217,7 +217,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T05:58:01+00:00"
+      "published_at": "2026-07-18T00:58:01+00:00"
     },
     {
       "id": "a40d2d5840f2",
@@ -226,7 +226,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T03:33:44+00:00"
+      "published_at": "2026-07-17T22:33:44+00:00"
     },
     {
       "id": "42fa73f31714",
@@ -235,7 +235,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T20:11:12+00:00"
+      "published_at": "2026-07-18T15:11:12+00:00"
     },
     {
       "id": "109e3620edac",
@@ -244,7 +244,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T18:34:45+00:00"
+      "published_at": "2026-07-18T13:34:45+00:00"
     },
     {
       "id": "63c8365d1026",
@@ -253,7 +253,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T07:47:59+00:00"
+      "published_at": "2026-07-18T02:47:59+00:00"
     },
     {
       "id": "f7d428893b43",
@@ -262,7 +262,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T05:33:18+00:00"
+      "published_at": "2026-07-18T00:33:18+00:00"
     },
     {
       "id": "21c2901a4c33",
@@ -271,7 +271,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T17:15:45+00:00"
+      "published_at": "2026-07-18T12:15:45+00:00"
     },
     {
       "id": "28253e2ce7bc",
@@ -280,7 +280,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T19:38:11+00:00"
+      "published_at": "2026-07-18T14:38:11+00:00"
     },
     {
       "id": "0eeb171e162d",
@@ -289,7 +289,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T06:32:31+00:00"
+      "published_at": "2026-07-18T01:32:31+00:00"
     },
     {
       "id": "087c8aa9a1f4",
@@ -298,7 +298,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T19:34:52+00:00"
+      "published_at": "2026-07-18T14:34:52+00:00"
     },
     {
       "id": "f683beb64943",
@@ -307,7 +307,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T08:51:20+00:00"
+      "published_at": "2026-07-18T03:51:20+00:00"
     },
     {
       "id": "6e5c149cc185",
@@ -316,7 +316,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T17:34:20+00:00"
+      "published_at": "2026-07-18T12:34:20+00:00"
     },
     {
       "id": "92acfd45a6b9",
@@ -325,7 +325,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T20:08:38+00:00"
+      "published_at": "2026-07-18T15:08:38+00:00"
     },
     {
       "id": "24943b3b4ccd",
@@ -334,7 +334,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T16:07:24+00:00"
+      "published_at": "2026-07-18T11:07:24+00:00"
     },
     {
       "id": "04ed30d0b2b5",
@@ -343,7 +343,7 @@
       "source": "r/technology",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T21:11:23+00:00"
+      "published_at": "2026-07-18T16:11:23+00:00"
     },
     {
       "id": "6b3f58a996e8",
@@ -352,7 +352,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T03:50:43+00:00"
+      "published_at": "2026-07-17T22:50:43+00:00"
     },
     {
       "id": "e1c591fd77b2",
@@ -361,7 +361,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T08:26:58+00:00"
+      "published_at": "2026-07-18T03:26:58+00:00"
     },
     {
       "id": "e9cb2a08a6a5",
@@ -370,7 +370,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T22:32:02+00:00"
+      "published_at": "2026-07-18T17:32:02+00:00"
     },
     {
       "id": "d53d62a8ca3f",
@@ -379,7 +379,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T18:06:06+00:00"
+      "published_at": "2026-07-18T13:06:06+00:00"
     },
     {
       "id": "047665db69d1",
@@ -388,7 +388,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-19T01:07:54+00:00"
+      "published_at": "2026-07-18T20:07:54+00:00"
     },
     {
       "id": "fec1be2ef5aa",
@@ -397,7 +397,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T20:17:12+00:00"
+      "published_at": "2026-07-18T15:17:12+00:00"
     },
     {
       "id": "9b098b516319",
@@ -406,7 +406,7 @@
       "source": "r/programming",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T21:27:47+00:00"
+      "published_at": "2026-07-18T16:27:47+00:00"
     },
     {
       "id": "781d49213b1d",
@@ -415,7 +415,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-19T00:30:23+00:00"
+      "published_at": "2026-07-18T19:30:23+00:00"
     },
     {
       "id": "80ddfeeeb7a4",
@@ -424,7 +424,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T23:51:07+00:00"
+      "published_at": "2026-07-18T18:51:07+00:00"
     },
     {
       "id": "0d21095f485b",
@@ -433,7 +433,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T21:30:00+00:00"
+      "published_at": "2026-07-18T16:30:00+00:00"
     },
     {
       "id": "aa4de4d1bfcd",
@@ -442,7 +442,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T20:54:24+00:00"
+      "published_at": "2026-07-18T15:54:24+00:00"
     },
     {
       "id": "82db8090bc99",
@@ -451,7 +451,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T19:32:00+00:00"
+      "published_at": "2026-07-18T14:32:00+00:00"
     },
     {
       "id": "d20ffc9f0f17",
@@ -460,7 +460,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T09:47:25+00:00"
+      "published_at": "2026-07-18T04:47:25+00:00"
     },
     {
       "id": "7fec639cd0db",
@@ -469,7 +469,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T04:08:00+00:00"
+      "published_at": "2026-07-17T23:08:00+00:00"
     },
     {
       "id": "d9b5d61a3164",
@@ -478,7 +478,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T03:55:09+00:00"
+      "published_at": "2026-07-17T22:55:09+00:00"
     },
     {
       "id": "98d5bccc3c4d",
@@ -487,7 +487,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T03:12:56+00:00"
+      "published_at": "2026-07-17T22:12:56+00:00"
     },
     {
       "id": "e9812b4bfcc5",
@@ -496,7 +496,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T02:20:47+00:00"
+      "published_at": "2026-07-17T21:20:47+00:00"
     },
     {
       "id": "2f86c8b7cc26",
@@ -505,7 +505,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T01:19:49+00:00"
+      "published_at": "2026-07-17T20:19:49+00:00"
     },
     {
       "id": "20d52b2c1d76",
@@ -514,7 +514,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T01:09:27+00:00"
+      "published_at": "2026-07-17T20:09:27+00:00"
     },
     {
       "id": "ebf748aae210",
@@ -523,7 +523,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T00:49:53+00:00"
+      "published_at": "2026-07-17T19:49:53+00:00"
     },
     {
       "id": "ab8f31995250",
@@ -532,7 +532,7 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T00:22:00+00:00"
+      "published_at": "2026-07-17T19:22:00+00:00"
     },
     {
       "id": "87c2d18d50c8",
@@ -541,7 +541,16 @@
       "source": "TechCrunch",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T23:00:17+00:00"
+      "published_at": "2026-07-17T18:00:17+00:00"
+    },
+    {
+      "id": "3d89d3a43d6e",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-18T20:54:42+00:00"
     },
     {
       "id": "5ac8d39b94e6",
@@ -550,7 +559,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T23:25:08+00:00"
+      "published_at": "2026-07-18T18:25:08+00:00"
     },
     {
       "id": "d673d2b3c634",
@@ -559,7 +568,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T21:40:55+00:00"
+      "published_at": "2026-07-18T16:40:55+00:00"
     },
     {
       "id": "ec733885aa22",
@@ -568,7 +577,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T20:00:00+00:00"
+      "published_at": "2026-07-18T15:00:00+00:00"
     },
     {
       "id": "d651d304cf79",
@@ -577,7 +586,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T19:30:00+00:00"
+      "published_at": "2026-07-18T14:30:00+00:00"
     },
     {
       "id": "193f753bbf11",
@@ -586,7 +595,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T19:00:00+00:00"
+      "published_at": "2026-07-18T14:00:00+00:00"
     },
     {
       "id": "8acb4ce27bb6",
@@ -595,7 +604,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T17:30:00+00:00"
+      "published_at": "2026-07-18T12:30:00+00:00"
     },
     {
       "id": "aa7b58be2712",
@@ -604,7 +613,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T17:00:00+00:00"
+      "published_at": "2026-07-18T12:00:00+00:00"
     },
     {
       "id": "3c5aa6201d26",
@@ -613,7 +622,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T17:00:00+00:00"
+      "published_at": "2026-07-18T12:00:00+00:00"
     },
     {
       "id": "a95792ff3647",
@@ -622,16 +631,7 @@
       "source": "The Verge",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T12:00:00+00:00"
-    },
-    {
-      "id": "2280c1a658c7",
-      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-      "source": "The Verge",
-      "category": "tech",
-      "score": null,
-      "published_at": "2026-07-18T03:09:47+00:00"
+      "published_at": "2026-07-18T07:00:00+00:00"
     },
     {
       "id": "4ff484c6b4bc",
@@ -640,7 +640,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T16:18:25+00:00"
+      "published_at": "2026-07-18T11:18:25+00:00"
     },
     {
       "id": "f1a853eaf42d",
@@ -649,7 +649,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T00:50:18+00:00"
+      "published_at": "2026-07-17T19:50:18+00:00"
     },
     {
       "id": "0d651a0f5d2c",
@@ -658,7 +658,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-18T00:19:42+00:00"
+      "published_at": "2026-07-17T19:19:42+00:00"
     },
     {
       "id": "819a428ec8b6",
@@ -667,7 +667,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T23:53:11+00:00"
+      "published_at": "2026-07-17T18:53:11+00:00"
     },
     {
       "id": "fc733f2ef9de",
@@ -676,7 +676,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T23:45:23+00:00"
+      "published_at": "2026-07-17T18:45:23+00:00"
     },
     {
       "id": "6a792bcd60c6",
@@ -685,7 +685,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T22:08:05+00:00"
+      "published_at": "2026-07-17T17:08:05+00:00"
     },
     {
       "id": "7e99fdef2a6e",
@@ -694,7 +694,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T21:42:19+00:00"
+      "published_at": "2026-07-17T16:42:19+00:00"
     },
     {
       "id": "9ea5d4c517c7",
@@ -703,7 +703,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T21:24:21+00:00"
+      "published_at": "2026-07-17T16:24:21+00:00"
     },
     {
       "id": "3c71d375d4b1",
@@ -712,7 +712,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T21:10:05+00:00"
+      "published_at": "2026-07-17T16:10:05+00:00"
     },
     {
       "id": "f2b36fb15bc6",
@@ -721,7 +721,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T20:52:28+00:00"
+      "published_at": "2026-07-17T15:52:28+00:00"
     },
     {
       "id": "b39edad73c29",
@@ -730,7 +730,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T16:30:10+00:00"
+      "published_at": "2026-07-17T11:30:10+00:00"
     },
     {
       "id": "cc5e373c0723",
@@ -739,7 +739,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T16:15:55+00:00"
+      "published_at": "2026-07-17T11:15:55+00:00"
     },
     {
       "id": "60723f3834b8",
@@ -748,7 +748,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T16:00:30+00:00"
+      "published_at": "2026-07-17T11:00:30+00:00"
     },
     {
       "id": "ed7460705fdf",
@@ -757,7 +757,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "score": null,
-      "published_at": "2026-07-17T16:00:04+00:00"
+      "published_at": "2026-07-17T11:00:04+00:00"
     },
     {
       "id": "e2281de90312",
@@ -766,7 +766,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-19T00:39:25+00:00"
+      "published_at": "2026-07-18T19:39:25+00:00"
     },
     {
       "id": "10cade170c75",
@@ -775,7 +775,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T23:04:04+00:00"
+      "published_at": "2026-07-18T18:04:04+00:00"
     },
     {
       "id": "8a728a360924",
@@ -784,7 +784,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T22:55:42+00:00"
+      "published_at": "2026-07-18T17:55:42+00:00"
     },
     {
       "id": "6e72fff82a67",
@@ -793,7 +793,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T19:10:02+00:00"
+      "published_at": "2026-07-18T14:10:02+00:00"
     },
     {
       "id": "f5eac22e87bd",
@@ -802,7 +802,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T18:58:25+00:00"
+      "published_at": "2026-07-18T13:58:25+00:00"
     },
     {
       "id": "4ebe006eb8f4",
@@ -811,7 +811,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T18:52:58+00:00"
+      "published_at": "2026-07-18T13:52:58+00:00"
     },
     {
       "id": "a286450dba4e",
@@ -820,7 +820,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T18:14:46+00:00"
+      "published_at": "2026-07-18T13:14:46+00:00"
     },
     {
       "id": "56d508a4153a",
@@ -829,7 +829,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T18:03:00+00:00"
+      "published_at": "2026-07-18T13:03:00+00:00"
     },
     {
       "id": "8cef12b6b04d",
@@ -838,7 +838,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T16:49:18+00:00"
+      "published_at": "2026-07-18T11:49:18+00:00"
     },
     {
       "id": "49e55eae8b6e",
@@ -847,7 +847,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T15:55:50+00:00"
+      "published_at": "2026-07-18T10:55:50+00:00"
     },
     {
       "id": "1dc27ee2a7d4",
@@ -856,7 +856,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T20:37:48+00:00"
+      "published_at": "2026-07-18T15:37:48+00:00"
     },
     {
       "id": "1cdcf83f9191",
@@ -865,7 +865,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T17:10:12+00:00"
+      "published_at": "2026-07-18T12:10:12+00:00"
     },
     {
       "id": "aad48e622848",
@@ -874,7 +874,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T14:48:03+00:00"
+      "published_at": "2026-07-18T09:48:03+00:00"
     },
     {
       "id": "555cd2c43eee",
@@ -883,7 +883,7 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T01:37:23+00:00"
+      "published_at": "2026-07-17T20:37:23+00:00"
     },
     {
       "id": "28e41b690f0d",
@@ -892,7 +892,142 @@
       "source": "ESPNcricinfo",
       "category": "cricket",
       "score": null,
-      "published_at": "2026-07-18T00:24:13+00:00"
+      "published_at": "2026-07-17T19:24:13+00:00"
+    },
+    {
+      "id": "a9e307772272",
+      "title": "It\u2019s incredibly tough to process that Sir Garry is gone.",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzmqbt/its_incredibly_tough_to_process_that_sir_garry_is/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T05:09:00+00:00"
+    },
+    {
+      "id": "10945ea823f3",
+      "title": "My cat Muffin, is totally smitten by Shubman Gill's elegant drives.",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzykgo/my_cat_muffin_is_totally_smitten_by_shubman_gills/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T15:16:49+00:00"
+    },
+    {
+      "id": "71bb63a5d937",
+      "title": "Brian Lara and Sachin Tendulkar pay tribute to Sir Garry Sobers",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzwl9c/brian_lara_and_sachin_tendulkar_pay_tribute_to/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T13:56:39+00:00"
+    },
+    {
+      "id": "db192cdcc363",
+      "title": "Rohit Sharma Personally Requested Gautam Gambhir To Become India Coach in 2024",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzlptm/rohit_sharma_personally_requested_gautam_gambhir/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T04:16:38+00:00"
+    },
+    {
+      "id": "1e2baa4070ac",
+      "title": "8 out of the top 10 highest scores for Bumrah are against England",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uznra5/8_out_of_the_top_10_highest_scores_for_bumrah_are/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T06:03:30+00:00"
+    },
+    {
+      "id": "40b4903fe2fe",
+      "title": "Laura Cardoso was presented with her Guinness World Record for best bowling figures in a T20I this evening - The Brazilian took 9/4 against Lesotho back in April",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v01ymh/laura_cardoso_was_presented_with_her_guinness/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T17:30:42+00:00"
+    },
+    {
+      "id": "95cb1026c755",
+      "title": "Edgbaston Aerial View Friday 17th July",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzs03u/edgbaston_aerial_view_friday_17th_july/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T10:09:05+00:00"
+    },
+    {
+      "id": "d07258fdaa56",
+      "title": "With the final abandoned due to rain, Thailand and UAE celebrate together as joint winners of the ACC U19 Women\u2019s Premier Cup",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzuegi/with_the_final_abandoned_due_to_rain_thailand_and/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T12:18:40+00:00"
+    },
+    {
+      "id": "38cdcd22242e",
+      "title": "Langer leads shortlist to become next England Test coach after Flower rules himself out",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzi58m/langer_leads_shortlist_to_become_next_england/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T01:20:58+00:00"
+    },
+    {
+      "id": "107cee0f6bdf",
+      "title": "Charles Dagnall takes a tumble in the Blast Finals Day Mascot Race",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v01d9s/charles_dagnall_takes_a_tumble_in_the_blast/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T17:07:56+00:00"
+    },
+    {
+      "id": "184e3ae41ef2",
+      "title": "ODI World Cup Qualifier winner gains direct entry to 2027 main round",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v02hjg/odi_world_cup_qualifier_winner_gains_direct_entry/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T17:51:17+00:00"
+    },
+    {
+      "id": "c224e23d75e2",
+      "title": "Garfield Sobers is the best batter I've ever seen - Chappell",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uztyp9/garfield_sobers_is_the_best_batter_ive_ever_seen/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T11:58:20+00:00"
+    },
+    {
+      "id": "19f91d75ac41",
+      "title": "Match Thread: T20 Blast - Jul 18, 2026",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzqc4a/match_thread_t20_blast_jul_18_2026/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T08:30:30+00:00"
+    },
+    {
+      "id": "e58216bbd693",
+      "title": "Match Thread: Tour Match - West Indies Select XI vs Pakistan, Day 1",
+      "url": "https://www.reddit.com/r/Cricket/comments/1uzumq6/match_thread_tour_match_west_indies_select_xi_vs/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T12:30:07+00:00"
+    },
+    {
+      "id": "1392a4f7f773",
+      "title": "Northamptonshire Steelbacks will face Hampshire Hawks in this evenings T20 Blast Final",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v01gfc/northamptonshire_steelbacks_will_face_hampshire/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-18T17:11:18+00:00"
     },
     {
       "id": "1eaa33cef66d",
@@ -901,7 +1036,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T23:02:48+00:00"
+      "published_at": "2026-07-18T18:02:48+00:00"
     },
     {
       "id": "a9fc45e4bf2f",
@@ -910,7 +1045,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T15:42:07+00:00"
+      "published_at": "2026-07-18T10:42:07+00:00"
     },
     {
       "id": "aee52e863cd0",
@@ -919,7 +1054,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T22:32:45+00:00"
+      "published_at": "2026-07-18T17:32:45+00:00"
     },
     {
       "id": "690450a6ece5",
@@ -928,7 +1063,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T18:23:13+00:00"
+      "published_at": "2026-07-18T13:23:13+00:00"
     },
     {
       "id": "f15c5255c3c0",
@@ -937,7 +1072,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T23:59:30+00:00"
+      "published_at": "2026-07-18T18:59:30+00:00"
     },
     {
       "id": "a3941e682807",
@@ -946,7 +1081,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T19:47:45+00:00"
+      "published_at": "2026-07-18T14:47:45+00:00"
     },
     {
       "id": "7097a458af40",
@@ -955,7 +1090,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T14:59:34+00:00"
+      "published_at": "2026-07-18T09:59:34+00:00"
     },
     {
       "id": "b9da0eb78808",
@@ -964,7 +1099,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T20:54:39+00:00"
+      "published_at": "2026-07-18T15:54:39+00:00"
     },
     {
       "id": "715c33a4effd",
@@ -973,7 +1108,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T18:00:18+00:00"
+      "published_at": "2026-07-18T13:00:18+00:00"
     },
     {
       "id": "961e0d1050d1",
@@ -982,7 +1117,7 @@
       "source": "BBC Sport Football",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-19T00:47:51+00:00"
+      "published_at": "2026-07-18T19:47:51+00:00"
     },
     {
       "id": "57be4e846416",
@@ -991,7 +1126,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T04:11:00+00:00"
+      "published_at": "2026-07-17T23:11:00+00:00"
     },
     {
       "id": "8be355525158",
@@ -1000,7 +1135,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T15:41:10+00:00"
+      "published_at": "2026-07-18T10:41:10+00:00"
     },
     {
       "id": "c75862eeebf6",
@@ -1009,16 +1144,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T04:21:13+00:00"
-    },
-    {
-      "id": "33633cd9e144",
-      "title": "Xavi: \"We were in the stands watching the Semifinal match together, and Mascherano said to me: He's 39 years old, and look what he's doing! It's incredible, there's no one better than him, in my opinion Messi is the best in football history\"",
-      "url": "https://www.reddit.com/r/soccer/comments/1uzmhi5/xavi_we_were_in_the_stands_watching_the_semifinal/",
-      "source": "r/soccer",
-      "category": "football",
-      "score": null,
-      "published_at": "2026-07-18T09:56:31+00:00"
+      "published_at": "2026-07-17T23:21:13+00:00"
     },
     {
       "id": "631cd008e863",
@@ -1027,7 +1153,16 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T19:01:34+00:00"
+      "published_at": "2026-07-18T14:01:34+00:00"
+    },
+    {
+      "id": "33633cd9e144",
+      "title": "Xavi: \"We were in the stands watching the Semifinal match together, and Mascherano said to me: He's 39 years old, and look what he's doing! It's incredible, there's no one better than him, in my opinion Messi is the best in football history\"",
+      "url": "https://www.reddit.com/r/soccer/comments/1uzmhi5/xavi_we_were_in_the_stands_watching_the_semifinal/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-18T04:56:31+00:00"
     },
     {
       "id": "5077a69ebb52",
@@ -1036,7 +1171,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T14:42:51+00:00"
+      "published_at": "2026-07-18T09:42:51+00:00"
     },
     {
       "id": "c76165481686",
@@ -1045,7 +1180,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T07:01:44+00:00"
+      "published_at": "2026-07-18T02:01:44+00:00"
     },
     {
       "id": "2b5ac9ef2d54",
@@ -1054,7 +1189,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T10:08:18+00:00"
+      "published_at": "2026-07-18T05:08:18+00:00"
     },
     {
       "id": "eb06a791f3ee",
@@ -1063,7 +1198,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T06:27:54+00:00"
+      "published_at": "2026-07-18T01:27:54+00:00"
     },
     {
       "id": "3a88bcc3814e",
@@ -1072,7 +1207,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T22:31:28+00:00"
+      "published_at": "2026-07-18T17:31:28+00:00"
     },
     {
       "id": "d74789c54c47",
@@ -1081,16 +1216,7 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T02:07:54+00:00"
-    },
-    {
-      "id": "0ec53f74720a",
-      "title": "For the first time in Liga MX history, the \u2018Prestianni Law\u2019 has been enforced during a match Tigres UANL vs. Club Tijuana on just the first matchday of the 2026 Apertura season.",
-      "url": "https://www.reddit.com/r/soccer/comments/1uzc423/for_the_first_time_in_liga_mx_history_the/",
-      "source": "r/soccer",
-      "category": "football",
-      "score": null,
-      "published_at": "2026-07-18T02:02:03+00:00"
+      "published_at": "2026-07-17T21:07:54+00:00"
     },
     {
       "id": "9406263d5dd7",
@@ -1099,7 +1225,16 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T11:36:26+00:00"
+      "published_at": "2026-07-18T06:36:26+00:00"
+    },
+    {
+      "id": "8becac92ed04",
+      "title": "Peter Crouch on how he unknowingly told Xabi Alonso he was interested in his wife",
+      "url": "https://www.reddit.com/r/soccer/comments/1v01glu/peter_crouch_on_how_he_unknowingly_told_xabi/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-18T17:11:31+00:00"
     },
     {
       "id": "73e9de9c69e8",
@@ -1108,151 +1243,151 @@
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T19:05:18+00:00"
+      "published_at": "2026-07-18T14:05:18+00:00"
     },
     {
-      "id": "b9164f5929ed",
-      "title": "Reporter: There's been a lot of narrative and a lot of opinions about how England finished the game on the pitch in terms of the setup. Donald Trump has even had a word about it today and had his opinion today. Tuchel: Do you use Donald Trump as your witness for your case... or?",
-      "url": "https://www.reddit.com/r/soccer/comments/1uzrazl/reporter_theres_been_a_lot_of_narrative_and_a_lot/",
+      "id": "85993e3667cf",
+      "title": "[USA Today] Spain cancels training before World Cup final; Argentina delayed by storms",
+      "url": "https://www.reddit.com/r/soccer/comments/1v0011q/usa_today_spain_cancels_training_before_world_cup/",
       "source": "r/soccer",
       "category": "football",
       "score": null,
-      "published_at": "2026-07-18T14:27:55+00:00"
+      "published_at": "2026-07-18T16:14:58+00:00"
     },
     {
-      "id": "1e65140b6a67",
-      "title": "NBA rookie rankings: Where Boozer, Dybantsa and ot...",
-      "url": "https://www.espn.com/nba/story/_/id/49351566/rookie-rankings-summer-league-2026-draft-aj-dybantsa-darryn-peterson",
-      "source": "ESPN NBA",
+      "id": "258941e27358",
+      "title": "Reaves talks about spending NYE at Luka's House \u201cWe ended up bowling until 5:30 in the morning. He can\u2019t beat me, I told him you can\u2019t beat me in your own house.\u201d",
+      "url": "https://www.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-18T10:42:07+00:00"
+      "published_at": "2026-07-17T23:23:51+00:00"
     },
     {
-      "id": "6895798add2d",
-      "title": "Rookie of the Year bets, other summer league takea...",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49355980/nba-summer-league-recap-rookie-year-betting-odds",
-      "source": "ESPN NBA",
+      "id": "ebec8679b9c2",
+      "title": "Fan: \u201cIs Josh Hart the version of you? He\u2019s small, he grabs rebounds. Who would it be?\u201d Dennis Rodman: \u201cI can\u2019t tell, I don\u2019t watch basketball.\u201d",
+      "url": "https://www.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-18T10:42:06+00:00"
+      "published_at": "2026-07-17T23:50:36+00:00"
     },
     {
-      "id": "e08c20039c09",
-      "title": "Sources: Knicks sign RFA Cisse to offer sheet",
-      "url": "https://www.espn.com/nba/story/_/id/49392591/sources-moussa-cisse-agrees-knicks-2-year-offer-sheet",
-      "source": "ESPN NBA",
+      "id": "80247ee28cf6",
+      "title": "Charles Barkley and MJ have officially reconciled",
+      "url": "https://www.reddit.com/r/nba/comments/1uzu34m/charles_barkley_and_mj_have_officially_reconciled/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T12:03:38+00:00"
     },
     {
-      "id": "440f669b09aa",
-      "title": "LeBron still mum as 'trust the process' sparks tiz...",
-      "url": "https://www.espn.com/nba/story/_/id/49386414/lebron-james-mum-free-agency-decision-riles-76ers-fans-trust-process",
-      "source": "ESPN NBA",
+      "id": "bba849e62127",
+      "title": "When Russell Westbrook Opened Up About The Tough Criticism He Had Been Getting: \"Westbrick is now shaming. Shaming my name. My legacy for my kids... I haven't hurt anyone and I haven't done anything but play basketball a way people may not like. This is just a game this is not my entire life.\"",
+      "url": "https://www.reddit.com/r/nba/comments/1uzsumq/when_russell_westbrook_opened_up_about_the_tough/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T10:58:33+00:00"
     },
     {
-      "id": "851eceb3b723",
-      "title": "Giannis: 'Whatever it takes' to win with Heat",
-      "url": "https://www.espn.com/nba/story/_/id/49380527/giannis-antetokounmpo-hungry-chase-championship-heat",
-      "source": "ESPN NBA",
+      "id": "1eb66c0fce65",
+      "title": "[OC] Ranking every NBA team name by how likely it is to be said in the bedroom",
+      "url": "https://www.reddit.com/r/nba/comments/1v0120x/oc_ranking_every_nba_team_name_by_how_likely_it/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T16:55:46+00:00"
     },
     {
-      "id": "b96a7b253407",
-      "title": "Heat's Riley makes LeBron pitch; Giannis 'excited'...",
-      "url": "https://www.espn.com/nba/story/_/id/49380493/riley-antetokounmpo-excited-james-miami",
-      "source": "ESPN NBA",
+      "id": "9579118d48f1",
+      "title": "Anthony Edwards says he talked to KAT before every finals game to give him advice on the Spurs",
+      "url": "https://www.reddit.com/r/nba/comments/1uzdjli/anthony_edwards_says_he_talked_to_kat_before/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-17T21:59:43+00:00"
     },
     {
-      "id": "9deca502cc78",
-      "title": "NBA looking into deal between Bucks, Trent Jr.",
-      "url": "https://www.espn.com/nba/story/_/id/49377882/nba-investigating-bucks-four-year-deal-gary-trent-jr",
-      "source": "ESPN NBA",
+      "id": "e2c81e70227f",
+      "title": "Trae Young Riding Around in New York Watching His Highlights From The 2021 Knicks VS Hawks Playoff Series",
+      "url": "https://www.reddit.com/r/nba/comments/1uznq5m/trae_young_riding_around_in_new_york_watching_his/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T06:01:46+00:00"
     },
     {
-      "id": "3cf3cf52e5d1",
-      "title": "NBA won't punish Bam for altercation with Herro",
-      "url": "https://www.espn.com/nba/story/_/id/49376983/nba-punish-bam-adebayo-altercation-tyler-herro",
-      "source": "ESPN NBA",
+      "id": "ab68fa158fcd",
+      "title": "LeBron in high school being told if he\u2019s not at minimum a 1st ballot HOFer, he will be considered a draft bust",
+      "url": "https://www.reddit.com/r/nba/comments/1v04rhl/lebron_in_high_school_being_told_if_hes_not_at/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T19:19:45+00:00"
     },
     {
-      "id": "db68f7b609a7",
-      "title": "U.S. rep: NBA should review ties to Joe Tsai",
-      "url": "https://www.espn.com/nba/story/_/id/49376013/congressman-calls-nba-review-joe-tsai-position-league",
-      "source": "ESPN NBA",
+      "id": "3f004d625882",
+      "title": "Russell Westbrook Gets Angry At Reporter For Trying To Split Up The Team With His Questions - Reporter Also Refuses To Give Up Mic Since He Has No Answer To His Question: \"I don't want nobody to try and split us up. We all one team.\"",
+      "url": "https://www.reddit.com/r/nba/comments/1uzm2lr/russell_westbrook_gets_angry_at_reporter_for/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T04:34:56+00:00"
     },
     {
-      "id": "9d17514ddd8a",
-      "title": "Valanciunas leaves NBA to join Lithuanian club",
-      "url": "https://www.espn.com/nba/story/_/id/49369108/jonas-valanciunas-joins-zalgiris-14-seasons-nba",
-      "source": "ESPN NBA",
+      "id": "dd45626028fa",
+      "title": "Trae Young tries to rip a Jalen Brunson jersey at Fanatics Fest",
+      "url": "https://www.reddit.com/r/nba/comments/1v035kj/trae_young_tries_to_rip_a_jalen_brunson_jersey_at/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-18T18:16:54+00:00"
     },
     {
-      "id": "29a9f0c3f46f",
-      "title": "\ud83d\udc40Cooper Flagg signs 1-of-1 numbered rookie card",
-      "url": "https://www.espn.com/nba/story/_/id/49385439/cooper-flagg-signed-rookie-card-fanatics-dallas-mavericks",
-      "source": "ESPN NBA",
+      "id": "c57902249164",
+      "title": "Michael Porter Jr. donates proceeds from signed card to his brother's, Jontay Porter, gambling addiction charity",
+      "url": "https://www.reddit.com/r/nba/comments/1uzg6pf/michael_porter_jr_donates_proceeds_from_signed/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-19T00:55:13+00:00"
+      "published_at": "2026-07-17T23:51:40+00:00"
     },
     {
-      "id": "13c70694c328",
-      "title": "NBA offseason buzz: Latest updates from summer lea...",
-      "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-      "source": "ESPN NBA",
+      "id": "e0ced1270acb",
+      "title": "After the Luka Doncic trade, What is the second most fleeced trade this decade so far?",
+      "url": "https://www.reddit.com/r/nba/comments/1uzjrmh/after_the_luka_doncic_trade_what_is_the_second/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-17T22:03:33+00:00"
+      "published_at": "2026-07-18T02:39:06+00:00"
     },
     {
-      "id": "d30233714c59",
-      "title": "'The Hoop Collective': Best quotes, latest intel f...",
-      "url": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-      "source": "ESPN NBA",
+      "id": "c4cf353e7c03",
+      "title": "Anthony Edwards says him and Lamelo have been working on their postgame interviews, trying to \"be more professional\"",
+      "url": "https://www.reddit.com/r/nba/comments/1uzdmti/anthony_edwards_says_him_and_lamelo_have_been/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-17T22:03:32+00:00"
+      "published_at": "2026-07-17T22:03:12+00:00"
     },
     {
-      "id": "d8f3b8c30145",
-      "title": "The Wizards' stars are embracing the pressure to w...",
-      "url": "https://www.espn.com/nba/story/_/id/49351516/nba-washington-wizards-aj-dybantsa-trae-young-anthony-davis-summer-league",
-      "source": "ESPN NBA",
+      "id": "6f5d86204076",
+      "title": "Celtics rookies guess if quotes are from Joe Mazzulla or an ancient philosopher",
+      "url": "https://www.reddit.com/r/nba/comments/1uzv40g/celtics_rookies_guess_if_quotes_are_from_joe/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-17T20:39:47+00:00"
+      "published_at": "2026-07-18T12:52:11+00:00"
     },
     {
-      "id": "bf9f99e45e9d",
-      "title": "LeBron at Fanatics Fest is the latest entry in NY'...",
-      "url": "https://www.espn.com/espys/story/_/id/49311497/2026-sports-humanitarian-awards-espys-fanatics-fest-world-cup-final-new-york",
-      "source": "ESPN NBA",
+      "id": "58e3cd6a219a",
+      "title": "[OC] What is the smallest group of NBA players needed to use every letter of the alphabet?",
+      "url": "https://www.reddit.com/r/nba/comments/1uzy1sy/oc_what_is_the_smallest_group_of_nba_players/",
+      "source": "r/nba",
       "category": "nba",
       "score": null,
-      "published_at": "2026-07-18T06:43:31+00:00"
+      "published_at": "2026-07-18T14:56:14+00:00"
     }
   ]
 }
