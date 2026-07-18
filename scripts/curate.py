@@ -51,7 +51,10 @@ def run_claude(raw: dict) -> dict:
         timeout=CLAUDE_TIMEOUT_S,
     )
     if result.returncode != 0:
-        raise RuntimeError(f"claude exited {result.returncode}: {result.stderr[:500]}")
+        raise RuntimeError(
+            f"claude exited {result.returncode}: "
+            f"stderr={result.stderr[:400]!r} stdout={result.stdout[:400]!r}"
+        )
 
     # Be tolerant of stray text/fences around the JSON object.
     text = result.stdout
