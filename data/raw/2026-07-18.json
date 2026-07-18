@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "fetched_at": "2026-07-18T21:04:26.785771+00:00",
+  "fetched_at": "2026-07-18T21:10:28.174773+00:00",
   "item_count": 154,
   "items": [
     {
@@ -9,7 +9,7 @@
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 434,
+      "score": 437,
       "published_at": "2026-07-18T13:00:52+00:00"
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://haxxorwpm.0s.is/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 25,
+      "score": 27,
       "published_at": "2026-07-18T19:38:21+00:00"
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
       "source": "Hacker News",
       "category": "tech",
-      "score": 137,
+      "score": 143,
       "published_at": "2026-07-18T15:37:01+00:00"
     },
     {
@@ -40,22 +40,22 @@
       "published_at": "2026-07-18T15:44:04+00:00"
     },
     {
-      "id": "24cd97b35407",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 174,
-      "published_at": "2026-07-18T17:32:40+00:00"
-    },
-    {
       "id": "14d5813fcb25",
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "url": "https://ykdojo.github.io/claude-controls-mac/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 129,
+      "score": 130,
       "published_at": "2026-07-18T16:12:08+00:00"
+    },
+    {
+      "id": "24cd97b35407",
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 180,
+      "published_at": "2026-07-18T17:32:40+00:00"
     },
     {
       "id": "e1a98f755332",
@@ -72,7 +72,7 @@
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 185,
+      "score": 187,
       "published_at": "2026-07-18T11:00:29+00:00"
     },
     {
@@ -90,26 +90,8 @@
       "url": "https://maurycyz.com/projects/bad_jpeg/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 615,
+      "score": 616,
       "published_at": "2026-07-18T03:14:20+00:00"
-    },
-    {
-      "id": "56a4105d1c05",
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "url": "https://imaxxing.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 28,
-      "published_at": "2026-07-18T18:06:23+00:00"
-    },
-    {
-      "id": "f46843f2f4d9",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 143,
-      "published_at": "2026-07-18T17:27:24+00:00"
     },
     {
       "id": "6b3a8d1a225d",
@@ -117,8 +99,17 @@
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "source": "Hacker News",
       "category": "tech",
-      "score": 869,
+      "score": 877,
       "published_at": "2026-07-18T10:21:19+00:00"
+    },
+    {
+      "id": "f46843f2f4d9",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 144,
+      "published_at": "2026-07-18T17:27:24+00:00"
     },
     {
       "id": "fae29430d16c",
@@ -153,7 +144,7 @@
       "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 26,
+      "score": 27,
       "published_at": "2026-07-18T15:38:36+00:00"
     },
     {
@@ -180,17 +171,8 @@
       "url": "https://reotrucks.com",
       "source": "Hacker News",
       "category": "tech",
-      "score": 69,
+      "score": 70,
       "published_at": "2026-07-18T18:13:05+00:00"
-    },
-    {
-      "id": "c80b798ea386",
-      "title": "Qubes OS Security in the Public Record",
-      "url": "https://arxiv.org/abs/2607.14587",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 69,
-      "published_at": "2026-07-18T08:50:07+00:00"
     },
     {
       "id": "7e54e0924b63",
@@ -202,13 +184,31 @@
       "published_at": "2026-07-17T19:41:02+00:00"
     },
     {
+      "id": "c80b798ea386",
+      "title": "Qubes OS Security in the Public Record",
+      "url": "https://arxiv.org/abs/2607.14587",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 69,
+      "published_at": "2026-07-18T08:50:07+00:00"
+    },
+    {
       "id": "6d8a107b806c",
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
       "source": "Hacker News",
       "category": "tech",
-      "score": 203,
+      "score": 206,
       "published_at": "2026-07-17T21:42:43+00:00"
+    },
+    {
+      "id": "999392826712",
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 243,
+      "published_at": "2026-07-18T14:04:42+00:00"
     },
     {
       "id": "54ebf612e4d2",
@@ -283,15 +283,6 @@
       "published_at": "2026-07-18T14:38:11+00:00"
     },
     {
-      "id": "0eeb171e162d",
-      "title": "White House teleprompter operator made more than $100,000 betting on US president\u2019s speeches, via prediction market Kalshi: Sources",
-      "url": "https://www.reddit.com/r/technology/comments/1uzidt6/white_house_teleprompter_operator_made_more_than/",
-      "source": "r/technology",
-      "category": "tech",
-      "score": null,
-      "published_at": "2026-07-18T01:32:31+00:00"
-    },
-    {
       "id": "087c8aa9a1f4",
       "title": "FCC took pricey gifts from Paramount as the company needed approval for deals | FCC Chair Brendan Carr has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
       "url": "https://www.reddit.com/r/technology/comments/1uzxiuy/fcc_took_pricey_gifts_from_paramount_as_the/",
@@ -299,6 +290,15 @@
       "category": "tech",
       "score": null,
       "published_at": "2026-07-18T14:34:52+00:00"
+    },
+    {
+      "id": "0eeb171e162d",
+      "title": "White House teleprompter operator made more than $100,000 betting on US president\u2019s speeches, via prediction market Kalshi: Sources",
+      "url": "https://www.reddit.com/r/technology/comments/1uzidt6/white_house_teleprompter_operator_made_more_than/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-18T01:32:31+00:00"
     },
     {
       "id": "f683beb64943",
@@ -1210,15 +1210,6 @@
       "published_at": "2026-07-18T17:31:28+00:00"
     },
     {
-      "id": "d74789c54c47",
-      "title": "England's complete history at the FIFA World Cup from 1930 to 2026",
-      "url": "https://www.reddit.com/r/soccer/comments/1uzc9i3/englands_complete_history_at_the_fifa_world_cup/",
-      "source": "r/soccer",
-      "category": "football",
-      "score": null,
-      "published_at": "2026-07-17T21:07:54+00:00"
-    },
-    {
       "id": "9406263d5dd7",
       "title": "What happens when you search Marc Cucurella\u2019s name on Google?",
       "url": "https://www.reddit.com/r/soccer/comments/1uzoct3/what_happens_when_you_search_marc_cucurellas_name/",
@@ -1253,6 +1244,15 @@
       "category": "football",
       "score": null,
       "published_at": "2026-07-18T16:14:58+00:00"
+    },
+    {
+      "id": "bd4293714945",
+      "title": "Mikel Merino thought the Messi and Yamal pic was AI",
+      "url": "https://www.reddit.com/r/soccer/comments/1uztvuj/mikel_merino_thought_the_messi_and_yamal_pic_was/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-18T11:54:18+00:00"
     },
     {
       "id": "258941e27358",

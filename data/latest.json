@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T21:04:34.829560+00:00",
+  "generated_at": "2026-07-18T21:10:35.807064+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -12,21 +12,21 @@
           "title": "LG monitors silently install software through Windows Update without consent",
           "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
           "source": "Hacker News",
-          "score": 869,
+          "score": 877,
           "summary": null
         },
         {
           "title": "Regressive JPEGs",
           "url": "https://maurycyz.com/projects/bad_jpeg/",
           "source": "Hacker News",
-          "score": 615,
+          "score": 616,
           "summary": null
         },
         {
           "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
           "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
           "source": "Hacker News",
-          "score": 434,
+          "score": 437,
           "summary": null
         },
         {
@@ -37,31 +37,31 @@
           "summary": null
         },
         {
+          "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+          "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+          "source": "Hacker News",
+          "score": 243,
+          "summary": null
+        },
+        {
           "title": "The Kimi K3 Moment",
           "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
           "source": "Hacker News",
-          "score": 174,
+          "score": 180,
           "summary": null
         },
         {
           "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
           "source": "Hacker News",
-          "score": 185,
+          "score": 187,
           "summary": null
         },
         {
           "title": "Goodbye, and Thanks for All the Bikesheds",
           "url": "https://queue.acm.org/detail.cfm?id=3818307",
           "source": "Hacker News",
-          "score": 143,
-          "summary": null
-        },
-        {
-          "title": "Gleam Is Now on Tangled",
-          "url": "https://tangled.org/gleam.run/gleam",
-          "source": "Hacker News",
-          "score": 147,
+          "score": 144,
           "summary": null
         }
       ]
