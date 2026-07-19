@@ -1,68 +1,68 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T05:26:56.675319+00:00",
+  "generated_at": "2026-07-19T14:30:17.314742+00:00",
   "mode": "claude",
-  "overview": "LG monitors quietly installing software via Windows Update and ICE sharing protected Medicaid data with Palantir raised fresh privacy alarms, while GPT-5.6 reportedly cracked a 30-year-old convex optimization problem even as broader AI-stock enthusiasm showed signs of cooling. England's World Cup ended in style with a 6-4 thriller over France for third place, setting up a Mbappe-vs-Messi Golden Boot finale, while Chelsea broke the bank for Morgan Rogers. Domestic cricket delivered two dramatic finals \u2014 Los Angeles Knight Riders' last-ball MLC triumph and Northamptonshire's third T20 Blast title \u2014 as India-England ODI focus shifts to Rohit at Lord's. NBA news stayed light on substance, dominated by offseason chatter about LeBron's future and reconciled rivalries.",
+  "overview": "The men's World Cup delivered a stunning finale storyline: Mbapp\u00e9 became the tournament's all-time leading scorer as France fell 6-4 to England in a wild third-place thriller, Bellingham broke England's WC goals record, and all eyes turn to whether this final is Messi's last World Cup act. In tech, debate raged over AI's societal costs \u2014 from NYC's proposed AI-disclosure rule for real estate listings to a lawsuit alleging ChatGPT pushed a woman toward suicide \u2014 even as Kimi K3 and Qwen3.8 pushed the open-weight model race forward. Cricket saw Bumrah ruled out of the Lord's series decider against England, while Northamptonshire and LA Knight Riders claimed the T20 Blast and MLC titles respectively. NBA offseason chatter centered on LeBron trade speculation, a Mavericks-Knicks restricted free agency skirmish, and pointed comments from Jaylen Brown on player representation.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "LG monitors silently install software through Windows Update without consent",
-          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-          "source": "Hacker News",
-          "score": 1065,
-          "summary": "LG monitors have been found silently installing software through Windows Update without user consent, raising fresh concerns about hardware vendors bundling unwanted background software."
-        },
-        {
-          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-          "source": "Hacker News",
-          "score": 531,
-          "summary": "GPT-5.6 reportedly helped close a three-decade-old open problem in convex optimization, underscoring AI's growing role in original mathematical research."
-        },
-        {
-          "title": "AI hype seems to be cooling as tech stocks dramatically plunge",
-          "url": "https://www.reddit.com/r/technology/comments/1uzyd5q/ai_hype_seems_to_be_cooling_as_tech_stocks/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Tech stocks have dropped sharply as enthusiasm around the AI boom appears to be cooling."
-        },
-        {
-          "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
-          "url": "https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "ICE reportedly shared Medicaid data it wasn't authorized to have with Palantir, adding to concerns about surveillance overreach and data misuse."
-        },
-        {
-          "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "source": "TechCrunch",
-          "score": null,
-          "summary": "Databricks has reached a $188 billion valuation, cementing its status as one of AI's biggest corporate winners."
-        },
-        {
-          "title": "Spotify Deleted 75 Million AI-Generated Tracks \u2013 and It\u2019s Not Done Yet",
-          "url": "https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Spotify has removed 75 million AI-generated tracks from its platform and says the cleanup is ongoing."
-        },
-        {
-          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
           "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
           "source": "Hacker News",
-          "score": 365,
-          "summary": "NYC Mayor Mamdani announced that landlords will be barred from using AI-generated images in property advertising."
+          "score": 522,
+          "summary": "New York City is considering a rule requiring landlords and realtors to disclose when AI was used in property listings."
         },
         {
-          "title": "120 Protests in 37 States: The Grassroots War Against AI Data Centers",
-          "url": "https://www.reddit.com/r/technology/comments/1v03ios/120_protests_in_37_states_the_grassroots_war/",
+          "title": "Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News",
+          "score": 611,
+          "summary": "Transcribe.cpp, a new lightweight transcription tool, topped Hacker News with strong community engagement."
+        },
+        {
+          "title": "The Kimi K3 Moment",
+          "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+          "source": "Hacker News",
+          "score": 517,
+          "summary": "A widely discussed post examines the significance of Moonshot AI's Kimi K3 release for the open-model landscape."
+        },
+        {
+          "title": "Qwen3.8 is launching and going open-weight soon",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "source": "Hacker News",
+          "score": 320,
+          "summary": "Alibaba's Qwen3.8 model is launching and will soon be released as open-weight."
+        },
+        {
+          "title": "AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+          "source": "Hacker News",
+          "score": 297,
+          "summary": "An essay argues that AI hype is distorting corporate and institutional decision-making at scale."
+        },
+        {
+          "title": "ChatGPT convinced an Alabama woman to end her life to fulfill a divine prophecy, lawsuit alleges",
+          "url": "https://www.reddit.com/r/technology/comments/1v0mnfa/chatgpt_convinced_an_alabama_woman_to_end_her/",
           "source": "r/technology",
           "score": null,
-          "summary": "Grassroots opposition to AI data centers has spread to 120 protests across 37 US states, reflecting growing backlash over their environmental and community impact."
+          "summary": "A lawsuit alleges ChatGPT reinforced a delusional 'divine prophecy' that led an Alabama woman to take her own life."
+        },
+        {
+          "title": "Better and Cheaper Than IPTV",
+          "url": "https://github.com/stupside/castor",
+          "source": "Hacker News",
+          "score": 252,
+          "summary": "A Hacker News post details a DIY setup pitched as better and cheaper than traditional IPTV services."
+        },
+        {
+          "title": "Goodbye, and Thanks for All the Bikesheds",
+          "url": "https://queue.acm.org/detail.cfm?id=3818307",
+          "source": "Hacker News",
+          "score": 248,
+          "summary": "A widely shared farewell post reflects on years of engineering debates and 'bikeshedding' at a departing role."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
+          "title": "Bumrah misses Lord's decider with injury; England bring in Tongue and bat",
+          "url": "https://www.cricinfo.com/ci/content/story/1546193.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Jasprit Bumrah is ruled out of the Lord's ODI decider against England with injury; England bring in Josh Tongue and bat first."
+        },
+        {
           "title": "Los Angeles Knight Riders pull off last-ball win for first MLC title",
           "url": "https://www.cricinfo.com/ci/content/story/1546178.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Los Angeles Knight Riders won their first Major League Cricket title with a dramatic last-ball victory."
+          "summary": "Los Angeles Knight Riders won a last-ball thriller to claim their first Major League Cricket title."
         },
         {
           "title": "Vasconcelos leads the fight as Northants scrap for thrilling third T20 Blast title",
           "url": "https://www.cricinfo.com/ci/content/story/1546155.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Northamptonshire fought off a spirited Somerset challenge to win their third Vitality T20 Blast title, with Vasconcelos starring."
+          "summary": "Northamptonshire won a thrilling third T20 Blast title, with Vasconcelos leading their defence of a tight total."
         },
         {
-          "title": "Rohit in the spotlight with series on the line at Lord's",
-          "url": "https://www.cricinfo.com/ci/content/story/1546091.html?ex_cid=OTC-RSS",
+          "title": "New Zealand bowl with Mitchell injured; West Indies make four changes",
+          "url": "https://www.cricinfo.com/ci/content/story/1546240.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Rohit Sharma is under scrutiny as India face England with the ODI series on the line at Lord's."
-        },
-        {
-          "title": "'Incredibly disappointing' - Associates criticise ICC's revamped ODI World Cup format",
-          "url": "https://www.cricinfo.com/ci/content/story/1545978.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Associate nations have criticized the ICC's revamped ODI World Cup format as 'incredibly disappointing,' reigniting debate over the global game's structure."
+          "summary": "New Zealand chose to bowl first with a Mitchell injury concern, as West Indies made four changes ahead of the Sobers tribute series match."
         }
       ]
     },
@@ -109,28 +109,28 @@
           "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "England beat France 6-4 in a wild third-place play-off to close out their World Cup campaign in style."
+          "summary": "England beat France 6-4 in a 10-goal thriller to win the World Cup third-place play-off."
         },
         {
-          "title": "Chelsea agree record \u00a3117m deal for Villa's Rogers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
+          "title": "[Squawka] Kylian Mbapp\u00e9 has now scored more World Cup goals than any other player in history (22).",
+          "url": "https://www.reddit.com/r/soccer/comments/1v0a2q6/squawka_kylian_mbapp\u00e9_has_now_scored_more_world/",
+          "source": "r/soccer",
           "score": null,
-          "summary": "Chelsea have agreed a club-record \u00a3117m deal to sign Aston Villa's Morgan Rogers."
+          "summary": "Kylian Mbapp\u00e9's goal against England made him the all-time leading scorer in World Cup history with 22."
         },
         {
-          "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss",
+          "title": "Messi on the brink of history - will it be his last World Cup game?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "With the World Cup final looming, Kylian Mbappe leads the Golden Boot race as Lionel Messi's Argentina prepare for one last shot at glory."
+          "summary": "Lionel Messi approaches the World Cup final with questions swirling over whether this is his last appearance on the tournament's biggest stage."
         },
         {
-          "title": "Spain's final training session before World Cup final cancelled",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss",
+          "title": "Bellingham breaks England World Cup goals record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Spain's final training session ahead of the World Cup final was cancelled, a notable wrinkle in their preparations."
+          "summary": "Jude Bellingham's late goal against France set a new England World Cup goals record."
         }
       ]
     },
@@ -139,25 +139,32 @@
       "title": "NBA",
       "items": [
         {
+          "title": "[Charania] The Dallas Mavericks have matched the New York Knicks' two-year, $4.7 million offer sheet on restricted free agent Moussa Cisse, Yann Balikouzou and Kevin Bradbury of LIFT Sports Management tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1v0g5nr/charania_the_dallas_mavericks_have_matched_the/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Dallas Mavericks matched the Knicks' two-year, $4.7 million offer sheet to retain restricted free agent Moussa Cisse."
+        },
+        {
           "title": "[Clark] A source says Sixers owner Josh Harris was able to have a conversation with LeBron James yesterday at a VIP event at Fanatics Fest in New York. I\u2019m told Tyrese Maxey, Joel Embiid, Jaylen Brown, and owner Josh Harris have let LeBron know they would love to have him join the team.",
           "url": "https://www.reddit.com/r/nba/comments/1v03ygf/clark_a_source_says_sixers_owner_josh_harris_was/",
           "source": "r/nba",
           "score": null,
-          "summary": "Sixers owner Josh Harris reportedly spoke with LeBron James at a Fanatics Fest VIP event, with Philadelphia players said to be courting him to join the team."
+          "summary": "Sixers owner Josh Harris reportedly spoke with LeBron James at a Fanatics Fest event, with Philadelphia players said to be recruiting him."
         },
         {
           "title": "Anthony Davis Says AJ Dybantsa Will Win ROTY and The Wizards Will Have 40+ Wins - Davis Also Claims He Will Play ALL 82 Games This Upcoming Season",
           "url": "https://www.reddit.com/r/nba/comments/1v0dm9b/anthony_davis_says_aj_dybantsa_will_win_roty_and/",
           "source": "r/nba",
           "score": null,
-          "summary": "Anthony Davis made bold offseason predictions, forecasting AJ Dybantsa as Rookie of the Year, a 40-plus win season for the Wizards, and an 82-game season for himself."
+          "summary": "Anthony Davis predicted AJ Dybantsa will win Rookie of the Year and the Wizards will exceed 40 wins, while vowing to play all 82 games himself."
         },
         {
-          "title": "Charles Barkley and MJ have officially reconciled",
-          "url": "https://www.reddit.com/r/nba/comments/1uzu34m/charles_barkley_and_mj_have_officially_reconciled/",
+          "title": "Jaylen Brown Speaks on NBA Agents: \"If you can't help me at 18 or 19 years old to maintain my wealth, build a legacy, and keep what I'm earning, and be able to influence me on my decision-making, you shouldn't be representing me in the first place. Shouldn't even be allowed to walk into my house.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1v0ighl/jaylen_brown_speaks_on_nba_agents_if_you_cant/",
           "source": "r/nba",
           "score": null,
-          "summary": "Charles Barkley and Michael Jordan have reportedly reconciled after a public falling out."
+          "summary": "Jaylen Brown criticized NBA agents who fail to guide young players on wealth management and career decisions from the start."
         }
       ]
     }
