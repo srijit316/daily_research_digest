@@ -52,3 +52,11 @@ jobs:
             git commit -m "digest: $(date -u +%F) [skip ci]"
             git push
           fi
+
+      # Runs after the push so a mail failure can never block the site update.
+      - name: Email digest
+        continue-on-error: true
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/send_email.py
