@@ -2,9 +2,13 @@ name: Daily Digest
 
 on:
   schedule:
-    # 13:00 UTC = 9:00 AM Eastern (EDT). Note: GitHub cron is fixed to UTC,
-    # so when DST ends this fires at 8:00 AM EST — bump to "0 14" if that matters.
-    - cron: "0 13 * * *"
+    # Format is "minute hour ..." — 13:23 UTC = 9:23 AM Eastern (EDT).
+    # Deliberately off the top of the hour: GitHub delays scheduled runs under
+    # load, and load peaks at :00 because that's where everyone points their
+    # crons. The 13:00 slot on 2026-07-19 fired 85 minutes late.
+    # GitHub cron is fixed to UTC and doesn't shift for DST — when DST ends this
+    # becomes 8:23 AM EST; bump to "23 14" if that matters.
+    - cron: "23 13 * * *"
   workflow_dispatch: {}
 
 permissions:
