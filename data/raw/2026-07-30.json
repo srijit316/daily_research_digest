@@ -1,0 +1,1276 @@
+{
+  "date": "2026-07-30",
+  "fetched_at": "2026-07-30T15:29:18.689036+00:00",
+  "item_count": 141,
+  "items": [
+    {
+      "id": "a232443e01eb",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 373,
+      "published_at": "2026-07-30T13:03:27+00:00"
+    },
+    {
+      "id": "bb70b69d1607",
+      "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
+      "url": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 28,
+      "published_at": "2026-07-30T14:15:19+00:00"
+    },
+    {
+      "id": "7909c613945e",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 10,
+      "published_at": "2026-07-30T15:15:48+00:00"
+    },
+    {
+      "id": "7d2eb2497cb3",
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 17,
+      "published_at": "2026-07-30T14:36:59+00:00"
+    },
+    {
+      "id": "7d88a88887af",
+      "title": "The Lost Civic Life of Movie Rental Stores",
+      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 25,
+      "published_at": "2026-07-30T14:11:42+00:00"
+    },
+    {
+      "id": "9736018f9dde",
+      "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 28,
+      "published_at": "2026-07-30T13:29:03+00:00"
+    },
+    {
+      "id": "b93db35a07bb",
+      "title": "RFC 8890 \u2013 The Internet is for End Users (2020)",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 47,
+      "published_at": "2026-07-30T13:07:53+00:00"
+    },
+    {
+      "id": "14b44d160d66",
+      "title": "Hacker Public Radio",
+      "url": "https://hackerpublicradio.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 23,
+      "published_at": "2026-07-30T14:29:27+00:00"
+    },
+    {
+      "id": "e968d4627c1d",
+      "title": "Why Don't People Use Formal Methods? (2019)",
+      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 70,
+      "published_at": "2026-07-30T12:21:34+00:00"
+    },
+    {
+      "id": "df48ab94da79",
+      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 5,
+      "published_at": "2026-07-30T14:58:07+00:00"
+    },
+    {
+      "id": "4fd474b5fbcb",
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 153,
+      "published_at": "2026-07-30T08:10:33+00:00"
+    },
+    {
+      "id": "7c69b7e4c8ae",
+      "title": "Gpiozero Flow",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 100,
+      "published_at": "2026-07-30T10:32:41+00:00"
+    },
+    {
+      "id": "83834cca3626",
+      "title": "Git worktrees are not an isolation boundary for coding agents",
+      "url": "https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 11,
+      "published_at": "2026-07-30T14:18:52+00:00"
+    },
+    {
+      "id": "66996906caeb",
+      "title": "Trusted URLs via Cryptographic Signatures",
+      "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 7,
+      "published_at": "2026-07-30T14:31:13+00:00"
+    },
+    {
+      "id": "dafe9a2bbb83",
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 5,
+      "published_at": "2026-07-30T15:10:27+00:00"
+    },
+    {
+      "id": "31281d4e2fb6",
+      "title": "Are We Stuck with Lean?",
+      "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 40,
+      "published_at": "2026-07-30T11:45:01+00:00"
+    },
+    {
+      "id": "48f692240df2",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 71,
+      "published_at": "2026-07-30T12:38:51+00:00"
+    },
+    {
+      "id": "e2d6d660314c",
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 31,
+      "published_at": "2026-07-30T11:55:39+00:00"
+    },
+    {
+      "id": "5bdc4e080d36",
+      "title": "Upper stage impacting the moon on 2026 August 5",
+      "url": "https://www.projectpluto.com/25010d.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 10,
+      "published_at": "2026-07-30T13:21:34+00:00"
+    },
+    {
+      "id": "5a0165d04679",
+      "title": "3D Pinball for Windows (1995)",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 36,
+      "published_at": "2026-07-30T11:23:12+00:00"
+    },
+    {
+      "id": "5d2ae640ac67",
+      "title": "You can't solve computer use by ignoring the interface",
+      "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 36,
+      "published_at": "2026-07-30T11:28:51+00:00"
+    },
+    {
+      "id": "1ca28227396f",
+      "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+      "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 26,
+      "published_at": "2026-07-30T12:13:42+00:00"
+    },
+    {
+      "id": "4d1d0e2bfaff",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 72,
+      "published_at": "2026-07-30T09:34:27+00:00"
+    },
+    {
+      "id": "920d1e97155e",
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 233,
+      "published_at": "2026-07-30T10:13:46+00:00"
+    },
+    {
+      "id": "44505c3f7cce",
+      "title": "Innocent man spends 18 months in prison after Skyrim username mixup",
+      "url": "https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T20:56:48+00:00"
+    },
+    {
+      "id": "c0968010e306",
+      "title": "GrapheneOS says its data-wiping password is perfectly legal, after user faces federal charges",
+      "url": "https://www.reddit.com/r/technology/comments/1vamqi9/grapheneos_says_its_datawiping_password_is/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T07:33:47+00:00"
+    },
+    {
+      "id": "2fe181b7e503",
+      "title": "\u201cClapping Is a First Amendment Right:\u201d An Interview With the Person Arrested for Clapping at a Data Center Meeting",
+      "url": "https://www.reddit.com/r/technology/comments/1vacken/clapping_is_a_first_amendment_right_an_interview/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T23:22:44+00:00"
+    },
+    {
+      "id": "711c746503ba",
+      "title": "Claude, ChatGPT: AI labs buy, scan, shred millions of rare books.",
+      "url": "https://www.reddit.com/r/technology/comments/1v9zv4l/claude_chatgpt_ai_labs_buy_scan_shred_millions_of/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T15:42:58+00:00"
+    },
+    {
+      "id": "b9c4ba66cf3b",
+      "title": "FTC sues Hims & Hers for sending user health info to Meta, Snap",
+      "url": "https://www.reddit.com/r/technology/comments/1vafwnm/ftc_sues_hims_hers_for_sending_user_health_info/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T01:48:11+00:00"
+    },
+    {
+      "id": "31aebf821b6a",
+      "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
+      "url": "https://www.reddit.com/r/technology/comments/1va9msp/after_laying_off_battlefield_6_developers_ea_pays/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T21:27:18+00:00"
+    },
+    {
+      "id": "70e51f7f00fc",
+      "title": "Is Mark Zuckerberg Actually TRYING to Destroy Meta?",
+      "url": "https://www.reddit.com/r/technology/comments/1va4urb/is_mark_zuckerberg_actually_trying_to_destroy_meta/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T18:36:06+00:00"
+    },
+    {
+      "id": "e3f9e724c2b1",
+      "title": "AI Company Sues City for Opposing Data Center Next to National Park | Local governments are pushing back against AI data centers. Some AI companies are suing them to force construction \u2014 with or without public support.",
+      "url": "https://www.reddit.com/r/technology/comments/1vasiw0/ai_company_sues_city_for_opposing_data_center/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T12:40:08+00:00"
+    },
+    {
+      "id": "240de3194023",
+      "title": "CEO of the top-rated hiring platform says the job market is so bad that candidates are paying $20 to mass apply and driving bosses crazy with spam",
+      "url": "https://www.reddit.com/r/technology/comments/1vabcr2/ceo_of_the_toprated_hiring_platform_says_the_job/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T22:33:20+00:00"
+    },
+    {
+      "id": "3fbff001cd67",
+      "title": "EA CEO made $38M after Battlefield 6's massive success, while devs were laid off",
+      "url": "https://www.reddit.com/r/technology/comments/1va2chj/ea_ceo_made_38m_after_battlefield_6s_massive/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T17:08:21+00:00"
+    },
+    {
+      "id": "d5c16b6f3d17",
+      "title": "Flock CEO Claims Its Cameras Aren't a Constitutional Violation: 'Cut and Dry'",
+      "url": "https://www.reddit.com/r/technology/comments/1va7u00/flock_ceo_claims_its_cameras_arent_a/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T20:20:13+00:00"
+    },
+    {
+      "id": "06b62801e4c8",
+      "title": "\u2018My life\u2019s screwed\u2019: Korean investors stress out after AI bubble bursts",
+      "url": "https://www.reddit.com/r/technology/comments/1vakh2c/my_lifes_screwed_korean_investors_stress_out/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T05:29:18+00:00"
+    },
+    {
+      "id": "5e1093773980",
+      "title": "Schools Are Confiscating Phones All Day \u2013 And Most Americans Are Fine With It",
+      "url": "https://www.reddit.com/r/technology/comments/1va76ld/schools_are_confiscating_phones_all_day_and_most/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T19:57:10+00:00"
+    },
+    {
+      "id": "2d485f2e5465",
+      "title": "Flock cameras are getting mobbed",
+      "url": "https://www.reddit.com/r/technology/comments/1vau9wh/flock_cameras_are_getting_mobbed/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:52:31+00:00"
+    },
+    {
+      "id": "e07bee5d0c7f",
+      "title": "Meta\u2019s Reality Labs lost over $4.6 billion in second quarter",
+      "url": "https://www.reddit.com/r/technology/comments/1vadtdx/metas_reality_labs_lost_over_46_billion_in_second/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T00:14:53+00:00"
+    },
+    {
+      "id": "fdab93c853fb",
+      "title": "Fixing bugs in Event Sourcing is hard, for real?",
+      "url": "https://www.reddit.com/r/programming/comments/1va4k7a/fixing_bugs_in_event_sourcing_is_hard_for_real/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T18:25:46+00:00"
+    },
+    {
+      "id": "ae2351d873a7",
+      "title": "Merkle trees + tree-sitter for incremental codebase indexing without uploading your code",
+      "url": "https://www.reddit.com/r/programming/comments/1vaisgj/merkle_trees_treesitter_for_incremental_codebase/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T04:02:44+00:00"
+    },
+    {
+      "id": "021c14695859",
+      "title": "How I Made Self-Hosted Servers Recoverable From Hangs",
+      "url": "https://www.reddit.com/r/programming/comments/1va50mi/how_i_made_selfhosted_servers_recoverable_from/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T18:41:54+00:00"
+    },
+    {
+      "id": "f2a8d102cbcb",
+      "title": "Put State in the Right Place - Delaney Gillilan | SSW 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1vagopa/put_state_in_the_right_place_delaney_gillilan_ssw/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T02:23:21+00:00"
+    },
+    {
+      "id": "6d15ed074f17",
+      "title": "How cache for React Native works: caching the C++ your CI keeps recompiling",
+      "url": "https://www.reddit.com/r/programming/comments/1va0fx1/how_cache_for_react_native_works_caching_the_c/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T16:02:36+00:00"
+    },
+    {
+      "id": "afb7897df19d",
+      "title": "pgx.CollectRows: Nice APIs Don't Have To Be Slow",
+      "url": "https://www.reddit.com/r/programming/comments/1va8q6g/pgxcollectrows_nice_apis_dont_have_to_be_slow/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T20:53:01+00:00"
+    },
+    {
+      "id": "acd1de3b41db",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T15:19:15+00:00"
+    },
+    {
+      "id": "fa5bef247225",
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T15:17:39+00:00"
+    },
+    {
+      "id": "0d0a337bbf62",
+      "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T15:00:00+00:00"
+    },
+    {
+      "id": "daaae50bac37",
+      "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T14:48:32+00:00"
+    },
+    {
+      "id": "36667e90d9e5",
+      "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon,\u00a0Replit, Tether, with much\u00a0more to come",
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "id": "f5b8d91f4fd5",
+      "title": "FTC sues Hims & Hers for allegedly sharing patients\u2019 medical data with advertisers Meta and Snap",
+      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:30:52+00:00"
+    },
+    {
+      "id": "6adedd07aeac",
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:09:03+00:00"
+    },
+    {
+      "id": "790824af062d",
+      "title": "Spotify adds a running mode to its app",
+      "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "48c45ed7f931",
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "a1b11e2b2bb9",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "df34ed215123",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T00:21:06+00:00"
+    },
+    {
+      "id": "ad9c3055b763",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T23:00:11+00:00"
+    },
+    {
+      "id": "2413ef260878",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T22:46:03+00:00"
+    },
+    {
+      "id": "39de907ded3d",
+      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T22:23:12+00:00"
+    },
+    {
+      "id": "ede83952feba",
+      "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T21:16:39+00:00"
+    },
+    {
+      "id": "78d543209fba",
+      "title": "Xiaomi\u2019s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+      "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T15:05:09+00:00"
+    },
+    {
+      "id": "cf129139ede2",
+      "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
+      "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T15:00:00+00:00"
+    },
+    {
+      "id": "4c2b75317aaa",
+      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+      "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T14:35:43+00:00"
+    },
+    {
+      "id": "a164516952fe",
+      "title": "Microsoft\u2019s latest Surface Laptop is hundreds off at Best Buy",
+      "url": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T14:22:20+00:00"
+    },
+    {
+      "id": "a20e19a03cd1",
+      "title": "Spotify Running Mode helps match tunes to tempo",
+      "url": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "27780c868c22",
+      "title": "Amazon\u2019s short story collections are one of the best reasons to own a Kindle",
+      "url": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T12:30:00+00:00"
+    },
+    {
+      "id": "0e8a225b0ad7",
+      "title": "A second lens makes DJI\u2019s Osmo Pocket 4P my new favorite video camera",
+      "url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "id": "bf60b0bff61f",
+      "title": "SwitchBot makes a better fan",
+      "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-30T10:30:55+00:00"
+    },
+    {
+      "id": "0434773f642a",
+      "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T22:17:38+00:00"
+    },
+    {
+      "id": "c5567c95ea90",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-07-29T21:48:07+00:00"
+    },
+    {
+      "id": "f58acc0b9d8f",
+      "title": "Captaincy question looms for KKR after Rahane retirement",
+      "url": "https://www.cricinfo.com/ci/content/story/1548128.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:56:28+00:00"
+    },
+    {
+      "id": "488779a6c985",
+      "title": "UAE qualify for 2027 Under-19 Women's T20 World Cup by winning Asia Qualifier",
+      "url": "https://www.cricinfo.com/ci/content/story/1548110.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:53:13+00:00"
+    },
+    {
+      "id": "29c1f37c5f0a",
+      "title": "Joey Evison agrees Sussex switch",
+      "url": "https://www.cricinfo.com/ci/content/story/1548118.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:46:05+00:00"
+    },
+    {
+      "id": "fab57c686b1f",
+      "title": "Albie Morkel named head coach of Joburg Super Kings",
+      "url": "https://www.cricinfo.com/ci/content/story/1548113.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:15:18+00:00"
+    },
+    {
+      "id": "e23d9b57fc23",
+      "title": "Fleming late start confirms England's wasted summer",
+      "url": "https://www.cricinfo.com/ci/content/story/1548112.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:10:37+00:00"
+    },
+    {
+      "id": "d6d540cfcb47",
+      "title": "Shanto: Bangladesh fast bowlers will 'give Australia a tough time'",
+      "url": "https://www.cricinfo.com/ci/content/story/1548107.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T13:36:27+00:00"
+    },
+    {
+      "id": "84e20447610c",
+      "title": "Fleming named new England men's Test head coach, Root back as captain",
+      "url": "https://www.cricinfo.com/ci/content/story/1548095.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T13:07:05+00:00"
+    },
+    {
+      "id": "7d3db05bad31",
+      "title": "Dambulla, Colombo, Jaffna, Galle make late changes as playoffs race heats up",
+      "url": "https://www.cricinfo.com/ci/content/story/1548096.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T10:38:05+00:00"
+    },
+    {
+      "id": "dc58773bfce8",
+      "title": "Duckett 'surprised' by dip in Hundred crowds",
+      "url": "https://www.cricinfo.com/ci/content/story/1548062.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T08:09:47+00:00"
+    },
+    {
+      "id": "d10e0d7fb234",
+      "title": "Fleming favourite to take over as England Test head coach",
+      "url": "https://www.cricinfo.com/ci/content/story/1548059.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T08:08:41+00:00"
+    },
+    {
+      "id": "d1bc8b032b2b",
+      "title": "Hazlewood: I'd love to play more with Scotty Boland",
+      "url": "https://www.cricinfo.com/ci/content/story/1548089.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T07:09:54+00:00"
+    },
+    {
+      "id": "8a6155e806be",
+      "title": "Rahane announces retirement from international cricket and all formats",
+      "url": "https://www.cricinfo.com/ci/content/story/1548072.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T06:40:05+00:00"
+    },
+    {
+      "id": "d59169372257",
+      "title": "Adam Zampa joins Queensland, BBL club remains unknown",
+      "url": "https://www.cricinfo.com/ci/content/story/1548060.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T05:28:54+00:00"
+    },
+    {
+      "id": "d6eb53ec53f3",
+      "title": "Spirit's Proteas secure London Derby for first win of the campaign",
+      "url": "https://www.cricinfo.com/ci/content/story/1548053.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T22:11:37+00:00"
+    },
+    {
+      "id": "768c2ce0d91c",
+      "title": "Barnard stars for Bears as Surrey are undone",
+      "url": "https://www.cricinfo.com/ci/content/story/1548026.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T19:51:19+00:00"
+    },
+    {
+      "id": "7daa28982b31",
+      "title": "Ajinkya Rahane announces his retirement in his latest instagram post",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vajomk/ajinkya_rahane_announces_his_retirement_in_his/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T04:48:20+00:00"
+    },
+    {
+      "id": "17c1211e4207",
+      "title": "Stephen Fleming to be appointed England\u2019s new Test coach",
+      "url": "https://www.reddit.com/r/Cricket/comments/1va0z5n/stephen_fleming_to_be_appointed_englands_new_test/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T16:20:51+00:00"
+    },
+    {
+      "id": "7219162caa46",
+      "title": "The biggest Test partnership of all time",
+      "url": "https://www.reddit.com/r/Cricket/comments/1va2qjk/the_biggest_test_partnership_of_all_time/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T17:21:52+00:00"
+    },
+    {
+      "id": "039ab41df427",
+      "title": "R Ashwin emerges as frontrunner to replace Ajit Agarkar as chief selector: Report",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vas8yu/r_ashwin_emerges_as_frontrunner_to_replace_ajit/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T12:28:20+00:00"
+    },
+    {
+      "id": "8732eeb83a15",
+      "title": "Stephen Fleming named England Men's Test coach with Joe Root returning as captain",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vap8h2/stephen_fleming_named_england_mens_test_coach/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T09:59:26+00:00"
+    },
+    {
+      "id": "abf10f2603f1",
+      "title": "Bajan cricketers give Sir Garfield Sobers one final guard of honour at Kensington Oval",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vat11e/bajan_cricketers_give_sir_garfield_sobers_one/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T13:01:33+00:00"
+    },
+    {
+      "id": "ac1afe8e16ed",
+      "title": "Saltburn C.C. issue a statement regarding the, 'Clicky Ponting' scandal.",
+      "url": "https://www.reddit.com/r/Cricket/comments/1va76wg/saltburn_cc_issue_a_statement_regarding_the/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T19:57:28+00:00"
+    },
+    {
+      "id": "0e3202ec33d6",
+      "title": "Duckett 'surprised' by dip in Hundred crowds",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vajjsa/duckett_surprised_by_dip_in_hundred_crowds/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T04:41:07+00:00"
+    },
+    {
+      "id": "465de494e0ec",
+      "title": "Irfan Pathan questions Auqib Nabi\u2019s omission from squads for SL Tests: \u2018What signal are we sending to domestic cricketers?\u2019",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vas8ki/irfan_pathan_questions_auqib_nabis_omission_from/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T12:27:49+00:00"
+    },
+    {
+      "id": "078a276a9f07",
+      "title": "Japan squads named for the 2026 Asian Games",
+      "url": "https://www.reddit.com/r/Cricket/comments/1va0vt2/japan_squads_named_for_the_2026_asian_games/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T16:17:43+00:00"
+    },
+    {
+      "id": "8af18958c657",
+      "title": "Mohammed Shami's India future: Have the selectors finally looked past the Bengal pace ace?",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vas3au/mohammed_shamis_india_future_have_the_selectors/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T12:21:35+00:00"
+    },
+    {
+      "id": "f04f886792a4",
+      "title": "From Spain, Nigeria to Japan \u2013 What would an expanded 32-team T20 World Cup look like?",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vaf1a2/from_spain_nigeria_to_japan_what_would_an/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T01:08:54+00:00"
+    },
+    {
+      "id": "5c6b6c8ad443",
+      "title": "Live: State Funeral of The Right Excellent Sir Garfield St. Auburn Sobers",
+      "url": "https://www.reddit.com/r/Cricket/comments/1v9zlf5/live_state_funeral_of_the_right_excellent_sir/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-29T15:33:10+00:00"
+    },
+    {
+      "id": "d1470db9c257",
+      "title": "Ishan Kishan reaches No. 3 on the all-time ICC T20I batting ratings leaderboard",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vangvt/ishan_kishan_reaches_no_3_on_the_alltime_icc_t20i/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T08:16:36+00:00"
+    },
+    {
+      "id": "11e629efd7ab",
+      "title": "Michael Vaughan: Fleming should end his holiday and start with England now",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vauikj/michael_vaughan_fleming_should_end_his_holiday/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-07-30T14:01:45+00:00"
+    },
+    {
+      "id": "6903dfd3bbdd",
+      "title": "Uefa to boycott World Cup if Fifa plans approved",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T15:19:54+00:00"
+    },
+    {
+      "id": "de0193912a97",
+      "title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T12:31:22+00:00"
+    },
+    {
+      "id": "13e56f9017bb",
+      "title": "Challenging times ahead for Newcastle - Shearer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T15:10:54+00:00"
+    },
+    {
+      "id": "b1f8918d16ee",
+      "title": "Howe to leave Newcastle with Jaissle expected to replace him",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T12:51:32+00:00"
+    },
+    {
+      "id": "1b044f6a5c2b",
+      "title": "Newcastle captain Guimaraes expected to join Arsenal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T14:39:37+00:00"
+    },
+    {
+      "id": "f18ade5b88ab",
+      "title": "Premier League clubs agree EFL funding proposal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2r015jjl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T14:41:15+00:00"
+    },
+    {
+      "id": "0f04ce38e6e5",
+      "title": "Four pointers to most open Premier League title race in years",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T07:01:01+00:00"
+    },
+    {
+      "id": "358dc6083bd1",
+      "title": "The winner who played for Tuchel - potential Newcastle boss Jaissle",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8eglx37gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T10:56:32+00:00"
+    },
+    {
+      "id": "5f925ee12889",
+      "title": "Minimum 10-match ban for discrimination - FA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T14:00:36+00:00"
+    },
+    {
+      "id": "31a5f72628e9",
+      "title": "'Ready to write Chelsea story' - Lacroix makes \u00a352m move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T10:03:45+00:00"
+    },
+    {
+      "id": "83ed9c2d4d3e",
+      "title": "South Africa's Makhanya becomes Rangers' eighth summer signing",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T14:03:15+00:00"
+    },
+    {
+      "id": "0331302e3507",
+      "title": "Cristiano Ronaldo :\u201cMy son Mateo watches YouTube comps of Mbapp\u00e9, Bellingham and Camavinga. and he\u2019ll tell me, \u2018Mbapp\u00e9 is better than you.\u2019 I tell him, \u2018But I\u2019ve scored more goals.\u2019 Then I\u2019ll remind him Mbapp\u00e9 missed a penalty\u2026 and he\u2019ll reply, \u2018You missed one too.\u2019\u201d",
+      "url": "https://www.reddit.com/r/soccer/comments/1vahwab/cristiano_ronaldo_my_son_mateo_watches_youtube/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T03:19:30+00:00"
+    },
+    {
+      "id": "e187248453ad",
+      "title": "UEFA calls emergency meeting as opposition to Fifa plan hardens [CONCACAF and AFC support UEFA] | The Guardian",
+      "url": "https://www.reddit.com/r/soccer/comments/1va6k4r/uefa_calls_emergency_meeting_as_opposition_to/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-29T19:35:03+00:00"
+    },
+    {
+      "id": "1a1b15501b25",
+      "title": "[Arancha Rodriguez] Real Madrid's exit operation for their players is stuck because no one wants to leave. All of the 25 spots in the squad are locked with existing players leaving no room for arrivals.",
+      "url": "https://www.reddit.com/r/soccer/comments/1va2wtd/arancha_rodriguez_real_madrids_exit_operation_for/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-29T17:27:56+00:00"
+    },
+    {
+      "id": "5d6c0047ce2e",
+      "title": "France calls emergency talks with European football over FIFA plan [The French government has confirmed that an emergency meeting of Europe\u2019s football governing bodies will be held this Wednesday to analyse FIFA\u2019s intention to open its commercial activities to private investors]",
+      "url": "https://www.reddit.com/r/soccer/comments/1va129m/france_calls_emergency_talks_with_european/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-29T16:23:52+00:00"
+    },
+    {
+      "id": "ea77282c88f3",
+      "title": "UEFA Vice President G. Gravina: \u201cI have long denounced the political interference accepted by Infantino. Now we discover that they want to sell a stake in the organization that holds the helm of football to the brother of the U.S. president\u2019s son-in-law.\u201d",
+      "url": "https://www.reddit.com/r/soccer/comments/1vasp9u/uefa_vice_president_g_gravina_i_have_long/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T12:47:46+00:00"
+    },
+    {
+      "id": "441a3825f62b",
+      "title": "[Romano] EXCLUSIVE: Eddie Howe set to part ways with Newcastle with immediate effect. Big developments expected at #NUFC with decision to change + talks already starting for his replacement.",
+      "url": "https://www.reddit.com/r/soccer/comments/1vamy3z/romano_exclusive_eddie_howe_set_to_part_ways_with/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T07:46:09+00:00"
+    },
+    {
+      "id": "0f67726c92b7",
+      "title": "[Luke Edwards] (On Howe's departure from newcastle) \"The decision was taken as Howe believes the club will eventually sell captain Bruno Guimaraes to Arsenal this summer, meaning he would have lost four prominent players in just 12 months.\"",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaokj4/luke_edwards_on_howes_departure_from_newcastle/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T09:20:42+00:00"
+    },
+    {
+      "id": "906843653535",
+      "title": "[Martyn Ziegler] Exclusive: Uefa to boycott World Cup in protest against Fifa sell-off. European governing body takes decision at crisis meeting in move that would essentially kill Gianni Infantino\u2019s plan to sell stakes in tournament to private investors",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaw2se/martyn_ziegler_exclusive_uefa_to_boycott_world/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T15:00:24+00:00"
+    },
+    {
+      "id": "c6b4e79180eb",
+      "title": "European Leagues Statement: The WC should not be for sale. It is not FIFA President\u2019s private equity asset. Its value is created day in and day out by leagues, clubs, players and supporters who are being left without a voice or a vote on this matter. European Leagues firmly reject this proposal.",
+      "url": "https://www.reddit.com/r/soccer/comments/1v9zkb3/european_leagues_statement_the_wc_should_not_be/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-29T15:32:02+00:00"
+    },
+    {
+      "id": "df7af95474ae",
+      "title": "[COPE] Real Madrid and Fulham have reached an agreement for Gonzalo Garcia. He will join the English club for around \u20ac70 million.",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaoxg0/cope_real_madrid_and_fulham_have_reached_an/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T09:41:44+00:00"
+    },
+    {
+      "id": "f9b75c1f7322",
+      "title": "Ancelotti \"You might receive criticism because the team had less possession than Norway, but the characteristics of the players are not suited to playing a possession-based game. If new players emerge, a very high-quality midfielder, obviously you can play a more possession-based game.\"",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaeof0/ancelotti_you_might_receive_criticism_because_the/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T00:52:59+00:00"
+    },
+    {
+      "id": "2621039430ac",
+      "title": "MLS All Stars [2]-1 Liga MX All Stars - Son Heung-min 23'",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaemxl/mls_all_stars_21_liga_mx_all_stars_son_heungmin_23/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T00:51:08+00:00"
+    },
+    {
+      "id": "d07da7242a24",
+      "title": "Players with the highest number of Man of the Match trophies in a season since 2009",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaowgl/players_with_the_highest_number_of_man_of_the/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T09:40:08+00:00"
+    },
+    {
+      "id": "308782df9634",
+      "title": "FIFA plans to speed up launch of new World Cup spin-off",
+      "url": "https://www.reddit.com/r/soccer/comments/1vank7k/fifa_plans_to_speed_up_launch_of_new_world_cup/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T08:21:55+00:00"
+    },
+    {
+      "id": "5b102575f986",
+      "title": "European officials are considering Qatari sports executive Nasser al-Khelaifi as a potential challenger to Gianni Infantino in next year\u2019s election for FIFA president.",
+      "url": "https://www.reddit.com/r/soccer/comments/1vaoy9k/european_officials_are_considering_qatari_sports/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-07-30T09:43:11+00:00"
+    },
+    {
+      "id": "ab8176b6cf92",
+      "title": "Luka Doncic is hosting the entire Los Angeles Lakers roster in Slovenia for a four-day minicamp in August, a source close to the Lakers told ESPN. The itinerary will include workouts, golf and some Ljubljana tourism and bonding ahead of training camp.",
+      "url": "https://www.reddit.com/r/nba/comments/1va0g5o/luka_doncic_is_hosting_the_entire_los_angeles/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T16:02:49+00:00"
+    },
+    {
+      "id": "3717d831e96a",
+      "title": "Lebron James' No. 23 Sixers jersey is the best-selling jersey ever for any player in the first 48 hours after their announcement",
+      "url": "https://www.reddit.com/r/nba/comments/1va9bde/lebron_james_no_23_sixers_jersey_is_the/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T21:15:11+00:00"
+    },
+    {
+      "id": "058b9aa1baa8",
+      "title": "Following the Pablo Torre Finds Out episode, WPRI of Rhode Island reporting: NBA superstar Kawhi Leonard\u2019s secret stake in Rhode Island soccer project revealed",
+      "url": "https://www.reddit.com/r/nba/comments/1vafc3v/following_the_pablo_torre_finds_out_episode_wpri/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T01:22:19+00:00"
+    },
+    {
+      "id": "9abdd9e0e64f",
+      "title": "[Dr. Nirav Pandya M.D] We studied every NBA Achilles tear from 2014-2025 (19 players) to find out what happens in the games right before the injury. The finding: minutes played spiked significantly in the 10-15 games before rupture \u2014 even though season-long workload looked totally normal.",
+      "url": "https://www.reddit.com/r/nba/comments/1va7ip2/dr_nirav_pandya_md_we_studied_every_nba_achilles/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T20:09:01+00:00"
+    },
+    {
+      "id": "3759b017a58d",
+      "title": "Sources: NBA probe into Kawhi Leonard's Clippers Aspiration deal could stretch into 2027",
+      "url": "https://www.reddit.com/r/nba/comments/1va9b0m/sources_nba_probe_into_kawhi_leonards_clippers/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T21:14:48+00:00"
+    },
+    {
+      "id": "b44854ac0a98",
+      "title": "PTFO: We Followed Kawhi Leonard's Money Trail After Aspiration",
+      "url": "https://www.reddit.com/r/nba/comments/1vadias/ptfo_we_followed_kawhi_leonards_money_trail_after/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T00:01:42+00:00"
+    },
+    {
+      "id": "8373dd07d0ea",
+      "title": "[The Old Man And The Three] Shaquille O'Neal on LeBron James: \"LeBron is a modest, arrogant guy, for example. He's loving the fact that he's a number one scorer in the league. But guess what? I'm going to put this sh*t so far out of reach, nobody will ever do it.\"",
+      "url": "https://www.reddit.com/r/nba/comments/1vads4v/the_old_man_and_the_three_shaquille_oneal_on/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T00:13:21+00:00"
+    },
+    {
+      "id": "42c4dc77169e",
+      "title": "Charles Barkley threatened to retire if the Suns didn't trade him to a contender: If I play again, it's going to have to be an ideal scenario. I'mma have to be with some really good players\u2014guys who really want to win a championship... I don't want to rebuild. I don't want to play on a mediocre team",
+      "url": "https://www.reddit.com/r/nba/comments/1vaqs6w/charles_barkley_threatened_to_retire_if_the_suns/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T11:19:57+00:00"
+    },
+    {
+      "id": "b7395da2fcd8",
+      "title": "LaMelo Ball sued by Cam Newton\u2019s family business for not paying Charlotte rent",
+      "url": "https://www.reddit.com/r/nba/comments/1vac96t/lamelo_ball_sued_by_cam_newtons_family_business/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T23:09:35+00:00"
+    },
+    {
+      "id": "e08a46f0d256",
+      "title": "The Warriors decided not to trade for Jaylen Brown because they felt he wouldn't be able to carry the franchise after Steph Curry retires",
+      "url": "https://www.reddit.com/r/nba/comments/1va7u7w/the_warriors_decided_not_to_trade_for_jaylen/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T20:20:26+00:00"
+    },
+    {
+      "id": "1f680b159fd8",
+      "title": "LaMelo Ball is being sued by a former charlotte landlord who alleges LaMelo still owes more than $181,000 in unpaid rent and $90000 in unpaid HOA fines.",
+      "url": "https://www.reddit.com/r/nba/comments/1vaevkm/lamelo_ball_is_being_sued_by_a_former_charlotte/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T01:01:46+00:00"
+    },
+    {
+      "id": "05b9736ec7f1",
+      "title": "KD went 561 days in between NBA games due to an Achilles tear. He's has nearly identical production both before and after.",
+      "url": "https://www.reddit.com/r/nba/comments/1va194b/kd_went_561_days_in_between_nba_games_due_to_an/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-29T16:30:20+00:00"
+    },
+    {
+      "id": "676001a37503",
+      "title": "LeBron James, ESPN close to major deal for \u2018Last Dance\u2019-esque documentary: Sources",
+      "url": "https://www.reddit.com/r/nba/comments/1vatupg/lebron_james_espn_close_to_major_deal_for_last/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T13:35:29+00:00"
+    },
+    {
+      "id": "458b149409d8",
+      "title": "[Highlight] Trail Blazers\u2019 4th String PG, Scoot Henderson, Shows Off Insane Athelticism",
+      "url": "https://www.reddit.com/r/nba/comments/1vafpjx/highlight_trail_blazers_4th_string_pg_scoot/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T01:39:29+00:00"
+    },
+    {
+      "id": "32edf5a080d5",
+      "title": "Breaking: Josh Richardson has announced his retirement on Instagram.",
+      "url": "https://www.reddit.com/r/nba/comments/1vahsy8/breaking_josh_richardson_has_announced_his/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-07-30T03:15:08+00:00"
+    }
+  ]
+}
