@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "fetched_at": "2026-08-13T14:49:26.668476+00:00",
-  "item_count": 150,
+  "fetched_at": "2026-08-13T15:03:08.710711+00:00",
+  "item_count": 149,
   "items": [
     {
       "id": "889ea1c117f1",
@@ -9,8 +9,17 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "source": "Hacker News",
       "category": "tech",
-      "score": 166,
+      "score": 186,
       "published_at": "2026-08-13T12:58:02+00:00"
+    },
+    {
+      "id": "c3c4b8561186",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 58,
+      "published_at": "2026-08-13T14:17:13+00:00"
     },
     {
       "id": "3ad94d7f16da",
@@ -18,7 +27,7 @@
       "url": "https://gloom.sh/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 54,
+      "score": 78,
       "published_at": "2026-08-13T13:52:32+00:00"
     },
     {
@@ -27,17 +36,8 @@
       "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
       "source": "Hacker News",
       "category": "tech",
-      "score": 43,
+      "score": 59,
       "published_at": "2026-08-13T13:28:45+00:00"
-    },
-    {
-      "id": "c3c4b8561186",
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 27,
-      "published_at": "2026-08-13T14:17:13+00:00"
     },
     {
       "id": "037087cf100a",
@@ -45,17 +45,8 @@
       "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
       "source": "Hacker News",
       "category": "tech",
-      "score": 24,
+      "score": 30,
       "published_at": "2026-08-13T14:11:51+00:00"
-    },
-    {
-      "id": "3c4a729d1f7b",
-      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 18,
-      "published_at": "2026-08-13T13:36:19+00:00"
     },
     {
       "id": "dd53fcf32880",
@@ -63,7 +54,7 @@
       "url": "https://github.com/fellowgeek/mcp-memory",
       "source": "Hacker News",
       "category": "tech",
-      "score": 17,
+      "score": 22,
       "published_at": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -72,7 +63,7 @@
       "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 16,
+      "score": 27,
       "published_at": "2026-08-13T13:48:14+00:00"
     },
     {
@@ -81,8 +72,17 @@
       "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 28,
+      "score": 33,
       "published_at": "2026-08-13T13:00:24+00:00"
+    },
+    {
+      "id": "3c4a729d1f7b",
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 19,
+      "published_at": "2026-08-13T13:36:19+00:00"
     },
     {
       "id": "d72a1d1ef88a",
@@ -90,7 +90,7 @@
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
       "source": "Hacker News",
       "category": "tech",
-      "score": 5,
+      "score": 8,
       "published_at": "2026-08-13T14:26:41+00:00"
     },
     {
@@ -99,17 +99,8 @@
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 214,
+      "score": 222,
       "published_at": "2026-08-13T12:09:50+00:00"
-    },
-    {
-      "id": "1afb959c0f7f",
-      "title": "Time to Move On: Querying Without Nulls and Bags",
-      "url": "https://arxiv.org/abs/2608.10863",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 8,
-      "published_at": "2026-08-13T13:54:56+00:00"
     },
     {
       "id": "a4a95721c707",
@@ -117,26 +108,17 @@
       "url": "https://openai.com/codex/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 322,
+      "score": 324,
       "published_at": "2026-08-13T04:53:41+00:00"
     },
     {
-      "id": "0aee94c7bae4",
-      "title": "US vs. UK Baby Names 2025: The Biggest Top Differences Visualized",
-      "url": "https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025",
+      "id": "1afb959c0f7f",
+      "title": "Time to Move On: Querying Without Nulls and Bags",
+      "url": "https://arxiv.org/abs/2608.10863",
       "source": "Hacker News",
       "category": "tech",
-      "score": 5,
-      "published_at": "2026-08-13T14:23:43+00:00"
-    },
-    {
-      "id": "2466f394c5cf",
-      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
-      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 3,
-      "published_at": "2026-08-13T14:22:54+00:00"
+      "score": 13,
+      "published_at": "2026-08-13T13:54:56+00:00"
     },
     {
       "id": "fbdfaa10f2aa",
@@ -144,17 +126,26 @@
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
       "category": "tech",
-      "score": 996,
+      "score": 999,
       "published_at": "2026-08-12T16:04:50+00:00"
     },
     {
-      "id": "550006791bdd",
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "id": "2466f394c5cf",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 1129,
-      "published_at": "2026-08-12T14:22:30+00:00"
+      "score": 4,
+      "published_at": "2026-08-13T14:22:54+00:00"
+    },
+    {
+      "id": "22d54f321e3f",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 4,
+      "published_at": "2026-08-13T14:18:34+00:00"
     },
     {
       "id": "a65bb0a03560",
@@ -162,7 +153,7 @@
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "source": "Hacker News",
       "category": "tech",
-      "score": 78,
+      "score": 79,
       "published_at": "2026-08-13T13:05:29+00:00"
     },
     {
@@ -171,17 +162,8 @@
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "source": "Hacker News",
       "category": "tech",
-      "score": 689,
+      "score": 691,
       "published_at": "2026-08-12T15:01:17+00:00"
-    },
-    {
-      "id": "8bd809d7a009",
-      "title": "Why Are Rivers So Mathematical?",
-      "url": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
-      "source": "Hacker News",
-      "category": "tech",
-      "score": 8,
-      "published_at": "2026-08-13T13:18:34+00:00"
     },
     {
       "id": "d2535f023812",
@@ -189,7 +171,7 @@
       "url": "https://zed.dev/blog/introducing-delta",
       "source": "Hacker News",
       "category": "tech",
-      "score": 622,
+      "score": 626,
       "published_at": "2026-08-12T18:19:59+00:00"
     },
     {
@@ -198,7 +180,7 @@
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
       "source": "Hacker News",
       "category": "tech",
-      "score": 236,
+      "score": 237,
       "published_at": "2026-08-12T23:26:21+00:00"
     },
     {
@@ -207,17 +189,26 @@
       "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
       "source": "Hacker News",
       "category": "tech",
-      "score": 46,
+      "score": 51,
       "published_at": "2026-08-13T12:49:21+00:00"
     },
     {
       "id": "763523653d07",
-      "title": "Nine PBS could lose 70 years of archival materials after cloud vendor defunct",
+      "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
       "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
       "source": "Hacker News",
       "category": "tech",
-      "score": 39,
+      "score": 43,
       "published_at": "2026-08-13T13:14:12+00:00"
+    },
+    {
+      "id": "553550f02146",
+      "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+      "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 10,
+      "published_at": "2026-08-13T13:57:01+00:00"
     },
     {
       "id": "d4d84aaee46b",
@@ -337,6 +328,15 @@
       "published_at": "2026-08-13T08:01:13+00:00"
     },
     {
+      "id": "55973b54ec92",
+      "title": "Feeling stressed and overworked? Don't worry - OpenAI CEO Sam Altman thinks that we just love to work, and that's why AI won't result in a four-day working week",
+      "url": "https://www.reddit.com/r/technology/comments/1vn9mh9/feeling_stressed_and_overworked_dont_worry_openai/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-08-13T12:41:46+00:00"
+    },
+    {
       "id": "bbb3d32e1880",
       "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000",
       "url": "https://www.reddit.com/r/technology/comments/1vmts3r/nvidia_doubles_rtx_pro_6000_blackwells_msrp_to_a/",
@@ -344,15 +344,6 @@
       "category": "tech",
       "score": null,
       "published_at": "2026-08-12T23:11:52+00:00"
-    },
-    {
-      "id": "06c71ca52d01",
-      "title": "74% of enterprises run AI in production, but half can't prove it pays off",
-      "url": "https://www.reddit.com/r/technology/comments/1vmyovl/74_of_enterprises_run_ai_in_production_but_half/",
-      "source": "r/technology",
-      "category": "tech",
-      "score": null,
-      "published_at": "2026-08-13T02:52:03+00:00"
     },
     {
       "id": "e2d732a58526",
@@ -868,15 +859,6 @@
       "published_at": "2026-08-12T23:00:30+00:00"
     },
     {
-      "id": "a94fbe3dcdf6",
-      "title": "Post Day Thread: 1st Test - Australia vs Bangladesh, Day 1",
-      "url": "https://www.reddit.com/r/Cricket/comments/1vn4h3e/post_day_thread_1st_test_australia_vs_bangladesh/",
-      "source": "r/Cricket",
-      "category": "cricket",
-      "score": null,
-      "published_at": "2026-08-13T08:04:30+00:00"
-    },
-    {
       "id": "ca86f924c888",
       "title": "Glenn McGrath turned to me and said, 'Hey Buddy, I average more than you' - Matthew Hayden",
       "url": "https://www.reddit.com/r/Cricket/comments/1vmzieb/glenn_mcgrath_turned_to_me_and_said_hey_buddy_i/",
@@ -884,6 +866,15 @@
       "category": "cricket",
       "score": null,
       "published_at": "2026-08-13T03:31:49+00:00"
+    },
+    {
+      "id": "a94fbe3dcdf6",
+      "title": "Post Day Thread: 1st Test - Australia vs Bangladesh, Day 1",
+      "url": "https://www.reddit.com/r/Cricket/comments/1vn4h3e/post_day_thread_1st_test_australia_vs_bangladesh/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-08-13T08:04:30+00:00"
     },
     {
       "id": "7f3281419b37",
@@ -976,6 +967,15 @@
       "published_at": "2026-08-13T11:05:03+00:00"
     },
     {
+      "id": "0735ca048a52",
+      "title": "How Premier League shirts will change with gambling sponsor ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-08-13T14:57:15+00:00"
+    },
+    {
       "id": "d41350ad4964",
       "title": "Why half of England's World Cup defenders are on the move",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj63p367gpyo?at_medium=RSS&at_campaign=rss",
@@ -1037,15 +1037,6 @@
       "category": "football",
       "score": null,
       "published_at": "2026-08-13T10:17:26+00:00"
-    },
-    {
-      "id": "b651c669fcc6",
-      "title": "Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "score": null,
-      "published_at": "2026-08-12T23:16:57+00:00"
     },
     {
       "id": "ef4faec394b6",
@@ -1327,15 +1318,6 @@
       "published_at": "2026-08-12T15:28:46+00:00"
     },
     {
-      "id": "1a0777b609da",
-      "title": "Lebron Comments on Westbrook retirement post",
-      "url": "https://www.reddit.com/r/nba/comments/1vmqxxv/lebron_comments_on_westbrook_retirement_post/",
-      "source": "r/nba",
-      "category": "nba",
-      "score": null,
-      "published_at": "2026-08-12T21:17:38+00:00"
-    },
-    {
       "id": "80324b0e28e0",
       "title": "Jeff Teague on the biggest lesson Westbrook taught him on the court",
       "url": "https://www.reddit.com/r/nba/comments/1vn0plm/jeff_teague_on_the_biggest_lesson_westbrook/",
@@ -1343,6 +1325,15 @@
       "category": "nba",
       "score": null,
       "published_at": "2026-08-13T04:33:40+00:00"
+    },
+    {
+      "id": "1a0777b609da",
+      "title": "Lebron Comments on Westbrook retirement post",
+      "url": "https://www.reddit.com/r/nba/comments/1vmqxxv/lebron_comments_on_westbrook_retirement_post/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-08-12T21:17:38+00:00"
     },
     {
       "id": "92785c0bdb17",

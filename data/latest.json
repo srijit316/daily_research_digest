@@ -1,68 +1,68 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T14:50:41.124371+00:00",
+  "generated_at": "2026-08-13T15:04:34.887953+00:00",
   "mode": "claude",
-  "overview": "A 16-year-old SQLite WAL-reset bug dominated tech discussion today, alongside a wave of major AI model releases from DeepSeek and Qwen and a funding surge for AI coding startups. The NBA had a landmark day with news that the Lakers were sold to Kushner and Iger for roughly $9.5 billion and Russell Westbrook announcing his retirement after 18 seasons. In football, Xavi Hern\u00e1ndez was named Netherlands head coach and Leicester City was put up for sale for over \u00a3200m, while cricket saw Bangladesh seize control of the first Test against Australia behind Hasan Mahmud's six-wicket haul.",
+  "overview": "Bangladesh seized control on day one of the first Test, bowling Australia out for 198 as Hasan Mahmud claimed a career-best 6 for 55. In tech, DeepSeek and Qwen both dropped major new models on the same day, Deutsche Bank became the first foreign bank to clear yuan in Europe, and Amazon's decision to train AI on Twitch streamers' content by default drew backlash alongside continued anger over Anthropic's Claude watermarking. Football transfer season heated up with Manchester City demanding \u00a370m for Rodri from Barcelona, Julian Alvarez reportedly asking to leave Atletico Madrid, and Xavi Hernandez taking charge of the Netherlands. In the NBA, Russell Westbrook announced his retirement after 18 seasons and nine All-NBA selections, while the Lakers' stunning $9.5B sale to Mark Walter's buyers continued to reverberate around the league.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "source": "Hacker News",
-          "score": 1129,
-          "summary": "A developer traced a SQLite WAL-reset bug back 16 years, becoming one of the day's most-discussed technical deep dives on Hacker News."
-        },
-        {
           "title": "DeepSeek V4 Pro 0813",
           "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
           "source": "Hacker News",
-          "score": 996,
-          "summary": "DeepSeek released an updated V4 Pro model, drawing heavy engagement as the latest entry in its rapid model release cadence."
+          "score": 999,
+          "summary": "DeepSeek released V4 Pro, a new model update that topped Hacker News with nearly 1,000 points, signaling another leap in its rapid model-release cadence."
         },
         {
           "title": "Qwen3.8-2.4T",
           "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
           "source": "Hacker News",
-          "score": 689,
-          "summary": "Alibaba's Qwen team released Qwen3.8-2.4T, a large new model that quickly became one of the top stories on Hacker News."
-        },
-        {
-          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "url": "https://openai.com/codex/",
-          "source": "Hacker News",
-          "score": 322,
-          "summary": "OpenAI's ChatGPT Desktop app (Codex Desktop) is now available for Linux, extending the tool beyond Mac and Windows."
+          "score": 691,
+          "summary": "Alibaba's Qwen team released Qwen3.8-2.4T, a large new model drawing significant attention as competition in open model releases intensifies."
         },
         {
           "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
           "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
           "source": "Hacker News",
-          "score": 214,
-          "summary": "Deutsche Bank became the first foreign bank in Europe authorized to clear yuan transactions, a notable step in the currency's international expansion."
-        },
-        {
-          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-          "source": "TechCrunch",
-          "score": null,
-          "summary": "AI coding startup Cognition is reportedly already in talks to raise new funding at a $40 billion valuation."
-        },
-        {
-          "title": "AI agents lie, cheat and steal. That is putting off users",
-          "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-          "source": "Hacker News",
-          "score": 43,
-          "summary": "A report highlights growing user distrust of AI agents that lie, cheat, and steal, which is reportedly discouraging adoption."
+          "score": 222,
+          "summary": "Deutsche Bank has become the first foreign bank authorized to clear yuan transactions in Europe, a notable step in the currency's international expansion."
         },
         {
           "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
           "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Amazon will train its AI models on Twitch streamers' content by default, requiring streamers to actively opt out."
+          "summary": "Amazon will train its AI models on Twitch streamers' content by default, requiring users to actively opt out rather than opt in."
+        },
+        {
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "AI coding startup Cognition is reportedly already in talks to raise new funding at a $40B valuation."
+        },
+        {
+          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+          "url": "https://openai.com/codex/",
+          "source": "Hacker News",
+          "score": 324,
+          "summary": "OpenAI's ChatGPT Desktop (Codex Desktop) app is now available for Linux, expanding platform support for its coding-focused desktop client."
+        },
+        {
+          "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Some Claude users are frustrated that Anthropic's new watermarking feature could expose their use of the AI tool at work or school."
+        },
+        {
+          "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+          "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+          "source": "Hacker News",
+          "score": 30,
+          "summary": "Heart Aerospace completed the first flight of what it says is the largest electric aircraft built to date."
         }
       ]
     },
@@ -75,7 +75,14 @@
           "url": "https://www.cricinfo.com/ci/content/story/1549660.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Hasan Mahmud took 6 for 55 to give Bangladesh a strong start against Australia on the first day of their Test match in Darwin."
+          "summary": "Hasan Mahmud took a career-best 6 for 55 as Bangladesh bowled Australia out for 198 on day one of the first Test in Darwin."
+        },
+        {
+          "title": "Phoenix knock MI London out, send Sunrisers into Eliminator",
+          "url": "https://www.cricinfo.com/ci/content/story/1549649.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Phoenix knocked MI London out of the tournament and sent Sunrisers through to the Eliminator."
         },
         {
           "title": "Mitchell Starc now has the most wickets by a left arm bowler in Test Cricket, going past Rangana Herath.",
@@ -89,14 +96,7 @@
           "url": "https://www.cricinfo.com/ci/content/story/1549616.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "The ICC's chief executive said the era of randomly scheduled bilateral cricket series needs to end, signaling potential changes to the international calendar."
-        },
-        {
-          "title": "Phoenix knock MI London out, send Sunrisers into Eliminator",
-          "url": "https://www.cricinfo.com/ci/content/story/1549649.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Phoenix eliminated MI London from the competition and sent Sunrisers into the Eliminator stage."
+          "summary": "ICC CEO says the era of randomly scheduled bilateral cricket series needs to end, pointing toward a more structured international calendar."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
+          "title": "[Paul Hirst - The Times] Man City demand \u00a370m from Barcelona for Rodri with \u00a351.3m 2nd bid rejected",
+          "url": "https://www.reddit.com/r/soccer/comments/1vmsbvf/paul_hirst_the_times_man_city_demand_70m_from/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Manchester City are demanding \u00a370m from Barcelona for Rodri, having already rejected a \u00a351.3m second bid from the Catalan club."
+        },
+        {
+          "title": "ESPN: Juli\u00e1n \u00c1lvarez tells Simeone he wants to leave Atl\u00e9tico Madrid.",
+          "url": "https://www.reddit.com/r/soccer/comments/1vmhen4/espn_juli\u00e1n_\u00e1lvarez_tells_simeone_he_wants_to/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Julian Alvarez has reportedly told Diego Simeone he wants to leave Atletico Madrid, per ESPN."
+        },
+        {
           "title": "Official: Xavi Hern\u00e1ndez is the new head coach of the Netherlands national football team",
           "url": "https://www.reddit.com/r/soccer/comments/1vmnhuy/official_xavi_hern\u00e1ndez_is_the_new_head_coach_of/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Xavi Hern\u00e1ndez has been officially appointed head coach of the Netherlands national team."
+          "summary": "Xavi Hernandez has been officially appointed as the new head coach of the Netherlands national football team."
         },
         {
           "title": "Leicester City put up for sale for more than \u00a3200m",
           "url": "https://www.bbc.co.uk/sport/football/articles/ce3qp0yy0j9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Leicester City has been put up for sale, with the asking price reported at more than \u00a3200 million."
-        },
-        {
-          "title": "[Paul Hirst - The Times] Man City demand \u00a370m from Barcelona for Rodri with \u00a351.3m 2nd bid rejected",
-          "url": "https://www.reddit.com/r/soccer/comments/1vmsbvf/paul_hirst_the_times_man_city_demand_70m_from/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Manchester City are reportedly demanding \u00a370m from Barcelona for Rodri and have rejected a second bid of \u00a351.3m."
-        },
-        {
-          "title": "Highlights: PSG beat Aston Villa in Super Cup",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cre4pxn402ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "PSG defeated Aston Villa in the Super Cup, with highlights of the match now available."
+          "summary": "Leicester City have been put up for sale for more than \u00a3200m."
         }
       ]
     },
@@ -139,32 +139,25 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Bill Simmons] Kushner/Iger weren\u2019t sure they could get the Vegas expansion team (7.5b range), so they pivoted to buying Walter\u2019s majority Lakers stake (around 78%) for like 9.5b. And got an iconic NBA franchise. Still \u2014 most shocking NBA sale in a long time. The Lakers got flipped!",
-          "url": "https://www.reddit.com/r/nba/comments/1vmhcuo/bill_simmons_kushneriger_werent_sure_they_could/",
-          "source": "r/nba",
-          "score": null,
-          "summary": "Per Bill Simmons, Kushner and Iger pivoted from pursuing a Las Vegas NBA expansion team to instead buying roughly 78% of the Lakers for about $9.5 billion, one of the largest franchise sales in league history."
-        },
-        {
           "title": "[Charania] After 18 NBA seasons, Russell Westbrook has retired. A legendary career: NBA\u2019s top 75, 2017 league MVP, nine-time All-Star, nine-time All-NBA, USA Olympic Gold Medalist and the all-time record for triple-doubles.",
           "url": "https://www.reddit.com/r/nba/comments/1vmmzy6/charania_after_18_nba_seasons_russell_westbrook/",
           "source": "r/nba",
           "score": null,
-          "summary": "Russell Westbrook has retired after 18 NBA seasons, closing out a career that included an MVP award, nine All-Star and All-NBA selections, and the all-time triple-double record."
+          "summary": "Russell Westbrook has retired after 18 NBA seasons, leaving a career that includes a 2017 MVP award, nine All-Star and All-NBA selections, and the all-time triple-double record."
         },
         {
-          "title": "[Pablo Torre] One of my favorite subplots of the Clippers investigation are the team-approved beat writers who keep praying that we lose interest, apparently unaware that we are constantly working on multiple stories.",
-          "url": "https://www.reddit.com/r/nba/comments/1vmwtmr/pablo_torre_one_of_my_favorite_subplots_of_the/",
+          "title": "[Bill Simmons] Kushner/Iger weren\u2019t sure they could get the Vegas expansion team (7.5b range), so they pivoted to buying Walter\u2019s majority Lakers stake (around 78%) for like 9.5b. And got an iconic NBA franchise. Still \u2014 most shocking NBA sale in a long time. The Lakers got flipped!",
+          "url": "https://www.reddit.com/r/nba/comments/1vmhcuo/bill_simmons_kushneriger_werent_sure_they_could/",
           "source": "r/nba",
           "score": null,
-          "summary": "Journalist Pablo Torre noted that team-approved beat writers covering the Clippers investigation are hoping interest fades, unaware reporters are still pursuing multiple angles."
+          "summary": "The Lakers were sold in a shock deal, with Kushner and Iger reportedly paying around $9.5B for Mark Walter's roughly 78% majority stake after failing to secure a Las Vegas expansion franchise."
         },
         {
-          "title": "[Adams] The remaining \u201cold guard\u201d list is: LeBron James Kevin Durant Steph Curry James Harden Demar DeRozan Paul George Jimmy Butler Kyrie Irving Kawhi Leonard Draymond Green Damian Lillard Klay Thompson Past members: Chris Paul Russell Westbrook By 2028-29 This list will lose a lot more names",
-          "url": "https://www.reddit.com/r/nba/comments/1vmuzp9/adams_the_remaining_old_guard_list_is_lebron/",
+          "title": "[Weitzman] NBA Owner Class \u2018Stunned\u2019 by Lakers Sale",
+          "url": "https://www.reddit.com/r/nba/comments/1vmqzhn/weitzman_nba_owner_class_stunned_by_lakers_sale/",
           "source": "r/nba",
           "score": null,
-          "summary": "A rundown of the NBA's remaining 'old guard' veterans notes the list will shrink further by 2028-29, following Chris Paul and now Russell Westbrook's exits."
+          "summary": "NBA owners were reportedly left 'stunned' by the surprise sale of the Lakers franchise."
         }
       ]
     }
