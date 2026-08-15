@@ -2,7 +2,7 @@
 
 An autonomous personal news agent. Every morning, a GitHub Actions pipeline fetches tech and sports news from free public sources, has **Claude Code curate and summarize it**, and publishes the result to a GitHub Pages site — no servers, no paid APIs.
 
-**Live site:** `https://<username>.github.io/daily_research_digest/`
+**Live site:** `https://srijit316.github.io/daily_research_digest/`
 
 ## How it works
 
