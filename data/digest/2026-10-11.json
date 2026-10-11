@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:11:43.516122+00:00",
+  "mode": "claude",
+  "overview": "Tech news is dominated by fallout from strikes on Yandex data centers, with Hacker News tracking bot-traffic changes and Reddit linking the drop in Russian disinformation traffic to the outages. Satya Nadella warned that AI models should be assumed 'compromised' and need an 'emergency brake', while Cloudflare bought Deno and Samsung is reportedly cutting smartphone output by 30%. In football, Vinicius Junior's red card for pulling hair against Villarreal and Manchester United's worst start in 40 years led the talk, alongside the Liverpool v Man City clash. In cricket, India took a 2-1 lead in the T20I series and Hasan Mahmud made Test history with a hat-trick, while Paul George's Celtics preseason debut stood out in the NBA.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "3rd Yandex Cloud Data Center Was Hit",
+          "url": "https://status.yandex.cloud/en/incidents/2136",
+          "source": "Hacker News",
+          "score": 432,
+          "summary": "Reports say a third Yandex Cloud data center has been hit, extending the disruption to the Russian tech giant's infrastructure."
+        },
+        {
+          "title": "Bot traffic from Yandex",
+          "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+          "source": "Hacker News",
+          "score": 534,
+          "summary": "A discussion of bot traffic originating from Yandex, which drew heavy engagement on Hacker News."
+        },
+        {
+          "title": "Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+          "url": "https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Reddit reports that Russian disinformation bot traffic dropped sharply after Ukrainian drone strikes hit multiple Yandex data centers."
+        },
+        {
+          "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Microsoft CEO Satya Nadella says people should assume all AI models are 'compromised', a notable security warning from a major AI player."
+        },
+        {
+          "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Nadella says AI models need an 'emergency brake', adding to his comments on safeguards for the technology."
+        },
+        {
+          "title": "Cloudflare acquires Deno to improve its Workers programming model",
+          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Cloudflare has acquired Deno, aiming to improve the programming model for its Workers platform."
+        },
+        {
+          "title": "LineageOS 24.0",
+          "url": "https://lineageos.org/Changelog-32/",
+          "source": "Hacker News",
+          "score": 326,
+          "summary": "LineageOS 24.0 has been released, the latest major version of the popular open-source Android distribution."
+        },
+        {
+          "title": "Samsung is cutting smartphone production by 30% due to falling profitability \u2013 media reports",
+          "url": "https://www.reddit.com/r/technology/comments/1x2yj7m/samsung_is_cutting_smartphone_production_by_30/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Media reports say Samsung is cutting smartphone production by 30% because of falling profitability."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Arshdeep and Abhishek power India to 2-1 lead",
+          "url": "https://www.cricinfo.com/ci/content/story/1558036.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Arshdeep and Abhishek power India to a 2-1 lead in the series."
+        },
+        {
+          "title": "Hasan Mahmud becomes the first Bangladeshi pacer to take a Hattrick in Test Cricket",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x30xuo/hasan_mahmud_becomes_the_first_bangladeshi_pacer/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Hasan Mahmud becomes the first Bangladeshi pacer to take a Test hat-trick."
+        },
+        {
+          "title": "Australia in command after bowlers hunt as a pack to eke out 106-run lead",
+          "url": "https://www.cricinfo.com/ci/content/story/1557960.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Australia are in command against South Africa after their bowlers worked as a pack to build a 106-run lead."
+        },
+        {
+          "title": "Farhan and Sadaqat help Pakistan seal series in style",
+          "url": "https://www.cricinfo.com/ci/content/story/1558035.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Farhan and Sadaqat help Pakistan seal the series in style."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Vinicius Junior (Real Madrid) straight red card against Villarreal 73'",
+          "url": "https://www.reddit.com/r/soccer/comments/1x2pblm/vinicius_junior_real_madrid_straight_red_card/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Real Madrid's Vinicius Junior was shown a straight red card against Villarreal in the 73rd minute."
+        },
+        {
+          "title": "From Ballon d'Or contender to boos: what's happened to Vinicius? The hair-pull on Saliba, which will most likely cost him the Cl\u00e1sico, is just the latest act of frustration from a star who seems unrecognisable and who just renewed his contract with Real Madrid until 2032 at \u20ac25 million net per year.",
+          "url": "https://www.reddit.com/r/soccer/comments/1x35za8/from_ballon_dor_contender_to_boos_whats_happened/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "A look at Vinicius's decline in form and behavior, including the hair-pull on Saliba that will most likely cost him the Cl\u00e1sico, despite his recent contract renewal to 2032."
+        },
+        {
+          "title": "Manchester United have had their worst start to the season in 40 years",
+          "url": "https://www.reddit.com/r/soccer/comments/1x2mndi/manchester_united_have_had_their_worst_start_to/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Manchester United have had their worst start to a season in 40 years."
+        },
+        {
+          "title": "Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Boos and fading belief at Old Trafford leave Michael Carrick under pressure after a worrying day for United."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Paul George in his preseason Celtics debut: 13 points, 5 rebounds, 4 assists, 5 STEALS in 25 minutes (+19)",
+          "url": "https://www.reddit.com/r/nba/comments/1x2z9sk/paul_george_in_his_preseason_celtics_debut_13/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Paul George had 13 points, 5 rebounds, 4 assists and 5 steals in 25 minutes in his Celtics preseason debut."
+        },
+        {
+          "title": "[Highlight] Ben Simmons is back - takes on Draymond Green and scores the hook shot",
+          "url": "https://www.reddit.com/r/nba/comments/1x2vgmk/highlight_ben_simmons_is_back_takes_on_draymond/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Ben Simmons is back, taking on Draymond Green and scoring on a hook shot."
+        },
+        {
+          "title": "[Highlight] Daniss Jenkins gets into it with Trae Young and they both get ejected",
+          "url": "https://www.reddit.com/r/nba/comments/1x2uqfo/highlight_daniss_jenkins_gets_into_it_with_trae/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Daniss Jenkins and Trae Young were both ejected after a confrontation."
+        },
+        {
+          "title": "[Injury] Maxime Raynaud goes down holding his right leg after a non-contact injury and has to be wheeled off the court",
+          "url": "https://www.reddit.com/r/nba/comments/1x2vvto/injury_maxime_raynaud_goes_down_holding_his_right/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Maxime Raynaud went down with a non-contact right leg injury and had to be wheeled off the court."
+        }
+      ]
+    }
+  ]
+}
