@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T21:49:23.149901+00:00",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:56:31.965856+00:00",
   "mode": "claude",
-  "overview": "Meta unveiled its first frontier model, Muse Wonder, while a cyberattack that triggered automatic defrosting in supermarket fridges across Europe dominated security news. Ukraine's third strike on Yandex data centres and a jury verdict against Facebook added to the geopolitical and legal pressure on tech. Australia pressed on in the first Test against South Africa in Durban, and England announced its central contracts, with news of a lengthy lay-off for Jos Buttler. Coventry's thrashing of Newcastle was the Premier League headline, and the NBA preseason brought Adam Silver's smart-ball plans and a health mystery around Kristaps Porzingis.",
+  "overview": "Google's Gemini 4 Argon dominates tech discussion, alongside Apple hardware and software news and a flurry of AI-industry moves, including Character.ai's Chapter 11 filing and Anthropic's warning about self-replicating AI worms. Ukrainian drone strikes on Yandex data centres are disrupting Russian cloud services and payments. In cricket, Australia beat South Africa by 214 runs in Durban behind a Hazlewood six-for, while Afghanistan hung on for a draw against Bangladesh. Football is consumed by Manchester City's rule-breaking fallout and regulator warnings, plus pressure on FIFA's Infantino, and the NBA preseason spotlights the Timberwolves' LaMelo Ball-Anthony Edwards pairing.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Meta releases its first frontier model, Muse Wonder",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "source": "Hacker News",
+          "score": 637,
+          "summary": "Google's Gemini 4 Argon model draws the day's highest engagement on Hacker News. Details are in the linked announcement."
+        },
+        {
+          "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+          "url": "https://www.reddit.com/r/technology/comments/1x4xvfu/anthropic_warns_of_selfreplicating_ai_worm_threat/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic warns of a threat from self-replicating AI worms that could spread and self-improve without needing data centers."
+        },
+        {
+          "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "source": "Hacker News",
+          "score": 219,
+          "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy proceedings."
+        },
+        {
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "source": "Hacker News",
+          "score": 602,
+          "summary": "Unsoundness bugs that went undetected for 11 years have been found in the Rust borrow checker."
+        },
+        {
+          "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+          "url": "https://www.reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Ukrainian drone strikes on Yandex data centers have knocked cloud and payment services offline."
+        },
+        {
+          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+          "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+          "source": "Hacker News",
+          "score": 123,
+          "summary": "Ledger confirms a spy chip implant was behind a series of wallet crypto thefts."
+        },
+        {
+          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+          "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Meta has released Muse Wonder, which it describes as its first frontier model. It is the company's latest push to compete at the top end of AI."
+          "summary": "Google Play now lets anyone build private, vibe-coded apps that run on Android."
         },
         {
-          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-          "source": "Hacker News",
-          "score": 304,
-          "summary": "Hackers reportedly triggered automatic defrosting in supermarket fridges across Europe. The attack forced stores to throw away food and affected delivery and pricing."
-        },
-        {
-          "title": "Yandex: Ukraine strikes data centre in third attack on Russian tech giant",
-          "url": "https://www.reddit.com/r/technology/comments/1x3mid5/yandex_ukraine_strikes_data_centre_in_third/",
+          "title": "Mark Zuckerberg says Meta has reached AI 'frontier' and rejects calls for slowdown",
+          "url": "https://www.reddit.com/r/technology/comments/1x4e6kt/mark_zuckerberg_says_meta_has_reached_ai_frontier/",
           "source": "r/technology",
           "score": null,
-          "summary": "Ukraine has struck a Yandex data centre, the third attack on the Russian tech giant. The strike has prompted debate over its effect on Russian online activity."
-        },
-        {
-          "title": "Facebook could owe billions after jury finds platform responsible for 43 million privacy & content violations",
-          "url": "https://www.reddit.com/r/technology/comments/1x3o43p/facebook_could_owe_billions_after_jury_finds/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "A jury found Facebook responsible for 43 million privacy and content violations. The platform could owe billions in damages."
-        },
-        {
-          "title": "Fingerprints are the new cookies",
-          "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-          "source": "Hacker News",
-          "score": 691,
-          "summary": "A widely discussed piece argues that browser fingerprinting is replacing cookies as the main way users are tracked online."
-        },
-        {
-          "title": "QGIS enacts moratorium on AI contributions",
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "Hacker News",
-          "score": 352,
-          "summary": "The QGIS project has enacted a moratorium on AI-generated contributions. It is another sign of open-source projects setting limits on AI-assisted code."
-        },
-        {
-          "title": "AI is less regulated than milk, says Microsoft president",
-          "url": "https://www.reddit.com/r/technology/comments/1x41ev4/ai_is_less_regulated_than_milk_says_microsoft/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Microsoft's president says AI is less regulated than milk, adding to the debate over oversight of the technology."
-        },
-        {
-          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Hacker News",
-          "score": 357,
-          "summary": "Developers are raising concerns that Codex CLI installs a persistent, self-updating background daemon by default."
+          "summary": "Mark Zuckerberg says Meta has reached the AI frontier and rejects calls for a slowdown."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Matt Renshaw's International Test return yields career best performance as he brings up scores of 190(397) and 82(99) in the 1st Test against South Africa at Durban",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x403by/matt_renshaws_international_test_return_yields/",
+          "title": "Australia beat South Africa by 214 runs at Durban to lead the series 1-0",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x4u214/australia_beat_south_africa_by_214_runs_at_durban/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Matt Renshaw returned to Test cricket with a career-best showing in the first Test against South Africa in Durban. He scored 190 and 82."
+          "summary": "Australia beat South Africa by 214 runs in Durban to take a 1-0 series lead."
         },
         {
-          "title": "Robinson in, Crawley out as one in ten English players get central contract",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x405ke/robinson_in_crawley_out_as_one_in_ten_english/",
+          "title": "Hazlewood six-for seals dominant Australia win",
+          "url": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Josh Hazlewood's six-wicket haul sealed a dominant Australian win in the first Test."
+        },
+        {
+          "title": "Afghanistan secure a tense draw in the Test against Bangladesh at Abu Dhabi",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x4wijh/afghanistan_secure_a_tense_draw_in_the_test/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "England's central contracts list is out. Robinson is in and Crawley is out, and only about one in ten English players received a contract."
+          "summary": "Afghanistan secured a tense draw against Bangladesh in the Abu Dhabi Test."
         },
         {
-          "title": "Jos Buttler faces lengthy lay-off after surgery on injured hamstring",
-          "url": "https://www.cricinfo.com/ci/content/story/1558191.html?ex_cid=OTC-RSS",
+          "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
+          "url": "https://www.cricinfo.com/ci/content/story/1558343.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Jos Buttler faces a lengthy lay-off after surgery on an injured hamstring."
-        },
-        {
-          "title": "Deflated Sri Lanka look to prevent whitewash against dominant Pakistan",
-          "url": "https://www.cricinfo.com/ci/content/story/1558182.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Sri Lanka look to avoid a whitewash against a dominant Pakistan."
+          "summary": "Kusal Mendis's unbeaten 87 gave Sri Lanka a consolation win."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Coventry thrash Newcastle to claim first PL home win in 25 years",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+          "title": "Football regulator says he would quit over Man City political interference",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Coventry thrashed Newcastle 4-1 to claim their first Premier League home win in 25 years."
+          "summary": "The football regulator says he would quit over political interference in the Manchester City case."
         },
         {
-          "title": "Revealed: how Fifa failed to disclose Gianni Infantino\u2019s second salary",
-          "url": "https://www.reddit.com/r/soccer/comments/1x46k0t/revealed_how_fifa_failed_to_disclose_gianni/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "A report reveals how Fifa failed to disclose a second salary for president Gianni Infantino."
-        },
-        {
-          "title": "Deloitte helped in falsifying documents to evade tax on Abramovich\u2019s wealth, BBC finds",
-          "url": "https://www.reddit.com/r/soccer/comments/1x3vru3/deloitte_helped_in_falsifying_documents_to_evade/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "A BBC investigation finds that Deloitte helped falsify documents to evade tax on Roman Abramovich's wealth."
-        },
-        {
-          "title": "Elite schedule 'not sustainable' amid 55-game seasons",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o?at_medium=RSS&at_campaign=rss",
+          "title": "Majority of clubs on edge of 'financial disaster' - regulator",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Concerns are growing that the elite football schedule is not sustainable, with some seasons now stretching to 55 games."
+          "summary": "The regulator warns that a majority of clubs are on the edge of financial disaster."
+        },
+        {
+          "title": "[Sky Sports] FIFA president Gianni Infantino is under increasing pressure to resign after it was revealed that he received an undeclared second salary of \u00a31.3m in 2024",
+          "url": "https://www.reddit.com/r/soccer/comments/1x4ycsm/sky_sports_fifa_president_gianni_infantino_is/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "FIFA president Gianni Infantino faces growing pressure to resign after it emerged he received an undeclared second salary of \u00a31.3m in 2024."
+        },
+        {
+          "title": "Coventry City [4]-1 Newcastle United - Stephen Mfuni 86'",
+          "url": "https://www.reddit.com/r/soccer/comments/1x4depd/coventry_city_41_newcastle_united_stephen_mfuni_86/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Coventry City beat Newcastle United 4-1, their first Premier League home win in 25 years."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Adam Silver says league could introduce \u2018smart ball\u2019 technology as soon as next year: \"We\u2019re experimenting with putting a small chip in the ball that weighs roughly a gram. I think the consumers version of the smart ball is a few years away, but it\u2019s a really exciting opportunity.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1x3l45b/adam_silver_says_league_could_introduce_smart/",
-          "source": "r/nba",
-          "score": null,
-          "summary": "Adam Silver says the NBA is experimenting with a roughly one-gram chip in the ball. A league smart ball could come as soon as next year, with a consumer version a few years away."
-        },
-        {
-          "title": "[Emerman] The Warriors don\u2019t know where Kristaps Porzingis is, what health issue he\u2019s currently dealing with, or when he\u2019ll return to the court",
-          "url": "https://www.reddit.com/r/nba/comments/1x42jgm/emerman_the_warriors_dont_know_where_kristaps/",
-          "source": "r/nba",
-          "score": null,
-          "summary": "The Warriors reportedly do not know where Kristaps Porzingis is, what health issue he has, or when he will return."
-        },
-        {
           "title": "[Marc J. Spears] Ben Simmons is expected to be in the starting lineup of the Sacramento Kings alongside rookie guard Darius Acuff for the Oct. 21 season opener against the Los Angeles Clippers.",
           "url": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
           "source": "r/nba",
           "score": null,
-          "summary": "Ben Simmons is expected to start for the Sacramento Kings alongside rookie guard Darius Acuff in the October 21 opener against the Clippers."
+          "summary": "Ben Simmons is expected to start for the Sacramento Kings alongside rookie guard Darius Acuff in the Oct. 21 season opener against the Clippers."
         },
         {
-          "title": "Atlanta Dream unable to relocate Finals games from 3,500-seat venue because of Hawks",
-          "url": "https://www.reddit.com/r/nba/comments/1x3psfi/atlanta_dream_unable_to_relocate_finals_games/",
+          "title": "[Highlight] Anthony Edwards (26 PTS, 5 3PM) leads the team in points and threes as the Timberwolves secure the preseason win over the Knicks",
+          "url": "https://www.reddit.com/r/nba/comments/1x4krvt/highlight_anthony_edwards_26_pts_5_3pm_leads_the/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Atlanta Dream cannot move their Finals games out of a 3,500-seat venue because of scheduling conflicts with the Hawks."
+          "summary": "Anthony Edwards scored 26 points with five threes as the Timberwolves won their preseason game over the Knicks."
+        },
+        {
+          "title": "[Mike Vorkunov] Chris Finch says Timberwolves \u2018traded moodiness for giddiness\u2019 by adding LaMelo Ball",
+          "url": "https://www.reddit.com/r/nba/comments/1x4lujq/mike_vorkunov_chris_finch_says_timberwolves/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Timberwolves coach Chris Finch says adding LaMelo Ball has traded team moodiness for giddiness."
+        },
+        {
+          "title": "Aday Mara tonight for OKC: 17 points, 10 rebounds, 6 assists, 5 blocks",
+          "url": "https://www.reddit.com/r/nba/comments/1x4kaj0/aday_mara_tonight_for_okc_17_points_10_rebounds_6/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Aday Mara posted 17 points, 10 rebounds, 6 assists and 5 blocks for OKC."
         }
       ]
     }

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:56:31.965856+00:00",
+  "mode": "claude",
+  "overview": "Google's Gemini 4 Argon dominates tech discussion, alongside Apple hardware and software news and a flurry of AI-industry moves, including Character.ai's Chapter 11 filing and Anthropic's warning about self-replicating AI worms. Ukrainian drone strikes on Yandex data centres are disrupting Russian cloud services and payments. In cricket, Australia beat South Africa by 214 runs in Durban behind a Hazlewood six-for, while Afghanistan hung on for a draw against Bangladesh. Football is consumed by Manchester City's rule-breaking fallout and regulator warnings, plus pressure on FIFA's Infantino, and the NBA preseason spotlights the Timberwolves' LaMelo Ball-Anthony Edwards pairing.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "source": "Hacker News",
+          "score": 637,
+          "summary": "Google's Gemini 4 Argon model draws the day's highest engagement on Hacker News. Details are in the linked announcement."
+        },
+        {
+          "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+          "url": "https://www.reddit.com/r/technology/comments/1x4xvfu/anthropic_warns_of_selfreplicating_ai_worm_threat/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic warns of a threat from self-replicating AI worms that could spread and self-improve without needing data centers."
+        },
+        {
+          "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "source": "Hacker News",
+          "score": 219,
+          "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy proceedings."
+        },
+        {
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "source": "Hacker News",
+          "score": 602,
+          "summary": "Unsoundness bugs that went undetected for 11 years have been found in the Rust borrow checker."
+        },
+        {
+          "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+          "url": "https://www.reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Ukrainian drone strikes on Yandex data centers have knocked cloud and payment services offline."
+        },
+        {
+          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+          "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+          "source": "Hacker News",
+          "score": 123,
+          "summary": "Ledger confirms a spy chip implant was behind a series of wallet crypto thefts."
+        },
+        {
+          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+          "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Google Play now lets anyone build private, vibe-coded apps that run on Android."
+        },
+        {
+          "title": "Mark Zuckerberg says Meta has reached AI 'frontier' and rejects calls for slowdown",
+          "url": "https://www.reddit.com/r/technology/comments/1x4e6kt/mark_zuckerberg_says_meta_has_reached_ai_frontier/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Mark Zuckerberg says Meta has reached the AI frontier and rejects calls for a slowdown."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Australia beat South Africa by 214 runs at Durban to lead the series 1-0",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x4u214/australia_beat_south_africa_by_214_runs_at_durban/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Australia beat South Africa by 214 runs in Durban to take a 1-0 series lead."
+        },
+        {
+          "title": "Hazlewood six-for seals dominant Australia win",
+          "url": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Josh Hazlewood's six-wicket haul sealed a dominant Australian win in the first Test."
+        },
+        {
+          "title": "Afghanistan secure a tense draw in the Test against Bangladesh at Abu Dhabi",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x4wijh/afghanistan_secure_a_tense_draw_in_the_test/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Afghanistan secured a tense draw against Bangladesh in the Abu Dhabi Test."
+        },
+        {
+          "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
+          "url": "https://www.cricinfo.com/ci/content/story/1558343.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Kusal Mendis's unbeaten 87 gave Sri Lanka a consolation win."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Football regulator says he would quit over Man City political interference",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "The football regulator says he would quit over political interference in the Manchester City case."
+        },
+        {
+          "title": "Majority of clubs on edge of 'financial disaster' - regulator",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "The regulator warns that a majority of clubs are on the edge of financial disaster."
+        },
+        {
+          "title": "[Sky Sports] FIFA president Gianni Infantino is under increasing pressure to resign after it was revealed that he received an undeclared second salary of \u00a31.3m in 2024",
+          "url": "https://www.reddit.com/r/soccer/comments/1x4ycsm/sky_sports_fifa_president_gianni_infantino_is/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "FIFA president Gianni Infantino faces growing pressure to resign after it emerged he received an undeclared second salary of \u00a31.3m in 2024."
+        },
+        {
+          "title": "Coventry City [4]-1 Newcastle United - Stephen Mfuni 86'",
+          "url": "https://www.reddit.com/r/soccer/comments/1x4depd/coventry_city_41_newcastle_united_stephen_mfuni_86/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Coventry City beat Newcastle United 4-1, their first Premier League home win in 25 years."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Marc J. Spears] Ben Simmons is expected to be in the starting lineup of the Sacramento Kings alongside rookie guard Darius Acuff for the Oct. 21 season opener against the Los Angeles Clippers.",
+          "url": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Ben Simmons is expected to start for the Sacramento Kings alongside rookie guard Darius Acuff in the Oct. 21 season opener against the Clippers."
+        },
+        {
+          "title": "[Highlight] Anthony Edwards (26 PTS, 5 3PM) leads the team in points and threes as the Timberwolves secure the preseason win over the Knicks",
+          "url": "https://www.reddit.com/r/nba/comments/1x4krvt/highlight_anthony_edwards_26_pts_5_3pm_leads_the/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Anthony Edwards scored 26 points with five threes as the Timberwolves won their preseason game over the Knicks."
+        },
+        {
+          "title": "[Mike Vorkunov] Chris Finch says Timberwolves \u2018traded moodiness for giddiness\u2019 by adding LaMelo Ball",
+          "url": "https://www.reddit.com/r/nba/comments/1x4lujq/mike_vorkunov_chris_finch_says_timberwolves/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Timberwolves coach Chris Finch says adding LaMelo Ball has traded team moodiness for giddiness."
+        },
+        {
+          "title": "Aday Mara tonight for OKC: 17 points, 10 rebounds, 6 assists, 5 blocks",
+          "url": "https://www.reddit.com/r/nba/comments/1x4kaj0/aday_mara_tonight_for_okc_17_points_10_rebounds_6/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Aday Mara posted 17 points, 10 rebounds, 6 assists and 5 blocks for OKC."
+        }
+      ]
+    }
+  ]
+}
