@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:06:22.808870+00:00",
+  "mode": "claude",
+  "overview": "Google's Gemini 4 Argon dominated tech discussion, while ASML's strong orders eased fears that the AI spending boom is slowing. Privacy and surveillance stories stood out, from a reported $100M ICE domestic spy program to Starlink restrictions on Ukrainian soldiers. In cricket, Shai Hope's century helped West Indies level the T20I series against India, and Australia swept Bangladesh in the ODIs. In football, Barcelona won in Istanbul at Galatasaray while Manchester United's internal tensions resurfaced. In the NBA, preseason action continued, with Tyrese Haliburton starring on his return to Oklahoma City and Payton Pritchard agreeing to a contract extension with Boston.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "source": "Hacker News",
+          "score": 1419,
+          "summary": "Google's Gemini 4 Argon drew heavy attention on Hacker News, with the thread scoring well above any other tech item today. The title suggests a new Gemini model release."
+        },
+        {
+          "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+          "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+          "source": "Hacker News",
+          "score": 146,
+          "summary": "ASML's strong orders have eased concerns that the AI-driven spending boom is running out of steam. The chip-equipment maker is a key indicator of AI infrastructure investment."
+        },
+        {
+          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+          "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+          "source": "Hacker News",
+          "score": 161,
+          "summary": "Reporting says ICE is planning a $100 million domestic surveillance program that critics have called a 'nightmare'."
+        },
+        {
+          "title": "Amazon pushes up prices across the Internet",
+          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+          "source": "Hacker News",
+          "score": 538,
+          "summary": "Amazon is reportedly pushing up prices across the Internet, a story that drew substantial discussion on Hacker News."
+        },
+        {
+          "title": "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight",
+          "url": "https://www.reddit.com/r/technology/comments/1x5nsre/zelenskyy_adviser_starlink_operations_restricted/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "A Zelenskyy adviser says Starlink operations in Ukraine were restricted overnight, with reports that Ukrainian soldiers in combat have lost access."
+        },
+        {
+          "title": "Linus Torvalds's first LLM-assisted patch series",
+          "url": "https://lwn.net/Articles/1100449/",
+          "source": "Hacker News",
+          "score": 53,
+          "summary": "Linus Torvalds has submitted his first LLM-assisted patch series, a notable moment for AI use in kernel development."
+        },
+        {
+          "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "source": "The Verge",
+          "score": null,
+          "summary": "OpenAI claims a former employee took its product plans and presented them to Apple."
+        },
+        {
+          "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+          "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Netflix is laying off 1,000 staff amid intensifying competition for user attention."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "3rd T20I Hundred for Shai Hope as he finishes 102*(50)",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x5txpk/3rd_t20i_hundred_for_shai_hope_as_he_finishes/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Shai Hope struck an unbeaten 102 off 50 balls in the 3rd T20I, continuing a remarkable run of form."
+        },
+        {
+          "title": "Hope ton, Paul five-for help West Indies level series 2-2",
+          "url": "https://www.cricinfo.com/ci/content/story/1558497.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Hope and Paul took five-wicket hauls to help West Indies level the series 2-2 against India."
+        },
+        {
+          "title": "Swingin' Schutt sets up ODI series sweep for Australia with 4 for 16",
+          "url": "https://www.cricinfo.com/ci/content/story/1558418.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Schutt took 4 for 16 to set up an ODI series sweep for Australia over Bangladesh."
+        },
+        {
+          "title": "IPL trade: T Natarajan returns to Sunrisers Hyderabad for Rs 5 crore; Zeeshan Ansari moves to Delhi Capitals.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x5sobv/ipl_trade_t_natarajan_returns_to_sunrisers/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "In an IPL trade, T Natarajan returns to Sunrisers Hyderabad for Rs 5 crore, while Zeeshan Ansari moves to Delhi Capitals."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Galatasaray 1 - [3] Barcelona - Anthony Gordon 53'",
+          "url": "https://www.reddit.com/r/soccer/comments/1x57gin/galatasaray_1_3_barcelona_anthony_gordon_53/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Barcelona took a 3-1 lead over Galatasaray in the Champions League, with Anthony Gordon scoring in the 53rd minute."
+        },
+        {
+          "title": "Viking [3] - 3 Bayern Munich - Herman Haugen 90'",
+          "url": "https://www.reddit.com/r/soccer/comments/1x58ccg/viking_3_3_bayern_munich_herman_haugen_90/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Viking pulled level at 3-3 with Bayern Munich through a late Herman Haugen goal. Michael Olise was sent off for a second booking in the match."
+        },
+        {
+          "title": "Lisandro Mart\u00ednez on Manchester United's lack of investment: \u201cI expect more [investment]. 100%. I expect more from our technical director [Jason Wilcox].\u201d On the manager: \u201cYou can't keep changing, changing, changing the manager. What about other areas? I can't say more.\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1x595ly/lisandro_mart\u00ednez_on_manchester_uniteds_lack_of/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Lisandro Martinez said he expects more investment from Manchester United and called out technical director Jason Wilcox, adding that the club can't keep changing managers."
+        },
+        {
+          "title": "Fifa to offer extra \u00a32.6bn for football development",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Fifa will offer an extra \u00a32.6bn for football development."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] Boston Celtics guard Payton Pritchard has agreed to a two-year, $44.2 million contract extension, plus a mutual option in the 2029-30 season, CAA Co-Head of Basketball Austin Brown and agent Max Saidman tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x56u34/charania_boston_celtics_guard_payton_pritchard/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Celtics guard Payton Pritchard has agreed to a two-year, $44.2 million extension, plus a mutual option for 2029-30, per ESPN's Charania."
+        },
+        {
+          "title": "[Highlight] Tyrese Haliburton gets a nice ovation from the Thunder crowd in his first game back in OKC since Game 7 of the NBA Finals.",
+          "url": "https://www.reddit.com/r/nba/comments/1x5fvum/highlight_tyrese_haliburton_gets_a_nice_ovation/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Tyrese Haliburton received an ovation from the Thunder crowd in his first game back in Oklahoma City since Game 7 of the NBA Finals. He scored 24 points on 9/14 shooting in the preseason game."
+        },
+        {
+          "title": "[FOS] Pablo Torre says NBA owners have contacted him about LeBron James flying in a Fanatics helicopter and he is \"looking into\" it.",
+          "url": "https://www.reddit.com/r/nba/comments/1x58bxt/fos_pablo_torre_says_nba_owners_have_contacted/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Pablo Torre says NBA owners have contacted him about LeBron James flying in a Fanatics helicopter, and he is looking into it."
+        },
+        {
+          "title": "JJ Redick on Bronny: \"I thought he had a really nice September and a good summer with us. I don't think he's played well in the four preseason games. But he's had good practices. Some of it's just rhythm...some of it is the group he's with, I think, is not necessarily setting him up for success.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1x5p59o/jj_redick_on_bronny_i_thought_he_had_a_really/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "JJ Redick said Bronny James has struggled in the four preseason games but has practiced well, and he pointed to the group Bronny is playing with."
+        }
+      ]
+    }
+  ]
+}
