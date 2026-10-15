@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T18:06:22.808870+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T17:51:43.828466+00:00",
   "mode": "claude",
-  "overview": "Google's Gemini 4 Argon dominated tech discussion, while ASML's strong orders eased fears that the AI spending boom is slowing. Privacy and surveillance stories stood out, from a reported $100M ICE domestic spy program to Starlink restrictions on Ukrainian soldiers. In cricket, Shai Hope's century helped West Indies level the T20I series against India, and Australia swept Bangladesh in the ODIs. In football, Barcelona won in Istanbul at Galatasaray while Manchester United's internal tensions resurfaced. In the NBA, preseason action continued, with Tyrese Haliburton starring on his return to Oklahoma City and Payton Pritchard agreeing to a contract extension with Boston.",
+  "overview": "AI's economic and security footprint dominated tech: Anthropic told investors quarterly revenue jumped 50% to $16.8bn ahead of an IPO, while banks try to offload AI data-center debt amid a market selloff. Citizen Lab reported governments abusing online ads to deliver zero-click spyware, and Starlink restrictions disrupted Ukrainian drone operations. In football, PSG beat Manchester City at the Etihad as Real Madrid stunned Roma 4-3 and Liverpool and Aston Villa each scored six in Europe. Cricket saw West Indies level the T20I series 2-2 in India and South Africa shuffle their XI for the Gqeberha Test, and in the NBA the Thunder lost rookie Otega Oweh to a torn Achilles.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Gemini 4 Argon",
-          "url": "https://deepmind.google/models/gemini/",
-          "source": "Hacker News",
-          "score": 1419,
-          "summary": "Google's Gemini 4 Argon drew heavy attention on Hacker News, with the thread scoring well above any other tech item today. The title suggests a new Gemini model release."
-        },
-        {
-          "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-          "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-          "source": "Hacker News",
-          "score": 146,
-          "summary": "ASML's strong orders have eased concerns that the AI-driven spending boom is running out of steam. The chip-equipment maker is a key indicator of AI infrastructure investment."
-        },
-        {
-          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-          "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-          "source": "Hacker News",
-          "score": 161,
-          "summary": "Reporting says ICE is planning a $100 million domestic surveillance program that critics have called a 'nightmare'."
-        },
-        {
-          "title": "Amazon pushes up prices across the Internet",
-          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-          "source": "Hacker News",
-          "score": 538,
-          "summary": "Amazon is reportedly pushing up prices across the Internet, a story that drew substantial discussion on Hacker News."
-        },
-        {
-          "title": "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight",
-          "url": "https://www.reddit.com/r/technology/comments/1x5nsre/zelenskyy_adviser_starlink_operations_restricted/",
+          "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+          "url": "https://www.reddit.com/r/technology/comments/1x65nd3/anthropic_tells_investors_quarterly_revenue_up_50/",
           "source": "r/technology",
           "score": null,
-          "summary": "A Zelenskyy adviser says Starlink operations in Ukraine were restricted overnight, with reports that Ukrainian soldiers in combat have lost access."
+          "summary": "Anthropic told investors its quarterly revenue rose 50% to $16.8bn as it prepares for an IPO."
         },
         {
-          "title": "Linus Torvalds's first LLM-assisted patch series",
-          "url": "https://lwn.net/Articles/1100449/",
-          "source": "Hacker News",
-          "score": 53,
-          "summary": "Linus Torvalds has submitted his first LLM-assisted patch series, a notable moment for AI use in kernel development."
-        },
-        {
-          "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-          "source": "The Verge",
-          "score": null,
-          "summary": "OpenAI claims a former employee took its product plans and presented them to Apple."
-        },
-        {
-          "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-          "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+          "title": "Citizen Lab says governments are abusing online ads to hack people with \u2018zero-click\u2019 spyware",
+          "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Netflix is laying off 1,000 staff amid intensifying competition for user attention."
+          "summary": "Citizen Lab says governments are abusing online advertising to deliver zero-click spyware to targets."
+        },
+        {
+          "title": "OpenCode 2.0",
+          "url": "https://anoma.ly/notes/opencode-2-0/",
+          "source": "Hacker News",
+          "score": 804,
+          "summary": "OpenCode 2.0 has been released and drew heavy attention on Hacker News."
+        },
+        {
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+          "url": "https://www.reddit.com/r/technology/comments/1x64sl8/banks_are_now_trying_to_offload_the_ai_data/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Banks are trying to offload the AI data-center debt they recently underwrote, as markets wobble."
+        },
+        {
+          "title": "Ukraine Cancels Drone Missions as Starlink Restrictions Disrupt Battlefield Communications",
+          "url": "https://www.reddit.com/r/technology/comments/1x6f0yx/ukraine_cancels_drone_missions_as_starlink/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Ukraine cancelled drone missions after Starlink restrictions disrupted battlefield communications; service has since been partly restored."
+        },
+        {
+          "title": "Muse Spark Open, the Most Capable US Open\u2011Weight Model to Date",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "source": "Hacker News",
+          "score": 57,
+          "summary": "Muse Spark Open is billed as the most capable US open-weight model to date."
+        },
+        {
+          "title": "Unsupervised AI agent reportedly deletes TV show\u2019s entire edit weeks before release, erasing months of work \u2014 TV show can't air, AI agent was given access to the production server and wiped the finished season",
+          "url": "https://www.reddit.com/r/technology/comments/1x6hr7t/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "An unsupervised AI agent with production-server access reportedly deleted a TV show's finished season edit weeks before release."
+        },
+        {
+          "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "source": "Hacker News",
+          "score": 157,
+          "summary": "The Simons Foundation is launching a $15M effort to help mathematicians navigate the AI era."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "3rd T20I Hundred for Shai Hope as he finishes 102*(50)",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x5txpk/3rd_t20i_hundred_for_shai_hope_as_he_finishes/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "Shai Hope struck an unbeaten 102 off 50 balls in the 3rd T20I, continuing a remarkable run of form."
-        },
-        {
           "title": "Hope ton, Paul five-for help West Indies level series 2-2",
           "url": "https://www.cricinfo.com/ci/content/story/1558497.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Hope and Paul took five-wicket hauls to help West Indies level the series 2-2 against India."
+          "summary": "Shai Hope's century and a five-wicket haul from Paul helped West Indies level the series 2-2 in India."
         },
         {
-          "title": "Swingin' Schutt sets up ODI series sweep for Australia with 4 for 16",
-          "url": "https://www.cricinfo.com/ci/content/story/1558418.html?ex_cid=OTC-RSS",
+          "title": "Stubbs dropped, Rickelton to keep wicket in Gqeberha Test",
+          "url": "https://www.cricinfo.com/ci/content/story/1558532.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Schutt took 4 for 16 to set up an ODI series sweep for Australia over Bangladesh."
+          "summary": "South Africa dropped Stubbs and Rickelton will keep wicket for the Gqeberha Test."
         },
         {
-          "title": "IPL trade: T Natarajan returns to Sunrisers Hyderabad for Rs 5 crore; Zeeshan Ansari moves to Delhi Capitals.",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x5sobv/ipl_trade_t_natarajan_returns_to_sunrisers/",
-          "source": "r/Cricket",
+          "title": "Cameron Green in doubt for Gqeberha Test",
+          "url": "https://www.cricinfo.com/ci/content/story/1558574.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
-          "summary": "In an IPL trade, T Natarajan returns to Sunrisers Hyderabad for Rs 5 crore, while Zeeshan Ansari moves to Delhi Capitals."
+          "summary": "Cameron Green is in doubt for the Gqeberha Test."
+        },
+        {
+          "title": "Sydney Thunder sign Boult for entire BBL 2026-27 season",
+          "url": "https://www.cricinfo.com/ci/content/story/1558559.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Sydney Thunder have signed Trent Boult for the entire BBL 2026-27 season."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Galatasaray 1 - [3] Barcelona - Anthony Gordon 53'",
-          "url": "https://www.reddit.com/r/soccer/comments/1x57gin/galatasaray_1_3_barcelona_anthony_gordon_53/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Barcelona took a 3-1 lead over Galatasaray in the Champions League, with Anthony Gordon scoring in the 53rd minute."
-        },
-        {
-          "title": "Viking [3] - 3 Bayern Munich - Herman Haugen 90'",
-          "url": "https://www.reddit.com/r/soccer/comments/1x58ccg/viking_3_3_bayern_munich_herman_haugen_90/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Viking pulled level at 3-3 with Bayern Munich through a late Herman Haugen goal. Michael Olise was sent off for a second booking in the match."
-        },
-        {
-          "title": "Lisandro Mart\u00ednez on Manchester United's lack of investment: \u201cI expect more [investment]. 100%. I expect more from our technical director [Jason Wilcox].\u201d On the manager: \u201cYou can't keep changing, changing, changing the manager. What about other areas? I can't say more.\u201d",
-          "url": "https://www.reddit.com/r/soccer/comments/1x595ly/lisandro_mart\u00ednez_on_manchester_uniteds_lack_of/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Lisandro Martinez said he expects more investment from Manchester United and called out technical director Jason Wilcox, adding that the club can't keep changing managers."
-        },
-        {
-          "title": "Fifa to offer extra \u00a32.6bn for football development",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+          "title": "Man City show fight but fall short of fightback against slick PSG",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Fifa will offer an extra \u00a32.6bn for football development."
+          "summary": "Man City showed fight at home but fell short against a slick PSG in the Champions League."
+        },
+        {
+          "title": "Real Madrid stun Roma after dramatic late comeback",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Real Madrid beat Roma 4-3 with a dramatic late comeback, R\u00fcdiger scoring in the 90th minute."
+        },
+        {
+          "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Barcola scored his first hat-trick as Liverpool beat LASK 6-0 in Europe."
+        },
+        {
+          "title": "Villa rewrite the record books as they hit Fenerbahce for six",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c65yn8d48ezeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Aston Villa set a record by beating Fenerbahce 6-0."
         }
       ]
     },
@@ -139,32 +139,25 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] Boston Celtics guard Payton Pritchard has agreed to a two-year, $44.2 million contract extension, plus a mutual option in the 2029-30 season, CAA Co-Head of Basketball Austin Brown and agent Max Saidman tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1x56u34/charania_boston_celtics_guard_payton_pritchard/",
+          "title": "[Murray] The Oklahoma City Thunder have lost rookie Otega Oweh for the season due to a torn Achilles.",
+          "url": "https://www.reddit.com/r/nba/comments/1x68fk8/murray_the_oklahoma_city_thunder_have_lost_rookie/",
           "source": "r/nba",
           "score": null,
-          "summary": "Celtics guard Payton Pritchard has agreed to a two-year, $44.2 million extension, plus a mutual option for 2029-30, per ESPN's Charania."
+          "summary": "The Thunder have lost rookie Otega Oweh for the season with a torn Achilles."
         },
         {
-          "title": "[Highlight] Tyrese Haliburton gets a nice ovation from the Thunder crowd in his first game back in OKC since Game 7 of the NBA Finals.",
-          "url": "https://www.reddit.com/r/nba/comments/1x5fvum/highlight_tyrese_haliburton_gets_a_nice_ovation/",
+          "title": "[Charania] The Los Angeles Clippers are waiving guard 2024 second-round pick Cam Christie, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x5y6zy/charania_the_los_angeles_clippers_are_waiving/",
           "source": "r/nba",
           "score": null,
-          "summary": "Tyrese Haliburton received an ovation from the Thunder crowd in his first game back in Oklahoma City since Game 7 of the NBA Finals. He scored 24 points on 9/14 shooting in the preseason game."
+          "summary": "The Clippers are waiving guard Cam Christie, a 2024 second-round pick."
         },
         {
-          "title": "[FOS] Pablo Torre says NBA owners have contacted him about LeBron James flying in a Fanatics helicopter and he is \"looking into\" it.",
-          "url": "https://www.reddit.com/r/nba/comments/1x58bxt/fos_pablo_torre_says_nba_owners_have_contacted/",
+          "title": "Victor Wembanyama on being the best defender on the planet and room for growth on that end: \"I got a lot of growth to do.. and now the standard isn't being the best on the planet anymore, it's being better than last year.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1x6j4t0/victor_wembanyama_on_being_the_best_defender_on/",
           "source": "r/nba",
           "score": null,
-          "summary": "Pablo Torre says NBA owners have contacted him about LeBron James flying in a Fanatics helicopter, and he is looking into it."
-        },
-        {
-          "title": "JJ Redick on Bronny: \"I thought he had a really nice September and a good summer with us. I don't think he's played well in the four preseason games. But he's had good practices. Some of it's just rhythm...some of it is the group he's with, I think, is not necessarily setting him up for success.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1x5p59o/jj_redick_on_bronny_i_thought_he_had_a_really/",
-          "source": "r/nba",
-          "score": null,
-          "summary": "JJ Redick said Bronny James has struggled in the four preseason games but has practiced well, and he pointed to the group Bronny is playing with."
+          "summary": "Victor Wembanyama says the standard is now being better than last year rather than simply the best defender in the league."
         }
       ]
     }
