@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:33:25.883512+00:00",
+  "mode": "claude",
+  "overview": "Meta launched an open-weight AI model that runs on Macs, with Apple's MLX research getting attention as well, while Postgres 19 slipped after AI reviewers surfaced more bugs than humans could fix. Elsewhere in tech, Tesla unveiled a SpaceX-powered Roadster demo and Starlink restrictions for Ukraine drew criticism. In cricket, India named squads for the New Zealand tour with Bumrah and Pant back, and India's women chased down 115 under new captain Mandhana. In football, Real Madrid demanded LaLiga president Tebas resign over a Goebbels comparison, while the NBA and sportsbooks agreed to ban several bet types.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Meta has released an open-weight AI model designed to run locally on Macs, widening access to capable on-device models."
+        },
+        {
+          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+          "source": "Hacker News",
+          "score": 139,
+          "summary": "Apple ML Research shows an open model running with MLX on a Mac Studio, highlighting local inference on Apple silicon."
+        },
+        {
+          "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News",
+          "score": 55,
+          "summary": "The Postgres 19 release has reportedly been delayed after AI-assisted reviewers found more bugs than humans can fix."
+        },
+        {
+          "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+          "url": "https://calif.io/research/big-fish",
+          "source": "Hacker News",
+          "score": 93,
+          "summary": "A write-up on exploiting a 37-year-old kernel bug in OpenBSD."
+        },
+        {
+          "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+          "url": "https://www.reddit.com/r/technology/comments/1x73y9o/order_to_limit_starshield_for_ukraine_came_from/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Sources say the order to limit Starshield use for Ukraine came from inside the White House."
+        },
+        {
+          "title": "BIPM announces the end of leap seconds",
+          "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
+          "source": "r/programming",
+          "score": null,
+          "summary": "The BIPM has announced the end of leap seconds."
+        },
+        {
+          "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Meta's new terms may allow it to train AI on news sites for free."
+        },
+        {
+          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Tesla revealed a SpaceX-powered Roadster demo that flies and falls; The Verge notes it is just for show."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Bumrah, Pant in India squad for New Zealand Test series",
+          "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Jasprit Bumrah and Rishabh Pant are in India's squad for the New Zealand Test series."
+        },
+        {
+          "title": "Deepti Sharma and Niki Prasad seal nervy chase of 115 for India",
+          "url": "https://www.cricinfo.com/ci/content/story/1558783.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Deepti Sharma and debutant Niki Prasad sealed a nervy chase of 115 for India."
+        },
+        {
+          "title": "Arshdeep doubtful for Bengaluru T20I, Bhuvneshwar added to India squad",
+          "url": "https://www.cricinfo.com/ci/content/story/1558724.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Arshdeep is doubtful for the Bengaluru T20I and Bhuvneshwar Kumar has been added to India's squad."
+        },
+        {
+          "title": "ICC sanctions Nepal Premier League",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x7h6ef/icc_sanctions_nepal_premier_league/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "The ICC has sanctioned the Nepal Premier League."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Comunicado Oficial: Real Madrid demands the immediate resignation of Javier Tebas from his position as President of the Spanish LaLiga. Real Madrid will continue to defend its rights and institutional position, demand full disclosure of the truth in the Negreira case.",
+          "url": "https://www.reddit.com/r/soccer/comments/1x7fy09/comunicado_oficial_real_madrid_demands_the/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Real Madrid has officially demanded the immediate resignation of LaLiga president Javier Tebas amid the Negreira case."
+        },
+        {
+          "title": "Javier Tebas compares Real Madrid TV with Goebbels' Nazi propaganda",
+          "url": "https://www.reddit.com/r/soccer/comments/1x7cfu9/javier_tebas_compares_real_madrid_tv_with/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Javier Tebas compared Real Madrid TV to Goebbels' Nazi propaganda, sparking the backlash."
+        },
+        {
+          "title": "Do Manchester City have any grounds to win their appeal?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "BBC looks at whether Manchester City have any grounds to win their appeal."
+        },
+        {
+          "title": "Chelsea's James out for three months after knee surgery",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Chelsea's Reece James is out for three months after knee surgery."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] The NBA and prominent sportsbooks have agreed to ban multiple types of bets, per me and David Purdum",
+          "url": "https://www.reddit.com/r/nba/comments/1x7ikx5/charania_the_nba_and_prominent_sportsbooks_have/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The NBA and major sportsbooks have agreed to ban multiple types of bets, per Shams Charania and David Purdum."
+        },
+        {
+          "title": "[Windhorst] Seattle No Longer Lock for Expansion, Mexico City a Possible Alternative",
+          "url": "https://www.reddit.com/r/nba/comments/1x7iu2h/windhorst_seattle_no_longer_lock_for_expansion/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Per Windhorst, Seattle is no longer a lock for NBA expansion, with Mexico City a possible alternative."
+        },
+        {
+          "title": "[Siegel] The Knicks and the Lakers are actively exploring trades involving former 1st round picks from the 2024 Draft Pacome Dadiet and Dalton Knecht, respectively, as both teams look to resolve roster crunches before the start of the season.",
+          "url": "https://www.reddit.com/r/nba/comments/1x6xkum/siegel_the_knicks_and_the_lakers_are_actively/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Knicks and Lakers are reportedly exploring trades for Pacome Dadiet and Dalton Knecht to ease roster crunches."
+        },
+        {
+          "title": "OKC Thunder rookie center Aday Mara could be blocked from playing for the team this season",
+          "url": "https://www.reddit.com/r/nba/comments/1x7hobp/okc_thunder_rookie_center_aday_mara_could_be/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "OKC rookie center Aday Mara could reportedly be blocked from playing for the team this season."
+        }
+      ]
+    }
+  ]
+}
