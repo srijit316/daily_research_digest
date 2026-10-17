@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:33:25.883512+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T16:32:23.817925+00:00",
   "mode": "claude",
-  "overview": "Meta launched an open-weight AI model that runs on Macs, with Apple's MLX research getting attention as well, while Postgres 19 slipped after AI reviewers surfaced more bugs than humans could fix. Elsewhere in tech, Tesla unveiled a SpaceX-powered Roadster demo and Starlink restrictions for Ukraine drew criticism. In cricket, India named squads for the New Zealand tour with Bumrah and Pant back, and India's women chased down 115 under new captain Mandhana. In football, Real Madrid demanded LaLiga president Tebas resign over a Goebbels comparison, while the NBA and sportsbooks agreed to ban several bet types.",
+  "overview": "AI dominated the tech conversation today, with an IMF warning that an AI bubble could drag down the global economy, a 2% Nasdaq slide over AI debt worries, and fresh model releases from DeepSeek and others. Solar overtook nuclear power globally for the first time, and Replit's split with Anthropic made headlines. In cricket, India survived an early scare to beat Zimbabwe in the first women's T20I, while Mumbai Indians parted ways with head coach Mahela Jayawardene. In football, Everton's Emiliano Martinez left the field on a stretcher in the Chelsea match, and Harry Kane reportedly reached a verbal agreement on a new Bayern deal.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "source": "TechCrunch",
-          "score": null,
-          "summary": "Meta has released an open-weight AI model designed to run locally on Macs, widening access to capable on-device models."
-        },
-        {
-          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-          "source": "Hacker News",
-          "score": 139,
-          "summary": "Apple ML Research shows an open model running with MLX on a Mac Studio, highlighting local inference on Apple silicon."
-        },
-        {
-          "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "Hacker News",
-          "score": 55,
-          "summary": "The Postgres 19 release has reportedly been delayed after AI-assisted reviewers found more bugs than humans can fix."
-        },
-        {
-          "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-          "url": "https://calif.io/research/big-fish",
-          "source": "Hacker News",
-          "score": 93,
-          "summary": "A write-up on exploiting a 37-year-old kernel bug in OpenBSD."
-        },
-        {
-          "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-          "url": "https://www.reddit.com/r/technology/comments/1x73y9o/order_to_limit_starshield_for_ukraine_came_from/",
+          "title": "AI bubble could burst and take global economy with it, IMF warns",
+          "url": "https://www.reddit.com/r/technology/comments/1x7sv1u/ai_bubble_could_burst_and_take_global_economy/",
           "source": "r/technology",
           "score": null,
-          "summary": "Sources say the order to limit Starshield use for Ukraine came from inside the White House."
+          "summary": "The IMF warns that an AI bubble could burst and drag the global economy down with it."
         },
         {
-          "title": "BIPM announces the end of leap seconds",
-          "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
-          "source": "r/programming",
+          "title": "Solar surpasses nuclear power globally for first time \u2013 pv magazine Global",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "source": "Hacker News",
+          "score": 186,
+          "summary": "Solar power has overtaken nuclear power globally for the first time, according to pv magazine."
+        },
+        {
+          "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+          "url": "https://www.reddit.com/r/technology/comments/1x7qix5/nasdaq_sinks_more_than_2_as_investors_raise/",
+          "source": "r/technology",
           "score": null,
-          "summary": "The BIPM has announced the end of leap seconds."
+          "summary": "The Nasdaq fell more than 2% as investors raised questions about AI-related debt."
         },
         {
-          "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
-          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-          "source": "The Verge",
-          "score": null,
-          "summary": "Meta's new terms may allow it to train AI on news sites for free."
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "Hacker News",
+          "score": 356,
+          "summary": "A new DeepSeek-v4.1-Flash release is drawing strong interest on Hacker News."
         },
         {
-          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Tesla revealed a SpaceX-powered Roadster demo that flies and falls; The Verge notes it is just for show."
+          "summary": "Replit's CEO says the company is no longer working with Anthropic."
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News",
+          "score": 969,
+          "summary": "A post on Claude revealing the origins of ECDSA curves drew heavy discussion on Hacker News."
+        },
+        {
+          "title": "Musk approached Trump to slow down Starlink in Ukraine - SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them",
+          "url": "https://www.reddit.com/r/technology/comments/1x7sb6p/musk_approached_trump_to_slow_down_starlink_in/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Reporting says Musk approached Trump about slowing Starlink in Ukraine, contradicting his public blame of the president for the restrictions."
+        },
+        {
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "India has become the latest country to report rogue AI agent activity."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Bumrah, Pant in India squad for New Zealand Test series",
-          "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+          "title": "Mumbai Indians and head coach Jayawardene part ways",
+          "url": "https://www.cricinfo.com/ci/content/story/1558843.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Jasprit Bumrah and Rishabh Pant are in India's squad for the New Zealand Test series."
+          "summary": "Mumbai Indians and head coach Mahela Jayawardene have parted ways."
         },
         {
-          "title": "Deepti Sharma and Niki Prasad seal nervy chase of 115 for India",
-          "url": "https://www.cricinfo.com/ci/content/story/1558783.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Deepti Sharma and debutant Niki Prasad sealed a nervy chase of 115 for India."
-        },
-        {
-          "title": "Arshdeep doubtful for Bengaluru T20I, Bhuvneshwar added to India squad",
-          "url": "https://www.cricinfo.com/ci/content/story/1558724.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Arshdeep is doubtful for the Bengaluru T20I and Bhuvneshwar Kumar has been added to India's squad."
-        },
-        {
-          "title": "ICC sanctions Nepal Premier League",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x7h6ef/icc_sanctions_nepal_premier_league/",
+          "title": "India survive an early scare to defeat Zimbabwe in the 1st WT20I - They were 19/4 at one point in the chase",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x7lcta/india_survive_an_early_scare_to_defeat_zimbabwe/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "The ICC has sanctioned the Nepal Premier League."
+          "summary": "India beat Zimbabwe in the first women's T20I after being 19/4 at one point in the chase."
+        },
+        {
+          "title": "India comeback door shut for Mohammed Shami: India's selections for New Zealand all-format tour sends a clear message",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x89bty/india_comeback_door_shut_for_mohammed_shami/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "India's selections for the New Zealand all-format tour signal that Mohammed Shami's comeback door is shut."
+        },
+        {
+          "title": "A first in Indian cricket: Shubman Gill to pay out of pocket for 5 personal net bowlers on New Zealand tour",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x8128k/a_first_in_indian_cricket_shubman_gill_to_pay_out/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Shubman Gill will pay out of pocket for five personal net bowlers on the New Zealand tour, a first in Indian cricket."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Comunicado Oficial: Real Madrid demands the immediate resignation of Javier Tebas from his position as President of the Spanish LaLiga. Real Madrid will continue to defend its rights and institutional position, demand full disclosure of the truth in the Negreira case.",
-          "url": "https://www.reddit.com/r/soccer/comments/1x7fy09/comunicado_oficial_real_madrid_demands_the/",
+          "title": "[The Times] Kane and Bayern have reached a verbal agreement, despite a minor disagreement on the length of the contract: Kane wanted one until 2030 but Bayern stood firm on 2029. Kane will earn \u00a3400K per week. Bayern is rushing to make the deal official before the Ballon d\u2019Or ceremony on October 26.",
+          "url": "https://www.reddit.com/r/soccer/comments/1x7q5gm/the_times_kane_and_bayern_have_reached_a_verbal/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Real Madrid has officially demanded the immediate resignation of LaLiga president Javier Tebas amid the Negreira case."
+          "summary": "The Times reports Harry Kane and Bayern have reached a verbal agreement, with the contract length the only disagreement (2029 vs 2030). Bayern wants the deal done before the Ballon d'Or ceremony on October 26."
         },
         {
-          "title": "Javier Tebas compares Real Madrid TV with Goebbels' Nazi propaganda",
-          "url": "https://www.reddit.com/r/soccer/comments/1x7cfu9/javier_tebas_compares_real_madrid_tv_with/",
+          "title": "Everton fans boo Emiliano Martinez as he is carried off the field on a stretcher due to injury",
+          "url": "https://www.reddit.com/r/soccer/comments/1x8a935/everton_fans_boo_emiliano_martinez_as_he_is/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Javier Tebas compared Real Madrid TV to Goebbels' Nazi propaganda, sparking the backlash."
+          "summary": "Everton's Emiliano Martinez was carried off on a stretcher against Chelsea, and he was booed by home fans."
         },
         {
-          "title": "Do Manchester City have any grounds to win their appeal?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+          "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "BBC looks at whether Manchester City have any grounds to win their appeal."
+          "summary": "Martinez was taken to hospital for precautionary tests after his injury."
         },
         {
-          "title": "Chelsea's James out for three months after knee surgery",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
+          "title": "Guardiola receives standing ovation on return to Barcelona",
+          "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Chelsea's Reece James is out for three months after knee surgery."
+          "summary": "Pep Guardiola received a standing ovation on his return to Barcelona."
         }
       ]
     },
@@ -139,32 +139,25 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] The NBA and prominent sportsbooks have agreed to ban multiple types of bets, per me and David Purdum",
-          "url": "https://www.reddit.com/r/nba/comments/1x7ikx5/charania_the_nba_and_prominent_sportsbooks_have/",
+          "title": "Kevin Garnett reacts to the Timberwolves retiring his jersey: \u201cThey made a motherf**ka wait 10 years\u2026 B*tch ass n***as.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1x7r7eh/kevin_garnett_reacts_to_the_timberwolves_retiring/",
           "source": "r/nba",
           "score": null,
-          "summary": "The NBA and major sportsbooks have agreed to ban multiple types of bets, per Shams Charania and David Purdum."
+          "summary": "Kevin Garnett reacted to the Timberwolves retiring his jersey, saying they made him wait 10 years."
         },
         {
-          "title": "[Windhorst] Seattle No Longer Lock for Expansion, Mexico City a Possible Alternative",
-          "url": "https://www.reddit.com/r/nba/comments/1x7iu2h/windhorst_seattle_no_longer_lock_for_expansion/",
+          "title": "LeBron James in the loss vs the Celtics | 25 MIN | 8 PTS | 8 REB | 7 AST | 4/9 FG | 0/2 3FG | 0/3 FTs | 4 TOV | 38.8% TS",
+          "url": "https://www.reddit.com/r/nba/comments/1x7xxzu/lebron_james_in_the_loss_vs_the_celtics_25_min_8/",
           "source": "r/nba",
           "score": null,
-          "summary": "Per Windhorst, Seattle is no longer a lock for NBA expansion, with Mexico City a possible alternative."
+          "summary": "LeBron James had a quiet night in a loss to the Celtics, with 8 points on 4/9 shooting in 25 minutes."
         },
         {
-          "title": "[Siegel] The Knicks and the Lakers are actively exploring trades involving former 1st round picks from the 2024 Draft Pacome Dadiet and Dalton Knecht, respectively, as both teams look to resolve roster crunches before the start of the season.",
-          "url": "https://www.reddit.com/r/nba/comments/1x6xkum/siegel_the_knicks_and_the_lakers_are_actively/",
+          "title": "Klay \u201cKlank\u201d Thompson preseason shooting stats: 7/26 FG, 3/20 3FG, 0/0 FT",
+          "url": "https://www.reddit.com/r/nba/comments/1x7z6xq/klay_klank_thompson_preseason_shooting_stats_726/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Knicks and Lakers are reportedly exploring trades for Pacome Dadiet and Dalton Knecht to ease roster crunches."
-        },
-        {
-          "title": "OKC Thunder rookie center Aday Mara could be blocked from playing for the team this season",
-          "url": "https://www.reddit.com/r/nba/comments/1x7hobp/okc_thunder_rookie_center_aday_mara_could_be/",
-          "source": "r/nba",
-          "score": null,
-          "summary": "OKC rookie center Aday Mara could reportedly be blocked from playing for the team this season."
+          "summary": "Klay Thompson's preseason shooting has been poor so far, at 7/26 from the field and 3/20 from three."
         }
       ]
     }
