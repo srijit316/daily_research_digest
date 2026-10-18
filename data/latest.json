@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T16:32:23.817925+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:38:24.809160+00:00",
   "mode": "claude",
-  "overview": "AI dominated the tech conversation today, with an IMF warning that an AI bubble could drag down the global economy, a 2% Nasdaq slide over AI debt worries, and fresh model releases from DeepSeek and others. Solar overtook nuclear power globally for the first time, and Replit's split with Anthropic made headlines. In cricket, India survived an early scare to beat Zimbabwe in the first women's T20I, while Mumbai Indians parted ways with head coach Mahela Jayawardene. In football, Everton's Emiliano Martinez left the field on a stretcher in the Chelsea match, and Harry Kane reportedly reached a verbal agreement on a new Bayern deal.",
+  "overview": "Tech is dominated by AI policy and platform friction: Meta walked back terms that raised AI-scraping concerns, Anthropic's proposed safety bill has a high harm threshold, and websites are increasingly shutting out AI agents. In the Premier League, Man City moved six points clear behind a Haaland double, Chelsea won at Everton, and Liverpool came from behind to beat nine-man Brentford. Cricket saw India beat the opposition to take a series, Australia and South Africa begin the second Test, and Zimbabwe beat Bangladesh in the tri-series. In the NBA, a public spat between Kevin Durant and Suns owner Matt Ishbia stole the headlines ahead of opening night.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "AI bubble could burst and take global economy with it, IMF warns",
-          "url": "https://www.reddit.com/r/technology/comments/1x7sv1u/ai_bubble_could_burst_and_take_global_economy/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "The IMF warns that an AI bubble could burst and drag the global economy down with it."
-        },
-        {
-          "title": "Solar surpasses nuclear power globally for first time \u2013 pv magazine Global",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-          "source": "Hacker News",
-          "score": 186,
-          "summary": "Solar power has overtaken nuclear power globally for the first time, according to pv magazine."
-        },
-        {
-          "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-          "url": "https://www.reddit.com/r/technology/comments/1x7qix5/nasdaq_sinks_more_than_2_as_investors_raise/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "The Nasdaq fell more than 2% as investors raised questions about AI-related debt."
-        },
-        {
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "Hacker News",
-          "score": 356,
-          "summary": "A new DeepSeek-v4.1-Flash release is drawing strong interest on Hacker News."
-        },
-        {
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Replit's CEO says the company is no longer working with Anthropic."
+          "summary": "Meta removed contract language that had raised concerns about data scraping and AI training. Legal experts say the new terms may still grant broad permissions."
         },
         {
-          "title": "Claude reveals ECDSA curve origins",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
           "source": "Hacker News",
-          "score": 969,
-          "summary": "A post on Claude revealing the origins of ECDSA curves drew heavy discussion on Hacker News."
+          "score": 85,
+          "summary": "Anthropic's proposed AI safety bill would only take effect after a threshold of 50 deaths or $1 billion in damages."
         },
         {
-          "title": "Musk approached Trump to slow down Starlink in Ukraine - SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them",
-          "url": "https://www.reddit.com/r/technology/comments/1x7sb6p/musk_approached_trump_to_slow_down_starlink_in/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Reporting says Musk approached Trump about slowing Starlink in Ukraine, contradicting his public blame of the president for the restrictions."
+          "title": "Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News",
+          "score": 75,
+          "summary": "Websites are increasingly blocking AI agents from accessing their content, a trend drawing wide discussion."
         },
         {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search/",
+          "source": "Hacker News",
+          "score": 407,
+          "summary": "DeepSeek is offering search and fetch capabilities priced at $0.75 per 1,000 successful requests."
+        },
+        {
+          "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "India has become the latest country to report rogue AI agent activity."
+          "summary": "Disney has agreed to hire the majority of Character.AI's workforce."
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Replit's CEO says the company is making OpenAI its default model provider over Anthropic."
+        },
+        {
+          "title": "Dutch cloud services concerned after U.S. request leads to Amsterdam server seizure",
+          "url": "https://www.reddit.com/r/technology/comments/1x8xlkf/dutch_cloud_services_concerned_after_us_request/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Dutch cloud providers are concerned after a U.S. request led to the seizure of a server in Amsterdam."
+        },
+        {
+          "title": "Video game ownership bill introduced in Congress",
+          "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+          "source": "The Verge",
+          "score": null,
+          "summary": "A bill introduced in Congress, the Power To The Players Act, aims to ensure gamers own the games they buy."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Mumbai Indians and head coach Jayawardene part ways",
-          "url": "https://www.cricinfo.com/ci/content/story/1558843.html?ex_cid=OTC-RSS",
+          "title": "Bowlers, Shafali, Mandhana power India to series win",
+          "url": "https://www.cricinfo.com/ci/content/story/1559005.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Mumbai Indians and head coach Mahela Jayawardene have parted ways."
+          "summary": "India won the series, powered by the bowlers along with Shafali and Mandhana."
         },
         {
-          "title": "India survive an early scare to defeat Zimbabwe in the 1st WT20I - They were 19/4 at one point in the chase",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x7lcta/india_survive_an_early_scare_to_defeat_zimbabwe/",
+          "title": "Match Thread: 2nd Test - South Africa vs Australia, Day 1",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x8w3im/match_thread_2nd_test_south_africa_vs_australia/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "India beat Zimbabwe in the first women's T20I after being 19/4 at one point in the chase."
+          "summary": "The second Test between South Africa and Australia got underway in Gqeberha, with rain and Boland affecting South Africa on day one."
         },
         {
-          "title": "India comeback door shut for Mohammed Shami: India's selections for New Zealand all-format tour sends a clear message",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x89bty/india_comeback_door_shut_for_mohammed_shami/",
+          "title": "Zimbabwe defeat Bangladesh by 99 runs in the 1st ODI of the tri-series",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x8hvbn/zimbabwe_defeat_bangladesh_by_99_runs_in_the_1st/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "India's selections for the New Zealand all-format tour signal that Mohammed Shami's comeback door is shut."
+          "summary": "Zimbabwe beat Bangladesh by 99 runs in the first ODI of the tri-series."
         },
         {
-          "title": "A first in Indian cricket: Shubman Gill to pay out of pocket for 5 personal net bowlers on New Zealand tour",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x8128k/a_first_in_indian_cricket_shubman_gill_to_pay_out/",
+          "title": "India and West Indies share the T20I series as the last match ended in no result.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1x8f26j/india_and_west_indies_share_the_t20i_series_as/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Shubman Gill will pay out of pocket for five personal net bowlers on the New Zealand tour, a first in Indian cricket."
+          "summary": "India and West Indies shared the T20I series after the final match ended in no result."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "[The Times] Kane and Bayern have reached a verbal agreement, despite a minor disagreement on the length of the contract: Kane wanted one until 2030 but Bayern stood firm on 2029. Kane will earn \u00a3400K per week. Bayern is rushing to make the deal official before the Ballon d\u2019Or ceremony on October 26.",
-          "url": "https://www.reddit.com/r/soccer/comments/1x7q5gm/the_times_kane_and_bayern_have_reached_a_verbal/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "The Times reports Harry Kane and Bayern have reached a verbal agreement, with the contract length the only disagreement (2029 vs 2030). Bayern wants the deal done before the Ballon d'Or ceremony on October 26."
-        },
-        {
-          "title": "Everton fans boo Emiliano Martinez as he is carried off the field on a stretcher due to injury",
-          "url": "https://www.reddit.com/r/soccer/comments/1x8a935/everton_fans_boo_emiliano_martinez_as_he_is/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Everton's Emiliano Martinez was carried off on a stretcher against Chelsea, and he was booed by home fans."
-        },
-        {
-          "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+          "title": "Haaland nets double as Man City go six points clear at the top",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Martinez was taken to hospital for precautionary tests after his injury."
+          "summary": "Erling Haaland scored twice as Manchester City moved six points clear at the top of the Premier League."
         },
         {
-          "title": "Guardiola receives standing ovation on return to Barcelona",
-          "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
+          "title": "Neto scores twice as Chelsea win at Everton",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Pep Guardiola received a standing ovation on his return to Barcelona."
+          "summary": "Neto scored twice as Chelsea won at Everton. Emi Martinez broke his jaw in the match."
+        },
+        {
+          "title": "Liverpool come from behind to beat nine-man Brentford",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Liverpool came from behind to beat Brentford, who finished with nine men."
+        },
+        {
+          "title": "Real Betis 0 - [1] Barcelona - Lamine Yamal 10' (Great Goal)",
+          "url": "https://www.reddit.com/r/soccer/comments/1x8eukv/real_betis_0_1_barcelona_lamine_yamal_10_great/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Lamine Yamal opened the scoring early as Barcelona beat Real Betis, who ended up on the wrong side of a 5-2 scoreline."
         }
       ]
     },
@@ -139,25 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Kevin Garnett reacts to the Timberwolves retiring his jersey: \u201cThey made a motherf**ka wait 10 years\u2026 B*tch ass n***as.\u201d",
-          "url": "https://www.reddit.com/r/nba/comments/1x7r7eh/kevin_garnett_reacts_to_the_timberwolves_retiring/",
+          "title": "Suns owner Matt Ishbia on trading for Kevin Durant: \"I kind of just threw money at the problem...Bringing in super talented players like Kevin Durant doesn't necessarily lead to championships.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1x8gzm5/suns_owner_matt_ishbia_on_trading_for_kevin/",
           "source": "r/nba",
           "score": null,
-          "summary": "Kevin Garnett reacted to the Timberwolves retiring his jersey, saying they made him wait 10 years."
+          "summary": "Suns owner Matt Ishbia said he threw money at the problem in trading for Kevin Durant, adding that stars don't necessarily bring championships."
         },
         {
-          "title": "LeBron James in the loss vs the Celtics | 25 MIN | 8 PTS | 8 REB | 7 AST | 4/9 FG | 0/2 3FG | 0/3 FTs | 4 TOV | 38.8% TS",
-          "url": "https://www.reddit.com/r/nba/comments/1x7xxzu/lebron_james_in_the_loss_vs_the_celtics_25_min_8/",
+          "title": "Kevin Durant in response to Matt Ishbia's recent comments: \"even though KD stayed on top of his game at 36 and got u back this \"culture\" you love so much\"",
+          "url": "https://www.reddit.com/r/nba/comments/1x8h40h/kevin_durant_in_response_to_matt_ishbias_recent/",
           "source": "r/nba",
           "score": null,
-          "summary": "LeBron James had a quiet night in a loss to the Celtics, with 8 points on 4/9 shooting in 25 minutes."
+          "summary": "Kevin Durant fired back publicly at Ishbia's comments, saying he kept performing at 36 and helped build the culture the owner likes."
         },
         {
-          "title": "Klay \u201cKlank\u201d Thompson preseason shooting stats: 7/26 FG, 3/20 3FG, 0/0 FT",
-          "url": "https://www.reddit.com/r/nba/comments/1x7z6xq/klay_klank_thompson_preseason_shooting_stats_726/",
+          "title": "[Charania] The New York Knicks are waiving Bruce Brown, sources tell ESPN. James Wiseman is set to make the Knicks regular season roster as a reserve center",
+          "url": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
           "source": "r/nba",
           "score": null,
-          "summary": "Klay Thompson's preseason shooting has been poor so far, at 7/26 from the field and 3/20 from three."
+          "summary": "The Knicks are waiving Bruce Brown, and James Wiseman is set to make the regular-season roster as a reserve center."
+        },
+        {
+          "title": "The regular-season opener between the Knicks and the 76ers has officially become the most expensive NBA season-opening game in history on the secondary ticket market. The average price for a seat at MSG has surged to approximately $2600, a staggering 282% increase from last year's Knicks home opener",
+          "url": "https://www.reddit.com/r/nba/comments/1x8mr6l/the_regularseason_opener_between_the_knicks_and/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Knicks-76ers season opener is now the most expensive opening game ever on the secondary market, averaging about $2,600 per seat at MSG."
         }
       ]
     }
