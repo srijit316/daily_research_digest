@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T16:38:24.809160+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:25:43.024885+00:00",
   "mode": "claude",
-  "overview": "Tech is dominated by AI policy and platform friction: Meta walked back terms that raised AI-scraping concerns, Anthropic's proposed safety bill has a high harm threshold, and websites are increasingly shutting out AI agents. In the Premier League, Man City moved six points clear behind a Haaland double, Chelsea won at Everton, and Liverpool came from behind to beat nine-man Brentford. Cricket saw India beat the opposition to take a series, Australia and South Africa begin the second Test, and Zimbabwe beat Bangladesh in the tri-series. In the NBA, a public spat between Kevin Durant and Suns owner Matt Ishbia stole the headlines ahead of opening night.",
+  "overview": "Anthropic is in the spotlight as it commits 5% of its shares to a public benefit fund and lobbies for AI regulation thresholds, while Amazon bankrolls a new nuclear plant in Indiana and Nvidia and Mistral push out new open models. In football, Real Madrid beat Sevilla ahead of El Clasico amid a VAR row over Arda Guler, and Cristiano Ronaldo was hit with a 30-day suspension by the Portuguese FA. Cricket saw Australia take control of the second Test against South Africa in Gqeberha, while Chinmay Sutar's unbeaten 400 stood out in the Ranji Trophy. In the NBA, Ben Simmons suffered a suspected torn Achilles and Stephen Curry appeared to hurt his knee, casting a shadow over the opening of the new season.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Meta removed contract language that had raised concerns about data scraping and AI training. Legal experts say the new terms may still grant broad permissions."
+          "summary": "Anthropic says it will commit 5% of its shares to a 'public benefit fund'. The move comes as scrutiny grows over the company's governance ahead of a potential IPO."
         },
         {
-          "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "Hacker News",
-          "score": 85,
-          "summary": "Anthropic's proposed AI safety bill would only take effect after a threshold of 50 deaths or $1 billion in damages."
-        },
-        {
-          "title": "Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News",
-          "score": 75,
-          "summary": "Websites are increasingly blocking AI agents from accessing their content, a trend drawing wide discussion."
-        },
-        {
-          "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-          "url": "https://api-docs.deepseek.com/guides/search/",
-          "source": "Hacker News",
-          "score": 407,
-          "summary": "DeepSeek is offering search and fetch capabilities priced at $0.75 per 1,000 successful requests."
-        },
-        {
-          "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+          "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Disney has agreed to hire the majority of Character.AI's workforce."
+          "summary": "Amazon will fund 12 small nuclear reactors at a former Indiana coal plant, another sign of big tech turning to nuclear power for its energy needs."
         },
         {
-          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Replit's CEO says the company is making OpenAI its default model provider over Anthropic."
+          "summary": "Nvidia is launching new open models designed to run agents in enterprises and on PCs."
         },
         {
-          "title": "Dutch cloud services concerned after U.S. request leads to Amsterdam server seizure",
-          "url": "https://www.reddit.com/r/technology/comments/1x8xlkf/dutch_cloud_services_concerned_after_us_request/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Dutch cloud providers are concerned after a U.S. request led to the seizure of a server in Amsterdam."
+          "title": "Timestral: Mistral's time-series foundation models",
+          "url": "https://mistral.ai/news/timestral/",
+          "source": "Hacker News",
+          "score": 439,
+          "summary": "Mistral has released Timestral, a family of time-series foundation models, which drew strong interest on Hacker News."
         },
         {
-          "title": "Video game ownership bill introduced in Congress",
-          "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+          "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+          "source": "Hacker News",
+          "score": 230,
+          "summary": "CERN and Mistral have signed a statement of intent to establish a strategic partnership."
+        },
+        {
+          "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
           "source": "The Verge",
           "score": null,
-          "summary": "A bill introduced in Congress, the Power To The Players Act, aims to ensure gamers own the games they buy."
+          "summary": "A hacker reportedly breached John Deere and SharkNinja using an army of AI agents, highlighting AI-driven attack capabilities."
+        },
+        {
+          "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries",
+          "url": "https://www.reddit.com/r/technology/comments/1x9vzfw/anthropic_wants_ai_models_blocked_only_if_they/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic argues that AI models should be blocked only if they threaten more than $1 billion in damage or over 50 deaths or serious injuries."
+        },
+        {
+          "title": "Apple teases MacBook Pro event next week",
+          "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Apple is teasing a MacBook Pro event set for next week."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
+          "title": "Bavuma fights but Boland's four puts Australia in complete control",
+          "url": "https://www.cricinfo.com/ci/content/story/1559080.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "On Day 2 of the second Test in Gqeberha, Scott Boland's four wickets left South Africa struggling at 97-5, with Temba Bavuma fighting on, and Australia in complete control."
+        },
+        {
+          "title": "Chinmay Sutar scores 400* for Mizoram in Ranji Trophy",
+          "url": "https://www.cricinfo.com/ci/content/story/1559036.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Chinmay Sutar has scored an unbeaten 400 for Mizoram in the Ranji Trophy."
+        },
+        {
           "title": "Bowlers, Shafali, Mandhana power India to series win",
           "url": "https://www.cricinfo.com/ci/content/story/1559005.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "India won the series, powered by the bowlers along with Shafali and Mandhana."
+          "summary": "India clinched a series win thanks to the bowlers and contributions from Shafali Verma and Smriti Mandhana."
         },
         {
-          "title": "Match Thread: 2nd Test - South Africa vs Australia, Day 1",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x8w3im/match_thread_2nd_test_south_africa_vs_australia/",
-          "source": "r/Cricket",
+          "title": "Pakistan quicks seal win after Salman Agha ton sets tone",
+          "url": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
-          "summary": "The second Test between South Africa and Australia got underway in Gqeberha, with rain and Boland affecting South Africa on day one."
-        },
-        {
-          "title": "Zimbabwe defeat Bangladesh by 99 runs in the 1st ODI of the tri-series",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x8hvbn/zimbabwe_defeat_bangladesh_by_99_runs_in_the_1st/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "Zimbabwe beat Bangladesh by 99 runs in the first ODI of the tri-series."
-        },
-        {
-          "title": "India and West Indies share the T20I series as the last match ended in no result.",
-          "url": "https://www.reddit.com/r/Cricket/comments/1x8f26j/india_and_west_indies_share_the_t20i_series_as/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "India and West Indies shared the T20I series after the final match ended in no result."
+          "summary": "Pakistan's quicks sealed a win after a Salman Agha century set the tone."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Haaland nets double as Man City go six points clear at the top",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+          "title": "Ronaldo handed 30-day suspension by Portuguese FA",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Erling Haaland scored twice as Manchester City moved six points clear at the top of the Premier League."
+          "summary": "The Portuguese FA has handed Cristiano Ronaldo a 30-day suspension, reportedly for leaving the national team's training camp in Denmark during the recent international break."
         },
         {
-          "title": "Neto scores twice as Chelsea win at Everton",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "Neto scored twice as Chelsea won at Everton. Emi Martinez broke his jaw in the match."
-        },
-        {
-          "title": "Liverpool come from behind to beat nine-man Brentford",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "Liverpool came from behind to beat Brentford, who finished with nine men."
-        },
-        {
-          "title": "Real Betis 0 - [1] Barcelona - Lamine Yamal 10' (Great Goal)",
-          "url": "https://www.reddit.com/r/soccer/comments/1x8eukv/real_betis_0_1_barcelona_lamine_yamal_10_great/",
+          "title": "Real Madrid [2] - 0 Sevilla - Kylian Mbappe 37' (Great Goal)",
+          "url": "https://www.reddit.com/r/soccer/comments/1x9ccdk/real_madrid_2_0_sevilla_kylian_mbappe_37_great/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Lamine Yamal opened the scoring early as Barcelona beat Real Betis, who ended up on the wrong side of a 5-2 scoreline."
+          "summary": "Real Madrid beat Sevilla, with Kylian Mbappe scoring a fine goal in the first half, ahead of El Clasico."
+        },
+        {
+          "title": "Luis Garcia Plaza: \u201cThe referee should\u2019ve send off Arda Guler. It was a clear red... I don\u2019t know why VAR didn\u2019t call the referee, maybe because Real Madrid COULDN\u2019T drop more points before El Clasico. Maybe because if they let us win tonight, they would be 9 points behind.\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1x9fu6z/luis_garcia_plaza_the_referee_shouldve_send_off/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Sevilla's coach Luis Garcia Plaza claims Arda Guler should have been sent off and questions why VAR did not intervene."
+        },
+        {
+          "title": "Uefa gives Infantino two-week deadline to release key documents",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Uefa has given Fifa president Gianni Infantino a two-week deadline to release key documents."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Suns owner Matt Ishbia on trading for Kevin Durant: \"I kind of just threw money at the problem...Bringing in super talented players like Kevin Durant doesn't necessarily lead to championships.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1x8gzm5/suns_owner_matt_ishbia_on_trading_for_kevin/",
+          "title": "[Charania] Just in: Sacramento Kings guard Ben Simmons is believed to have sustained a torn Achilles tendon at practice Sunday, sources tell ESPN. A suspected season-ending injury for Simmons after rejuvenated and impressive training camp and preseason performances",
+          "url": "https://www.reddit.com/r/nba/comments/1x9ggx7/charania_just_in_sacramento_kings_guard_ben/",
           "source": "r/nba",
           "score": null,
-          "summary": "Suns owner Matt Ishbia said he threw money at the problem in trading for Kevin Durant, adding that stars don't necessarily bring championships."
+          "summary": "ESPN reports Sacramento Kings guard Ben Simmons is believed to have torn his Achilles at practice, a suspected season-ending injury after a strong camp and preseason."
         },
         {
-          "title": "Kevin Durant in response to Matt Ishbia's recent comments: \"even though KD stayed on top of his game at 36 and got u back this \"culture\" you love so much\"",
-          "url": "https://www.reddit.com/r/nba/comments/1x8h40h/kevin_durant_in_response_to_matt_ishbias_recent/",
+          "title": "[Dycus] Stephen Curry appeared to have suffered knee injury during Warriors open practice Sunday. He limped to the locker room.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9gtek/dycus_stephen_curry_appeared_to_have_suffered/",
           "source": "r/nba",
           "score": null,
-          "summary": "Kevin Durant fired back publicly at Ishbia's comments, saying he kept performing at 36 and helped build the culture the owner likes."
+          "summary": "Stephen Curry appeared to injure his knee during the Warriors' open practice and limped to the locker room."
         },
         {
-          "title": "[Charania] The New York Knicks are waiving Bruce Brown, sources tell ESPN. James Wiseman is set to make the Knicks regular season roster as a reserve center",
-          "url": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
+          "title": "[Charania] Just in: Oklahoma City Thunder All-Defensive guard Cason Wallace has agreed to a five-year, $139 million rookie-scale contract extension, agents Jeff Schwartz, Max Lipsett and Marcus Monk of Excel Sports Management tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9l9dk/charania_just_in_oklahoma_city_thunder/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Knicks are waiving Bruce Brown, and James Wiseman is set to make the regular-season roster as a reserve center."
+          "summary": "Oklahoma City Thunder guard Cason Wallace has agreed to a five-year, $139 million rookie-scale extension."
         },
         {
-          "title": "The regular-season opener between the Knicks and the 76ers has officially become the most expensive NBA season-opening game in history on the secondary ticket market. The average price for a seat at MSG has surged to approximately $2600, a staggering 282% increase from last year's Knicks home opener",
-          "url": "https://www.reddit.com/r/nba/comments/1x8mr6l/the_regularseason_opener_between_the_knicks_and/",
+          "title": "[Charania] The Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Knicks-76ers season opener is now the most expensive opening game ever on the secondary market, averaging about $2,600 per seat at MSG."
+          "summary": "The Dallas Mavericks are waiving veteran center Dwight Powell, according to ESPN."
         }
       ]
     }

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:25:43.024885+00:00",
+  "mode": "claude",
+  "overview": "Anthropic is in the spotlight as it commits 5% of its shares to a public benefit fund and lobbies for AI regulation thresholds, while Amazon bankrolls a new nuclear plant in Indiana and Nvidia and Mistral push out new open models. In football, Real Madrid beat Sevilla ahead of El Clasico amid a VAR row over Arda Guler, and Cristiano Ronaldo was hit with a 30-day suspension by the Portuguese FA. Cricket saw Australia take control of the second Test against South Africa in Gqeberha, while Chinmay Sutar's unbeaten 400 stood out in the Ranji Trophy. In the NBA, Ben Simmons suffered a suspected torn Achilles and Stephen Curry appeared to hurt his knee, casting a shadow over the opening of the new season.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Anthropic says it will commit 5% of its shares to a 'public benefit fund'. The move comes as scrutiny grows over the company's governance ahead of a potential IPO."
+        },
+        {
+          "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+          "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Amazon will fund 12 small nuclear reactors at a former Indiana coal plant, another sign of big tech turning to nuclear power for its energy needs."
+        },
+        {
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Nvidia is launching new open models designed to run agents in enterprises and on PCs."
+        },
+        {
+          "title": "Timestral: Mistral's time-series foundation models",
+          "url": "https://mistral.ai/news/timestral/",
+          "source": "Hacker News",
+          "score": 439,
+          "summary": "Mistral has released Timestral, a family of time-series foundation models, which drew strong interest on Hacker News."
+        },
+        {
+          "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+          "source": "Hacker News",
+          "score": 230,
+          "summary": "CERN and Mistral have signed a statement of intent to establish a strategic partnership."
+        },
+        {
+          "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge",
+          "score": null,
+          "summary": "A hacker reportedly breached John Deere and SharkNinja using an army of AI agents, highlighting AI-driven attack capabilities."
+        },
+        {
+          "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries",
+          "url": "https://www.reddit.com/r/technology/comments/1x9vzfw/anthropic_wants_ai_models_blocked_only_if_they/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic argues that AI models should be blocked only if they threaten more than $1 billion in damage or over 50 deaths or serious injuries."
+        },
+        {
+          "title": "Apple teases MacBook Pro event next week",
+          "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Apple is teasing a MacBook Pro event set for next week."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Bavuma fights but Boland's four puts Australia in complete control",
+          "url": "https://www.cricinfo.com/ci/content/story/1559080.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "On Day 2 of the second Test in Gqeberha, Scott Boland's four wickets left South Africa struggling at 97-5, with Temba Bavuma fighting on, and Australia in complete control."
+        },
+        {
+          "title": "Chinmay Sutar scores 400* for Mizoram in Ranji Trophy",
+          "url": "https://www.cricinfo.com/ci/content/story/1559036.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Chinmay Sutar has scored an unbeaten 400 for Mizoram in the Ranji Trophy."
+        },
+        {
+          "title": "Bowlers, Shafali, Mandhana power India to series win",
+          "url": "https://www.cricinfo.com/ci/content/story/1559005.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "India clinched a series win thanks to the bowlers and contributions from Shafali Verma and Smriti Mandhana."
+        },
+        {
+          "title": "Pakistan quicks seal win after Salman Agha ton sets tone",
+          "url": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Pakistan's quicks sealed a win after a Salman Agha century set the tone."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Ronaldo handed 30-day suspension by Portuguese FA",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "The Portuguese FA has handed Cristiano Ronaldo a 30-day suspension, reportedly for leaving the national team's training camp in Denmark during the recent international break."
+        },
+        {
+          "title": "Real Madrid [2] - 0 Sevilla - Kylian Mbappe 37' (Great Goal)",
+          "url": "https://www.reddit.com/r/soccer/comments/1x9ccdk/real_madrid_2_0_sevilla_kylian_mbappe_37_great/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Real Madrid beat Sevilla, with Kylian Mbappe scoring a fine goal in the first half, ahead of El Clasico."
+        },
+        {
+          "title": "Luis Garcia Plaza: \u201cThe referee should\u2019ve send off Arda Guler. It was a clear red... I don\u2019t know why VAR didn\u2019t call the referee, maybe because Real Madrid COULDN\u2019T drop more points before El Clasico. Maybe because if they let us win tonight, they would be 9 points behind.\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1x9fu6z/luis_garcia_plaza_the_referee_shouldve_send_off/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Sevilla's coach Luis Garcia Plaza claims Arda Guler should have been sent off and questions why VAR did not intervene."
+        },
+        {
+          "title": "Uefa gives Infantino two-week deadline to release key documents",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Uefa has given Fifa president Gianni Infantino a two-week deadline to release key documents."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] Just in: Sacramento Kings guard Ben Simmons is believed to have sustained a torn Achilles tendon at practice Sunday, sources tell ESPN. A suspected season-ending injury for Simmons after rejuvenated and impressive training camp and preseason performances",
+          "url": "https://www.reddit.com/r/nba/comments/1x9ggx7/charania_just_in_sacramento_kings_guard_ben/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "ESPN reports Sacramento Kings guard Ben Simmons is believed to have torn his Achilles at practice, a suspected season-ending injury after a strong camp and preseason."
+        },
+        {
+          "title": "[Dycus] Stephen Curry appeared to have suffered knee injury during Warriors open practice Sunday. He limped to the locker room.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9gtek/dycus_stephen_curry_appeared_to_have_suffered/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Stephen Curry appeared to injure his knee during the Warriors' open practice and limped to the locker room."
+        },
+        {
+          "title": "[Charania] Just in: Oklahoma City Thunder All-Defensive guard Cason Wallace has agreed to a five-year, $139 million rookie-scale contract extension, agents Jeff Schwartz, Max Lipsett and Marcus Monk of Excel Sports Management tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9l9dk/charania_just_in_oklahoma_city_thunder/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Oklahoma City Thunder guard Cason Wallace has agreed to a five-year, $139 million rookie-scale extension."
+        },
+        {
+          "title": "[Charania] The Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Dallas Mavericks are waiving veteran center Dwight Powell, according to ESPN."
+        }
+      ]
+    }
+  ]
+}
