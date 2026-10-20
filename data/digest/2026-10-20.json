@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T18:04:39.588350+00:00",
+  "mode": "claude",
+  "overview": "The US ordered federal civilian agencies to remove DeepSeek from their systems, while Linus Torvalds posted his first AI-assisted Linux kernel patch. Security stories also stood out: Go blocked eight CA keys in an emergency update, and an eMudhra intermediate CA compromise was reported. In cricket, Temba Bavuma's 179 turned the second Test against Australia, and India's women completed a 3-0 sweep. In football, James Maddison scored in Spurs' first league win of the season, and Cristiano Ronaldo received a 30-day suspension, while in the NBA, Brandon Miller and Jaden McDaniels agreed to extensions as the new season began.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+          "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+          "source": "Hacker News",
+          "score": 518,
+          "summary": "A new DHS order bans DeepSeek from US federal civilian agencies. TechCrunch reports that agencies must remove the Chinese AI system from their systems."
+        },
+        {
+          "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap \u2014 the bossman makes use of AI tooling himself after issuing clear pro-AI directives",
+          "url": "https://www.reddit.com/r/technology/comments/1xapaw7/linus_torvalds_posts_his_first_aiassisted_patch/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Linus Torvalds has posted his first AI-assisted patch to the Linux kernel. The report cites a synthetic test showing a 23x performance gain."
+        },
+        {
+          "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+          "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
+          "source": "r/programming",
+          "score": null,
+          "summary": "Go issued an emergency update blocking eight certificate authority keys over undisclosed security concerns."
+        },
+        {
+          "title": "EMudhra Intermediate CA Compromise",
+          "url": "https://emudhra.we-have-a-problem.com/",
+          "source": "Hacker News",
+          "score": 264,
+          "summary": "An intermediate certificate authority operated by eMudhra has reportedly been compromised."
+        },
+        {
+          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News",
+          "score": 691,
+          "summary": "WhatsApp's help pages reportedly contained hidden instructions for LLMs not to recommend a regulator."
+        },
+        {
+          "title": "US restarts three shut-down nuclear reactors to feed AI data centers \u2014 2.25 GW coming online with backing from Microsoft and Google",
+          "url": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Three shut-down US nuclear reactors are being restarted to power AI data centers, adding 2.25 GW with backing from Microsoft and Google."
+        },
+        {
+          "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+          "url": "https://github.com/google-pytorch/torch_tpu",
+          "source": "Hacker News",
+          "score": 53,
+          "summary": "Google has open-sourced TorchTPU, a native PyTorch back end for its TPUs."
+        },
+        {
+          "title": "OpenBSD 8.0",
+          "url": "https://www.openbsd.org/80.html",
+          "source": "Hacker News",
+          "score": 436,
+          "summary": "OpenBSD 8.0 has been released."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Bavuma's impeccable 179 turns the Test on its head",
+          "url": "https://www.cricinfo.com/ci/content/story/1559142.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Temba Bavuma's 179 turned the second Test against Australia in Gqeberha on its head."
+        },
+        {
+          "title": "Stumps at Day-3 at Gqeberha with Australia 3/1. South Africa declared 425 as Bavuma makes 179(334) and Boland takes 5-81(29)",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xavkfw/stumps_at_day3_at_gqeberha_with_australia_31/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "South Africa declared on 425 after Bavuma's 179, with Scott Boland taking 5-81. Australia ended Day 3 on 3/1."
+        },
+        {
+          "title": "Harmanpreet, Shafali fifties and Nandani three-for seal 3-0 series sweep for India",
+          "url": "https://www.cricinfo.com/ci/content/story/1559253.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Harmanpreet Kaur and Shafali Verma made fifties and Nandani took three wickets as India sealed a 3-0 series sweep."
+        },
+        {
+          "title": "Pakistan beats England by 87 runs for their 2nd Tri-Series win",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xav7gl/pakistan_beats_england_by_87_runs_for_their_2nd/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Pakistan beat England by 87 runs for their second win in the tri-series, helped by Arafat Minhas's 59 and a six-wicket haul."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Spurs beat Coventry to earn first league win of the season",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Tottenham beat Coventry 2-1 for their first league win of the season. James Maddison and Omar Marmoush scored."
+        },
+        {
+          "title": "Ronaldo given 30-day suspension and \u00a3215 fine by Portuguese FA",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "The Portuguese FA gave Cristiano Ronaldo a 30-day suspension and a \u00a3215 fine. Reports say he will be available for Portugal's November fixtures."
+        },
+        {
+          "title": "PSG v Barcelona - Europe's most exciting match-up?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "BBC Sport previews PSG v Barcelona as one of Europe's most exciting match-ups."
+        },
+        {
+          "title": "Teemu Pukki is retiring from professional football",
+          "url": "https://www.reddit.com/r/soccer/comments/1xaqk4b/teemu_pukki_is_retiring_from_professional_football/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Former Norwich and Celtic striker Teemu Pukki is retiring from professional football."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] BREAKING: Charlotte Hornets forward Brandon Miller has agreed on a five-year, $209 million rookie-scale contract extension, representatives AJ Vaynerchuk and Joey Middleton of VaynerSports tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xa8w5p/charania_breaking_charlotte_hornets_forward/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Hornets forward Brandon Miller has agreed a five-year, $209 million rookie-scale extension, per ESPN."
+        },
+        {
+          "title": "[Charania] Minnesota Timberwolves All-Defense forward Jaden McDaniels has agreed to a one-year, $40 million extension that will keep him under contract through the 2029-30 season, agents Nima Namakian of Innovate Sports and Bill Duffy of WME Basketball tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xafbho/charania_minnesota_timberwolves_alldefense/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Timberwolves forward Jaden McDaniels agreed to a one-year, $40 million extension through 2029-30."
+        },
+        {
+          "title": "[Charania] The Los Angeles Lakers are waiving 2024 No. 17 pick Dalton Knecht, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xa8ouu/charania_the_los_angeles_lakers_are_waiving_2024/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Lakers are waiving 2024 first-round pick Dalton Knecht, per ESPN."
+        },
+        {
+          "title": "[Charania] The Milwaukee Bucks have waived guard Kevin Porter Jr., sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xa8skk/charania_the_milwaukee_bucks_have_waived_guard/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Bucks have waived guard Kevin Porter Jr., per ESPN."
+        }
+      ]
+    }
+  ]
+}
