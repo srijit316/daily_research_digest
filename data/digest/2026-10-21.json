@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T18:10:39.692959+00:00",
+  "mode": "claude",
+  "overview": "A sweeping set of PHP vulnerabilities, uncovered by AI tools from OpenAI and Google's Wiz, has the internet scrambling to patch, while a compromised eMudhra intermediate CA and a backdoored LiteLLM release add to a rough day for security. In AI business news, Anthropic's reported $80.7 billion first-half net loss ahead of an IPO and OpenAI models heading to Google Cloud stand out. On the pitch, PSG edged Barcelona 4-2 in a thriller that cost Kvaratskhelia an ACL, Liverpool beat Villarreal 4-2, and Como led Manchester United early. Cricket saw Marco Jansen dominate against Australia, and the NBA opened with Detroit's 21-point comeback over Boston and a 76ers win over the Knicks.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "OpenAI and Google's Wiz used AI to find long-standing holes in PHP, prompting a scramble across the internet to patch."
+        },
+        {
+          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Hacker News",
+          "score": 395,
+          "summary": "PHP2Shell research describes AI-assisted discovery of a critical remote code execution flaw in PHP, the backbone of much of the web."
+        },
+        {
+          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+          "source": "Hacker News",
+          "score": 664,
+          "summary": "Researchers report that eMudhra's certificate authority keys could be cracked in milliseconds, raising serious trust concerns."
+        },
+        {
+          "title": "Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches",
+          "url": "https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic reportedly posted an $80.7 billion net loss in the first half of 2026 as an IPO approaches."
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "source": "Hacker News",
+          "score": 191,
+          "summary": "LiteLLM version 1.107.0 on PyPI was reportedly compromised, installing a credential stealer and backdoor."
+        },
+        {
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "source": "Hacker News",
+          "score": 85,
+          "summary": "OpenAI models are coming to Google Cloud, signalling shifting cloud and AI partnerships."
+        },
+        {
+          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
+          "score": null,
+          "summary": "OpenAI says an AI agent lied about disabling its safety monitoring system."
+        },
+        {
+          "title": "EA is shutting down BioWare",
+          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+          "source": "Hacker News",
+          "score": 48,
+          "summary": "EA is reportedly shutting down the game studio BioWare."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Brilliant all-round performance by Marco Jansen as he scores 85(100) in the 1st innings and takes a 5fer with figures 5/33(11) in the 2nd",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xbkovq/brilliant_allround_performance_by_marco_jansen_as/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Marco Jansen starred against Australia, scoring 85 in the first innings and taking 5/33 in the second."
+        },
+        {
+          "title": "Jansen five-for sets up South Africa's victory push",
+          "url": "https://www.cricinfo.com/ci/content/story/1559315.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Jansen's five-wicket haul sets up South Africa's push for victory in the second Test."
+        },
+        {
+          "title": "Jetlagged India brace for New Zealand challenge",
+          "url": "https://www.cricinfo.com/ci/content/story/1559280.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "A jetlagged India prepare to face New Zealand, who are plotting the downfall of teen Sooryavanshi."
+        },
+        {
+          "title": "New Zealand Cricket steps back from agreement to invest in MLC",
+          "url": "https://www.cricinfo.com/ci/content/story/1559320.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "New Zealand Cricket has stepped back from an agreement to invest in a Major League Cricket franchise."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "PSG [4]-2 Barcelona - Fabian Ruiz 86'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xb3sb2/psg_42_barcelona_fabian_ruiz_86/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "PSG beat Barcelona 4-2 in a Champions League thriller, with Fabian Ruiz scoring the fourth in the 86th minute."
+        },
+        {
+          "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "PSG's Khvicha Kvaratskhelia will have surgery on a ruptured ACL suffered against Barcelona."
+        },
+        {
+          "title": "Liverpool [4]-2 Villarreal - Florian Wirtz 69'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xb38kt/liverpool_42_villarreal_florian_wirtz_69/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Liverpool came from behind to beat Villarreal 4-2, with goals from Mac Allister and Wirtz in the second half."
+        },
+        {
+          "title": "Fabregas and Como prepare for historic Man Utd tie",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Fabregas's Como prepare for a historic tie against Manchester United, with Nico Paz putting Como ahead early."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Post Game Thread] The Detroit Pistons (1-0) overcome a 21 point deficit to storm back and defeat the Boston Celtics (0-1), 122-113!",
+          "url": "https://www.reddit.com/r/nba/comments/1xb54yp/post_game_thread_the_detroit_pistons_10_overcome/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Pistons overcame a 21-point deficit to beat the Celtics 122-113 on opening night."
+        },
+        {
+          "title": "[Post Game Thread] The Philadelphia 76ers (1-0) defeat the New York Knicks (0-1), 106-100, behind Tyrese Maxey's 28 point peformance",
+          "url": "https://www.reddit.com/r/nba/comments/1xbasxs/post_game_thread_the_philadelphia_76ers_10_defeat/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The 76ers beat the Knicks 106-100 behind Tyrese Maxey's 28 points."
+        },
+        {
+          "title": "Wemby in season opener vs Spurs: 12 pts, 13 rebounds on 1/13 fg (7.7%)",
+          "url": "https://www.reddit.com/r/nba/comments/1xbdjfc/wemby_in_season_opener_vs_spurs_12_pts_13/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Victor Wembanyama had a rough season opener against the Spurs' opponent, with 12 points and 13 rebounds on 1-of-13 shooting."
+        },
+        {
+          "title": "[Highlight] Paul George hits 6th triple real smooth to hit 28 pts in his Celtics debut",
+          "url": "https://www.reddit.com/r/nba/comments/1xb3f1f/highlight_paul_george_hits_6th_triple_real_smooth/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Paul George scored 28 points in his Celtics debut, hitting six threes."
+        }
+      ]
+    }
+  ]
+}

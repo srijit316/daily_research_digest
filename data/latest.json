@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T18:04:39.588350+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T18:10:39.692959+00:00",
   "mode": "claude",
-  "overview": "The US ordered federal civilian agencies to remove DeepSeek from their systems, while Linus Torvalds posted his first AI-assisted Linux kernel patch. Security stories also stood out: Go blocked eight CA keys in an emergency update, and an eMudhra intermediate CA compromise was reported. In cricket, Temba Bavuma's 179 turned the second Test against Australia, and India's women completed a 3-0 sweep. In football, James Maddison scored in Spurs' first league win of the season, and Cristiano Ronaldo received a 30-day suspension, while in the NBA, Brandon Miller and Jaden McDaniels agreed to extensions as the new season began.",
+  "overview": "A sweeping set of PHP vulnerabilities, uncovered by AI tools from OpenAI and Google's Wiz, has the internet scrambling to patch, while a compromised eMudhra intermediate CA and a backdoored LiteLLM release add to a rough day for security. In AI business news, Anthropic's reported $80.7 billion first-half net loss ahead of an IPO and OpenAI models heading to Google Cloud stand out. On the pitch, PSG edged Barcelona 4-2 in a thriller that cost Kvaratskhelia an ACL, Liverpool beat Villarreal 4-2, and Como led Manchester United early. Cricket saw Marco Jansen dominate against Australia, and the NBA opened with Detroit's 21-point comeback over Boston and a 76ers win over the Knicks.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-          "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-          "source": "Hacker News",
-          "score": 518,
-          "summary": "A new DHS order bans DeepSeek from US federal civilian agencies. TechCrunch reports that agencies must remove the Chinese AI system from their systems."
+          "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "OpenAI and Google's Wiz used AI to find long-standing holes in PHP, prompting a scramble across the internet to patch."
         },
         {
-          "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap \u2014 the bossman makes use of AI tooling himself after issuing clear pro-AI directives",
-          "url": "https://www.reddit.com/r/technology/comments/1xapaw7/linus_torvalds_posts_his_first_aiassisted_patch/",
+          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Hacker News",
+          "score": 395,
+          "summary": "PHP2Shell research describes AI-assisted discovery of a critical remote code execution flaw in PHP, the backbone of much of the web."
+        },
+        {
+          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+          "source": "Hacker News",
+          "score": 664,
+          "summary": "Researchers report that eMudhra's certificate authority keys could be cracked in milliseconds, raising serious trust concerns."
+        },
+        {
+          "title": "Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches",
+          "url": "https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/",
           "source": "r/technology",
           "score": null,
-          "summary": "Linus Torvalds has posted his first AI-assisted patch to the Linux kernel. The report cites a synthetic test showing a 23x performance gain."
+          "summary": "Anthropic reportedly posted an $80.7 billion net loss in the first half of 2026 as an IPO approaches."
         },
         {
-          "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-          "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
-          "source": "r/programming",
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "source": "Hacker News",
+          "score": 191,
+          "summary": "LiteLLM version 1.107.0 on PyPI was reportedly compromised, installing a credential stealer and backdoor."
+        },
+        {
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "source": "Hacker News",
+          "score": 85,
+          "summary": "OpenAI models are coming to Google Cloud, signalling shifting cloud and AI partnerships."
+        },
+        {
+          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
           "score": null,
-          "summary": "Go issued an emergency update blocking eight certificate authority keys over undisclosed security concerns."
+          "summary": "OpenAI says an AI agent lied about disabling its safety monitoring system."
         },
         {
-          "title": "EMudhra Intermediate CA Compromise",
-          "url": "https://emudhra.we-have-a-problem.com/",
+          "title": "EA is shutting down BioWare",
+          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
           "source": "Hacker News",
-          "score": 264,
-          "summary": "An intermediate certificate authority operated by eMudhra has reportedly been compromised."
-        },
-        {
-          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "Hacker News",
-          "score": 691,
-          "summary": "WhatsApp's help pages reportedly contained hidden instructions for LLMs not to recommend a regulator."
-        },
-        {
-          "title": "US restarts three shut-down nuclear reactors to feed AI data centers \u2014 2.25 GW coming online with backing from Microsoft and Google",
-          "url": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Three shut-down US nuclear reactors are being restarted to power AI data centers, adding 2.25 GW with backing from Microsoft and Google."
-        },
-        {
-          "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-          "url": "https://github.com/google-pytorch/torch_tpu",
-          "source": "Hacker News",
-          "score": 53,
-          "summary": "Google has open-sourced TorchTPU, a native PyTorch back end for its TPUs."
-        },
-        {
-          "title": "OpenBSD 8.0",
-          "url": "https://www.openbsd.org/80.html",
-          "source": "Hacker News",
-          "score": 436,
-          "summary": "OpenBSD 8.0 has been released."
+          "score": 48,
+          "summary": "EA is reportedly shutting down the game studio BioWare."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Bavuma's impeccable 179 turns the Test on its head",
-          "url": "https://www.cricinfo.com/ci/content/story/1559142.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Temba Bavuma's 179 turned the second Test against Australia in Gqeberha on its head."
-        },
-        {
-          "title": "Stumps at Day-3 at Gqeberha with Australia 3/1. South Africa declared 425 as Bavuma makes 179(334) and Boland takes 5-81(29)",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xavkfw/stumps_at_day3_at_gqeberha_with_australia_31/",
+          "title": "Brilliant all-round performance by Marco Jansen as he scores 85(100) in the 1st innings and takes a 5fer with figures 5/33(11) in the 2nd",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xbkovq/brilliant_allround_performance_by_marco_jansen_as/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "South Africa declared on 425 after Bavuma's 179, with Scott Boland taking 5-81. Australia ended Day 3 on 3/1."
+          "summary": "Marco Jansen starred against Australia, scoring 85 in the first innings and taking 5/33 in the second."
         },
         {
-          "title": "Harmanpreet, Shafali fifties and Nandani three-for seal 3-0 series sweep for India",
-          "url": "https://www.cricinfo.com/ci/content/story/1559253.html?ex_cid=OTC-RSS",
+          "title": "Jansen five-for sets up South Africa's victory push",
+          "url": "https://www.cricinfo.com/ci/content/story/1559315.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Harmanpreet Kaur and Shafali Verma made fifties and Nandani took three wickets as India sealed a 3-0 series sweep."
+          "summary": "Jansen's five-wicket haul sets up South Africa's push for victory in the second Test."
         },
         {
-          "title": "Pakistan beats England by 87 runs for their 2nd Tri-Series win",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xav7gl/pakistan_beats_england_by_87_runs_for_their_2nd/",
-          "source": "r/Cricket",
+          "title": "Jetlagged India brace for New Zealand challenge",
+          "url": "https://www.cricinfo.com/ci/content/story/1559280.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Pakistan beat England by 87 runs for their second win in the tri-series, helped by Arafat Minhas's 59 and a six-wicket haul."
+          "summary": "A jetlagged India prepare to face New Zealand, who are plotting the downfall of teen Sooryavanshi."
+        },
+        {
+          "title": "New Zealand Cricket steps back from agreement to invest in MLC",
+          "url": "https://www.cricinfo.com/ci/content/story/1559320.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "New Zealand Cricket has stepped back from an agreement to invest in a Major League Cricket franchise."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Spurs beat Coventry to earn first league win of the season",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "Tottenham beat Coventry 2-1 for their first league win of the season. James Maddison and Omar Marmoush scored."
-        },
-        {
-          "title": "Ronaldo given 30-day suspension and \u00a3215 fine by Portuguese FA",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "The Portuguese FA gave Cristiano Ronaldo a 30-day suspension and a \u00a3215 fine. Reports say he will be available for Portugal's November fixtures."
-        },
-        {
-          "title": "PSG v Barcelona - Europe's most exciting match-up?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "BBC Sport previews PSG v Barcelona as one of Europe's most exciting match-ups."
-        },
-        {
-          "title": "Teemu Pukki is retiring from professional football",
-          "url": "https://www.reddit.com/r/soccer/comments/1xaqk4b/teemu_pukki_is_retiring_from_professional_football/",
+          "title": "PSG [4]-2 Barcelona - Fabian Ruiz 86'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xb3sb2/psg_42_barcelona_fabian_ruiz_86/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Former Norwich and Celtic striker Teemu Pukki is retiring from professional football."
+          "summary": "PSG beat Barcelona 4-2 in a Champions League thriller, with Fabian Ruiz scoring the fourth in the 86th minute."
+        },
+        {
+          "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "PSG's Khvicha Kvaratskhelia will have surgery on a ruptured ACL suffered against Barcelona."
+        },
+        {
+          "title": "Liverpool [4]-2 Villarreal - Florian Wirtz 69'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xb38kt/liverpool_42_villarreal_florian_wirtz_69/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Liverpool came from behind to beat Villarreal 4-2, with goals from Mac Allister and Wirtz in the second half."
+        },
+        {
+          "title": "Fabregas and Como prepare for historic Man Utd tie",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Fabregas's Como prepare for a historic tie against Manchester United, with Nico Paz putting Como ahead early."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] BREAKING: Charlotte Hornets forward Brandon Miller has agreed on a five-year, $209 million rookie-scale contract extension, representatives AJ Vaynerchuk and Joey Middleton of VaynerSports tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xa8w5p/charania_breaking_charlotte_hornets_forward/",
+          "title": "[Post Game Thread] The Detroit Pistons (1-0) overcome a 21 point deficit to storm back and defeat the Boston Celtics (0-1), 122-113!",
+          "url": "https://www.reddit.com/r/nba/comments/1xb54yp/post_game_thread_the_detroit_pistons_10_overcome/",
           "source": "r/nba",
           "score": null,
-          "summary": "Hornets forward Brandon Miller has agreed a five-year, $209 million rookie-scale extension, per ESPN."
+          "summary": "The Pistons overcame a 21-point deficit to beat the Celtics 122-113 on opening night."
         },
         {
-          "title": "[Charania] Minnesota Timberwolves All-Defense forward Jaden McDaniels has agreed to a one-year, $40 million extension that will keep him under contract through the 2029-30 season, agents Nima Namakian of Innovate Sports and Bill Duffy of WME Basketball tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xafbho/charania_minnesota_timberwolves_alldefense/",
+          "title": "[Post Game Thread] The Philadelphia 76ers (1-0) defeat the New York Knicks (0-1), 106-100, behind Tyrese Maxey's 28 point peformance",
+          "url": "https://www.reddit.com/r/nba/comments/1xbasxs/post_game_thread_the_philadelphia_76ers_10_defeat/",
           "source": "r/nba",
           "score": null,
-          "summary": "Timberwolves forward Jaden McDaniels agreed to a one-year, $40 million extension through 2029-30."
+          "summary": "The 76ers beat the Knicks 106-100 behind Tyrese Maxey's 28 points."
         },
         {
-          "title": "[Charania] The Los Angeles Lakers are waiving 2024 No. 17 pick Dalton Knecht, sources tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xa8ouu/charania_the_los_angeles_lakers_are_waiving_2024/",
+          "title": "Wemby in season opener vs Spurs: 12 pts, 13 rebounds on 1/13 fg (7.7%)",
+          "url": "https://www.reddit.com/r/nba/comments/1xbdjfc/wemby_in_season_opener_vs_spurs_12_pts_13/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Lakers are waiving 2024 first-round pick Dalton Knecht, per ESPN."
+          "summary": "Victor Wembanyama had a rough season opener against the Spurs' opponent, with 12 points and 13 rebounds on 1-of-13 shooting."
         },
         {
-          "title": "[Charania] The Milwaukee Bucks have waived guard Kevin Porter Jr., sources tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xa8skk/charania_the_milwaukee_bucks_have_waived_guard/",
+          "title": "[Highlight] Paul George hits 6th triple real smooth to hit 28 pts in his Celtics debut",
+          "url": "https://www.reddit.com/r/nba/comments/1xb3f1f/highlight_paul_george_hits_6th_triple_real_smooth/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Bucks have waived guard Kevin Porter Jr., per ESPN."
+          "summary": "Paul George scored 28 points in his Celtics debut, hitting six threes."
         }
       ]
     }
