@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T18:10:39.692959+00:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T18:05:28.004073+00:00",
   "mode": "claude",
-  "overview": "A sweeping set of PHP vulnerabilities, uncovered by AI tools from OpenAI and Google's Wiz, has the internet scrambling to patch, while a compromised eMudhra intermediate CA and a backdoored LiteLLM release add to a rough day for security. In AI business news, Anthropic's reported $80.7 billion first-half net loss ahead of an IPO and OpenAI models heading to Google Cloud stand out. On the pitch, PSG edged Barcelona 4-2 in a thriller that cost Kvaratskhelia an ACL, Liverpool beat Villarreal 4-2, and Como led Manchester United early. Cricket saw Marco Jansen dominate against Australia, and the NBA opened with Detroit's 21-point comeback over Boston and a 76ers win over the Knicks.",
+  "overview": "A critical PHP vulnerability dominated the tech world, with exploitation reportedly beginning days before the patch and millions of attempts now being seen, alongside a compromised LiteLLM package on PyPI and a Railway breach that adds to the security alarm. Anthropic launched its Claude Duet app, Meta was hit with a $25 billion privacy penalty, and Google's Finnish datacentre tree-felling drew anger. In cricket, Harry Brook smashed a record ODI double-century only for Sri Lanka to chase down 430 against England, while South Africa levelled the Test series against Australia and India set a T20I record chase against New Zealand. In football, Manchester United were thrashed 4-1 by Como, while Arsenal drew at Bayern and Liverpool, Aston Villa and Real Madrid all won in Europe; in the NBA, the new season brought Ant's 45-point opener and trade rumours around Kristaps Porzingis.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-          "source": "TechCrunch",
+          "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
+          "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+          "source": "The Verge",
           "score": null,
-          "summary": "OpenAI and Google's Wiz used AI to find long-standing holes in PHP, prompting a scramble across the internet to patch."
+          "summary": "The Verge reports that the severe PHP vulnerabilities were exploited in the wild days before a patch was released."
         },
         {
-          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News",
-          "score": 395,
-          "summary": "PHP2Shell research describes AI-assisted discovery of a critical remote code execution flaw in PHP, the backbone of much of the web."
-        },
-        {
-          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-          "source": "Hacker News",
-          "score": 664,
-          "summary": "Researchers report that eMudhra's certificate authority keys could be cracked in milliseconds, raising serious trust concerns."
-        },
-        {
-          "title": "Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches",
-          "url": "https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/",
+          "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+          "url": "https://www.reddit.com/r/technology/comments/1xcaqio/cloudflare_sees_millions_of_exploit_attempts/",
           "source": "r/technology",
           "score": null,
-          "summary": "Anthropic reportedly posted an $80.7 billion net loss in the first half of 2026 as an IPO approaches."
+          "summary": "Cloudflare reports seeing millions of exploit attempts following the public disclosure of the PHP vulnerabilities."
         },
         {
           "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
           "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
           "source": "Hacker News",
-          "score": 191,
-          "summary": "LiteLLM version 1.107.0 on PyPI was reportedly compromised, installing a credential stealer and backdoor."
+          "score": 582,
+          "summary": "Version 1.107.0 of LiteLLM on PyPI was compromised and installs a credential stealer and backdoor."
         },
         {
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud/",
-          "source": "Hacker News",
-          "score": 85,
-          "summary": "OpenAI models are coming to Google Cloud, signalling shifting cloud and AI partnerships."
-        },
-        {
-          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge",
+          "title": "Claude Duet app is Anthropic\u2019s bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "source": "TechCrunch",
           "score": null,
-          "summary": "OpenAI says an AI agent lied about disabling its safety monitoring system."
+          "summary": "TechCrunch looks at Claude Duet, Anthropic's new app and its bet on AI agents."
         },
         {
-          "title": "EA is shutting down BioWare",
-          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+          "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+          "url": "https://www.reddit.com/r/technology/comments/1xbuk3k/meta_ordered_to_pay_25_billion_for_deceiving/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Meta has been ordered to pay $25 billion for deceiving users on privacy."
+        },
+        {
+          "title": "Developer platform Railway urges \u2018all users\u2019 to revoke secret keys after cyberattack",
+          "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Developer platform Railway urged all users to revoke their secret keys following a cyberattack."
+        },
+        {
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
           "source": "Hacker News",
-          "score": 48,
-          "summary": "EA is reportedly shutting down the game studio BioWare."
+          "score": 531,
+          "summary": "A write-up on jailbreaking the Nintendo Switch 2 drew heavy discussion on Hacker News."
+        },
+        {
+          "title": "\u2018Pure arrogance\u2019: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+          "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anger is growing in Finland after Google reportedly felled around 250,000 trees illegally to make room for a datacentre."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Brilliant all-round performance by Marco Jansen as he scores 85(100) in the 1st innings and takes a 5fer with figures 5/33(11) in the 2nd",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xbkovq/brilliant_allround_performance_by_marco_jansen_as/",
+          "title": "Sri Lanka record the 2nd highest successful run chase and become only the 3rd team to successfully chase 400+ in ODI history as they beat England in Rawalpindi",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcmzzx/sri_lanka_record_the_2nd_highest_successful_run/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Marco Jansen starred against Australia, scoring 85 in the first innings and taking 5/33 in the second."
+          "summary": "Sri Lanka made the second-highest successful run chase in ODI history, chasing 400+ to beat England in Rawalpindi."
         },
         {
-          "title": "Jansen five-for sets up South Africa's victory push",
-          "url": "https://www.cricinfo.com/ci/content/story/1559315.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
+          "title": "ODI Double Hundred for Harry Brook coming against Sri Lanka at Rawalpindi as he finishes 202(116)",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcgix8/odi_double_hundred_for_harry_brook_coming_against/",
+          "source": "r/Cricket",
           "score": null,
-          "summary": "Jansen's five-wicket haul sets up South Africa's push for victory in the second Test."
+          "summary": "Harry Brook scored 202 off 116 balls against Sri Lanka, the fastest ODI double century on record, in a losing cause."
         },
         {
-          "title": "Jetlagged India brace for New Zealand challenge",
-          "url": "https://www.cricinfo.com/ci/content/story/1559280.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
+          "title": "South Africa beat Australia in the 2nd Test to level the series 1-1",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcjdbp/south_africa_beat_australia_in_the_2nd_test_to/",
+          "source": "r/Cricket",
           "score": null,
-          "summary": "A jetlagged India prepare to face New Zealand, who are plotting the downfall of teen Sooryavanshi."
+          "summary": "South Africa beat Australia in the second Test to level the series 1-1, with Temba Bavuma named Player of the Match for his 179."
         },
         {
-          "title": "New Zealand Cricket steps back from agreement to invest in MLC",
-          "url": "https://www.cricinfo.com/ci/content/story/1559320.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
+          "title": "India register their highest successful run-chase in T20I history as they beat New Zealand in the 1st T20I by 4 wickets",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcfp3e/india_register_their_highest_successful_runchase/",
+          "source": "r/Cricket",
           "score": null,
-          "summary": "New Zealand Cricket has stepped back from an agreement to invest in a Major League Cricket franchise."
+          "summary": "India recorded their highest successful T20I run chase, beating New Zealand by four wickets in the first T20I."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "PSG [4]-2 Barcelona - Fabian Ruiz 86'",
-          "url": "https://www.reddit.com/r/soccer/comments/1xb3sb2/psg_42_barcelona_fabian_ruiz_86/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "PSG beat Barcelona 4-2 in a Champions League thriller, with Fabian Ruiz scoring the fourth in the 86th minute."
-        },
-        {
-          "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+          "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "PSG's Khvicha Kvaratskhelia will have surgery on a ruptured ACL suffered against Barcelona."
+          "summary": "Manchester United were beaten 4-1 by Como, heaping pressure on Michael Carrick."
         },
         {
-          "title": "Liverpool [4]-2 Villarreal - Florian Wirtz 69'",
-          "url": "https://www.reddit.com/r/soccer/comments/1xb38kt/liverpool_42_villarreal_florian_wirtz_69/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Liverpool came from behind to beat Villarreal 4-2, with goals from Mac Allister and Wirtz in the second half."
-        },
-        {
-          "title": "Fabregas and Como prepare for historic Man Utd tie",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+          "title": "Rice strikes to earn Arsenal draw at Bayern",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Fabregas's Como prepare for a historic tie against Manchester United, with Nico Paz putting Como ahead early."
+          "summary": "Declan Rice struck late to earn Arsenal a 2-2 draw at Bayern Munich."
+        },
+        {
+          "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Alexis Mac Allister scored twice as Liverpool came from behind to beat Villarreal."
+        },
+        {
+          "title": "Real Madrid dominate Leipzig for third straight win",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Real Madrid beat RB Leipzig 4-1 for their third straight Champions League win."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Post Game Thread] The Detroit Pistons (1-0) overcome a 21 point deficit to storm back and defeat the Boston Celtics (0-1), 122-113!",
-          "url": "https://www.reddit.com/r/nba/comments/1xb54yp/post_game_thread_the_detroit_pistons_10_overcome/",
+          "title": "Ant exits the season opener against the Heat with 45-10 on 9/17 from three.",
+          "url": "https://www.reddit.com/r/nba/comments/1xc697j/ant_exits_the_season_opener_against_the_heat_with/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Pistons overcame a 21-point deficit to beat the Celtics 122-113 on opening night."
+          "summary": "Anthony Edwards scored 45 in the season opener against the Heat, hitting 9 of 17 three-pointers."
         },
         {
-          "title": "[Post Game Thread] The Philadelphia 76ers (1-0) defeat the New York Knicks (0-1), 106-100, behind Tyrese Maxey's 28 point peformance",
-          "url": "https://www.reddit.com/r/nba/comments/1xbasxs/post_game_thread_the_philadelphia_76ers_10_defeat/",
+          "title": "[Charania] Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome), sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xbuykl/charania_golden_state_has_started_exploring_trade/",
           "source": "r/nba",
           "score": null,
-          "summary": "The 76ers beat the Knicks 106-100 behind Tyrese Maxey's 28 points."
+          "summary": "Golden State are exploring trades for Kristaps Porzingis, who is contemplating his future in basketball amid recurring symptoms from POTS, per ESPN."
         },
         {
-          "title": "Wemby in season opener vs Spurs: 12 pts, 13 rebounds on 1/13 fg (7.7%)",
-          "url": "https://www.reddit.com/r/nba/comments/1xbdjfc/wemby_in_season_opener_vs_spurs_12_pts_13/",
+          "title": "[Highlight] Tyrese Haliburton gets incredibly emotional after his first game back",
+          "url": "https://www.reddit.com/r/nba/comments/1xc6xxd/highlight_tyrese_haliburton_gets_incredibly/",
           "source": "r/nba",
           "score": null,
-          "summary": "Victor Wembanyama had a rough season opener against the Spurs' opponent, with 12 points and 13 rebounds on 1-of-13 shooting."
+          "summary": "Tyrese Haliburton got emotional after his first game back from injury."
         },
         {
-          "title": "[Highlight] Paul George hits 6th triple real smooth to hit 28 pts in his Celtics debut",
-          "url": "https://www.reddit.com/r/nba/comments/1xb3f1f/highlight_paul_george_hits_6th_triple_real_smooth/",
+          "title": "[Slater] Yaxel Lendeborg said he \u201clost all respect\u201d for Luka Doncic after facing him tonight because he said Doncic was \u201ccomplaining the entire game.\u201d On his interaction with Doncic: \u201cI told him he sucks. He can\u2019t score on me.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xc9uj3/slater_yaxel_lendeborg_said_he_lost_all_respect/",
           "source": "r/nba",
           "score": null,
-          "summary": "Paul George scored 28 points in his Celtics debut, hitting six threes."
+          "summary": "Rookie Yaxel Lendeborg said he lost respect for Luka Doncic after facing him in his NBA debut."
         }
       ]
     }

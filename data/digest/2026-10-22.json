@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T18:05:28.004073+00:00",
+  "mode": "claude",
+  "overview": "A critical PHP vulnerability dominated the tech world, with exploitation reportedly beginning days before the patch and millions of attempts now being seen, alongside a compromised LiteLLM package on PyPI and a Railway breach that adds to the security alarm. Anthropic launched its Claude Duet app, Meta was hit with a $25 billion privacy penalty, and Google's Finnish datacentre tree-felling drew anger. In cricket, Harry Brook smashed a record ODI double-century only for Sri Lanka to chase down 430 against England, while South Africa levelled the Test series against Australia and India set a T20I record chase against New Zealand. In football, Manchester United were thrashed 4-1 by Como, while Arsenal drew at Bayern and Liverpool, Aston Villa and Real Madrid all won in Europe; in the NBA, the new season brought Ant's 45-point opener and trade rumours around Kristaps Porzingis.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
+          "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+          "source": "The Verge",
+          "score": null,
+          "summary": "The Verge reports that the severe PHP vulnerabilities were exploited in the wild days before a patch was released."
+        },
+        {
+          "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+          "url": "https://www.reddit.com/r/technology/comments/1xcaqio/cloudflare_sees_millions_of_exploit_attempts/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Cloudflare reports seeing millions of exploit attempts following the public disclosure of the PHP vulnerabilities."
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "source": "Hacker News",
+          "score": 582,
+          "summary": "Version 1.107.0 of LiteLLM on PyPI was compromised and installs a credential stealer and backdoor."
+        },
+        {
+          "title": "Claude Duet app is Anthropic\u2019s bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "TechCrunch looks at Claude Duet, Anthropic's new app and its bet on AI agents."
+        },
+        {
+          "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+          "url": "https://www.reddit.com/r/technology/comments/1xbuk3k/meta_ordered_to_pay_25_billion_for_deceiving/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Meta has been ordered to pay $25 billion for deceiving users on privacy."
+        },
+        {
+          "title": "Developer platform Railway urges \u2018all users\u2019 to revoke secret keys after cyberattack",
+          "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Developer platform Railway urged all users to revoke their secret keys following a cyberattack."
+        },
+        {
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+          "source": "Hacker News",
+          "score": 531,
+          "summary": "A write-up on jailbreaking the Nintendo Switch 2 drew heavy discussion on Hacker News."
+        },
+        {
+          "title": "\u2018Pure arrogance\u2019: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+          "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anger is growing in Finland after Google reportedly felled around 250,000 trees illegally to make room for a datacentre."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Sri Lanka record the 2nd highest successful run chase and become only the 3rd team to successfully chase 400+ in ODI history as they beat England in Rawalpindi",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcmzzx/sri_lanka_record_the_2nd_highest_successful_run/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Sri Lanka made the second-highest successful run chase in ODI history, chasing 400+ to beat England in Rawalpindi."
+        },
+        {
+          "title": "ODI Double Hundred for Harry Brook coming against Sri Lanka at Rawalpindi as he finishes 202(116)",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcgix8/odi_double_hundred_for_harry_brook_coming_against/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Harry Brook scored 202 off 116 balls against Sri Lanka, the fastest ODI double century on record, in a losing cause."
+        },
+        {
+          "title": "South Africa beat Australia in the 2nd Test to level the series 1-1",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcjdbp/south_africa_beat_australia_in_the_2nd_test_to/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "South Africa beat Australia in the second Test to level the series 1-1, with Temba Bavuma named Player of the Match for his 179."
+        },
+        {
+          "title": "India register their highest successful run-chase in T20I history as they beat New Zealand in the 1st T20I by 4 wickets",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcfp3e/india_register_their_highest_successful_runchase/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "India recorded their highest successful T20I run chase, beating New Zealand by four wickets in the first T20I."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Manchester United were beaten 4-1 by Como, heaping pressure on Michael Carrick."
+        },
+        {
+          "title": "Rice strikes to earn Arsenal draw at Bayern",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Declan Rice struck late to earn Arsenal a 2-2 draw at Bayern Munich."
+        },
+        {
+          "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Alexis Mac Allister scored twice as Liverpool came from behind to beat Villarreal."
+        },
+        {
+          "title": "Real Madrid dominate Leipzig for third straight win",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Real Madrid beat RB Leipzig 4-1 for their third straight Champions League win."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Ant exits the season opener against the Heat with 45-10 on 9/17 from three.",
+          "url": "https://www.reddit.com/r/nba/comments/1xc697j/ant_exits_the_season_opener_against_the_heat_with/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Anthony Edwards scored 45 in the season opener against the Heat, hitting 9 of 17 three-pointers."
+        },
+        {
+          "title": "[Charania] Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome), sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xbuykl/charania_golden_state_has_started_exploring_trade/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Golden State are exploring trades for Kristaps Porzingis, who is contemplating his future in basketball amid recurring symptoms from POTS, per ESPN."
+        },
+        {
+          "title": "[Highlight] Tyrese Haliburton gets incredibly emotional after his first game back",
+          "url": "https://www.reddit.com/r/nba/comments/1xc6xxd/highlight_tyrese_haliburton_gets_incredibly/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Tyrese Haliburton got emotional after his first game back from injury."
+        },
+        {
+          "title": "[Slater] Yaxel Lendeborg said he \u201clost all respect\u201d for Luka Doncic after facing him tonight because he said Doncic was \u201ccomplaining the entire game.\u201d On his interaction with Doncic: \u201cI told him he sucks. He can\u2019t score on me.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xc9uj3/slater_yaxel_lendeborg_said_he_lost_all_respect/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Rookie Yaxel Lendeborg said he lost respect for Luka Doncic after facing him in his NBA debut."
+        }
+      ]
+    }
+  ]
+}
