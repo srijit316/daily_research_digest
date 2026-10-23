@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T17:57:44.200443+00:00",
+  "mode": "claude",
+  "overview": "Tech was dominated by AI-industry money and infrastructure: OpenAI is reportedly raising $30B at a $1.25T valuation, Anthropic's IPO is drawing attention to its backers, and Nvidia and AI-spending worries rattled tech stocks. On the security side, a 16-year-old bug leaves millions of routers open to hijacking and Quest Diagnostics confirmed a health-data breach. In cricket, South Africa beat Australia in a Test that left Australia reflecting on an innings defeat, while India and New Zealand prepare for another T20I amid an Ishan Kishan injury. Football saw health concern over Bayern's Vincent Kompany, Bournemouth's win over AC Milan, and turmoil at Manchester United, while the NBA season opened with the 76ers' record 29-point comeback over the Cavaliers.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "OpenAI is reportedly working on a new $30B funding round at a $1.25T valuation ahead of a possible IPO."
+        },
+        {
+          "title": "Millions of routers can be hijacked over Wi-Fi thanks to a 16-year-old bug",
+          "url": "https://www.reddit.com/r/technology/comments/1xczedm/millions_of_routers_can_be_hijacked_over_wifi/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "A 16-year-old bug reportedly allows millions of routers to be hijacked over Wi-Fi."
+        },
+        {
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "source": "Hacker News",
+          "score": 328,
+          "summary": "A Hacker News post about a successful iPhone hack, drawing heavy discussion from the security community."
+        },
+        {
+          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+          "url": "https://www.reddit.com/r/technology/comments/1xcx9s3/moderna_and_merck_say_their_mrna_cancer_vaccine/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Moderna and Merck say their mRNA cancer vaccine cut death and recurrence by 42%."
+        },
+        {
+          "title": "Lab testing giant Quest Diagnostics confirms patients\u2019 personal and health data was compromised during breach",
+          "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Quest Diagnostics confirmed that patients' personal and health data was compromised in a breach."
+        },
+        {
+          "title": "World\u2019s 6 Richest Lose $130 Billion on Thursday as AI Spending Fears Sink Tech Stocks",
+          "url": "https://www.reddit.com/r/technology/comments/1xcsz3z/worlds_6_richest_lose_130_billion_on_thursday_as/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "The world's six richest people lost $130 billion in a day as AI spending fears sank tech stocks."
+        },
+        {
+          "title": "LLMs are making formal software verification feasible at a much larger scale",
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "Hacker News",
+          "score": 423,
+          "summary": "A discussion of how LLMs are making formal software verification feasible at much larger scale."
+        },
+        {
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "1Password launched a way for AI agents to log in on a user's behalf without seeing the password."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "\"We managed to dig deep\" - Temba Bavuma after victory against Australia",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xdf9n0/we_managed_to_dig_deep_temba_bavuma_after_victory/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Temba Bavuma reacts to South Africa's victory over Australia, saying the team managed to dig deep."
+        },
+        {
+          "title": "Cummins: Australia can't 'paper over cracks' after innings thrashing",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xcsmh5/cummins_australia_cant_paper_over_cracks_after/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Pat Cummins says Australia can't paper over the cracks after an innings thrashing."
+        },
+        {
+          "title": "Injured Ishan Kishan ruled out of second T20I against New Zealand",
+          "url": "https://www.cricinfo.com/ci/content/story/1559676.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Ishan Kishan is ruled out of the second T20I against New Zealand through injury."
+        },
+        {
+          "title": "Rawal century, Shree Charani four-for hand India comfortable win",
+          "url": "https://www.cricinfo.com/ci/content/story/1559769.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Pratika Rawal's century and a four-wicket haul from Shree Charani gave India a comfortable win over Zimbabwe."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Kompany taken to hospital after collapsing at training",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Bayern Munich coach Vincent Kompany was taken to hospital after collapsing at training."
+        },
+        {
+          "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Bournemouth beat AC Milan 3-0, with Milan's Maignan sent off, in what BBC calls a sign of Premier League power."
+        },
+        {
+          "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Manchester United boss Michael Carrick would not rule out dropping captain Bruno Fernandes in an emotional address."
+        },
+        {
+          "title": "Arsenal fear Saka could be out for two months",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Arsenal fear Bukayo Saka could be out for around two months."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Post Game Thread] The Philadelphia 76ers (2-0) overcome a 29 point deficit and defeat the Cleveland Cavaliers (0-1) 114-106",
+          "url": "https://www.reddit.com/r/nba/comments/1xd19z3/post_game_thread_the_philadelphia_76ers_20/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The 76ers overcame a 29-point deficit to beat the Cavaliers 114-106 in their home opener."
+        },
+        {
+          "title": "LeBron James responds to the president taking shots at him with a one-liner: \u201cSlow news day at the office, you know.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xd4epv/lebron_james_responds_to_the_president_taking/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "LeBron James brushed off the president's criticism of him with a one-liner about a slow news day."
+        },
+        {
+          "title": "James Dolan scammed Knicks employees with phony championship ring offer",
+          "url": "https://www.reddit.com/r/nba/comments/1xdf7wj/james_dolan_scammed_knicks_employees_with_phony/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Knicks reportedly sent a fake championship-ring offer as a phishing test to Madison Square Garden employees."
+        }
+      ]
+    }
+  ]
+}
