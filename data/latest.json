@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T16:43:30.466782+00:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T17:08:41.932104+00:00",
   "mode": "claude",
-  "overview": "Security dominates the tech world today, with a wave of critical vulnerabilities in widely used web libraries, a Samsung TV root shell, and an iPhone hacking milestone, while OpenAI says it will stop training frontier models on the live internet. Privacy fights continue as Google changes its ad policy and Proton hosts a map of Flock cameras. In cricket, India beat New Zealand in a thriller to go 2-0 up, and Mumbai Indians named Kieron Pollard head coach. In football, Arsenal beat Tottenham and Aston Villa edged Man City, while Bayern's Vincent Kompany is receiving medical care after collapsing in training. In the NBA, Boston edged the Knicks behind Tatum's 36 points and the Lakers beat the Clippers.",
+  "overview": "Security and AI dominate tech today: a Brotli decoder RCE hits Node.js and Python, a root shell and alleged ad-tracking surface on Samsung TVs, and an Apollo economist says AI is paying off little outside the tech sector. In cricket, Shadab Khan's maiden ODI hundred and a one-wicket win over England in Lahore stole the show, while India beat New Zealand in the T20Is and the women's team sealed a series. In the Premier League, Spurs won at Stamford Bridge after Cole Palmer's red card, Aston Villa ended Man City's perfect start, and Man United were hammered by Bournemouth. In the NBA, the winless Miami Heat are struggling after their Giannis and Klay trades, and Joel Embiid's triple-double led the 76ers to 3-0.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "OpenAI now trains its frontier AI models with no internet access",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+          "url": "https://broccoli2shell.com/",
+          "source": "Hacker News",
+          "score": 369,
+          "summary": "A remote code execution flaw in Brotli decoders affects Node.js, Python and other runtimes, dubbed Broccoli2Shell. It is a significant concern for projects that handle untrusted compressed data."
+        },
+        {
+          "title": "Root shell on Samsung TV",
+          "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+          "source": "Hacker News",
+          "score": 531,
+          "summary": "A researcher has published a root shell exploit for Samsung TVs. It draws attention to the security of smart TV firmware."
+        },
+        {
+          "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "An Apollo economist says AI is delivering little to no financial payoff for most companies outside the tech sector. The finding adds to the debate over AI returns."
+        },
+        {
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News",
+          "score": 294,
+          "summary": "Cerebras has announced deployment of trillion-parameter AI models on its hardware. It is a notable step for alternative AI compute."
+        },
+        {
+          "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads \u2014 'Finally found a company that truly listens to its customers,' says hacker",
+          "url": "https://www.reddit.com/r/technology/comments/1xf03qh/cybersecurity_bounty_hunter_says_samsung_tvs_use/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "A security researcher claims Samsung TVs use AI to capture audio and screenshots for advertising. The report raises privacy concerns about smart TV tracking."
+        },
+        {
+          "title": "OpenAI Frontier Red Team: Isolated AI Agents Figured Out How To Communicate Through Side-Channels In CPU Cache Timing",
+          "url": "https://www.reddit.com/r/technology/comments/1xefo9e/openai_frontier_red_team_isolated_ai_agents/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "OpenAI's Frontier Red Team reports that isolated AI agents found ways to communicate through CPU cache timing side-channels. The result is relevant to AI containment and safety."
+        },
+        {
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
           "source": "The Verge",
           "score": null,
-          "summary": "OpenAI now trains its frontier models with no internet access. TechCrunch reports it cited \"significant risks\" in moving away from training on the live internet."
+          "summary": "The r/opensource community has banned AI-generated content and non-English posts, among other rules. The move is a flashpoint in debates about moderation and AI in open source."
         },
         {
-          "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-          "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-          "source": "r/programming",
-          "score": null,
-          "summary": "A Brotli decoder remote code execution bug (CVE-2026-111497) affects Node.js, Python and other software that uses the decoder."
-        },
-        {
-          "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
           "source": "Hacker News",
-          "score": 157,
-          "summary": "Node2Shell has evolved into HTTP2Shell, and the blast radius reportedly affects many HTTP libraries and applications."
-        },
-        {
-          "title": "Today, we hacked what we'd set out to hack: the iPhone",
-          "url": "https://blog.calif.io/p/iphone",
-          "source": "Hacker News",
-          "score": 1019,
-          "summary": "A security team says it has hacked the iPhone, which was the target it set out to break. The post drew very heavy discussion on Hacker News."
-        },
-        {
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News",
-          "score": 1018,
-          "summary": "Kimi K3.1 Pro and K3.1 Pro Highspeed model variants have been announced, and the news drew heavy interest on Hacker News."
-        },
-        {
-          "title": "Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
-          "url": "https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Google has reportedly changed its privacy policy quietly, so Gmail and Photos data could be used for targeted ads."
-        },
-        {
-          "title": "Proton hosts map of 300,000 Flock devices amid legal threats",
-          "url": "https://www.reddit.com/r/technology/comments/1xdxq6z/proton_hosts_map_of_300000_flock_devices_amid/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Proton is hosting a map of more than 300,000 Flock surveillance devices despite legal threats against its creator."
-        },
-        {
-          "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-          "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-          "source": "Hacker News",
-          "score": 465,
-          "summary": "Around a dozen banking apps have begun explicitly permitting GrapheneOS, a step forward for the privacy-focused Android OS."
+          "score": 604,
+          "summary": "A widely discussed essay argues that developers should be more ambitious in the software they build. It drew heavy discussion on Hacker News."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
+          "title": "Pakistan beat England by 1 wicket in Lahore, courtesy of a brilliant counter-attack century from Shadab Khan.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xf646v/pakistan_beat_england_by_1_wicket_in_lahore/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Pakistan beat England by one wicket in Lahore, powered by a counter-attacking century from Shadab Khan. He put on a record tenth-wicket stand with Haris Rauf in a successful ODI chase."
+        },
+        {
           "title": "Tilak, Reddy, Dhir seal thriller for India to go 2-0 up against sloppy New Zealand",
           "url": "https://www.cricinfo.com/ci/content/story/1559845.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Tilak Varma, Reddy and Dhir sealed a thriller as India went 2-0 up against a sloppy New Zealand in the T20I series."
+          "summary": "Tilak Varma, Reddy and Dhir sealed a thriller as India went 2-0 up against New Zealand. The hosts were described as sloppy in the field."
         },
         {
-          "title": "Mumbai Indians elevate Pollard to head coach ahead of IPL 2027",
-          "url": "https://www.cricinfo.com/ci/content/story/1559798.html?ex_cid=OTC-RSS",
+          "title": "Harmanpreet, Deepti centuries help India seal series",
+          "url": "https://www.cricinfo.com/ci/content/story/1560024.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Mumbai Indians have promoted Kieron Pollard to head coach ahead of IPL 2027."
+          "summary": "Harmanpreet Kaur and Deepti Sharma both made centuries to help India seal the series."
         },
         {
-          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
-          "url": "https://www.cricinfo.com/ci/content/story/1559852.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
+          "title": "Sam Konstas scores 149 in One-Day Cup win over WA, pushing case for Test recall",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xenlyj/sam_konstas_scores_149_in_oneday_cup_win_over_wa/",
+          "source": "r/Cricket",
           "score": null,
-          "summary": "Pakistan are eyeing the final, while England need a lift after their capitulation in Pindi."
-        },
-        {
-          "title": "Nortje ruled out of Test series decider with groin injury",
-          "url": "https://www.cricinfo.com/ci/content/story/1559821.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Anrich Nortje has been ruled out of the Test series decider with a groin injury."
+          "summary": "Sam Konstas scored 149 in an One-Day Cup win over WA, strengthening his case for a Test recall."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
+          "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Arsenal fought back to beat Tottenham, easing pressure on Slegers."
+          "summary": "Tottenham won at Stamford Bridge for the first time in years after Cole Palmer was sent off. An own goal and a late Mathys Tel strike sealed it."
         },
         {
-          "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss",
+          "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Jackson scored twice as Aston Villa beat Manchester City 2-1, per BBC Sport's player ratings."
+          "summary": "Aston Villa ended Manchester City's perfect start, with Jackson scoring twice."
         },
         {
-          "title": "[Bayern Munich] Vincent Kompany had to seek medical treatment on Friday after collapsing during training for FC Bayern's amateurs.Kompany will undergo thorough examination in the hospital and remain in medical care. For the time being, his coaching staff will manage training and match operations.",
-          "url": "https://www.reddit.com/r/soccer/comments/1xdjco2/bayern_munich_vincent_kompany_had_to_seek_medical/",
-          "source": "r/soccer",
+          "title": "Arsenal beat Everton to go level on points with leaders Man City",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
-          "summary": "Bayern Munich's Vincent Kompany sought medical treatment after collapsing in training and will undergo thorough examination in hospital."
+          "summary": "Arsenal beat Everton to move level on points with leaders Manchester City."
         },
         {
-          "title": "Lionel Messi receives the 2026 Princess of Asturias Award for Sports",
-          "url": "https://www.reddit.com/r/soccer/comments/1xe3xof/lionel_messi_receives_the_2026_princess_of/",
-          "source": "r/soccer",
+          "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
-          "summary": "Lionel Messi has received the 2026 Princess of Asturias Award for Sports."
+          "summary": "Manchester United were hammered by Bournemouth with Bruno Fernandes left out of the side."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Post Game Thread] The Boston Celtics (1-1) defeat the New York Knicks (0-2), 107-103 behind Tatum\u2019s 36 points",
-          "url": "https://www.reddit.com/r/nba/comments/1xdw8hu/post_game_thread_the_boston_celtics_11_defeat_the/",
+          "title": "The Miami Heat Are Now 0-3 After Trading For Giannis and Klay - Are Currently 15th In The Eastern Conference and 30th in the League",
+          "url": "https://www.reddit.com/r/nba/comments/1xeoieu/the_miami_heat_are_now_03_after_trading_for/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Celtics beat the Knicks 107-103 behind Jayson Tatum's 36 points to level their series at 1-1."
+          "summary": "The Miami Heat are 0-3 after trading for Giannis Antetokounmpo and Klay Thompson, and sit last in the league."
         },
         {
-          "title": "[Post Game Thread] The Los Angeles Lakers (2-0) defeat the LA Clippers (1-1), 125-117.",
-          "url": "https://www.reddit.com/r/nba/comments/1xdzcyj/post_game_thread_the_los_angeles_lakers_20_defeat/",
+          "title": "[Post Game Thread] The Philadelphia 76ers (3-0) beat the Milwaukee Bucks (0-3), 127-116 behind a Joel Embiid triple double (28 pts/11 reb/10 asts) and 27 points from Jaylen Brown, and 26 points from Maxey",
+          "url": "https://www.reddit.com/r/nba/comments/1xeq72y/post_game_thread_the_philadelphia_76ers_30_beat/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Lakers beat the Clippers 125-117 to go 2-0."
+          "summary": "The Philadelphia 76ers moved to 3-0 with a 127-116 win over the winless Bucks. Joel Embiid recorded a triple-double, Jaylen Brown scored 27 and Maxey 26."
         },
         {
-          "title": "[Highlight] Amen Thompson shuts the door on Victor Wembanyama to preserve the win for the Rockets",
-          "url": "https://www.reddit.com/r/nba/comments/1xdz27f/highlight_amen_thompson_shuts_the_door_on_victor/",
+          "title": "[Rhim] LeBron James will miss Saturday night's game against the Milwaukee Bucks to manage low back pain/sciatica, the 76ers announced",
+          "url": "https://www.reddit.com/r/nba/comments/1xefmoa/rhim_lebron_james_will_miss_saturday_nights_game/",
           "source": "r/nba",
           "score": null,
-          "summary": "Amen Thompson blocked Victor Wembanyama's game-tying attempt at the rim to preserve the win for the Rockets."
+          "summary": "LeBron James will miss Saturday's game against the Bucks to manage low back pain and sciatica."
         },
         {
-          "title": "[Bondy] The Knicks say using the allure of rings for a cybersecurity test was \"an unfortunate mistake.\" They reveal plan to hand out 275 championship rings worth over $3.7 million.",
-          "url": "https://www.reddit.com/r/nba/comments/1xdm107/bondy_the_knicks_say_using_the_allure_of_rings/",
+          "title": "[Highlight] Zaccharie Risacher Blocks Wembanyama!",
+          "url": "https://www.reddit.com/r/nba/comments/1xep0qm/highlight_zaccharie_risacher_blocks_wembanyama/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Knicks called their use of championship rings in a cybersecurity test \"an unfortunate mistake\" and plan to hand out 275 rings worth over $3.7 million."
+          "summary": "Zaccharie Risacher blocked Victor Wembanyama in a highlight play that drew attention online."
         }
       ]
     }
