@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T18:47:27.594324+00:00",
+  "mode": "claude",
+  "overview": "Google's Genie 4 world model and Apple's new M6 MacBook Pro and iMac headline a busy tech day, while a mathematics and CS discovery thread and claims that frontier AI labs' models refuted the Exponential Time Hypothesis drew heavy attention. Privacy and security stories stand out too, including a reportedly hidden secret court ruling on US surveillance and active exploitation of critical PHP bugs. Harry Kane won the 2026 Ballon d'Or alongside Alexia Putellas, while Mbapp\u00e9's apology over remarks about Mao Zedong triggered sponsor and broadcaster fallout in China. India's Abhishek Sharma smashed a 35-ball T20I century to seal the series in New Zealand, Mitchell Starc took six against South Africa in Cape Town, and Oklahoma City suffered major injuries to Jalen Williams and Cason Wallace.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering."
+        },
+        {
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1100,
+          "summary": "A highly upvoted Hacker News thread highlights three new discoveries across mathematics, computer science, and physics."
+        },
+        {
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis, and TechCrunch explains what that would mean for computer science."
+        },
+        {
+          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Apple unveiled a new 14-inch MacBook Pro powered by the M6 chip."
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "source": "Hacker News",
+          "score": 489,
+          "summary": "Reporting says the US government is withholding a secret court ruling about how it conducts surveillance on Americans."
+        },
+        {
+          "title": "US government says hackers are now exploiting critical PHP web bugs",
+          "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The US government says hackers are now actively exploiting critical PHP web vulnerabilities."
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "source": "Hacker News",
+          "score": 338,
+          "summary": "Python's experimental JIT compiler is slated to be removed, prompting wide discussion among developers."
+        },
+        {
+          "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+          "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+          "source": "Hacker News",
+          "score": 183,
+          "summary": "Reports say police are using AI to flag drivers for 'suspicious' driving behavior and pulling them over."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Abhishek and Sooryavanshi power India to T20I series win in New Zealand",
+          "url": "https://www.cricinfo.com/ci/content/story/1560243.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Abhishek Sharma and Vaibhav Sooryavanshi powered India to a T20I series win in New Zealand."
+        },
+        {
+          "title": "Abhishek Sharma hits a century in just 35 balls. Total - 113(38b), 9x4, 11x6.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xgoabu/abhishek_sharma_hits_a_century_in_just_35_balls/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Abhishek Sharma hit a century in just 35 balls, finishing on 113 off 38 with 9 fours and 11 sixes."
+        },
+        {
+          "title": "Starc six-for sends SA sliding from 158 for 0 to 329 all out",
+          "url": "https://www.cricinfo.com/ci/content/story/1560254.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Mitchell Starc took six wickets as South Africa slid from 158 for 0 to 329 all out on Day 1 of the third Test."
+        },
+        {
+          "title": "Madushanka skittles Pakistan for 110, secures SL's entry into final",
+          "url": "https://www.cricinfo.com/ci/content/story/1560251.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Madushanka skittled Pakistan for 110, securing Sri Lanka's place in the final of the ODI tri-series."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Harry Kane announced as the winner of the 2026 Ballon d'Or",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgbtum/harry_kane_announced_as_the_winner_of_the_2026/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Harry Kane was announced as the winner of the 2026 Ballon d'Or, the first English winner since Michael Owen in 2001."
+        },
+        {
+          "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Alexia Putellas won her record-equalling third women's Ballon d'Or, extending Spanish dominance."
+        },
+        {
+          "title": "China's state broadcaster suspends all La Liga broadcasts and removes ads featuring Kylian Mbapp\u00e9",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgn0zf/chinas_state_broadcaster_suspends_all_la_liga/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "China's state broadcaster suspended all La Liga broadcasts and removed ads featuring Kylian Mbapp\u00e9."
+        },
+        {
+          "title": "Kylian Mbapp\u00e9 statement: \" I apologise to everyone my words have upset. This was absolutely not my intention. I have deep respect for the Chinese people and their history, and I am sincerely sorry.\"",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgqbtf/kylian_mbapp\u00e9_statement_i_apologise_to_everyone/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Mbapp\u00e9 issued a statement apologising for remarks that upset people in China, saying he has deep respect for the Chinese people and their history."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] BREAKING: Oklahoma City's Jalen Williams has a dislocated left ankle and fractured fibula; Cason Wallace has a torn labrum in his left shoulder. Both will undergo surgery and be sidelined for several months -- most, if not the entire season.",
+          "url": "https://www.reddit.com/r/nba/comments/1xgakfr/charania_breaking_oklahoma_citys_jalen_williams/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Oklahoma City's Jalen Williams has a dislocated ankle and fractured fibula, and Cason Wallace a torn labrum. Both need surgery and will miss most or all of the season."
+        },
+        {
+          "title": "The Miami Heat are officially 0-4",
+          "url": "https://www.reddit.com/r/nba/comments/1xgg7tq/the_miami_heat_are_officially_04/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Miami Heat fell to 0-4 after a loss to the Mavericks, with Bam Adebayo shooting 30%."
+        },
+        {
+          "title": "[Charania] Toronto's Kawhi Leonard is expected to miss a period of weeks due to swelling in his left knee, sources tell ESPN. MRI on Leonard's knee showed no structural damage, but sides will use the shorter term to ramp him back up after the stoppages during the offseason.",
+          "url": "https://www.reddit.com/r/nba/comments/1xgvkox/charania_torontos_kawhi_leonard_is_expected_to/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Kawhi Leonard is expected to miss a period of weeks with left knee swelling. An MRI showed no structural damage."
+        },
+        {
+          "title": "Yaxel Lendebourg tonight in 30 minutes: 31 points, 12 rebounds, 6 assists and a win",
+          "url": "https://www.reddit.com/r/nba/comments/1xgj45e/yaxel_lendebourg_tonight_in_30_minutes_31_points/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Yaxel Lendeborg had 31 points, 12 rebounds and 6 assists in 30 minutes in a win."
+        }
+      ]
+    }
+  ]
+}

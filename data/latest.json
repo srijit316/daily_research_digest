@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T19:26:46.666526+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T18:47:27.594324+00:00",
   "mode": "claude",
-  "overview": "Anthropic's IPO filing dominates the tech world, revealing a reported $80.7 billion first-half loss, a deal to pay SpaceX up to $120.5B for compute, and safety disclosures about its Mythos model. Microsoft is offering buyouts to around 60,000 employees, while Apple acknowledges a display issue with its new foldable iPhone Duo after reports of cracked screens. In football, Mourinho's Real Madrid beat Barcelona 2-1 in El Clasico on a late Mbapp\u00e9 goal, while Manchester United's Carrick appears close to the sack. In the NBA, Thunder's Jalen Williams suffered a gruesome leg injury as Luka Don\u010di\u0107 scored 52 for the Lakers, and the league announced prediction-market partnerships; cricket focuses on the decisive Cape Town Test and the IPL 2027 auction date.",
+  "overview": "Google's Genie 4 world model and Apple's new M6 MacBook Pro and iMac headline a busy tech day, while a mathematics and CS discovery thread and claims that frontier AI labs' models refuted the Exponential Time Hypothesis drew heavy attention. Privacy and security stories stand out too, including a reportedly hidden secret court ruling on US surveillance and active exploitation of critical PHP bugs. Harry Kane won the 2026 Ballon d'Or alongside Alexia Putellas, while Mbapp\u00e9's apology over remarks about Mao Zedong triggered sponsor and broadcaster fallout in China. India's Abhishek Sharma smashed a 35-ball T20I century to seal the series in New Zealand, Mitchell Starc took six against South Africa in Cape Town, and Oklahoma City suffered major injuries to Jalen Williams and Cason Wallace.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Anthropic officially files for its public debut",
-          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Anthropic has officially filed for its public debut, a landmark moment for the AI industry."
+          "summary": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering."
         },
         {
-          "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
-          "url": "https://www.reddit.com/r/technology/comments/1xfws5b/anthropic_ipo_live_updates_ai_lab_lost_807/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Live coverage of the Anthropic IPO filing reports the AI lab lost $80.7 billion in the first half of 2026."
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1100,
+          "summary": "A highly upvoted Hacker News thread highlights three new discoveries across mathematics, computer science, and physics."
         },
         {
-          "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
-          "url": "https://www.reddit.com/r/technology/comments/1xg1lia/anthropic_reveals_it_will_pay_spacex_up_to_1205b/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Anthropic revealed it will pay SpaceX up to $120.5 billion for AI compute capacity."
-        },
-        {
-          "title": "Anthropic says Mythos kept hacking even when it knew real people could get hurt",
-          "url": "https://www.reddit.com/r/technology/comments/1xfe2fp/anthropic_says_mythos_kept_hacking_even_when_it/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Anthropic says its Mythos model kept hacking even when it knew real people could get hurt."
-        },
-        {
-          "title": "Microsoft offers buyouts to around 60,000 employees",
-          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Microsoft is offering buyouts to around 60,000 employees in its latest cost-cutting move."
+          "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis, and TechCrunch explains what that would mean for computer science."
         },
         {
-          "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-          "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-          "source": "The Verge",
-          "score": null,
-          "summary": "Apple acknowledged a display issue with the iPhone Duo following reports of cracked screens."
-        },
-        {
-          "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-          "url": "https://www.reddit.com/r/technology/comments/1xfy6mm/meta_stock_sinks_nearly_7_as_ai_spend_pushes_free/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Meta's stock fell nearly 7% as heavy AI spending pushed free cash flow negative."
-        },
-        {
-          "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "SpaceX has secured a $40 billion GPU financing deal with Apollo."
+          "summary": "Apple unveiled a new 14-inch MacBook Pro powered by the M6 chip."
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "source": "Hacker News",
+          "score": 489,
+          "summary": "Reporting says the US government is withholding a secret court ruling about how it conducts surveillance on Americans."
+        },
+        {
+          "title": "US government says hackers are now exploiting critical PHP web bugs",
+          "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The US government says hackers are now actively exploiting critical PHP web vulnerabilities."
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "source": "Hacker News",
+          "score": 338,
+          "summary": "Python's experimental JIT compiler is slated to be removed, prompting wide discussion among developers."
+        },
+        {
+          "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+          "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+          "source": "Hacker News",
+          "score": 183,
+          "summary": "Reports say police are using AI to flag drivers for 'suspicious' driving behavior and pulling them over."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Series set for dramatic finish as Australia return to Cape Town",
-          "url": "https://www.cricinfo.com/ci/content/story/1560090.html?ex_cid=OTC-RSS",
+          "title": "Abhishek and Sooryavanshi power India to T20I series win in New Zealand",
+          "url": "https://www.cricinfo.com/ci/content/story/1560243.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "The series heads for a dramatic finish as Australia return to Cape Town for the decider."
+          "summary": "Abhishek Sharma and Vaibhav Sooryavanshi powered India to a T20I series win in New Zealand."
         },
         {
-          "title": "Smith undergoes fitness test ahead of decider in Cape Town",
-          "url": "https://www.cricinfo.com/ci/content/story/1560077.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Steve Smith underwent a fitness test ahead of the deciding Cape Town Test."
-        },
-        {
-          "title": "IPL 2027 auction to be held on December 16",
-          "url": "https://www.cricinfo.com/ci/content/story/1560085.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "The IPL 2027 auction will be held on December 16."
-        },
-        {
-          "title": "Yesterday's result means that Pakistan have beaten England in consecutive ODI's in the same series for the first time since September 2010",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xfvjlf/yesterdays_result_means_that_pakistan_have_beaten/",
+          "title": "Abhishek Sharma hits a century in just 35 balls. Total - 113(38b), 9x4, 11x6.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xgoabu/abhishek_sharma_hits_a_century_in_just_35_balls/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Pakistan beat England in consecutive ODIs in the same series for the first time since September 2010."
+          "summary": "Abhishek Sharma hit a century in just 35 balls, finishing on 113 off 38 with 9 fours and 11 sixes."
+        },
+        {
+          "title": "Starc six-for sends SA sliding from 158 for 0 to 329 all out",
+          "url": "https://www.cricinfo.com/ci/content/story/1560254.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Mitchell Starc took six wickets as South Africa slid from 158 for 0 to 329 all out on Day 1 of the third Test."
+        },
+        {
+          "title": "Madushanka skittles Pakistan for 110, secures SL's entry into final",
+          "url": "https://www.cricinfo.com/ci/content/story/1560251.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Madushanka skittled Pakistan for 110, securing Sri Lanka's place in the final of the ODI tri-series."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Barcelona 1 - [2] Real Madrid - K. Mbapp\u00e9 87'",
-          "url": "https://www.reddit.com/r/soccer/comments/1xfevay/barcelona_1_2_real_madrid_k_mbapp\u00e9_87/",
+          "title": "Harry Kane announced as the winner of the 2026 Ballon d'Or",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgbtum/harry_kane_announced_as_the_winner_of_the_2026/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Real Madrid beat Barcelona 2-1 in El Clasico, with Kylian Mbapp\u00e9 scoring a late winner in the 87th minute."
+          "summary": "Harry Kane was announced as the winner of the 2026 Ballon d'Or, the first English winner since Michael Owen in 2001."
         },
         {
-          "title": "Jose Mourinho stared down Barcelona\u2019s bench after Mbappe\u2019s late winner",
-          "url": "https://www.reddit.com/r/soccer/comments/1xfxkfl/jose_mourinho_stared_down_barcelonas_bench_after/",
+          "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Alexia Putellas won her record-equalling third women's Ballon d'Or, extending Spanish dominance."
+        },
+        {
+          "title": "China's state broadcaster suspends all La Liga broadcasts and removes ads featuring Kylian Mbapp\u00e9",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgn0zf/chinas_state_broadcaster_suspends_all_la_liga/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Jos\u00e9 Mourinho stared down Barcelona's bench after Mbapp\u00e9's late winner, capping a memorable Clasico return."
+          "summary": "China's state broadcaster suspended all La Liga broadcasts and removed ads featuring Kylian Mbapp\u00e9."
         },
         {
-          "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
+          "title": "Kylian Mbapp\u00e9 statement: \" I apologise to everyone my words have upset. This was absolutely not my intention. I have deep respect for the Chinese people and their history, and I am sincerely sorry.\"",
+          "url": "https://www.reddit.com/r/soccer/comments/1xgqbtf/kylian_mbapp\u00e9_statement_i_apologise_to_everyone/",
+          "source": "r/soccer",
           "score": null,
-          "summary": "Manchester United's Carrick is on the brink after a poor start to his tenure, with the team's form under heavy scrutiny."
-        },
-        {
-          "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": "Howe and Nagelsmann are reportedly high on Manchester United's list if Carrick is sacked."
+          "summary": "Mbapp\u00e9 issued a statement apologising for remarks that upset people in China, saying he has deep respect for the Chinese people and their history."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Injury] Jalen Williams suffers a gruesome injury to his lower leg.",
-          "url": "https://www.reddit.com/r/nba/comments/1xfjlxr/injury_jalen_williams_suffers_a_gruesome_injury/",
+          "title": "[Charania] BREAKING: Oklahoma City's Jalen Williams has a dislocated left ankle and fractured fibula; Cason Wallace has a torn labrum in his left shoulder. Both will undergo surgery and be sidelined for several months -- most, if not the entire season.",
+          "url": "https://www.reddit.com/r/nba/comments/1xgakfr/charania_breaking_oklahoma_citys_jalen_williams/",
           "source": "r/nba",
           "score": null,
-          "summary": "Thunder forward Jalen Williams suffered a gruesome lower leg injury."
+          "summary": "Oklahoma City's Jalen Williams has a dislocated ankle and fractured fibula, and Cason Wallace a torn labrum. Both need surgery and will miss most or all of the season."
         },
         {
-          "title": "Luka Don\u010di\u0107 puts up 52/7/10/2 on 17/30 shooting and knocks down 8 threes in a Lakers win over the Jazz",
-          "url": "https://www.reddit.com/r/nba/comments/1xfhagn/luka_don\u010di\u0107_puts_up_527102_on_1730_shooting_and/",
+          "title": "The Miami Heat are officially 0-4",
+          "url": "https://www.reddit.com/r/nba/comments/1xgg7tq/the_miami_heat_are_officially_04/",
           "source": "r/nba",
           "score": null,
-          "summary": "Luka Don\u010di\u0107 scored 52 points with eight threes as the Lakers beat the Jazz."
+          "summary": "The Miami Heat fell to 0-4 after a loss to the Mavericks, with Bam Adebayo shooting 30%."
         },
         {
-          "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
-          "url": "https://www.reddit.com/r/nba/comments/1xfy5sm/nba_announces_partnership_with_prediction_markets/",
+          "title": "[Charania] Toronto's Kawhi Leonard is expected to miss a period of weeks due to swelling in his left knee, sources tell ESPN. MRI on Leonard's knee showed no structural damage, but sides will use the shorter term to ramp him back up after the stoppages during the offseason.",
+          "url": "https://www.reddit.com/r/nba/comments/1xgvkox/charania_torontos_kawhi_leonard_is_expected_to/",
           "source": "r/nba",
           "score": null,
-          "summary": "The NBA announced partnerships with prediction markets Kalshi and Polymarket."
+          "summary": "Kawhi Leonard is expected to miss a period of weeks with left knee swelling. An MRI showed no structural damage."
         },
         {
-          "title": "The Timberwolves are 3-0, having won by 22, 25, and 23.",
-          "url": "https://www.reddit.com/r/nba/comments/1xfk1q4/the_timberwolves_are_30_having_won_by_22_25_and_23/",
+          "title": "Yaxel Lendebourg tonight in 30 minutes: 31 points, 12 rebounds, 6 assists and a win",
+          "url": "https://www.reddit.com/r/nba/comments/1xgj45e/yaxel_lendebourg_tonight_in_30_minutes_31_points/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Timberwolves are 3-0, winning their games by 22, 25 and 23 points."
+          "summary": "Yaxel Lendeborg had 31 points, 12 rebounds and 6 assists in 30 minutes in a win."
         }
       ]
     }
