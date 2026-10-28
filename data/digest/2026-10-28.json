@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T18:57:43.229933+00:00",
+  "mode": "claude",
+  "overview": "Apple unveiled its first touchscreen MacBook Pro alongside an OLED iPad Mini, while Google debuted Xreal-built Android XR glasses at $1,099. In AI and security, Anthropic dominated the conversation with its IPO risk disclosures and a reported startup breach, and a UEFI firmware flaw and Tailscale SSH investigation raised fresh security concerns. In football, fourth-tier Fleetwood Town knocked Arsenal out of the Carabao Cup on penalties in the biggest upset in the competition's history, while Mbapp\u00e9's remarks have sparked a diplomatic row with China. Cricket saw Marco Jansen reach the top of the Test bowling rankings as Australia took the early advantage at Newlands, and in the NBA injuries to Anthony Edwards and Tyrese Haliburton overshadowed Portland's win over the Lakers.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Apple announces its first touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Apple announced its first touchscreen MacBook Pro, with macOS adapted for touch input as part of its 'Pro and Tell' event."
+        },
+        {
+          "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+          "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Google's Android XR glasses built with Xreal debut at $1,099, positioned as a pricier but competitive alternative to Meta's offerings."
+        },
+        {
+          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "source": "Hacker News",
+          "score": 279,
+          "summary": "A code-execution flaw in UEFI firmware reportedly affects most servers worldwide, raising serious infrastructure security concerns."
+        },
+        {
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity. Seven potential AI nightmares pulled from Anthropic\u2019s 93-page \u201cRisk Factor\u201d tome.",
+          "url": "https://www.reddit.com/r/technology/comments/1xhawer/anthropic_ipo_warns_its_ai_could_blackmail_people/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Anthropic's IPO filing lists a range of AI-related risk factors drawn from its 93-page risk section."
+        },
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "source": "Hacker News",
+          "score": 864,
+          "summary": "Apple's git reportedly still trusts compromised eMudhra certificates, drawing heavy discussion about certificate trust practices."
+        },
+        {
+          "title": "Tailscale SSH: Investigation and remediation update",
+          "url": "https://tailscale.com/ssh-investigation-update",
+          "source": "Hacker News",
+          "score": 353,
+          "summary": "Tailscale published an update on its investigation and remediation of an issue affecting Tailscale SSH."
+        },
+        {
+          "title": "Early progress on accelerating drug development with Claude",
+          "url": "https://www.anthropic.com/research/early-progress-drug-development",
+          "source": "Hacker News",
+          "score": 305,
+          "summary": "Anthropic shares early progress on using Claude to accelerate drug development."
+        },
+        {
+          "title": "US agency approves Amazon Leo\u2019s $11.5B acquisition of Globalstar",
+          "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+          "source": "Hacker News",
+          "score": 193,
+          "summary": "A US agency approved Amazon Leo's $11.5B acquisition of Globalstar, consolidating satellite connectivity assets."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Marco Jansen gets to 100 Test Wickets",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xhnd74/marco_jansen_gets_to_100_test_wickets/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Marco Jansen reached 100 Test wickets, a milestone that also lifted him in the rankings."
+        },
+        {
+          "title": "Jansen becomes top-ranked Test bowler, Abhishek takes back crown for T20I batters",
+          "url": "https://www.cricinfo.com/ci/content/story/1560404.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Jansen became the top-ranked Test bowler, while Abhishek regained the top spot among T20I batters."
+        },
+        {
+          "title": "Australia finish 330/4 leading by 1 run with Inglis 85* and Carey 51*,at Stumps on Day-2 of the 3rd Test at Newlands",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xhs7x4/australia_finish_3304_leading_by_1_run_with/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Australia ended Day 2 of the third Test at Newlands on 330/4, one run ahead, with Inglis on 85* and Carey on 51*."
+        },
+        {
+          "title": "Vaishnavi five-for and Rawal, Shafali fifties power India to 3-0 sweep",
+          "url": "https://www.cricinfo.com/ci/content/story/1560452.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "A five-for from Vaishnavi and fifties from Rawal and Shafali powered India to a 3-0 series sweep."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Scenes as Fleetwood Town knock Arsenal out of the Carabao Cup",
+          "url": "https://www.reddit.com/r/soccer/comments/1xh6kqv/scenes_as_fleetwood_town_knock_arsenal_out_of_the/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Fourth-tier Fleetwood Town eliminated Arsenal from the Carabao Cup, winning 5-3 on penalties to reach the quarterfinals of a major domestic cup for the first time."
+        },
+        {
+          "title": "(BBC) 4th division Fleetwood are 84 places below Arsenal. It is the biggest upset in the League cups 65 year history",
+          "url": "https://www.reddit.com/r/soccer/comments/1xh6zc1/bbc_4th_division_fleetwood_are_84_places_below/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Fleetwood sit 84 places below Arsenal in the league pyramid, making this the biggest upset in the League Cup's 65-year history, per BBC."
+        },
+        {
+          "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Max Dowman's late red card sparked debate over Arteta's handling of the match as Arsenal went out."
+        },
+        {
+          "title": "China rejects Mbappe and Real Madrid apologies over \u2018outrageous\u2019 Mao joke",
+          "url": "https://www.reddit.com/r/soccer/comments/1xhs4wt/china_rejects_mbappe_and_real_madrid_apologies/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "China rejected apologies from Mbapp\u00e9 and Real Madrid over a joke about Mao, with state broadcaster CCTV demanding a proper apology from the club."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Charania] Just in: Minnesota Timberwolves star Anthony Edwards will undergo an arthroscopic procedure on his ailing right knee and miss up to two months, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xh7bqx/charania_just_in_minnesota_timberwolves_star/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Timberwolves star Anthony Edwards will undergo knee arthroscopy and could miss up to two months, per ESPN."
+        },
+        {
+          "title": "[Post Game Thread] The Portland Trail Blazers (3-0) defeat the Los Angeles Lakers (3-1), 136-129.",
+          "url": "https://www.reddit.com/r/nba/comments/1xhg43j/post_game_thread_the_portland_trail_blazers_30/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Portland improved to 3-0 with a 136-129 win over the Lakers, despite a 41-point night from Luka Doncic."
+        },
+        {
+          "title": "[Charania] Indiana Pacers star Tyrese Haliburton has sustained a left hamstring strain and will miss time, sources tell ESPN. Pacers doctors and Haliburton are now gathering a clear timeline.",
+          "url": "https://www.reddit.com/r/nba/comments/1xhutaq/charania_indiana_pacers_star_tyrese_haliburton/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Pacers star Tyrese Haliburton has a left hamstring strain and will miss time, with a timeline still being determined."
+        },
+        {
+          "title": "[Vorkunov] Malik Beasley, a nine-year NBA veteran, has agreed to plead guilty to federal charges stemming from a Department of Justice investigation into illegal sports gambling, his attorney told The Athletic. He will plead on Dec. 9 in Brooklyn.",
+          "url": "https://www.reddit.com/r/nba/comments/1xh2dbq/vorkunov_malik_beasley_a_nineyear_nba_veteran_has/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Veteran Malik Beasley has agreed to plead guilty to federal charges tied to a DOJ illegal sports gambling investigation, with his plea set for Dec. 9."
+        }
+      ]
+    }
+  ]
+}
