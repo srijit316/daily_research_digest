@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T18:57:43.229933+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T19:02:37.253727+00:00",
   "mode": "claude",
-  "overview": "Apple unveiled its first touchscreen MacBook Pro alongside an OLED iPad Mini, while Google debuted Xreal-built Android XR glasses at $1,099. In AI and security, Anthropic dominated the conversation with its IPO risk disclosures and a reported startup breach, and a UEFI firmware flaw and Tailscale SSH investigation raised fresh security concerns. In football, fourth-tier Fleetwood Town knocked Arsenal out of the Carabao Cup on penalties in the biggest upset in the competition's history, while Mbapp\u00e9's remarks have sparked a diplomatic row with China. Cricket saw Marco Jansen reach the top of the Test bowling rankings as Australia took the early advantage at Newlands, and in the NBA injuries to Anthony Edwards and Tyrese Haliburton overshadowed Portland's win over the Lakers.",
+  "overview": "Open-weight AI headlined the day as Mistral released the weights of its trillion-parameter Mistral Large 4, while big-money deals reshaped consumer tech with DoorDash agreeing to buy Instacart for $17B. Security stories dominated too, with a leak exposing data on over 40,000 DHS employees and a critical Linux kernel TCP flaw. In cricket, Afghanistan sealed their series on Azmat Omarzai's maiden T20I ton and Josh Inglis starred for Australia at Newlands. In football, Liverpool edged Chelsea on penalties, and in the NBA, Ernie Johnson announced his retirement while Utah charged Kalshi just as the league announced a partnership.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Apple announces its first touchscreen MacBook Pro",
-          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-          "source": "The Verge",
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+          "source": "TechCrunch",
           "score": null,
-          "summary": "Apple announced its first touchscreen MacBook Pro, with macOS adapted for touch input as part of its 'Pro and Tell' event."
+          "summary": "Mistral has released the weights of its trillion-parameter model, with a stated focus on cybersecurity use cases. It is a major open-weight release at frontier scale."
         },
         {
-          "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-          "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-          "source": "The Verge",
+          "title": "DoorDash to acquire Instacart for $17B",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+          "source": "TechCrunch",
           "score": null,
-          "summary": "Google's Android XR glasses built with Xreal debut at $1,099, positioned as a pricier but competitive alternative to Meta's offerings."
+          "summary": "DoorDash has agreed to acquire Instacart for $17 billion, a major consolidation in delivery and grocery tech."
         },
         {
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-          "source": "Hacker News",
-          "score": 279,
-          "summary": "A code-execution flaw in UEFI firmware reportedly affects most servers worldwide, raising serious infrastructure security concerns."
-        },
-        {
-          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity. Seven potential AI nightmares pulled from Anthropic\u2019s 93-page \u201cRisk Factor\u201d tome.",
-          "url": "https://www.reddit.com/r/technology/comments/1xhawer/anthropic_ipo_warns_its_ai_could_blackmail_people/",
+          "title": "Hackers expose the identities of more than 40,000 DHS employees",
+          "url": "https://www.reddit.com/r/technology/comments/1xih40z/hackers_expose_the_identities_of_more_than_40000/",
           "source": "r/technology",
           "score": null,
-          "summary": "Anthropic's IPO filing lists a range of AI-related risk factors drawn from its 93-page risk section."
+          "summary": "Hackers have exposed the identities of more than 40,000 Department of Homeland Security employees, including personnel tied to CBP and ICE."
         },
         {
-          "title": "Apple's git still trusts the compromised eMudhra certificates",
-          "url": "https://emudhra.we-have-a-problem.com/apple.html",
-          "source": "Hacker News",
-          "score": 864,
-          "summary": "Apple's git reportedly still trusts compromised eMudhra certificates, drawing heavy discussion about certificate trust practices."
+          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+          "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+          "source": "r/programming",
+          "score": null,
+          "summary": "A Linux kernel TCP flaw rated 9.8 on the CVSS scale affects Ubuntu, Red Hat and other distributions."
         },
         {
-          "title": "Tailscale SSH: Investigation and remediation update",
-          "url": "https://tailscale.com/ssh-investigation-update",
+          "title": "Google Search is now less than half of Alphabet\u2019s revenue",
+          "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
           "source": "Hacker News",
-          "score": 353,
-          "summary": "Tailscale published an update on its investigation and remediation of an issue affecting Tailscale SSH."
+          "score": 310,
+          "summary": "Google Search now accounts for less than half of Alphabet's revenue, reflecting the company's growing diversification."
         },
         {
-          "title": "Early progress on accelerating drug development with Claude",
-          "url": "https://www.anthropic.com/research/early-progress-drug-development",
-          "source": "Hacker News",
-          "score": 305,
-          "summary": "Anthropic shares early progress on using Claude to accelerate drug development."
+          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The US investigated a Chinese spy plot aimed at Nvidia's CEO, according to TechCrunch."
         },
         {
-          "title": "US agency approves Amazon Leo\u2019s $11.5B acquisition of Globalstar",
-          "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+          "title": "Zero click, silent, remote Android DoS",
+          "url": "https://smsofdeath.com/",
           "source": "Hacker News",
-          "score": 193,
-          "summary": "A US agency approved Amazon Leo's $11.5B acquisition of Globalstar, consolidating satellite connectivity assets."
+          "score": 292,
+          "summary": "A write-up details a zero-click, silent, remote denial-of-service vulnerability affecting Android."
+        },
+        {
+          "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+          "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Utah has charged prediction-market company Kalshi and its CEO with illegally promoting online gambling."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Marco Jansen gets to 100 Test Wickets",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xhnd74/marco_jansen_gets_to_100_test_wickets/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "Marco Jansen reached 100 Test wickets, a milestone that also lifted him in the rankings."
-        },
-        {
-          "title": "Jansen becomes top-ranked Test bowler, Abhishek takes back crown for T20I batters",
-          "url": "https://www.cricinfo.com/ci/content/story/1560404.html?ex_cid=OTC-RSS",
+          "title": "Omarzai century trumps Raza's as Afghanistan seal series",
+          "url": "https://www.cricinfo.com/ci/content/story/1560639.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Jansen became the top-ranked Test bowler, while Abhishek regained the top spot among T20I batters."
+          "summary": "Azmat Omarzai's century outshone Sikandar Raza's as Afghanistan clinched the series against Zimbabwe."
         },
         {
-          "title": "Australia finish 330/4 leading by 1 run with Inglis 85* and Carey 51*,at Stumps on Day-2 of the 3rd Test at Newlands",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xhs7x4/australia_finish_3304_leading_by_1_run_with/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "Australia ended Day 2 of the third Test at Newlands on 330/4, one run ahead, with Inglis on 85* and Carey on 51*."
-        },
-        {
-          "title": "Vaishnavi five-for and Rawal, Shafali fifties power India to 3-0 sweep",
-          "url": "https://www.cricinfo.com/ci/content/story/1560452.html?ex_cid=OTC-RSS",
+          "title": "Inglis century, Starc strikes hand Australia the advantage",
+          "url": "https://www.cricinfo.com/ci/content/story/1560569.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "A five-for from Vaishnavi and fifties from Rawal and Shafali powered India to a 3-0 series sweep."
+          "summary": "Josh Inglis made a century and Mitchell Starc struck to give Australia the advantage in the Newlands Test against South Africa."
+        },
+        {
+          "title": "Duckett 167, Dawson four-for, guide England to consolation win",
+          "url": "https://www.cricinfo.com/ci/content/story/1560581.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Ben Duckett's 167 and a four-wicket haul from Liam Dawson guided England to a consolation win over Sri Lanka."
+        },
+        {
+          "title": "New Zealand seek answers as India's batting juggernaut rolls on",
+          "url": "https://www.cricinfo.com/ci/content/story/1560571.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "New Zealand are searching for answers as India's batting continues to dominate."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Scenes as Fleetwood Town knock Arsenal out of the Carabao Cup",
-          "url": "https://www.reddit.com/r/soccer/comments/1xh6kqv/scenes_as_fleetwood_town_knock_arsenal_out_of_the/",
+          "title": "Liverpool vs Chelsea - Penalty shootout (6-5)",
+          "url": "https://www.reddit.com/r/soccer/comments/1xi28yy/liverpool_vs_chelsea_penalty_shootout_65/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Fourth-tier Fleetwood Town eliminated Arsenal from the Carabao Cup, winning 5-3 on penalties to reach the quarterfinals of a major domestic cup for the first time."
+          "summary": "Liverpool beat Chelsea 6-5 in a penalty shootout."
         },
         {
-          "title": "(BBC) 4th division Fleetwood are 84 places below Arsenal. It is the biggest upset in the League cups 65 year history",
-          "url": "https://www.reddit.com/r/soccer/comments/1xh6zc1/bbc_4th_division_fleetwood_are_84_places_below/",
+          "title": "[SkySport] Vincent Kompany has been discharged from the hospital following his collapse due to meningeal irritation. This was confirmed by FCB sporting director Max Eberl",
+          "url": "https://www.reddit.com/r/soccer/comments/1xhzseh/skysport_vincent_kompany_has_been_discharged_from/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Fleetwood sit 84 places below Arsenal in the league pyramid, making this the biggest upset in the League Cup's 65-year history, per BBC."
+          "summary": "Vincent Kompany has been discharged from hospital after collapsing due to meningeal irritation, Bayern's sporting director confirmed."
         },
         {
-          "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+          "title": "'Fully committed' Fernandes to remain Man Utd captain",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Max Dowman's late red card sparked debate over Arteta's handling of the match as Arsenal went out."
+          "summary": "Bruno Fernandes is 'fully committed' and will remain Manchester United captain."
         },
         {
-          "title": "China rejects Mbappe and Real Madrid apologies over \u2018outrageous\u2019 Mao joke",
-          "url": "https://www.reddit.com/r/soccer/comments/1xhs4wt/china_rejects_mbappe_and_real_madrid_apologies/",
-          "source": "r/soccer",
+          "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
-          "summary": "China rejected apologies from Mbapp\u00e9 and Real Madrid over a joke about Mao, with state broadcaster CCTV demanding a proper apology from the club."
+          "summary": "The 'stutter' penalty is back in focus after Barco's miss cost Chelsea."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] Just in: Minnesota Timberwolves star Anthony Edwards will undergo an arthroscopic procedure on his ailing right knee and miss up to two months, sources tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xh7bqx/charania_just_in_minnesota_timberwolves_star/",
+          "title": "An emotional Chuck, Kenny and Shaq pay tribute to Ernie Johnson as he announces his retirement",
+          "url": "https://www.reddit.com/r/nba/comments/1xi2rtr/an_emotional_chuck_kenny_and_shaq_pay_tribute_to/",
           "source": "r/nba",
           "score": null,
-          "summary": "Timberwolves star Anthony Edwards will undergo knee arthroscopy and could miss up to two months, per ESPN."
+          "summary": "Charles Barkley, Kenny Smith and Shaq paid an emotional tribute to Ernie Johnson as he announced his retirement."
         },
         {
-          "title": "[Post Game Thread] The Portland Trail Blazers (3-0) defeat the Los Angeles Lakers (3-1), 136-129.",
-          "url": "https://www.reddit.com/r/nba/comments/1xhg43j/post_game_thread_the_portland_trail_blazers_30/",
+          "title": "At the same time Adam Silver announces partnership with Kalshi, Utah Attorney General files 13 felony charges against Kalshi founders and the company.",
+          "url": "https://www.reddit.com/r/nba/comments/1xihkyf/at_the_same_time_adam_silver_announces/",
           "source": "r/nba",
           "score": null,
-          "summary": "Portland improved to 3-0 with a 136-129 win over the Lakers, despite a 41-point night from Luka Doncic."
+          "summary": "Utah's Attorney General filed felony charges against Kalshi and its founders at the same time the NBA announced a partnership with the company."
         },
         {
-          "title": "[Charania] Indiana Pacers star Tyrese Haliburton has sustained a left hamstring strain and will miss time, sources tell ESPN. Pacers doctors and Haliburton are now gathering a clear timeline.",
-          "url": "https://www.reddit.com/r/nba/comments/1xhutaq/charania_indiana_pacers_star_tyrese_haliburton/",
+          "title": "[Fortier] Celtics announce \u2018unprecedented' $200 million donation to Boston Children's Hospital",
+          "url": "https://www.reddit.com/r/nba/comments/1xin3se/fortier_celtics_announce_unprecedented_200/",
           "source": "r/nba",
           "score": null,
-          "summary": "Pacers star Tyrese Haliburton has a left hamstring strain and will miss time, with a timeline still being determined."
+          "summary": "The Celtics announced an 'unprecedented' $200 million donation to Boston Children's Hospital."
         },
         {
-          "title": "[Vorkunov] Malik Beasley, a nine-year NBA veteran, has agreed to plead guilty to federal charges stemming from a Department of Justice investigation into illegal sports gambling, his attorney told The Athletic. He will plead on Dec. 9 in Brooklyn.",
-          "url": "https://www.reddit.com/r/nba/comments/1xh2dbq/vorkunov_malik_beasley_a_nineyear_nba_veteran_has/",
+          "title": "Yaxel Lendeborg vs Timberwolves: 26 PTs, 8 Rebounds, 1 Assist, 1 Block, 1 Steal. Third consecutive 25+ pts for him.",
+          "url": "https://www.reddit.com/r/nba/comments/1xi8dyg/yaxel_lendeborg_vs_timberwolves_26_pts_8_rebounds/",
           "source": "r/nba",
           "score": null,
-          "summary": "Veteran Malik Beasley has agreed to plead guilty to federal charges tied to a DOJ illegal sports gambling investigation, with his plea set for Dec. 9."
+          "summary": "Yaxel Lendeborg scored 26 points with 8 rebounds against the Timberwolves, his third straight game with 25 or more."
         }
       ]
     }

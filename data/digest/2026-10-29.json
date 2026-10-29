@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T19:02:37.253727+00:00",
+  "mode": "claude",
+  "overview": "Open-weight AI headlined the day as Mistral released the weights of its trillion-parameter Mistral Large 4, while big-money deals reshaped consumer tech with DoorDash agreeing to buy Instacart for $17B. Security stories dominated too, with a leak exposing data on over 40,000 DHS employees and a critical Linux kernel TCP flaw. In cricket, Afghanistan sealed their series on Azmat Omarzai's maiden T20I ton and Josh Inglis starred for Australia at Newlands. In football, Liverpool edged Chelsea on penalties, and in the NBA, Ernie Johnson announced his retirement while Utah charged Kalshi just as the league announced a partnership.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Mistral has released the weights of its trillion-parameter model, with a stated focus on cybersecurity use cases. It is a major open-weight release at frontier scale."
+        },
+        {
+          "title": "DoorDash to acquire Instacart for $17B",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "DoorDash has agreed to acquire Instacart for $17 billion, a major consolidation in delivery and grocery tech."
+        },
+        {
+          "title": "Hackers expose the identities of more than 40,000 DHS employees",
+          "url": "https://www.reddit.com/r/technology/comments/1xih40z/hackers_expose_the_identities_of_more_than_40000/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Hackers have exposed the identities of more than 40,000 Department of Homeland Security employees, including personnel tied to CBP and ICE."
+        },
+        {
+          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+          "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+          "source": "r/programming",
+          "score": null,
+          "summary": "A Linux kernel TCP flaw rated 9.8 on the CVSS scale affects Ubuntu, Red Hat and other distributions."
+        },
+        {
+          "title": "Google Search is now less than half of Alphabet\u2019s revenue",
+          "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+          "source": "Hacker News",
+          "score": 310,
+          "summary": "Google Search now accounts for less than half of Alphabet's revenue, reflecting the company's growing diversification."
+        },
+        {
+          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The US investigated a Chinese spy plot aimed at Nvidia's CEO, according to TechCrunch."
+        },
+        {
+          "title": "Zero click, silent, remote Android DoS",
+          "url": "https://smsofdeath.com/",
+          "source": "Hacker News",
+          "score": 292,
+          "summary": "A write-up details a zero-click, silent, remote denial-of-service vulnerability affecting Android."
+        },
+        {
+          "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+          "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Utah has charged prediction-market company Kalshi and its CEO with illegally promoting online gambling."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Omarzai century trumps Raza's as Afghanistan seal series",
+          "url": "https://www.cricinfo.com/ci/content/story/1560639.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Azmat Omarzai's century outshone Sikandar Raza's as Afghanistan clinched the series against Zimbabwe."
+        },
+        {
+          "title": "Inglis century, Starc strikes hand Australia the advantage",
+          "url": "https://www.cricinfo.com/ci/content/story/1560569.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Josh Inglis made a century and Mitchell Starc struck to give Australia the advantage in the Newlands Test against South Africa."
+        },
+        {
+          "title": "Duckett 167, Dawson four-for, guide England to consolation win",
+          "url": "https://www.cricinfo.com/ci/content/story/1560581.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Ben Duckett's 167 and a four-wicket haul from Liam Dawson guided England to a consolation win over Sri Lanka."
+        },
+        {
+          "title": "New Zealand seek answers as India's batting juggernaut rolls on",
+          "url": "https://www.cricinfo.com/ci/content/story/1560571.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "New Zealand are searching for answers as India's batting continues to dominate."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Liverpool vs Chelsea - Penalty shootout (6-5)",
+          "url": "https://www.reddit.com/r/soccer/comments/1xi28yy/liverpool_vs_chelsea_penalty_shootout_65/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Liverpool beat Chelsea 6-5 in a penalty shootout."
+        },
+        {
+          "title": "[SkySport] Vincent Kompany has been discharged from the hospital following his collapse due to meningeal irritation. This was confirmed by FCB sporting director Max Eberl",
+          "url": "https://www.reddit.com/r/soccer/comments/1xhzseh/skysport_vincent_kompany_has_been_discharged_from/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Vincent Kompany has been discharged from hospital after collapsing due to meningeal irritation, Bayern's sporting director confirmed."
+        },
+        {
+          "title": "'Fully committed' Fernandes to remain Man Utd captain",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Bruno Fernandes is 'fully committed' and will remain Manchester United captain."
+        },
+        {
+          "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "The 'stutter' penalty is back in focus after Barco's miss cost Chelsea."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "An emotional Chuck, Kenny and Shaq pay tribute to Ernie Johnson as he announces his retirement",
+          "url": "https://www.reddit.com/r/nba/comments/1xi2rtr/an_emotional_chuck_kenny_and_shaq_pay_tribute_to/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Charles Barkley, Kenny Smith and Shaq paid an emotional tribute to Ernie Johnson as he announced his retirement."
+        },
+        {
+          "title": "At the same time Adam Silver announces partnership with Kalshi, Utah Attorney General files 13 felony charges against Kalshi founders and the company.",
+          "url": "https://www.reddit.com/r/nba/comments/1xihkyf/at_the_same_time_adam_silver_announces/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Utah's Attorney General filed felony charges against Kalshi and its founders at the same time the NBA announced a partnership with the company."
+        },
+        {
+          "title": "[Fortier] Celtics announce \u2018unprecedented' $200 million donation to Boston Children's Hospital",
+          "url": "https://www.reddit.com/r/nba/comments/1xin3se/fortier_celtics_announce_unprecedented_200/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Celtics announced an 'unprecedented' $200 million donation to Boston Children's Hospital."
+        },
+        {
+          "title": "Yaxel Lendeborg vs Timberwolves: 26 PTs, 8 Rebounds, 1 Assist, 1 Block, 1 Steal. Third consecutive 25+ pts for him.",
+          "url": "https://www.reddit.com/r/nba/comments/1xi8dyg/yaxel_lendeborg_vs_timberwolves_26_pts_8_rebounds/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Yaxel Lendeborg scored 26 points with 8 rebounds against the Timberwolves, his third straight game with 25 or more."
+        }
+      ]
+    }
+  ]
+}
