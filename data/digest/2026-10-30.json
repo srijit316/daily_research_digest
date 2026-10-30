@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:42:19.539707+00:00",
+  "mode": "claude",
+  "overview": "North Korea-linked hackers are blamed for a record $6.3B theft from Binance, reportedly carried out in about 20 minutes, while Polymarket halted trading after a vendor compromise drained user accounts. In security news, a backdoor turned up in a Claude Code VS Code extension on the Cursor Marketplace, and researchers detailed cross-tenant compromises in Azure. Google's first orbital data-center satellite came online, and US tech stocks fell on AI cost fears. In cricket, South Africa set Australia 288 in the Newlands Test, and Glenn Phillips' century helped New Zealand beat India in the T20I series. Arsenal manager Arteta defended criticising Max Dowman after a red card, and Memphis and Houston are the NBA's only unbeaten teams.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+          "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "North Korean hackers are blamed for stealing a record $6.3B in a breach of Binance, which paused withdrawals during the incident."
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "source": "Hacker News",
+          "score": 233,
+          "summary": "Reporting says the $6.3B Binance heist was carried out in about 20 minutes."
+        },
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "source": "Hacker News",
+          "score": 493,
+          "summary": "A backdoor was found in an extension posing as Claude Code for VS Code on the Cursor Marketplace, raising supply-chain concerns for developer tooling."
+        },
+        {
+          "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+          "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+          "source": "Hacker News",
+          "score": 204,
+          "summary": "A security write-up describes five full cross-tenant compromises in Azure."
+        },
+        {
+          "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+          "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+          "source": "Hacker News",
+          "score": 69,
+          "summary": "Polymarket halted trading for about an hour after a vendor compromise, saying affected users will be made whole."
+        },
+        {
+          "title": "Google\u2019s first data center satellite is online and writing poetry",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Google's first data center satellite is online and has produced its first output, a poem."
+        },
+        {
+          "title": "US tech stocks see sharp falls over AI cost fears",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News",
+          "score": 176,
+          "summary": "US tech stocks fell sharply amid investor concerns about the cost of AI."
+        },
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "source": "Hacker News",
+          "score": 295,
+          "summary": "An essay argues AI is deskilling site reliability engineers rather than replacing them."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "South Africa finish 387 at Stumps on Day-4, posting a target of 288 for Australia",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xjjexp/south_africa_finish_387_at_stumps_on_day4_posting/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "South Africa finished on 387 at stumps on Day 4 of the third Test, setting Australia a target of 288."
+        },
+        {
+          "title": "Phillips' century, Duffy's four-for topple India",
+          "url": "https://www.cricinfo.com/ci/content/story/1560744.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Glenn Phillips' century and Duffy's four-for helped New Zealand beat India by 87 runs, their first win of the five-match T20I series."
+        },
+        {
+          "title": "'We are in a very good position' - West Indies bank on 'positive intent' to chase win in Dhaka",
+          "url": "https://www.cricinfo.com/ci/content/story/1560755.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "West Indies are backing positive intent as they look to chase a win in Dhaka."
+        },
+        {
+          "title": "Rohit Sharma likely to take over as Mumbai Indians captain for IPL 2027 | If Pandya\u2019s trade doesn\u2019t take place, it is learnt that the player has agreed to play under Rohit\u2019s captaincy.",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xjbn6u/rohit_sharma_likely_to_take_over_as_mumbai/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Reports say Rohit Sharma is likely to take over as Mumbai Indians captain for IPL 2027."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Mikel Arteta on reaction to him admonishing Max Dowman after Fleetwood red card: \"You need to understand the context, the relationship I have with him. If you see the reaction from my mother/father with me sometimes, you'd not like it, but for me it was the best thing. This is not Disneyland\"",
+          "url": "https://www.reddit.com/r/soccer/comments/1xjhmk0/mikel_arteta_on_reaction_to_him_admonishing_max/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Mikel Arteta defended admonishing Max Dowman after his red card, saying the context of their relationship matters."
+        },
+        {
+          "title": "What Howe could bring to Man Utd - and what are the challenges?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "BBC looks at what Howe could bring to Manchester United and the challenges involved."
+        },
+        {
+          "title": "Milan and Inter naming rights deal with Italian insurance company Generali for their new stadium will be worth \u20ac650M ($725M) over 20 years. It will be the richest naming rights deal in sports history, beating the deal Crypto.com made in 2021 to rename the LA Lakers arena ($700M over 20 years)",
+          "url": "https://www.reddit.com/r/soccer/comments/1xj8jid/milan_and_inter_naming_rights_deal_with_italian/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Milan and Inter's stadium naming rights deal with Generali is reportedly worth \u20ac650M over 20 years, the richest in sports history."
+        },
+        {
+          "title": "Jack Grealish suspended by Everton for \u201cBreach of Club discipline\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1xisr1b/jack_grealish_suspended_by_everton_for_breach_of/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Everton have suspended Jack Grealish for a breach of club discipline."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Post Game Thread] The All Conquering Memphis Grizzlies (5-0) defeat the Portland Trail Blazers (3-1), 124-103 to stay undefeated.",
+          "url": "https://www.reddit.com/r/nba/comments/1xj5vfy/post_game_thread_the_all_conquering_memphis/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Memphis beat Portland 124-103 to improve to 5-0 and stay undefeated."
+        },
+        {
+          "title": "Stephen Curry is 39-for-39 from the line to start this season. That's the most makes without a miss in a player's first four games of a season in NBA history.",
+          "url": "https://www.reddit.com/r/nba/comments/1xiwmp7/stephen_curry_is_39for39_from_the_line_to_start/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Stephen Curry is 39-for-39 from the line to start the season, an NBA record for a player's first four games."
+        },
+        {
+          "title": "[Vorkunov] The Philadelphia 76ers have struck a multi-year deal with Kalshi to make Kalshi its official prediction market partner. Sixers say they're the 1st NBA team to name an official prediction market partner, and are following in NBA's the footsteps after it made Kalshi a partner this week.",
+          "url": "https://www.reddit.com/r/nba/comments/1xjl7eo/vorkunov_the_philadelphia_76ers_have_struck_a/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The 76ers signed a multi-year deal with Kalshi, becoming the first NBA team with an official prediction market partner."
+        },
+        {
+          "title": "Cameron Boozer records an 18 point, 11 rebound, 12 assist triple-double in the win against the Portland Trail Blazers",
+          "url": "https://www.reddit.com/r/nba/comments/1xj5pxm/cameron_boozer_records_an_18_point_11_rebound_12/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Cameron Boozer recorded a triple-double with 18 points, 11 rebounds and 12 assists in a win over Portland."
+        }
+      ]
+    }
+  ]
+}
