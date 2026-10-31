@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:52:41.717874+00:00",
+  "mode": "claude",
+  "overview": "Intel suffered its worst day ever, triggering a global chip rout and wiping $12B from the government's stake, while Reddit shares plunged 30% on weak search traffic and cracks are emerging in the AI spending boom. Security stories dominated: a $6.3B Binance hack, breaches at Northflank and Scribd, and malware using LLMs to rank victims. In cricket, South Africa beat Australia at Newlands to win the series 2-1 and become the new No.1 Test side, while Pakistan won the ODI tri-series by chasing 326. In football, Chelsea beat a 10-man Man Utd, Kane edged Mbapp\u00e9 for the Ballon d'Or, and Mbapp\u00e9's comments sparked a broadcast backlash in China. In the NBA, the Warriors beat the Lakers 112-95 after trailing by 25, with Curry scoring 31.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Intel on course for worst day ever, triggers global chip rout",
+          "url": "https://www.reddit.com/r/technology/comments/1xjr5mw/intel_on_course_for_worst_day_ever_triggers/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Intel is heading for its worst trading day ever, triggering a global chip-sector sell-off."
+        },
+        {
+          "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Intel's stock crash has knocked about $12B from the US government's stake in the company."
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "source": "Hacker News",
+          "score": 551,
+          "summary": "A report details how the $6.3B Binance hack was carried out in just 20 minutes."
+        },
+        {
+          "title": "Northflank Breached",
+          "url": "https://status.northflank.com",
+          "source": "Hacker News",
+          "score": 465,
+          "summary": "Infrastructure platform Northflank has disclosed a breach, drawing heavy discussion."
+        },
+        {
+          "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\"",
+          "url": "https://www.reddit.com/r/technology/comments/1xjn0sp/reddit_shares_plunge_30_after_company_says_its_q3/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Reddit shares fell 30% after the company said Q3 search traffic was down meaningfully."
+        },
+        {
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+          "source": "Hacker News",
+          "score": 151,
+          "summary": "Researchers report malware that uses LLMs to rank victims by how valuable they are."
+        },
+        {
+          "title": "Cracks are emerging in the AI spending boom",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "TechCrunch examines signs of strain emerging in the AI spending boom."
+        },
+        {
+          "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Sam Altman said it is better for RAM to sit in data centers than on personal desks, drawing criticism amid rising hardware prices."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "South Africa beat Australia at Newlands to win the 3-match Test Series (2-1)",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xk9y8y/south_africa_beat_australia_at_newlands_to_win/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "South Africa beat Australia at Newlands to win the three-match Test series 2-1."
+        },
+        {
+          "title": "South Africa are the new ICC no. 1 ranked Test team",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xka1jo/south_africa_are_the_new_icc_no_1_ranked_test_team/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "The win makes South Africa the new ICC No.1 ranked Test team."
+        },
+        {
+          "title": "Harmer takes ten in the match as SA clinch series decider against Australia",
+          "url": "https://www.cricinfo.com/ci/content/story/1560856.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Simon Harmer took ten wickets in the match as South Africa clinched the series decider."
+        },
+        {
+          "title": "Pak chase down 326 runs in the final to win the ODI tri-series",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xkeh8p/pak_chase_down_326_runs_in_the_final_to_win_the/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "Pakistan chased down 326 in the final to win the ODI tri-series, with Fakhar Zaman scoring 127."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Chelsea [1] - 0 Manchester United - M. Rogers 50'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xkahdq/chelsea_1_0_manchester_united_m_rogers_50/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Chelsea beat Manchester United 1-0 at Stamford Bridge, with Rogers scoring in the 50th minute."
+        },
+        {
+          "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Lisandro Martinez's red card cost Man Utd in the Chelsea defeat, extending their winless run."
+        },
+        {
+          "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Harry Kane won the Ballon d'Or, beating Kylian Mbapp\u00e9 by just 28 points."
+        },
+        {
+          "title": "After Mbappe's comments, one of the 2 broadcasters (CCTV) that offers LaLiga in China has decided not to show any matches, while the other (Migu) will only ban Real Madrid's matches. CCTV rejected apologies from both Mbapp\u00e9 and Real, urging them to learn from what happened and rectify their behavior",
+          "url": "https://www.reddit.com/r/soccer/comments/1xjq9gs/after_mbappes_comments_one_of_the_2_broadcasters/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "After Mbapp\u00e9's comments, CCTV has stopped showing LaLiga matches in China, while Migu will ban only Real Madrid's games."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Post Game Thread] The Golden State Warriors (3-3) defeat the Los Angeles Lakers (4-2), 112-95 behind Stephen Curry's 31/4/6",
+          "url": "https://www.reddit.com/r/nba/comments/1xk1bny/post_game_thread_the_golden_state_warriors_33/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Warriors beat the Lakers 112-95, led by Stephen Curry's 31 points."
+        },
+        {
+          "title": "Warriors trailed by 25 points in the first half & won by 17. That's the largest margin of victory by a team trailed by 25 or more in the play-by-play era.",
+          "url": "https://www.reddit.com/r/nba/comments/1xk1g34/warriors_trailed_by_25_points_in_the_first_half/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Golden State overcame a 25-point first-half deficit to win by 17, the largest such swing in the play-by-play era."
+        },
+        {
+          "title": "[Charania] Oklahoma City Thunder's Chet Holmgren underwent treatment Friday to address a small patellar tendon tear and is expected to return to play in 8-to-10 weeks.",
+          "url": "https://www.reddit.com/r/nba/comments/1xjwrwk/charania_oklahoma_city_thunders_chet_holmgren/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Thunder's Chet Holmgren is expected to miss 8-10 weeks with a small patellar tendon tear."
+        },
+        {
+          "title": "[Charania] Portland Trail Blazers' Ja Morant has sustained a Grade 2 left hamstring strain and will miss at least four weeks, sources tell ESPN.",
+          "url": "https://www.reddit.com/r/nba/comments/1xjnn5l/charania_portland_trail_blazers_ja_morant_has/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Ja Morant has a Grade 2 hamstring strain and will miss at least four weeks."
+        }
+      ]
+    }
+  ]
+}
