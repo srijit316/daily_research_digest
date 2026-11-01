@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T17:52:41.717874+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:30:18.075951+00:00",
   "mode": "claude",
-  "overview": "Intel suffered its worst day ever, triggering a global chip rout and wiping $12B from the government's stake, while Reddit shares plunged 30% on weak search traffic and cracks are emerging in the AI spending boom. Security stories dominated: a $6.3B Binance hack, breaches at Northflank and Scribd, and malware using LLMs to rank victims. In cricket, South Africa beat Australia at Newlands to win the series 2-1 and become the new No.1 Test side, while Pakistan won the ODI tri-series by chasing 326. In football, Chelsea beat a 10-man Man Utd, Kane edged Mbapp\u00e9 for the Ballon d'Or, and Mbapp\u00e9's comments sparked a broadcast backlash in China. In the NBA, the Warriors beat the Lakers 112-95 after trailing by 25, with Curry scoring 31.",
+  "overview": "Crypto security dominates the tech news as Binance resumes withdrawals after a $6.3 billion breach, with North Korea linked to the heist and the exchange saying 90% of losses are now covered. AI's infrastructure appetite continues to shape the industry, from Intel shifting capacity to server CPUs and Sam Altman seeking more RAM from Samsung, to a $1 trillion tech stock selloff and growing political scrutiny of data centers. In cricket, India clinched the T20I series 3-2 in New Zealand while South Africa's standout Test win over Australia and Namibia's first bilateral ODI series win made headlines. In football, Arsenal rescued a late point against Villa and Manchester United's defensive troubles drew scrutiny, while in the NBA Victor Wembanyama posted back-to-back 35+ point games and the 76ers moved to 6-1.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Intel on course for worst day ever, triggers global chip rout",
-          "url": "https://www.reddit.com/r/technology/comments/1xjr5mw/intel_on_course_for_worst_day_ever_triggers/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Intel is heading for its worst trading day ever, triggering a global chip-sector sell-off."
-        },
-        {
-          "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Intel's stock crash has knocked about $12B from the US government's stake in the company."
+          "summary": "Binance has resumed withdrawals following a $6.3 billion breach, with the exchange saying most losses have been covered."
         },
         {
-          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-          "source": "Hacker News",
-          "score": 551,
-          "summary": "A report details how the $6.3B Binance hack was carried out in just 20 minutes."
-        },
-        {
-          "title": "Northflank Breached",
-          "url": "https://status.northflank.com",
-          "source": "Hacker News",
-          "score": 465,
-          "summary": "Infrastructure platform Northflank has disclosed a breach, drawing heavy discussion."
-        },
-        {
-          "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\"",
-          "url": "https://www.reddit.com/r/technology/comments/1xjn0sp/reddit_shares_plunge_30_after_company_says_its_q3/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Reddit shares fell 30% after the company said Q3 search traffic was down meaningfully."
-        },
-        {
-          "title": "Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-          "source": "Hacker News",
-          "score": 151,
-          "summary": "Researchers report malware that uses LLMs to rank victims by how valuable they are."
-        },
-        {
-          "title": "Cracks are emerging in the AI spending boom",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "source": "TechCrunch",
-          "score": null,
-          "summary": "TechCrunch examines signs of strain emerging in the AI spending boom."
-        },
-        {
-          "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "title": "North Korea linked to massive Binance crypto heist",
+          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
           "source": "The Verge",
           "score": null,
-          "summary": "Sam Altman said it is better for RAM to sit in data centers than on personal desks, drawing criticism amid rising hardware prices."
+          "summary": "North Korea has been linked to the massive Binance crypto heist, according to The Verge."
+        },
+        {
+          "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+          "url": "https://www.reddit.com/r/technology/comments/1xknnvn/tech_stocks_wipe_out_1_trillion_in_value_as/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Tech stocks have lost $1 trillion in value as concerns about the AI boom deepen."
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "source": "Hacker News",
+          "score": 621,
+          "summary": "A TCP use-after-free vulnerability, tracked as CVE-2026-98432, has been disclosed with a CVSS score of 9.8 and drew heavy discussion on Hacker News."
+        },
+        {
+          "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand \u2014 company navigating 'one of the most significant supply shortages in history'",
+          "url": "https://www.reddit.com/r/technology/comments/1xkpdsv/intel_shifts_production_capacity_from_consumer_to/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Intel is shifting production capacity from consumer to server CPUs amid what it calls unprecedented AI demand and one of the most significant supply shortages in history."
+        },
+        {
+          "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages \u2014 OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
+          "url": "https://www.reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "OpenAI CEO Sam Altman met Samsung leadership in South Korea to secure more RAM for AI data centers amid shortages."
+        },
+        {
+          "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "source": "Hacker News",
+          "score": 260,
+          "summary": "A police chief physically unplugged Flock cameras after the company ignored the city's contract cancellation, amid ongoing privacy controversies."
+        },
+        {
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "source": "Hacker News",
+          "score": 381,
+          "summary": "A project called Memdoor reports that a team of five Qwen models beats a larger model on LiveCodeBench Hard, prompting discussion on Hacker News."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "South Africa beat Australia at Newlands to win the 3-match Test Series (2-1)",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xk9y8y/south_africa_beat_australia_at_newlands_to_win/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "South Africa beat Australia at Newlands to win the three-match Test series 2-1."
-        },
-        {
-          "title": "South Africa are the new ICC no. 1 ranked Test team",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xka1jo/south_africa_are_the_new_icc_no_1_ranked_test_team/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "The win makes South Africa the new ICC No.1 ranked Test team."
-        },
-        {
-          "title": "Harmer takes ten in the match as SA clinch series decider against Australia",
-          "url": "https://www.cricinfo.com/ci/content/story/1560856.html?ex_cid=OTC-RSS",
+          "title": "Seifert, Phillips, Milne set up NZ win as India take series 3-2",
+          "url": "https://www.cricinfo.com/ci/content/story/1560963.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Simon Harmer took ten wickets in the match as South Africa clinched the series decider."
+          "summary": "New Zealand won the final T20I behind Seifert, Phillips and Milne, but India took the series 3-2."
         },
         {
-          "title": "Pak chase down 326 runs in the final to win the ODI tri-series",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xkeh8p/pak_chase_down_326_runs_in_the_final_to_win_the/",
+          "title": "South Africa\u2019s remarkable victory over Australia proves they are truly the best in the world",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xl6da1/south_africas_remarkable_victory_over_australia/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Pakistan chased down 326 in the final to win the ODI tri-series, with Fakhar Zaman scoring 127."
+          "summary": "South Africa's remarkable Test victory over Australia has fans arguing they are the best side in the world."
+        },
+        {
+          "title": "JJ Smit sets up Namibia's first-ever bilateral ODI series win",
+          "url": "https://www.cricinfo.com/ci/content/story/1561007.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "JJ Smit set up Namibia's first-ever bilateral ODI series win, a historic result for the team."
+        },
+        {
+          "title": "Cummins accepts change is on the cards as Australia come up short again",
+          "url": "https://www.cricinfo.com/ci/content/story/1560893.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Pat Cummins accepts change is on the cards after Australia fell short again."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Chelsea [1] - 0 Manchester United - M. Rogers 50'",
-          "url": "https://www.reddit.com/r/soccer/comments/1xkahdq/chelsea_1_0_manchester_united_m_rogers_50/",
-          "source": "r/soccer",
+          "title": "Russo rescues late point for Arsenal against Villa",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c678pe84l97go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
-          "summary": "Chelsea beat Manchester United 1-0 at Stamford Bridge, with Rogers scoring in the 50th minute."
+          "summary": "Russo scored late to earn Arsenal a point against Aston Villa."
         },
         {
           "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Lisandro Martinez's red card cost Man Utd in the Chelsea defeat, extending their winless run."
+          "summary": "Lisandro Martinez's costly 83 seconds hurt Manchester United and Carrick, fueling debate over his form."
         },
         {
-          "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss",
+          "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Harry Kane won the Ballon d'Or, beating Kylian Mbapp\u00e9 by just 28 points."
+          "summary": "BBC looks at how Iraola is improving Liverpool through intensity, rotation and the Anfield atmosphere."
         },
         {
-          "title": "After Mbappe's comments, one of the 2 broadcasters (CCTV) that offers LaLiga in China has decided not to show any matches, while the other (Migu) will only ban Real Madrid's matches. CCTV rejected apologies from both Mbapp\u00e9 and Real, urging them to learn from what happened and rectify their behavior",
-          "url": "https://www.reddit.com/r/soccer/comments/1xjq9gs/after_mbappes_comments_one_of_the_2_broadcasters/",
-          "source": "r/soccer",
+          "title": "Chelsea put six past Charlton to top WSL",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
-          "summary": "After Mbapp\u00e9's comments, CCTV has stopped showing LaLiga matches in China, while Migu will ban only Real Madrid's games."
+          "summary": "Chelsea put six past Charlton to go top of the WSL."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Post Game Thread] The Golden State Warriors (3-3) defeat the Los Angeles Lakers (4-2), 112-95 behind Stephen Curry's 31/4/6",
-          "url": "https://www.reddit.com/r/nba/comments/1xk1bny/post_game_thread_the_golden_state_warriors_33/",
+          "title": "Victor Wembanyama signs back-to-back 35+ points games in the win against the Wolves: 43 PTS, 7 REB, 6 BLK, 4 AST, 1 STL on 17/34 FG, 3/8 3P, 6/9 FT in 34min",
+          "url": "https://www.reddit.com/r/nba/comments/1xkrx06/victor_wembanyama_signs_backtoback_35_points/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Warriors beat the Lakers 112-95, led by Stephen Curry's 31 points."
+          "summary": "Victor Wembanyama posted back-to-back 35+ point games, scoring 43 with 6 blocks in a win over the Wolves."
         },
         {
-          "title": "Warriors trailed by 25 points in the first half & won by 17. That's the largest margin of victory by a team trailed by 25 or more in the play-by-play era.",
-          "url": "https://www.reddit.com/r/nba/comments/1xk1g34/warriors_trailed_by_25_points_in_the_first_half/",
+          "title": "Darius Acuff checks out of the game against the Grizzlies dropping 38/5/5 (12/25 FGs, 9/14 from 3) 70%TS, and a new Career High. Sets a record for most 3\u2019s made by a Teenager in NBA history.",
+          "url": "https://www.reddit.com/r/nba/comments/1xksel0/darius_acuff_checks_out_of_the_game_against_the/",
           "source": "r/nba",
           "score": null,
-          "summary": "Golden State overcame a 25-point first-half deficit to win by 17, the largest such swing in the play-by-play era."
+          "summary": "Darius Acuff scored a career-high 38 against the Grizzlies, setting the record for most threes by a teenager in NBA history."
         },
         {
-          "title": "[Charania] Oklahoma City Thunder's Chet Holmgren underwent treatment Friday to address a small patellar tendon tear and is expected to return to play in 8-to-10 weeks.",
-          "url": "https://www.reddit.com/r/nba/comments/1xjwrwk/charania_oklahoma_city_thunders_chet_holmgren/",
+          "title": "[Post Game Thread] The Philadelphia 76ers (6-1) defeat the Charlotte Hornets (3-4), 109-104, thanks to 38 from Tyrese Maxey.",
+          "url": "https://www.reddit.com/r/nba/comments/1xkpxet/post_game_thread_the_philadelphia_76ers_61_defeat/",
           "source": "r/nba",
           "score": null,
-          "summary": "Thunder's Chet Holmgren is expected to miss 8-10 weeks with a small patellar tendon tear."
+          "summary": "The 76ers beat the Hornets 109-104 behind 38 from Tyrese Maxey to move to 6-1."
         },
         {
-          "title": "[Charania] Portland Trail Blazers' Ja Morant has sustained a Grade 2 left hamstring strain and will miss at least four weeks, sources tell ESPN.",
-          "url": "https://www.reddit.com/r/nba/comments/1xjnn5l/charania_portland_trail_blazers_ja_morant_has/",
+          "title": "The Grizzlies remain undefeated at 6-0",
+          "url": "https://www.reddit.com/r/nba/comments/1xks4mj/the_grizzlies_remain_undefeated_at_60/",
           "source": "r/nba",
           "score": null,
-          "summary": "Ja Morant has a Grade 2 hamstring strain and will miss at least four weeks."
+          "summary": "The Grizzlies remain undefeated at 6-0."
         }
       ]
     }

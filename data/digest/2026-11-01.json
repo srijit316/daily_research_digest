@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:30:18.075951+00:00",
+  "mode": "claude",
+  "overview": "Crypto security dominates the tech news as Binance resumes withdrawals after a $6.3 billion breach, with North Korea linked to the heist and the exchange saying 90% of losses are now covered. AI's infrastructure appetite continues to shape the industry, from Intel shifting capacity to server CPUs and Sam Altman seeking more RAM from Samsung, to a $1 trillion tech stock selloff and growing political scrutiny of data centers. In cricket, India clinched the T20I series 3-2 in New Zealand while South Africa's standout Test win over Australia and Namibia's first bilateral ODI series win made headlines. In football, Arsenal rescued a late point against Villa and Manchester United's defensive troubles drew scrutiny, while in the NBA Victor Wembanyama posted back-to-back 35+ point games and the 76ers moved to 6-1.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Binance has resumed withdrawals following a $6.3 billion breach, with the exchange saying most losses have been covered."
+        },
+        {
+          "title": "North Korea linked to massive Binance crypto heist",
+          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "source": "The Verge",
+          "score": null,
+          "summary": "North Korea has been linked to the massive Binance crypto heist, according to The Verge."
+        },
+        {
+          "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+          "url": "https://www.reddit.com/r/technology/comments/1xknnvn/tech_stocks_wipe_out_1_trillion_in_value_as/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Tech stocks have lost $1 trillion in value as concerns about the AI boom deepen."
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "source": "Hacker News",
+          "score": 621,
+          "summary": "A TCP use-after-free vulnerability, tracked as CVE-2026-98432, has been disclosed with a CVSS score of 9.8 and drew heavy discussion on Hacker News."
+        },
+        {
+          "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand \u2014 company navigating 'one of the most significant supply shortages in history'",
+          "url": "https://www.reddit.com/r/technology/comments/1xkpdsv/intel_shifts_production_capacity_from_consumer_to/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "Intel is shifting production capacity from consumer to server CPUs amid what it calls unprecedented AI demand and one of the most significant supply shortages in history."
+        },
+        {
+          "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages \u2014 OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
+          "url": "https://www.reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to/",
+          "source": "r/technology",
+          "score": null,
+          "summary": "OpenAI CEO Sam Altman met Samsung leadership in South Korea to secure more RAM for AI data centers amid shortages."
+        },
+        {
+          "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "source": "Hacker News",
+          "score": 260,
+          "summary": "A police chief physically unplugged Flock cameras after the company ignored the city's contract cancellation, amid ongoing privacy controversies."
+        },
+        {
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "source": "Hacker News",
+          "score": 381,
+          "summary": "A project called Memdoor reports that a team of five Qwen models beats a larger model on LiveCodeBench Hard, prompting discussion on Hacker News."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Seifert, Phillips, Milne set up NZ win as India take series 3-2",
+          "url": "https://www.cricinfo.com/ci/content/story/1560963.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "New Zealand won the final T20I behind Seifert, Phillips and Milne, but India took the series 3-2."
+        },
+        {
+          "title": "South Africa\u2019s remarkable victory over Australia proves they are truly the best in the world",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xl6da1/south_africas_remarkable_victory_over_australia/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": "South Africa's remarkable Test victory over Australia has fans arguing they are the best side in the world."
+        },
+        {
+          "title": "JJ Smit sets up Namibia's first-ever bilateral ODI series win",
+          "url": "https://www.cricinfo.com/ci/content/story/1561007.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "JJ Smit set up Namibia's first-ever bilateral ODI series win, a historic result for the team."
+        },
+        {
+          "title": "Cummins accepts change is on the cards as Australia come up short again",
+          "url": "https://www.cricinfo.com/ci/content/story/1560893.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Pat Cummins accepts change is on the cards after Australia fell short again."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Russo rescues late point for Arsenal against Villa",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c678pe84l97go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Russo scored late to earn Arsenal a point against Aston Villa."
+        },
+        {
+          "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Lisandro Martinez's costly 83 seconds hurt Manchester United and Carrick, fueling debate over his form."
+        },
+        {
+          "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "BBC looks at how Iraola is improving Liverpool through intensity, rotation and the Anfield atmosphere."
+        },
+        {
+          "title": "Chelsea put six past Charlton to top WSL",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Chelsea put six past Charlton to go top of the WSL."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Victor Wembanyama signs back-to-back 35+ points games in the win against the Wolves: 43 PTS, 7 REB, 6 BLK, 4 AST, 1 STL on 17/34 FG, 3/8 3P, 6/9 FT in 34min",
+          "url": "https://www.reddit.com/r/nba/comments/1xkrx06/victor_wembanyama_signs_backtoback_35_points/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Victor Wembanyama posted back-to-back 35+ point games, scoring 43 with 6 blocks in a win over the Wolves."
+        },
+        {
+          "title": "Darius Acuff checks out of the game against the Grizzlies dropping 38/5/5 (12/25 FGs, 9/14 from 3) 70%TS, and a new Career High. Sets a record for most 3\u2019s made by a Teenager in NBA history.",
+          "url": "https://www.reddit.com/r/nba/comments/1xksel0/darius_acuff_checks_out_of_the_game_against_the/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Darius Acuff scored a career-high 38 against the Grizzlies, setting the record for most threes by a teenager in NBA history."
+        },
+        {
+          "title": "[Post Game Thread] The Philadelphia 76ers (6-1) defeat the Charlotte Hornets (3-4), 109-104, thanks to 38 from Tyrese Maxey.",
+          "url": "https://www.reddit.com/r/nba/comments/1xkpxet/post_game_thread_the_philadelphia_76ers_61_defeat/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The 76ers beat the Hornets 109-104 behind 38 from Tyrese Maxey to move to 6-1."
+        },
+        {
+          "title": "The Grizzlies remain undefeated at 6-0",
+          "url": "https://www.reddit.com/r/nba/comments/1xks4mj/the_grizzlies_remain_undefeated_at_60/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Grizzlies remain undefeated at 6-0."
+        }
+      ]
+    }
+  ]
+}
