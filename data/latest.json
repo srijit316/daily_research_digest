@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T18:30:18.075951+00:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:24:22.301129+00:00",
   "mode": "claude",
-  "overview": "Crypto security dominates the tech news as Binance resumes withdrawals after a $6.3 billion breach, with North Korea linked to the heist and the exchange saying 90% of losses are now covered. AI's infrastructure appetite continues to shape the industry, from Intel shifting capacity to server CPUs and Sam Altman seeking more RAM from Samsung, to a $1 trillion tech stock selloff and growing political scrutiny of data centers. In cricket, India clinched the T20I series 3-2 in New Zealand while South Africa's standout Test win over Australia and Namibia's first bilateral ODI series win made headlines. In football, Arsenal rescued a late point against Villa and Manchester United's defensive troubles drew scrutiny, while in the NBA Victor Wembanyama posted back-to-back 35+ point games and the 76ers moved to 6-1.",
+  "overview": "Anthropic dominates the tech conversation today, with a warning that it is close to recursive self-improvement capability, new Claude Code limits aimed at preventing game cloning, and a report that its internal AI use now exceeds employee pay. A second wave of cyberattacks hit Europe's supermarket freezers, destroying food stocks, while Marvell's $115B purchase of Lumentum ranks among the largest tech deals ever. In cricket, Glenn Maxwell retired from international cricket and Afghanistan reached their highest-ever ODI ranking. Arsenal moved clear at the top of the Premier League with a rare win at Liverpool, and in the NBA, Yaxel Lendeborg's career-high 37 points led the Warriors past the Clippers as the Thunder announced they will retire Russell Westbrook's No. 0.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "Binance resumes withdrawals following $6.3 billion breach",
-          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+          "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
           "source": "TechCrunch",
           "score": null,
-          "summary": "Binance has resumed withdrawals following a $6.3 billion breach, with the exchange saying most losses have been covered."
+          "summary": "Anthropic says it is very close to recursive self-improvement (RSI) capability, meaning AI that can build itself. The warning is a notable signal about the pace of frontier AI development."
         },
         {
-          "title": "North Korea linked to massive Binance crypto heist",
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Marvell is buying Lumentum for $115B, which the report describes as one of the largest deals in tech history. The acquisition signals heavy consolidation in the networking and optical components space."
+        },
+        {
+          "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+          "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "A fresh wave of cyberattacks has hit supermarket refrigerators across Europe, destroying food in multiple countries. It is the second such suspected attack in a short time."
+        },
+        {
+          "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
           "source": "The Verge",
           "score": null,
-          "summary": "North Korea has been linked to the massive Binance crypto heist, according to The Verge."
+          "summary": "Anthropic is clamping down on Claude's ability to produce AI-generated video game clones. The move adds new restrictions to how Claude Code can be used."
         },
         {
-          "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
-          "url": "https://www.reddit.com/r/technology/comments/1xknnvn/tech_stocks_wipe_out_1_trillion_in_value_as/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Tech stocks have lost $1 trillion in value as concerns about the AI boom deepen."
-        },
-        {
-          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
           "source": "Hacker News",
-          "score": 621,
-          "summary": "A TCP use-after-free vulnerability, tracked as CVE-2026-98432, has been disclosed with a CVSS score of 9.8 and drew heavy discussion on Hacker News."
+          "score": 253,
+          "summary": "Anthropic's internal AI use, valued at retail prices, now exceeds what it pays its employees. The comparison highlights how heavily the company relies on its own models."
         },
         {
-          "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand \u2014 company navigating 'one of the most significant supply shortages in history'",
-          "url": "https://www.reddit.com/r/technology/comments/1xkpdsv/intel_shifts_production_capacity_from_consumer_to/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Intel is shifting production capacity from consumer to server CPUs amid what it calls unprecedented AI demand and one of the most significant supply shortages in history."
-        },
-        {
-          "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages \u2014 OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
-          "url": "https://www.reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "OpenAI CEO Sam Altman met Samsung leadership in South Korea to secure more RAM for AI data centers amid shortages."
-        },
-        {
-          "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
           "source": "Hacker News",
-          "score": 260,
-          "summary": "A police chief physically unplugged Flock cameras after the company ignored the city's contract cancellation, amid ongoing privacy controversies."
+          "score": 187,
+          "summary": "Ubuntu has reportedly gone almost three weeks without releasing a patch for a Linux zero-day remote code execution flaw. The delay is drawing scrutiny from the community."
         },
         {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "source": "Hacker News",
-          "score": 381,
-          "summary": "A project called Memdoor reports that a team of five Qwen models beats a larger model on LiveCodeBench Hard, prompting discussion on Hacker News."
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The New York Times and other outlets are suing the Brave browser over alleged content scraping and bypassing paywalls. The case adds to the growing legal fight over AI-related data use."
+        },
+        {
+          "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+          "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+          "source": "The Verge",
+          "score": null,
+          "summary": "One of Google's Android partners reportedly turned 1.3 million set-top boxes into a botnet. The report raises supply-chain security concerns for Android-based devices."
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Seifert, Phillips, Milne set up NZ win as India take series 3-2",
-          "url": "https://www.cricinfo.com/ci/content/story/1560963.html?ex_cid=OTC-RSS",
+          "title": "Glenn Maxwell retires from international cricket",
+          "url": "https://www.cricinfo.com/ci/content/story/1561163.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "New Zealand won the final T20I behind Seifert, Phillips and Milne, but India took the series 3-2."
+          "summary": "Glenn Maxwell has retired from international cricket. He leaves a career highlighted by his famous 200 against Afghanistan at the 2023 World Cup."
         },
         {
-          "title": "South Africa\u2019s remarkable victory over Australia proves they are truly the best in the world",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xl6da1/south_africas_remarkable_victory_over_australia/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": "South Africa's remarkable Test victory over Australia has fans arguing they are the best side in the world."
-        },
-        {
-          "title": "JJ Smit sets up Namibia's first-ever bilateral ODI series win",
-          "url": "https://www.cricinfo.com/ci/content/story/1561007.html?ex_cid=OTC-RSS",
+          "title": "Afghanistan climb to sixth, achieve highest-ever position in ODI rankings",
+          "url": "https://www.cricinfo.com/ci/content/story/1561137.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "JJ Smit set up Namibia's first-ever bilateral ODI series win, a historic result for the team."
+          "summary": "Afghanistan have climbed to sixth in the ODI rankings, their highest position ever. It marks a milestone in the team's steady rise."
         },
         {
-          "title": "Cummins accepts change is on the cards as Australia come up short again",
-          "url": "https://www.cricinfo.com/ci/content/story/1560893.html?ex_cid=OTC-RSS",
+          "title": "IPL 2027 retention deadline moved to November 17",
+          "url": "https://www.cricinfo.com/ci/content/story/1561149.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Pat Cummins accepts change is on the cards after Australia fell short again."
+          "summary": "The IPL 2027 retention deadline has been moved to November 17. The change gives franchises extra time to finalise their squads."
+        },
+        {
+          "title": "Pant to undergo fitness assessment before leaving for New Zealand",
+          "url": "https://www.cricinfo.com/ci/content/story/1561095.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Rishabh Pant will undergo a fitness assessment before leaving for New Zealand. His availability for the tour hinges on the outcome."
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Russo rescues late point for Arsenal against Villa",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c678pe84l97go?at_medium=RSS&at_campaign=rss",
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Russo scored late to earn Arsenal a point against Aston Villa."
+          "summary": "Arsenal moved clear at the top of the table with a rare win at Liverpool. It strengthens their position in the title race."
         },
         {
-          "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+          "title": "Who produced the kind of performance Moyes loves? - player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Lisandro Martinez's costly 83 seconds hurt Manchester United and Carrick, fueling debate over his form."
+          "summary": "BBC Sport rates the players after the latest result, asking who delivered the kind of performance Moyes loves. It offers a performance-based look back at the weekend's action."
         },
         {
-          "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
+          "title": "NE Revolution 1 - [2] Inter Miami - Lionel Messi 83'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xll28z/ne_revolution_1_2_inter_miami_lionel_messi_83/",
+          "source": "r/soccer",
           "score": null,
-          "summary": "BBC looks at how Iraola is improving Liverpool through intensity, rotation and the Anfield atmosphere."
+          "summary": "Lionel Messi scored in the 83rd minute as Inter Miami beat the New England Revolution 2-1."
         },
         {
-          "title": "Chelsea put six past Charlton to top WSL",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
+          "title": "[Birmingham Live] Aston Villa have dropped their threat of legal action against Jamie Carragher following his apology, but Nassef Sawiris has made it clear that any future insults or disrespectful comments about the club will not be tolerated.",
+          "url": "https://www.reddit.com/r/soccer/comments/1xlundz/birmingham_live_aston_villa_have_dropped_their/",
+          "source": "r/soccer",
           "score": null,
-          "summary": "Chelsea put six past Charlton to go top of the WSL."
+          "summary": "Aston Villa have dropped their threat of legal action against Jamie Carragher after his apology. Villa's owner warned that future insults toward the club will not be tolerated."
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Victor Wembanyama signs back-to-back 35+ points games in the win against the Wolves: 43 PTS, 7 REB, 6 BLK, 4 AST, 1 STL on 17/34 FG, 3/8 3P, 6/9 FT in 34min",
-          "url": "https://www.reddit.com/r/nba/comments/1xkrx06/victor_wembanyama_signs_backtoback_35_points/",
+          "title": "[Post Game Thread] The Golden State Warriors (4-3) defeat the LA Clippers (1-5), 124-112 behind Yaxel Lendeborg's career high 37 points",
+          "url": "https://www.reddit.com/r/nba/comments/1xln7p3/post_game_thread_the_golden_state_warriors_43/",
           "source": "r/nba",
           "score": null,
-          "summary": "Victor Wembanyama posted back-to-back 35+ point games, scoring 43 with 6 blocks in a win over the Wolves."
+          "summary": "The Golden State Warriors beat the LA Clippers 124-112, led by Yaxel Lendeborg's career-high 37 points. The win moves the Warriors to 4-3."
         },
         {
-          "title": "Darius Acuff checks out of the game against the Grizzlies dropping 38/5/5 (12/25 FGs, 9/14 from 3) 70%TS, and a new Career High. Sets a record for most 3\u2019s made by a Teenager in NBA history.",
-          "url": "https://www.reddit.com/r/nba/comments/1xksel0/darius_acuff_checks_out_of_the_game_against_the/",
+          "title": "The Oklahoma City Thunder announce they will be retiring Russell Westbrook\u2019s #0 Jersey in new video announcement",
+          "url": "https://www.reddit.com/r/nba/comments/1xm6bv5/the_oklahoma_city_thunder_announce_they_will_be/",
           "source": "r/nba",
           "score": null,
-          "summary": "Darius Acuff scored a career-high 38 against the Grizzlies, setting the record for most threes by a teenager in NBA history."
+          "summary": "The Oklahoma City Thunder will retire Russell Westbrook's No. 0 jersey on Feb. 7. The team announced it in a video."
         },
         {
-          "title": "[Post Game Thread] The Philadelphia 76ers (6-1) defeat the Charlotte Hornets (3-4), 109-104, thanks to 38 from Tyrese Maxey.",
-          "url": "https://www.reddit.com/r/nba/comments/1xkpxet/post_game_thread_the_philadelphia_76ers_61_defeat/",
+          "title": "Luka Doncic in the Win against the Raptors: 45 PTS | 12/23 FGS | 8/12 3PTS | 13/13 FTS | 14 REBS | 6 ASTS | 5 STLS | 78% TS",
+          "url": "https://www.reddit.com/r/nba/comments/1xlnv5m/luka_doncic_in_the_win_against_the_raptors_45_pts/",
           "source": "r/nba",
           "score": null,
-          "summary": "The 76ers beat the Hornets 109-104 behind 38 from Tyrese Maxey to move to 6-1."
+          "summary": "Luka Doncic scored 45 points with 14 rebounds, 6 assists and 5 steals in a win over the Raptors. He shot 8 of 12 from three and 13 of 13 from the free-throw line."
         },
         {
-          "title": "The Grizzlies remain undefeated at 6-0",
-          "url": "https://www.reddit.com/r/nba/comments/1xks4mj/the_grizzlies_remain_undefeated_at_60/",
+          "title": "[Highlight] Victor Wembanyama: Everything is a choice. You can choose to be an influencer, a philanthropist, or to promote gambling and alcohol off the court",
+          "url": "https://www.reddit.com/r/nba/comments/1xm0n9s/highlight_victor_wembanyama_everything_is_a/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Grizzlies remain undefeated at 6-0."
+          "summary": "Victor Wembanyama said that players choose what to do off the court, whether that is being an influencer, a philanthropist, or promoting gambling and alcohol. His remarks have drawn attention among fans."
         }
       ]
     }

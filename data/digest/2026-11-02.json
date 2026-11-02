@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:24:22.301129+00:00",
+  "mode": "claude",
+  "overview": "Anthropic dominates the tech conversation today, with a warning that it is close to recursive self-improvement capability, new Claude Code limits aimed at preventing game cloning, and a report that its internal AI use now exceeds employee pay. A second wave of cyberattacks hit Europe's supermarket freezers, destroying food stocks, while Marvell's $115B purchase of Lumentum ranks among the largest tech deals ever. In cricket, Glenn Maxwell retired from international cricket and Afghanistan reached their highest-ever ODI ranking. Arsenal moved clear at the top of the Premier League with a rare win at Liverpool, and in the NBA, Yaxel Lendeborg's career-high 37 points led the Warriors past the Clippers as the Thunder announced they will retire Russell Westbrook's No. 0.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Anthropic says it is very close to recursive self-improvement (RSI) capability, meaning AI that can build itself. The warning is a notable signal about the pace of frontier AI development."
+        },
+        {
+          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "Marvell is buying Lumentum for $115B, which the report describes as one of the largest deals in tech history. The acquisition signals heavy consolidation in the networking and optical components space."
+        },
+        {
+          "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+          "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "A fresh wave of cyberattacks has hit supermarket refrigerators across Europe, destroying food in multiple countries. It is the second such suspected attack in a short time."
+        },
+        {
+          "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "source": "The Verge",
+          "score": null,
+          "summary": "Anthropic is clamping down on Claude's ability to produce AI-generated video game clones. The move adds new restrictions to how Claude Code can be used."
+        },
+        {
+          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "Hacker News",
+          "score": 253,
+          "summary": "Anthropic's internal AI use, valued at retail prices, now exceeds what it pays its employees. The comparison highlights how heavily the company relies on its own models."
+        },
+        {
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "source": "Hacker News",
+          "score": 187,
+          "summary": "Ubuntu has reportedly gone almost three weeks without releasing a patch for a Linux zero-day remote code execution flaw. The delay is drawing scrutiny from the community."
+        },
+        {
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "source": "TechCrunch",
+          "score": null,
+          "summary": "The New York Times and other outlets are suing the Brave browser over alleged content scraping and bypassing paywalls. The case adds to the growing legal fight over AI-related data use."
+        },
+        {
+          "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+          "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+          "source": "The Verge",
+          "score": null,
+          "summary": "One of Google's Android partners reportedly turned 1.3 million set-top boxes into a botnet. The report raises supply-chain security concerns for Android-based devices."
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Glenn Maxwell retires from international cricket",
+          "url": "https://www.cricinfo.com/ci/content/story/1561163.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Glenn Maxwell has retired from international cricket. He leaves a career highlighted by his famous 200 against Afghanistan at the 2023 World Cup."
+        },
+        {
+          "title": "Afghanistan climb to sixth, achieve highest-ever position in ODI rankings",
+          "url": "https://www.cricinfo.com/ci/content/story/1561137.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Afghanistan have climbed to sixth in the ODI rankings, their highest position ever. It marks a milestone in the team's steady rise."
+        },
+        {
+          "title": "IPL 2027 retention deadline moved to November 17",
+          "url": "https://www.cricinfo.com/ci/content/story/1561149.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "The IPL 2027 retention deadline has been moved to November 17. The change gives franchises extra time to finalise their squads."
+        },
+        {
+          "title": "Pant to undergo fitness assessment before leaving for New Zealand",
+          "url": "https://www.cricinfo.com/ci/content/story/1561095.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": "Rishabh Pant will undergo a fitness assessment before leaving for New Zealand. His availability for the tour hinges on the outcome."
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "Arsenal moved clear at the top of the table with a rare win at Liverpool. It strengthens their position in the title race."
+        },
+        {
+          "title": "Who produced the kind of performance Moyes loves? - player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": "BBC Sport rates the players after the latest result, asking who delivered the kind of performance Moyes loves. It offers a performance-based look back at the weekend's action."
+        },
+        {
+          "title": "NE Revolution 1 - [2] Inter Miami - Lionel Messi 83'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xll28z/ne_revolution_1_2_inter_miami_lionel_messi_83/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Lionel Messi scored in the 83rd minute as Inter Miami beat the New England Revolution 2-1."
+        },
+        {
+          "title": "[Birmingham Live] Aston Villa have dropped their threat of legal action against Jamie Carragher following his apology, but Nassef Sawiris has made it clear that any future insults or disrespectful comments about the club will not be tolerated.",
+          "url": "https://www.reddit.com/r/soccer/comments/1xlundz/birmingham_live_aston_villa_have_dropped_their/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": "Aston Villa have dropped their threat of legal action against Jamie Carragher after his apology. Villa's owner warned that future insults toward the club will not be tolerated."
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Post Game Thread] The Golden State Warriors (4-3) defeat the LA Clippers (1-5), 124-112 behind Yaxel Lendeborg's career high 37 points",
+          "url": "https://www.reddit.com/r/nba/comments/1xln7p3/post_game_thread_the_golden_state_warriors_43/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Golden State Warriors beat the LA Clippers 124-112, led by Yaxel Lendeborg's career-high 37 points. The win moves the Warriors to 4-3."
+        },
+        {
+          "title": "The Oklahoma City Thunder announce they will be retiring Russell Westbrook\u2019s #0 Jersey in new video announcement",
+          "url": "https://www.reddit.com/r/nba/comments/1xm6bv5/the_oklahoma_city_thunder_announce_they_will_be/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "The Oklahoma City Thunder will retire Russell Westbrook's No. 0 jersey on Feb. 7. The team announced it in a video."
+        },
+        {
+          "title": "Luka Doncic in the Win against the Raptors: 45 PTS | 12/23 FGS | 8/12 3PTS | 13/13 FTS | 14 REBS | 6 ASTS | 5 STLS | 78% TS",
+          "url": "https://www.reddit.com/r/nba/comments/1xlnv5m/luka_doncic_in_the_win_against_the_raptors_45_pts/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Luka Doncic scored 45 points with 14 rebounds, 6 assists and 5 steals in a win over the Raptors. He shot 8 of 12 from three and 13 of 13 from the free-throw line."
+        },
+        {
+          "title": "[Highlight] Victor Wembanyama: Everything is a choice. You can choose to be an influencer, a philanthropist, or to promote gambling and alcohol off the court",
+          "url": "https://www.reddit.com/r/nba/comments/1xm0n9s/highlight_victor_wembanyama_everything_is_a/",
+          "source": "r/nba",
+          "score": null,
+          "summary": "Victor Wembanyama said that players choose what to do off the court, whether that is being an influencer, a philanthropist, or promoting gambling and alcohol. His remarks have drawn attention among fans."
+        }
+      ]
+    }
+  ]
+}
