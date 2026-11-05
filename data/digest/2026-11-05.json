@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T20:45:35.854411+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "sshole",
+          "url": "https://sshhole.com",
+          "source": "Hacker News",
+          "score": 1954,
+          "summary": null
+        },
+        {
+          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+          "source": "Hacker News",
+          "score": 458,
+          "summary": null
+        },
+        {
+          "title": "Discord is ditching Electron and its new app uses less RAM",
+          "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+          "source": "Hacker News",
+          "score": 315,
+          "summary": null
+        },
+        {
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "source": "Hacker News",
+          "score": 288,
+          "summary": null
+        },
+        {
+          "title": "Lemmings CSS Animation",
+          "url": "https://markblah.github.io/lemmings/",
+          "source": "Hacker News",
+          "score": 371,
+          "summary": null
+        },
+        {
+          "title": "Download your favourite YouTube videos",
+          "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+          "source": "Hacker News",
+          "score": 209,
+          "summary": null
+        },
+        {
+          "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+          "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+          "source": "Hacker News",
+          "score": 212,
+          "summary": null
+        },
+        {
+          "title": "I wish tech companies knew more about me",
+          "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+          "source": "Hacker News",
+          "score": 199,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Jangoo, Forde and Mangru earn maiden West Indies contracts",
+          "url": "https://www.cricinfo.com/ci/content/story/1561583.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Lynn revealed to have served one-month suspension for cocaine use",
+          "url": "https://www.cricinfo.com/ci/content/story/1561592.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Best Test pace trios with 20+ Tests together",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xon1py/best_test_pace_trios_with_20_tests_together/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Taylor 131, Bennett's 71* give opening-day honours to Zimbabwe",
+          "url": "https://www.cricinfo.com/ci/content/story/1561577.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "England check on Palmer - what are Tuchel's other big choices?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "'Clock is ticking' - Gateshead fans fear for future",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Rodrigo De Paul condemned the attack on transgender women in Palermo and shared messages to raise awareness",
+          "url": "https://www.reddit.com/r/soccer/comments/1xop0g4/rodrigo_de_paul_condemned_the_attack_on/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Lowlight] Mo Wagner begs his coaches to challenge a foul call... After review, the refs upgrade it to a flagrant.",
+          "url": "https://www.reddit.com/r/nba/comments/1xohx47/lowlight_mo_wagner_begs_his_coaches_to_challenge/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Lebron James, wearing nothing but a towel, crashes Joel Embiid's post-game interview",
+          "url": "https://www.reddit.com/r/nba/comments/1xoco8e/lebron_james_wearing_nothing_but_a_towel_crashes/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[Highlight] Klay Thompson hits the corner three to win it for Miami!",
+          "url": "https://www.reddit.com/r/nba/comments/1xobj0m/highlight_klay_thompson_hits_the_corner_three_to/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Luka Doncic this season: 38.5 PPG | 49.5% FGS | 43.1% 3PTS | 89.3% FTS | 8.1 REBS | 8 ASTS | 1.8 STLS",
+          "url": "https://www.reddit.com/r/nba/comments/1xoave7/luka_doncic_this_season_385_ppg_495_fgs_431_3pts/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}

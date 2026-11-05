@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T20:30:34.616312+00:00",
-  "mode": "claude",
-  "overview": "Tuesday's US midterm results dominate the tech conversation: voters in dozens of local ballot initiatives rejected data centers, and AI-linked stocks slid as markets weighed a slower buildout. Google is under fire from officials including NYC's mayor over a policy that would cut off Search for schools restricting AI, while open-weight models (Kimi K3.1 Pro, Ripple-65B) and AMD's expected Q4 lead over Intel round out industry news. In cricket, Virat Kohli and India's quicks put India 1-0 up in Auckland, and Mitchell Starc retook the top Test bowler ranking. Football and the NBA are shadowed by the death of Tenerife's Jes\u00fas de Miguel, Manchester United's 3-2 comeback over Roma, and the Warriors' decision to stop paying Kristaps Porzingis.",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T20:45:35.854411+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
     {
       "category": "tech",
       "title": "Tech",
       "items": [
         {
-          "title": "10 States With Data Centers on the Ballot All Voted to Ban Them",
-          "url": "https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "Voters in ten states with data centers on the ballot chose to ban them, a notable signal of local resistance to AI infrastructure."
-        },
-        {
-          "title": "AI stocks slide as Texas governor result raises data center risks",
-          "url": "https://www.reddit.com/r/technology/comments/1xnh94y/ai_stocks_slide_as_texas_governor_result_raises/",
-          "source": "r/technology",
-          "score": null,
-          "summary": "AI stocks fell after the Texas governor result raised concerns about data center buildout risks."
-        },
-        {
-          "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-          "source": "TechCrunch",
-          "score": null,
-          "summary": "Google faces backlash over a plan that would turn off Search for schools that restrict AI use."
-        },
-        {
-          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "url": "https://news.ycombinator.com/item?id=50363461",
+          "title": "sshole",
+          "url": "https://sshhole.com",
           "source": "Hacker News",
-          "score": 548,
-          "summary": "A Hacker News post reports that Gemini trains on chat history even for paying subscribers on personal accounts, prompting privacy discussion."
+          "score": 1954,
+          "summary": null
         },
         {
-          "title": "North Korean fake job interview led to $6.3B Binance heist",
-          "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
           "source": "Hacker News",
-          "score": 468,
-          "summary": "A report traces a $6.3B Binance heist to a North Korean fake job interview."
+          "score": 458,
+          "summary": null
         },
         {
-          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "title": "Discord is ditching Electron and its new app uses less RAM",
+          "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
           "source": "Hacker News",
-          "score": 527,
-          "summary": "Encrypted firmware on Nvidia's RTX Spark reportedly cuts inference speed to 35% on Linux."
+          "score": 315,
+          "summary": null
         },
         {
-          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
           "source": "Hacker News",
-          "score": 331,
-          "summary": "AMD expects to outsell Intel in Q4 for the first time in history."
+          "score": 288,
+          "summary": null
         },
         {
-          "title": "Kimi K3.1 Pro model weights are out",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "title": "Lemmings CSS Animation",
+          "url": "https://markblah.github.io/lemmings/",
           "source": "Hacker News",
-          "score": 240,
-          "summary": "Model weights for Kimi K3.1 Pro have been released."
+          "score": 371,
+          "summary": null
+        },
+        {
+          "title": "Download your favourite YouTube videos",
+          "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+          "source": "Hacker News",
+          "score": 209,
+          "summary": null
+        },
+        {
+          "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+          "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+          "source": "Hacker News",
+          "score": 212,
+          "summary": null
+        },
+        {
+          "title": "I wish tech companies knew more about me",
+          "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+          "source": "Hacker News",
+          "score": 199,
+          "summary": null
         }
       ]
     },
@@ -71,32 +71,32 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Kohli and quicks power India to 1-0 lead in Auckland",
-          "url": "https://www.cricinfo.com/ci/content/story/1561390.html?ex_cid=OTC-RSS",
+          "title": "Jangoo, Forde and Mangru earn maiden West Indies contracts",
+          "url": "https://www.cricinfo.com/ci/content/story/1561583.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Virat Kohli and India's pace bowlers powered India to a 1-0 lead in the ODI series in Auckland."
+          "summary": null
         },
         {
-          "title": "Kohli becomes the first batsman to score 13,000 ODI runs at No.3",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xnhs9w/kohli_becomes_the_first_batsman_to_score_13000/",
+          "title": "Lynn revealed to have served one-month suspension for cocaine use",
+          "url": "https://www.cricinfo.com/ci/content/story/1561592.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Best Test pace trios with 20+ Tests together",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xon1py/best_test_pace_trios_with_20_tests_together/",
           "source": "r/Cricket",
           "score": null,
-          "summary": "Kohli became the first batsman to score 13,000 ODI runs at No.3."
+          "summary": null
         },
         {
-          "title": "Starc displaces Jansen to reclaim top spot in ICC rankings for Test bowlers",
-          "url": "https://www.cricinfo.com/ci/content/story/1561383.html?ex_cid=OTC-RSS",
+          "title": "Taylor 131, Bennett's 71* give opening-day honours to Zimbabwe",
+          "url": "https://www.cricinfo.com/ci/content/story/1561577.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
-          "summary": "Mitchell Starc displaced Marco Jansen to reclaim the top spot in the ICC Test bowler rankings."
-        },
-        {
-          "title": "Leicestershire relegation confirmed as pitch penalty upheld",
-          "url": "https://www.cricinfo.com/ci/content/story/1561439.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": "Leicestershire's relegation was confirmed after a pitch penalty was upheld."
+          "summary": null
         }
       ]
     },
@@ -105,32 +105,32 @@
       "title": "Football",
       "items": [
         {
-          "title": "Manchester United [3] - 2 AS Roma - Matheus Cunha 86'",
-          "url": "https://www.reddit.com/r/soccer/comments/1xn66g0/manchester_united_3_2_as_roma_matheus_cunha_86/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": "Manchester United came from two goals down to beat AS Roma 3-2, with Matheus Cunha scoring the 86th-minute winner."
-        },
-        {
-          "title": "An island in mourning: Tenerife processes death of De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+          "title": "England check on Palmer - what are Tuchel's other big choices?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Tenerife is mourning the death of Jes\u00fas de Miguel, with tributes across football."
+          "summary": null
         },
         {
-          "title": "Real Madrid reach verbal agreement to sign Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+          "title": "'Clock is ticking' - Gateshead fans fear for future",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
-          "summary": "Real Madrid have reached a verbal agreement to sign Gabriel."
+          "summary": null
         },
         {
-          "title": "Atletico lose to a German team at home after 30 years",
-          "url": "https://www.reddit.com/r/soccer/comments/1xn6gwc/atletico_lose_to_a_german_team_at_home_after_30/",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Rodrigo De Paul condemned the attack on transgender women in Palermo and shared messages to raise awareness",
+          "url": "https://www.reddit.com/r/soccer/comments/1xop0g4/rodrigo_de_paul_condemned_the_attack_on/",
           "source": "r/soccer",
           "score": null,
-          "summary": "Atletico Madrid lost at home to a German side for the first time in 30 years."
+          "summary": null
         }
       ]
     },
@@ -139,32 +139,32 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] The Warriors are not delivering payments to Kristaps Porzingis on his $20 million salary, ruling that he is not rendering services, sources tell me and Anthony Slater.",
-          "url": "https://www.reddit.com/r/nba/comments/1xnrfrg/charania_the_warriors_are_not_delivering_payments/",
+          "title": "[Lowlight] Mo Wagner begs his coaches to challenge a foul call... After review, the refs upgrade it to a flagrant.",
+          "url": "https://www.reddit.com/r/nba/comments/1xohx47/lowlight_mo_wagner_begs_his_coaches_to_challenge/",
           "source": "r/nba",
           "score": null,
-          "summary": "The Warriors are withholding payments on Kristaps Porzingis' $20 million salary, ruling that he is not rendering services."
+          "summary": null
         },
         {
-          "title": "[Amick] Source: Kristaps Porzingis, in concert with the NBPA, has no current plans to challenge the Warriors' decision to not pay him.",
-          "url": "https://www.reddit.com/r/nba/comments/1xntrib/amick_source_kristaps_porzingis_in_concert_with/",
+          "title": "Lebron James, wearing nothing but a towel, crashes Joel Embiid's post-game interview",
+          "url": "https://www.reddit.com/r/nba/comments/1xoco8e/lebron_james_wearing_nothing_but_a_towel_crashes/",
           "source": "r/nba",
           "score": null,
-          "summary": "Porzingis, together with the NBPA, has no current plans to challenge the Warriors' decision."
+          "summary": null
         },
         {
-          "title": "[SNY] Mike Brown on Knicks' slow start: \"This can probably come off wrong. I'm a little excited that we're struggling. I want to see if right now we can figure it out... you go through the offseason we went through where everybody celebrates you... you want to be shaken and brought back to Earth.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xn56gq/sny_mike_brown_on_knicks_slow_start_this_can/",
+          "title": "[Highlight] Klay Thompson hits the corner three to win it for Miami!",
+          "url": "https://www.reddit.com/r/nba/comments/1xobj0m/highlight_klay_thompson_hits_the_corner_three_to/",
           "source": "r/nba",
           "score": null,
-          "summary": "Knicks coach Mike Brown says he is somewhat glad the team is struggling early, wanting them shaken after a celebrated offseason."
+          "summary": null
         },
         {
-          "title": "LeBron reacts to Westbrook's retirement: \"He never wanted to take a game off. Great dude. There's not going to be one person that played with him in the locker room that says he wasn\u2019t a good teammate like, everyone raves about him, including myself. I'm happy I got to share the floor with him.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xn878p/lebron_reacts_to_westbrooks_retirement_he_never/",
+          "title": "Luka Doncic this season: 38.5 PPG | 49.5% FGS | 43.1% 3PTS | 89.3% FTS | 8.1 REBS | 8 ASTS | 1.8 STLS",
+          "url": "https://www.reddit.com/r/nba/comments/1xoave7/luka_doncic_this_season_385_ppg_495_fgs_431_3pts/",
           "source": "r/nba",
           "score": null,
-          "summary": "LeBron James praised Russell Westbrook as a great teammate following Westbrook's retirement."
+          "summary": null
         }
       ]
     }
