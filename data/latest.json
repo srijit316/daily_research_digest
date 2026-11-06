@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T20:45:35.854411+00:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T20:02:13.806146+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "sshole",
-          "url": "https://sshhole.com",
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
           "source": "Hacker News",
-          "score": 1954,
+          "score": 569,
           "summary": null
         },
         {
-          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+          "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+          "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
           "source": "Hacker News",
-          "score": 458,
+          "score": 585,
           "summary": null
         },
         {
-          "title": "Discord is ditching Electron and its new app uses less RAM",
-          "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+          "url": "https://github.com/ppmpreetham/BUI",
           "source": "Hacker News",
-          "score": 315,
+          "score": 600,
           "summary": null
         },
         {
-          "title": "Motorola Signature 27 with GrapheneOS support",
-          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "title": "Deus Ex",
+          "url": "https://www.filfre.net/2026/11/deus-ex/",
           "source": "Hacker News",
-          "score": 288,
+          "score": 266,
           "summary": null
         },
         {
-          "title": "Lemmings CSS Animation",
-          "url": "https://markblah.github.io/lemmings/",
+          "title": "Gemini Omni 1.2 Flash",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
           "source": "Hacker News",
-          "score": 371,
+          "score": 245,
           "summary": null
         },
         {
-          "title": "Download your favourite YouTube videos",
-          "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+          "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+          "url": "https://jhr.pensoft.net/articles.php?id=9096",
           "source": "Hacker News",
-          "score": 209,
+          "score": 144,
           "summary": null
         },
         {
-          "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-          "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+          "title": "First steps in bare-metal programming using UEFI",
+          "url": "https://kevinboone.me/efitest_index.html",
           "source": "Hacker News",
-          "score": 212,
+          "score": 108,
           "summary": null
         },
         {
-          "title": "I wish tech companies knew more about me",
-          "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
           "source": "Hacker News",
-          "score": 199,
+          "score": 157,
           "summary": null
         }
       ]
@@ -71,30 +71,30 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Jangoo, Forde and Mangru earn maiden West Indies contracts",
-          "url": "https://www.cricinfo.com/ci/content/story/1561583.html?ex_cid=OTC-RSS",
+          "title": "Mohammed Shami retires from Test cricket",
+          "url": "https://www.cricinfo.com/ci/content/story/1561697.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Lynn revealed to have served one-month suspension for cocaine use",
-          "url": "https://www.cricinfo.com/ci/content/story/1561592.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "Best Test pace trios with 20+ Tests together",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xon1py/best_test_pace_trios_with_20_tests_together/",
+          "title": "Usman Khawaja says every Australian team member knew about Sandpapergate ball tampering",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xpkt0a/usman_khawaja_says_every_australian_team_member/",
           "source": "r/Cricket",
           "score": null,
           "summary": null
         },
         {
-          "title": "Taylor 131, Bennett's 71* give opening-day honours to Zimbabwe",
-          "url": "https://www.cricinfo.com/ci/content/story/1561577.html?ex_cid=OTC-RSS",
+          "title": "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940 \u0915\u094b \u092c\u093f\u0939\u093e\u0930 \u0915\u0940 \u0915\u092e\u093e\u0928, \u0905\u0928\u092e\u094b\u0932 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u0940\u0928\u093f\u092f\u0930 \u091f\u0940\u092e \u092e\u0947\u0902 \u092e\u094c\u0915\u093c\u093e",
+          "url": "https://www.cricinfo.com/ci/content/story/1561670.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Mohammed Shami retires from Test cricket - ESPN",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xpk2bx/mohammed_shami_retires_from_test_cricket_espn/",
+          "source": "r/Cricket",
           "score": null,
           "summary": null
         }
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "England check on Palmer - what are Tuchel's other big choices?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "title": "[MD] Marcus Rashford: \u201cBefore leaving Barcelona I told Lamine Yamal that I have played with very, very talented players, but he is above all of them. believe in his talent so much. If he wins 7 Ballon d\u2019Or, I wouldn\u2019t be surprised.\u201d",
+          "url": "https://www.reddit.com/r/soccer/comments/1xpib4k/md_marcus_rashford_before_leaving_barcelona_i/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "James out for minimum of five games - Bompastor",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "'Clock is ticking' - Gateshead fans fear for future",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
+          "title": "Is Palmer's England career over under Tuchel?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Sutton's predictions v Football Manager, the game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "Rodrigo De Paul condemned the attack on transgender women in Palermo and shared messages to raise awareness",
-          "url": "https://www.reddit.com/r/soccer/comments/1xop0g4/rodrigo_de_paul_condemned_the_attack_on/",
+          "title": "Real Madrid are studying Vin\u00edcius Jr\u2019s body structure to understand whether anything has changed physically | Even Vinicius realizes he no longer runs as fast as possible and a spark is missing. Mourinho is ready to help him, but an ultimatum of a month is given before he starts to be benched",
+          "url": "https://www.reddit.com/r/soccer/comments/1xpgwry/real_madrid_are_studying_vin\u00edcius_jrs_body/",
           "source": "r/soccer",
           "score": null,
           "summary": null
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Lowlight] Mo Wagner begs his coaches to challenge a foul call... After review, the refs upgrade it to a flagrant.",
-          "url": "https://www.reddit.com/r/nba/comments/1xohx47/lowlight_mo_wagner_begs_his_coaches_to_challenge/",
+          "title": "[NBA.com] Kia MVP Ladder: #1 Doncic - #2 Wemby - #3 Shai - #4 Maxey - #5 Tatum - #6 Sengun - #7 Curry - #8 Giannis - #9 Flagg - #10 Jokic - #11 Ty Jerome - #12 Avdija - #13 Cade - #14 Barnes - #15 Brunson",
+          "url": "https://www.reddit.com/r/nba/comments/1xpdurd/nbacom_kia_mvp_ladder_1_doncic_2_wemby_3_shai_4/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Lebron James, wearing nothing but a towel, crashes Joel Embiid's post-game interview",
-          "url": "https://www.reddit.com/r/nba/comments/1xoco8e/lebron_james_wearing_nothing_but_a_towel_crashes/",
+          "title": "It\u2019s actually unreal how good Steph Curry has looked so far",
+          "url": "https://www.reddit.com/r/nba/comments/1xp5heo/its_actually_unreal_how_good_steph_curry_has/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "[Highlight] Klay Thompson hits the corner three to win it for Miami!",
-          "url": "https://www.reddit.com/r/nba/comments/1xobj0m/highlight_klay_thompson_hits_the_corner_three_to/",
+          "title": "Steph Curry repeatedly nods his head on the Warriors' bench",
+          "url": "https://www.reddit.com/r/nba/comments/1xp55an/steph_curry_repeatedly_nods_his_head_on_the/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Luka Doncic this season: 38.5 PPG | 49.5% FGS | 43.1% 3PTS | 89.3% FTS | 8.1 REBS | 8 ASTS | 1.8 STLS",
-          "url": "https://www.reddit.com/r/nba/comments/1xoave7/luka_doncic_this_season_385_ppg_495_fgs_431_3pts/",
+          "title": "Giannis just running around on defense looking lost",
+          "url": "https://www.reddit.com/r/nba/comments/1xp523r/giannis_just_running_around_on_defense_looking/",
           "source": "r/nba",
           "score": null,
           "summary": null
