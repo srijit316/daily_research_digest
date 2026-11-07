@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T20:02:13.806146+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T18:07:36.280218+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Tesla to wind down Cybertruck production",
-          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "title": "Libghostty 1.0",
+          "url": "https://mitchellh.com/writing/libghostty-1-0",
           "source": "Hacker News",
-          "score": 569,
+          "score": 929,
           "summary": null
         },
         {
-          "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-          "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+          "title": "Need for Speed Underground 2 online in the browser",
+          "url": "https://nfsu2.xyz/",
           "source": "Hacker News",
-          "score": 585,
+          "score": 535,
           "summary": null
         },
         {
-          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-          "url": "https://github.com/ppmpreetham/BUI",
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
           "source": "Hacker News",
-          "score": 600,
+          "score": 429,
           "summary": null
         },
         {
-          "title": "Deus Ex",
-          "url": "https://www.filfre.net/2026/11/deus-ex/",
+          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
           "source": "Hacker News",
-          "score": 266,
+          "score": 550,
           "summary": null
         },
         {
-          "title": "Gemini Omni 1.2 Flash",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "title": "Firecracker VM Escape: PwnEscape Part 2",
+          "url": "https://pwn.ai/blog/firecracker-escape",
           "source": "Hacker News",
-          "score": 245,
+          "score": 271,
           "summary": null
         },
         {
-          "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-          "url": "https://jhr.pensoft.net/articles.php?id=9096",
+          "title": "Running a law firm on Free software",
+          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
           "source": "Hacker News",
-          "score": 144,
+          "score": 147,
           "summary": null
         },
         {
-          "title": "First steps in bare-metal programming using UEFI",
-          "url": "https://kevinboone.me/efitest_index.html",
+          "title": "The $8 Linux Computer (2022)",
+          "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
           "source": "Hacker News",
-          "score": 108,
+          "score": 121,
           "summary": null
         },
         {
-          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+          "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+          "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
           "source": "Hacker News",
-          "score": 157,
+          "score": 167,
           "summary": null
         }
       ]
@@ -71,6 +71,20 @@
       "title": "Cricket",
       "items": [
         {
+          "title": "Jamieson on bowler-friendly pitches: What do you think? You like it?",
+          "url": "https://www.cricinfo.com/ci/content/story/1561795.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "MI set to trade Hardik to PBKS for Arshdeep",
+          "url": "https://www.cricinfo.com/ci/content/story/1561288.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
           "title": "Mohammed Shami retires from Test cricket",
           "url": "https://www.cricinfo.com/ci/content/story/1561697.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
@@ -78,23 +92,9 @@
           "summary": null
         },
         {
-          "title": "Usman Khawaja says every Australian team member knew about Sandpapergate ball tampering",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xpkt0a/usman_khawaja_says_every_australian_team_member/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "\u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940 \u0915\u094b \u092c\u093f\u0939\u093e\u0930 \u0915\u0940 \u0915\u092e\u093e\u0928, \u0905\u0928\u092e\u094b\u0932 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u0940\u0928\u093f\u092f\u0930 \u091f\u0940\u092e \u092e\u0947\u0902 \u092e\u094c\u0915\u093c\u093e",
-          "url": "https://www.cricinfo.com/ci/content/story/1561670.html?ex_cid=OTC-RSS",
+          "title": "India go 2-0 up after narrow DLS win in low-scoring suspenser",
+          "url": "https://www.cricinfo.com/ci/content/story/1561779.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "Mohammed Shami retires from Test cricket - ESPN",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xpk2bx/mohammed_shami_retires_from_test_cricket_espn/",
-          "source": "r/Cricket",
           "score": null,
           "summary": null
         }
@@ -105,30 +105,30 @@
       "title": "Football",
       "items": [
         {
-          "title": "[MD] Marcus Rashford: \u201cBefore leaving Barcelona I told Lamine Yamal that I have played with very, very talented players, but he is above all of them. believe in his talent so much. If he wins 7 Ballon d\u2019Or, I wouldn\u2019t be surprised.\u201d",
-          "url": "https://www.reddit.com/r/soccer/comments/1xpib4k/md_marcus_rashford_before_leaving_barcelona_i/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "James out for minimum of five games - Bompastor",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
+          "title": "Powell and Phillips star as Bradford put seven past Marine",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Is Palmer's England career over under Tuchel?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+          "title": "Salisbury put six past Sholing to advance to second round",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Real Madrid are studying Vin\u00edcius Jr\u2019s body structure to understand whether anything has changed physically | Even Vinicius realizes he no longer runs as fast as possible and a spark is missing. Mourinho is ready to help him, but an ultimatum of a month is given before he starts to be benched",
-          "url": "https://www.reddit.com/r/soccer/comments/1xpgwry/real_madrid_are_studying_vin\u00edcius_jrs_body/",
-          "source": "r/soccer",
+          "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
           "summary": null
         }
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[NBA.com] Kia MVP Ladder: #1 Doncic - #2 Wemby - #3 Shai - #4 Maxey - #5 Tatum - #6 Sengun - #7 Curry - #8 Giannis - #9 Flagg - #10 Jokic - #11 Ty Jerome - #12 Avdija - #13 Cade - #14 Barnes - #15 Brunson",
-          "url": "https://www.reddit.com/r/nba/comments/1xpdurd/nbacom_kia_mvp_ladder_1_doncic_2_wemby_3_shai_4/",
+          "title": "Currently, nobody is averaging PPG in the 30s",
+          "url": "https://www.reddit.com/r/nba/comments/1xq3nfk/currently_nobody_is_averaging_ppg_in_the_30s/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "It\u2019s actually unreal how good Steph Curry has looked so far",
-          "url": "https://www.reddit.com/r/nba/comments/1xp5heo/its_actually_unreal_how_good_steph_curry_has/",
+          "title": "Yaxel Lendeborg surprises his mom with a new house",
+          "url": "https://www.reddit.com/r/nba/comments/1xq1do2/yaxel_lendeborg_surprises_his_mom_with_a_new_house/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Steph Curry repeatedly nods his head on the Warriors' bench",
-          "url": "https://www.reddit.com/r/nba/comments/1xp55an/steph_curry_repeatedly_nods_his_head_on_the/",
+          "title": "Luka Doncic this season: 40.1 PPG | 49.8% FGS | 41.9% 3PTS | 87.3% FTS | 7.8 REBS | 7.7 ASTS | 1.7 STLS | 68% TS",
+          "url": "https://www.reddit.com/r/nba/comments/1xpz8m7/luka_doncic_this_season_401_ppg_498_fgs_419_3pts/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Giannis just running around on defense looking lost",
-          "url": "https://www.reddit.com/r/nba/comments/1xp523r/giannis_just_running_around_on_defense_looking/",
+          "title": "[Post Game Thread] The Los Angeles Lakers (8-2) get revenge as they defeat the Portland Trail Blazers (6-2), 124-118, behind Luka's 53 point performance",
+          "url": "https://www.reddit.com/r/nba/comments/1xpz6ar/post_game_thread_the_los_angeles_lakers_82_get/",
           "source": "r/nba",
           "score": null,
           "summary": null
