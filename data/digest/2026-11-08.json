@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T18:27:35.924831+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News",
+          "score": 576,
+          "summary": null
+        },
+        {
+          "title": "What I run on my $10 USD OpenStick homelab",
+          "url": "https://blog.bosscher.ch/posts/openstick/",
+          "source": "Hacker News",
+          "score": 709,
+          "summary": null
+        },
+        {
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "source": "Hacker News",
+          "score": 815,
+          "summary": null
+        },
+        {
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News",
+          "score": 512,
+          "summary": null
+        },
+        {
+          "title": "Person of Interest",
+          "url": "https://krthr.co/person-of-interest/",
+          "source": "Hacker News",
+          "score": 243,
+          "summary": null
+        },
+        {
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News",
+          "score": 237,
+          "summary": null
+        },
+        {
+          "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+          "source": "Hacker News",
+          "score": 363,
+          "summary": null
+        },
+        {
+          "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+          "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+          "source": "Hacker News",
+          "score": 421,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
+          "url": "https://www.cricinfo.com/ci/content/story/1561918.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Hridoy on his 242*: You 'cannot get out of a difficult spot without counterattacking'",
+          "url": "https://www.cricinfo.com/ci/content/story/1561915.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "\u2018He's a tough guy\u2019: Former NZ star hails India coach Gautam Gambhir for leading cricket's most 'scrutinised' team",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xr1usu/hes_a_tough_guy_former_nz_star_hails_india_coach/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Taylor, Bennett put Zimbabwe back in control after Afghanistan's record stand",
+          "url": "https://www.cricinfo.com/ci/content/story/1561916.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "10-man Stockport come from behind to survive huge scare at Cray",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "London City thump Birmingham to close gap on second",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Wemby gets 8 FT in the second quarter and the Blazers announcers get annoyed",
+          "url": "https://www.reddit.com/r/nba/comments/1xr1rc2/wemby_gets_8_ft_in_the_second_quarter_and_the/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Blazers announcers on Wemby tonight: \u201cThis guy spends more time on the floor than anyone I\u2019ve ever seen. Ugh, what are we doing here?\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xqsvqr/blazers_announcers_on_wemby_tonight_this_guy/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "The Warriors are the first team since the 1950-51 Celtics to win 7+ straight games after starting 0-3",
+          "url": "https://www.reddit.com/r/nba/comments/1xqpv07/the_warriors_are_the_first_team_since_the_195051/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[Post Game Thread] The Golden State Warriors (7-3) defeat the Orlando Magic (2-7), 126-119 behind a masterclass 41 points by Steph Curry",
+          "url": "https://www.reddit.com/r/nba/comments/1xqpreg/post_game_thread_the_golden_state_warriors_73/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}

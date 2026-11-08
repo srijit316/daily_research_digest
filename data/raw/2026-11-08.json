@@ -1,0 +1,1249 @@
+{
+  "date": "2026-11-08",
+  "fetched_at": "2026-11-08T18:27:28.712133+00:00",
+  "item_count": 138,
+  "items": [
+    {
+      "id": "5e9d3fd0e59c",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 237,
+      "published_at": "2026-11-08T10:22:04+00:00"
+    },
+    {
+      "id": "11af8520fb86",
+      "title": "A field guide to CAPTCHA types and how they break",
+      "url": "https://github.com/vsmutok/FuckCaptcha",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 12,
+      "published_at": "2026-11-08T17:09:55+00:00"
+    },
+    {
+      "id": "89f365ccf93a",
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 139,
+      "published_at": "2026-11-08T10:41:52+00:00"
+    },
+    {
+      "id": "d7cca286aea3",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 35,
+      "published_at": "2026-11-08T14:42:38+00:00"
+    },
+    {
+      "id": "e66f4eeac8f3",
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 576,
+      "published_at": "2026-11-08T03:11:48+00:00"
+    },
+    {
+      "id": "72e210e2af7e",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 73,
+      "published_at": "2026-11-08T10:42:15+00:00"
+    },
+    {
+      "id": "b2196d54740f",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 709,
+      "published_at": "2026-11-07T18:12:12+00:00"
+    },
+    {
+      "id": "5186d80b7eef",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 512,
+      "published_at": "2026-11-07T20:45:32+00:00"
+    },
+    {
+      "id": "a42cab519660",
+      "title": "How to prove equations using diagrams, part 1",
+      "url": "https://www.epatters.org/post/e-graphs-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 22,
+      "published_at": "2026-11-08T12:51:38+00:00"
+    },
+    {
+      "id": "7cbf7714d720",
+      "title": "Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 127,
+      "published_at": "2026-11-08T10:56:43+00:00"
+    },
+    {
+      "id": "f95665d6d8f6",
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 243,
+      "published_at": "2026-11-08T11:23:28+00:00"
+    },
+    {
+      "id": "76aa428f83cc",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 132,
+      "published_at": "2026-11-08T08:40:23+00:00"
+    },
+    {
+      "id": "67538c1327ea",
+      "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 70,
+      "published_at": "2026-11-07T14:18:45+00:00"
+    },
+    {
+      "id": "dbb993e47ed1",
+      "title": "Top Astrophysicist Leaves U.S.",
+      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 48,
+      "published_at": "2026-11-08T16:17:38+00:00"
+    },
+    {
+      "id": "ea31161d462c",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 149,
+      "published_at": "2026-11-08T14:49:23+00:00"
+    },
+    {
+      "id": "b62a0605589f",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 189,
+      "published_at": "2026-11-07T22:38:58+00:00"
+    },
+    {
+      "id": "5ec03af4da1d",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 815,
+      "published_at": "2026-11-07T09:46:03+00:00"
+    },
+    {
+      "id": "f37f6b1be280",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 421,
+      "published_at": "2026-11-07T11:11:15+00:00"
+    },
+    {
+      "id": "08abc75c13ec",
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 18,
+      "published_at": "2026-11-08T17:32:55+00:00"
+    },
+    {
+      "id": "152675bb7018",
+      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 363,
+      "published_at": "2026-11-07T17:19:00+00:00"
+    },
+    {
+      "id": "d0e52edc1cbe",
+      "title": "\u2018That Stops When I\u2019m Governor\u2019: Dem Texas Governor-Elect Warns Big Tech",
+      "url": "https://www.reddit.com/r/technology/comments/1xqxi5h/that_stops_when_im_governor_dem_texas/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T12:39:27+00:00"
+    },
+    {
+      "id": "2271de8bdf5c",
+      "title": "PS6 doesn't need more power, ex-PlayStation boss says, because \"true innovation\" would be making a $300 console again",
+      "url": "https://www.reddit.com/r/technology/comments/1xqovch/ps6_doesnt_need_more_power_explaystation_boss/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T03:38:39+00:00"
+    },
+    {
+      "id": "b5d2ea40e53c",
+      "title": "Americans just resoundingly rejected AI data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xqf2wz/americans_just_resoundingly_rejected_ai_data/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T19:44:57+00:00"
+    },
+    {
+      "id": "c2110b8483cb",
+      "title": "Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths",
+      "url": "https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T12:32:48+00:00"
+    },
+    {
+      "id": "a16338468eab",
+      "title": "It's not just the Cybertruck. America's big electric-truck bet fell apart.",
+      "url": "https://www.reddit.com/r/technology/comments/1xqjx2q/its_not_just_the_cybertruck_americas_big/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T23:24:41+00:00"
+    },
+    {
+      "id": "df9e72f2e693",
+      "title": "1,200+ miles range: Chinese firm unveils new lithium air EV battery",
+      "url": "https://www.reddit.com/r/technology/comments/1xqk6c4/1200_miles_range_chinese_firm_unveils_new_lithium/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T23:37:08+00:00"
+    },
+    {
+      "id": "b180798732a1",
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "url": "https://www.reddit.com/r/technology/comments/1xr03hq/the_fridgehacking_spree_is_an_internetofthings/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T14:48:09+00:00"
+    },
+    {
+      "id": "858bb5f8869b",
+      "title": "Banks ban AI from accounts over fears of rogue agents",
+      "url": "https://www.reddit.com/r/technology/comments/1xqyxhh/banks_ban_ai_from_accounts_over_fears_of_rogue/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T13:53:27+00:00"
+    },
+    {
+      "id": "4076bdd33943",
+      "title": "Developer creates script to email Sam Altman about his unused RAM every day",
+      "url": "https://www.reddit.com/r/technology/comments/1xr1uq2/developer_creates_script_to_email_sam_altman/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T16:05:36+00:00"
+    },
+    {
+      "id": "ecd113c70644",
+      "title": "SpaceX says Google executive Don Harrison has resigned from the rocket maker\u2019s board of directors",
+      "url": "https://www.reddit.com/r/technology/comments/1xqjdwf/spacex_says_google_executive_don_harrison_has/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T22:59:23+00:00"
+    },
+    {
+      "id": "9bc64f09801e",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://www.reddit.com/r/technology/comments/1xqpucl/british_soldier_ignored_order_to_pull_his_sim/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T04:33:15+00:00"
+    },
+    {
+      "id": "2b88c0b2e416",
+      "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
+      "url": "https://www.reddit.com/r/technology/comments/1xqos5r/more_than_half_of_us_hyperscale_data_center/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T03:33:52+00:00"
+    },
+    {
+      "id": "ceaf78ecc0bd",
+      "title": "\u201cDoes Meta think we can\u2019t read?\u201d Meta abandons sketchy commercial terms update.",
+      "url": "https://www.reddit.com/r/technology/comments/1xqey87/does_meta_think_we_cant_read_meta_abandons/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T19:39:18+00:00"
+    },
+    {
+      "id": "e3280dabd5b9",
+      "title": "After the midterms, things are looking rocky for data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xr24hh/after_the_midterms_things_are_looking_rocky_for/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T16:17:06+00:00"
+    },
+    {
+      "id": "404b66c1c383",
+      "title": "Ex-Pinellas deputy accused of tracking estranged wife using FLOCK, sheriff says: \u2018Started on Valentine\u2019s Day\u2019",
+      "url": "https://www.reddit.com/r/technology/comments/1xqxkwy/expinellas_deputy_accused_of_tracking_estranged/",
+      "source": "r/technology",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T12:43:44+00:00"
+    },
+    {
+      "id": "a0efaeb3ccdc",
+      "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
+      "url": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T23:58:05+00:00"
+    },
+    {
+      "id": "3941d372c59b",
+      "title": "Objects, attributes, maps, oh my!",
+      "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T04:44:15+00:00"
+    },
+    {
+      "id": "e428dbb4732c",
+      "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
+      "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T06:53:33+00:00"
+    },
+    {
+      "id": "03030da56a8b",
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T04:01:15+00:00"
+    },
+    {
+      "id": "0810c6ddfac6",
+      "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
+      "url": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T13:52:58+00:00"
+    },
+    {
+      "id": "256ccda3387e",
+      "title": "Quantum Optimization \u2013 Solve QUBO on D-Wave Quantum Annealer",
+      "url": "https://www.reddit.com/r/programming/comments/1xqqoz3/quantum_optimization_solve_qubo_on_dwave_quantum/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T05:22:38+00:00"
+    },
+    {
+      "id": "5e9f705076f5",
+      "title": "Introducing Project Steadfast",
+      "url": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T09:08:43+00:00"
+    },
+    {
+      "id": "daa9e61c06da",
+      "title": "Should You Learn Java in 2026?",
+      "url": "https://www.reddit.com/r/programming/comments/1xqlw7z/should_you_learn_java_in_2026/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T01:00:58+00:00"
+    },
+    {
+      "id": "f31a68ae591a",
+      "title": "The Day After Code Is Already Here. This Is What You Need to Know to Survive.",
+      "url": "https://www.reddit.com/r/programming/comments/1xqz3rf/the_day_after_code_is_already_here_this_is_what/",
+      "source": "r/programming",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T14:01:36+00:00"
+    },
+    {
+      "id": "290f429a7c8a",
+      "title": "SNL has a new impression of Elon Musk, \u2018the worst thing South Africa has ever done\u2019",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T18:00:04+00:00"
+    },
+    {
+      "id": "f53bfea6329a",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T17:30:00+00:00"
+    },
+    {
+      "id": "13bb0b89cfa9",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T17:02:00+00:00"
+    },
+    {
+      "id": "9164bb8caa44",
+      "title": "Ninja\u2019s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T15:00:00+00:00"
+    },
+    {
+      "id": "ed263cbbe1a4",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T22:07:22+00:00"
+    },
+    {
+      "id": "69c75581d56f",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T21:17:08+00:00"
+    },
+    {
+      "id": "6653c5fed6fb",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T19:00:00+00:00"
+    },
+    {
+      "id": "805dafe9e984",
+      "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T17:24:07+00:00"
+    },
+    {
+      "id": "bf69aa313637",
+      "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T17:18:00+00:00"
+    },
+    {
+      "id": "ae06ecf71872",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T17:23:19+00:00"
+    },
+    {
+      "id": "f803527ef647",
+      "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T16:00:00+00:00"
+    },
+    {
+      "id": "082de4178059",
+      "title": "Chatbots might be coming to Apple\u2019s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T15:00:30+00:00"
+    },
+    {
+      "id": "2b017cd8c10c",
+      "title": "There\u2019s no slowing down media\u2019s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-08T13:00:00+00:00"
+    },
+    {
+      "id": "9a3500d6fef8",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "id": "131c7319af2c",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T16:00:00+00:00"
+    },
+    {
+      "id": "8eea48456f05",
+      "title": "Discogs\u2019 Kevin Lewandowski can\u2019t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T16:00:00+00:00"
+    },
+    {
+      "id": "fa06ff8fdc83",
+      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T15:50:00+00:00"
+    },
+    {
+      "id": "73be1ddc7ff2",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T15:43:45+00:00"
+    },
+    {
+      "id": "055e03fe8fc4",
+      "title": "AI broke the cybersecurity world. What\u2019s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "id": "e239d4a30415",
+      "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
+      "url": "https://www.cricinfo.com/ci/content/story/1561918.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T16:16:58+00:00"
+    },
+    {
+      "id": "bde7888ad0cc",
+      "title": "Hridoy on his 242*: You 'cannot get out of a difficult spot without counterattacking'",
+      "url": "https://www.cricinfo.com/ci/content/story/1561915.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T16:07:01+00:00"
+    },
+    {
+      "id": "ac65c6c2d063",
+      "title": "Taylor, Bennett put Zimbabwe back in control after Afghanistan's record stand",
+      "url": "https://www.cricinfo.com/ci/content/story/1561916.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T14:23:52+00:00"
+    },
+    {
+      "id": "63a5c1c36b60",
+      "title": "Kavem Hodge: There is a belief and shared mindset among WI batters",
+      "url": "https://www.cricinfo.com/ci/content/story/1561911.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:25:17+00:00"
+    },
+    {
+      "id": "7a0e12359c8c",
+      "title": "Pakistan and Sri Lanka begin their search for a way forward in Tests",
+      "url": "https://www.cricinfo.com/ci/content/story/1561909.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:13:11+00:00"
+    },
+    {
+      "id": "b87eb9137cc7",
+      "title": "India A include Badoni for Rising Stars Asia Cup after Patidar opts out",
+      "url": "https://www.cricinfo.com/ci/content/story/1561869.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T12:23:27+00:00"
+    },
+    {
+      "id": "0fac4ef43a3f",
+      "title": "Hodge 140* puts West Indies in command",
+      "url": "https://www.cricinfo.com/ci/content/story/1561857.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T11:11:27+00:00"
+    },
+    {
+      "id": "324598c300b8",
+      "title": "Kusal Mendis: 'I have no doubt in my batting line-up'",
+      "url": "https://www.cricinfo.com/ci/content/story/1561879.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T10:08:09+00:00"
+    },
+    {
+      "id": "3786beba7889",
+      "title": "Tilak, Jurel, Prasidh dazzle for India A in Lincoln",
+      "url": "https://www.cricinfo.com/ci/content/story/1561860.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T06:14:32+00:00"
+    },
+    {
+      "id": "0a00e15357f9",
+      "title": "Hamilton ODI: more wet weather, more uncertainty around the pitch",
+      "url": "https://www.cricinfo.com/ci/content/story/1561856.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T05:52:52+00:00"
+    },
+    {
+      "id": "c86d8ae61ff9",
+      "title": "Khawaja: Made promise to Warner I'd say the truth",
+      "url": "https://www.cricinfo.com/ci/content/story/1561850.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T05:41:40+00:00"
+    },
+    {
+      "id": "8a0fe61f15e3",
+      "title": "Bancroft 'keen to move on' as ball tampering returns to the headlines",
+      "url": "https://www.cricinfo.com/ci/content/story/1561834.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T03:37:55+00:00"
+    },
+    {
+      "id": "8676d3d30a56",
+      "title": "Injured Josh Tongue out of Australia ODIs",
+      "url": "https://www.cricinfo.com/ci/content/story/1561802.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-07T22:22:02+00:00"
+    },
+    {
+      "id": "a04ce3d64483",
+      "title": "Jamieson on bowler-friendly pitches: What do you think? You like it?",
+      "url": "https://www.cricinfo.com/ci/content/story/1561795.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-07T16:03:53+00:00"
+    },
+    {
+      "id": "e9211acc6993",
+      "title": "MI set to trade Hardik to PBKS for Arshdeep",
+      "url": "https://www.cricinfo.com/ci/content/story/1561288.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-07T16:02:43+00:00"
+    },
+    {
+      "id": "04d75e8fe936",
+      "title": "Khawaja defends timing of sandpaper revelations, says Smith 'wanted to take the blame'",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqr7nw/khawaja_defends_timing_of_sandpaper_revelations/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T05:53:45+00:00"
+    },
+    {
+      "id": "b404ffb56fae",
+      "title": "'Everything he says is accurate': Former Australian bowler, part of Sandpapergate tour, backs up Usman Khawaja's claims",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqitui/everything_he_says_is_accurate_former_australian/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-07T22:32:38+00:00"
+    },
+    {
+      "id": "895c14a3018c",
+      "title": "A maiden Test 5-wicket haul for Newman Nyamhuri as he takes 5/82 for Zimbabwe against Afghanistan",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqx2q1/a_maiden_test_5wicket_haul_for_newman_nyamhuri_as/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T12:14:27+00:00"
+    },
+    {
+      "id": "0e24a60716f0",
+      "title": "'A lot of coaches are afraid': Ryan ten Doeschate opens up on 'calling out' Virat Kohli during India star's struggles in Australia",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqyp7t/a_lot_of_coaches_are_afraid_ryan_ten_doeschate/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:42:05+00:00"
+    },
+    {
+      "id": "2251747e8897",
+      "title": "Hamza Zahoor scores an unbeaten 100 to rescue pakistan U19 in a low scoring thriller in the U19 asia cup",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqxs43/hamza_zahoor_scores_an_unbeaten_100_to_rescue/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T12:54:51+00:00"
+    },
+    {
+      "id": "6e8b89b27aff",
+      "title": "West Indies lead by 315 runs going in to Day 5 of the 2nd test against Bangladesh.",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqy59j/west_indies_lead_by_315_runs_going_in_to_day_5_of/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:14:05+00:00"
+    },
+    {
+      "id": "c33b98d18da2",
+      "title": "The Caribbean Fightback: West Indies' best test batting in more than a decade",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqya6w/the_caribbean_fightback_west_indies_best_test/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:21:02+00:00"
+    },
+    {
+      "id": "c061bfa57558",
+      "title": "What makes Bumrah so hard to face?",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqxbql/what_makes_bumrah_so_hard_to_face/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T12:29:12+00:00"
+    },
+    {
+      "id": "948d5c468306",
+      "title": "Rajat Patidar withdraws from India A squad for ACC Rising Stars Asia Cup",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqsqlb/rajat_patidar_withdraws_from_india_a_squad_for/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T07:30:18+00:00"
+    },
+    {
+      "id": "3ad0c2246130",
+      "title": "\u2018He's a tough guy\u2019: Former NZ star hails India coach Gautam Gambhir for leading cricket's most 'scrutinised' team",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xr1usu/hes_a_tough_guy_former_nz_star_hails_india_coach/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T16:05:41+00:00"
+    },
+    {
+      "id": "2e563ac3534e",
+      "title": "Guess the Cricketer #220: Science",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqygjp/guess_the_cricketer_220_science/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T13:30:07+00:00"
+    },
+    {
+      "id": "98625d9cbaa2",
+      "title": "Match Thread: 2nd Test - West Indies vs Bangladesh, Day 4",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqn212/match_thread_2nd_test_west_indies_vs_bangladesh/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T02:00:29+00:00"
+    },
+    {
+      "id": "67f63e18450b",
+      "title": "Ashes 2027 Ballot",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqti7k/ashes_2027_ballot/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T08:20:35+00:00"
+    },
+    {
+      "id": "76435a89c345",
+      "title": "Runs on the Board, Cracks in the Attack: Where is Zimbabwe\u2019s Bowling Edge?",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqhqjj/runs_on_the_board_cracks_in_the_attack_where_is/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-07T21:42:30+00:00"
+    },
+    {
+      "id": "4a34608adc23",
+      "title": "Can anyone help identify the signatures on this bat?",
+      "url": "https://www.reddit.com/r/Cricket/comments/1xqwnr6/can_anyone_help_identify_the_signatures_on_this/",
+      "source": "r/Cricket",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-08T11:50:04+00:00"
+    },
+    {
+      "id": "0dfed25e05a5",
+      "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T16:04:18+00:00"
+    },
+    {
+      "id": "06e144bc86b4",
+      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T16:13:36+00:00"
+    },
+    {
+      "id": "f18168429b21",
+      "title": "Fan injured after falling through hole in stand",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T16:53:37+00:00"
+    },
+    {
+      "id": "96ed79705106",
+      "title": "London City thump Birmingham to close gap on second",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T17:06:21+00:00"
+    },
+    {
+      "id": "26f964f5ad47",
+      "title": "Last season difficult with injury and miscarriage - Muniz",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T11:56:01+00:00"
+    },
+    {
+      "id": "8cbd9f1330c9",
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T07:30:01+00:00"
+    },
+    {
+      "id": "4d7f3cfb83cc",
+      "title": "10-man Stockport come from behind to survive huge scare at Cray",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T17:39:15+00:00"
+    },
+    {
+      "id": "c72e3bb12a5c",
+      "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T17:45:27+00:00"
+    },
+    {
+      "id": "b7d4ffd7d773",
+      "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T17:00:00+00:00"
+    },
+    {
+      "id": "65f7666838e0",
+      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T15:31:43+00:00"
+    },
+    {
+      "id": "4b5a2ea0aed5",
+      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T00:13:34+00:00"
+    },
+    {
+      "id": "ce0ab270b16b",
+      "title": "England await Guehi scan results after injury concern",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T15:03:01+00:00"
+    },
+    {
+      "id": "e8c87f8504a7",
+      "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T14:41:04+00:00"
+    },
+    {
+      "id": "a35b0b99670b",
+      "title": "Is there something missing despite Rangers' impressive form?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T10:10:27+00:00"
+    },
+    {
+      "id": "587992fd019f",
+      "title": "Messi makes history with MLS Golden Boot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T07:23:50+00:00"
+    },
+    {
+      "id": "8b15d9c883db",
+      "title": "Oliver Glasner celebrating Liam Delap's second goal against Manchester City",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqedyc/oliver_glasner_celebrating_liam_delaps_second/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T19:15:03+00:00"
+    },
+    {
+      "id": "b85d91f9a817",
+      "title": "Rosario Central fans and players celebrate their 2nd championship in a row not knowing Boca Juniors actually won the title with a last minute goal",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqj1cm/rosario_central_fans_and_players_celebrate_their/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T22:42:25+00:00"
+    },
+    {
+      "id": "4a674be050c9",
+      "title": "Nottingham [3] - 1 Manchester City - Liam Delap 73'",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqe4eb/nottingham_3_1_manchester_city_liam_delap_73/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T19:03:49+00:00"
+    },
+    {
+      "id": "a4c1c58dcc7e",
+      "title": "Tenerife commit to financially supporting Jesus de Miguel\u2019s daughter until she turns 18",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqk8lp/tenerife_commit_to_financially_supporting_jesus/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T23:40:12+00:00"
+    },
+    {
+      "id": "e828af984b39",
+      "title": "Jos\u00e9 Mourinho sets La Liga win percentage record with 77% win rate after Valencia victory",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqucvn/jos\u00e9_mourinho_sets_la_liga_win_percentage_record/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T09:17:46+00:00"
+    },
+    {
+      "id": "0b59db64ac6f",
+      "title": "Cardiff wins 5-4 against Burnley after being 4-1 down!",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqiepc/cardiff_wins_54_against_burnley_after_being_41/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T22:13:15+00:00"
+    },
+    {
+      "id": "01350973f8b7",
+      "title": "Manchester United 0 - [2] Aston Villa - N. Jackson 4'",
+      "url": "https://www.reddit.com/r/soccer/comments/1xr2kbc/manchester_united_0_2_aston_villa_n_jackson_4/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T16:35:39+00:00"
+    },
+    {
+      "id": "5b0dda940a27",
+      "title": "Valencia\u2013Real Madrid is stopped in the 9th minute for a minute\u2019s applause in tribute to Jes\u00fas de Miguel",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqg20h/valenciareal_madrid_is_stopped_in_the_9th_minute/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T20:27:04+00:00"
+    },
+    {
+      "id": "1ca16dbce4e2",
+      "title": "Jos\u00e9 Mourinho on what he said to Valencia manager Javier Aguirre after the match: \"Don't be sad, because my players are much better than yours. The problem is not Aguirre. The truth is that Real Madrid's players are very good.\"",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqqn32/jos\u00e9_mourinho_on_what_he_said_to_valencia_manager/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T05:19:35+00:00"
+    },
+    {
+      "id": "c800a18a5969",
+      "title": "Michael Carrick and Manchester United fans reaction after Aston Villa takes a 2-0 lead within 4 minutes",
+      "url": "https://www.reddit.com/r/soccer/comments/1xr2rnw/michael_carrick_and_manchester_united_fans/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T16:44:09+00:00"
+    },
+    {
+      "id": "0a8db77cc923",
+      "title": "Igor Thiago red card against Brighton 24'",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqzm3w/igor_thiago_red_card_against_brighton_24/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T14:25:46+00:00"
+    },
+    {
+      "id": "1ca509dca4ac",
+      "title": "Extended collision between Pepelu and Jude Bellingham",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqikzb/extended_collision_between_pepelu_and_jude/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T22:21:13+00:00"
+    },
+    {
+      "id": "47a409252acf",
+      "title": "Jes\u00fas Owono\u2019s younger brother, who plays in the Basque Country, is being harassed and insulted within his sports circle. He is being called a murderer, taunted by his own teammates, and targeted by some of the parents.",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqtae3/jes\u00fas_owonos_younger_brother_who_plays_in_the/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-08T08:06:05+00:00"
+    },
+    {
+      "id": "0f418da9cdee",
+      "title": "Pablo Maffeo halftime interview: \u201cI don\u2019t feel like doing this interview at all. This is bullshit. It is not a foul on the first goal. The referee is NOT FAIR.\u201d",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqgx1q/pablo_maffeo_halftime_interview_i_dont_feel_like/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T21:05:32+00:00"
+    },
+    {
+      "id": "d67a72545ae2",
+      "title": "[Opta] Nottingham Forest's win means Manchester United will end a day in the bottom three of the top-flight after having played at least 9 games for the first time since November 1986. Drop.",
+      "url": "https://www.reddit.com/r/soccer/comments/1xqez7z/opta_nottingham_forests_win_means_manchester/",
+      "source": "r/soccer",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-07T19:40:32+00:00"
+    },
+    {
+      "id": "2bb43402987e",
+      "title": "Stephen Curry on the clutch win vs. Magic 41/6/6 on 69/50/100 shooting. Warriors win 7th straight!",
+      "url": "https://www.reddit.com/r/nba/comments/1xqpof2/stephen_curry_on_the_clutch_win_vs_magic_4166_on/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T04:23:53+00:00"
+    },
+    {
+      "id": "d9984f69003c",
+      "title": "Aaron Gordon addresses the local crowd in Mexico City in Spanish.",
+      "url": "https://www.reddit.com/r/nba/comments/1xqj4ja/aaron_gordon_addresses_the_local_crowd_in_mexico/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-07T22:46:40+00:00"
+    },
+    {
+      "id": "96c4842f18ad",
+      "title": "[Highlight] Brandin Podziemski steals the inbound pass and signals timeout while he falls out of bounds",
+      "url": "https://www.reddit.com/r/nba/comments/1xqppvn/highlight_brandin_podziemski_steals_the_inbound/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T04:26:09+00:00"
+    },
+    {
+      "id": "41994b754412",
+      "title": "[Highlight] Aday Mara lets it fly from 3 for his first career make!",
+      "url": "https://www.reddit.com/r/nba/comments/1xqo8go/highlight_aday_mara_lets_it_fly_from_3_for_his/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T03:03:57+00:00"
+    },
+    {
+      "id": "ca5b0c3b92f5",
+      "title": "The Best NBA Player Ever Drafted at Every Pick, From 60 to 1",
+      "url": "https://www.reddit.com/r/nba/comments/1xqipal/the_best_nba_player_ever_drafted_at_every_pick/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-07T22:26:44+00:00"
+    },
+    {
+      "id": "da46a9c8b6f4",
+      "title": "[Highlight] Steph Curry sinks a deep 3 to end the half",
+      "url": "https://www.reddit.com/r/nba/comments/1xqnsyl/highlight_steph_curry_sinks_a_deep_3_to_end_the/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T02:40:28+00:00"
+    },
+    {
+      "id": "317c374830fd",
+      "title": "[TMZSports] A man was arrested for stalking after allegedly being seen on LeBron James' Los Angeles property and wildly claiming to believe that he's the 76er's son... security called the cops around 9 PM Friday night after catching a male suspect on the property on one of their security cameras.",
+      "url": "https://www.reddit.com/r/nba/comments/1xqdajx/tmzsports_a_man_was_arrested_for_stalking_after/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-07T18:28:52+00:00"
+    },
+    {
+      "id": "14a92e192d18",
+      "title": "[Highlight] Curry hits the teardrop over Wendell Carter Jr. for 41 points and a 4 pt Warrior lead",
+      "url": "https://www.reddit.com/r/nba/comments/1xqpm8i/highlight_curry_hits_the_teardrop_over_wendell/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T04:20:30+00:00"
+    },
+    {
+      "id": "ffd4a24d793a",
+      "title": "Blazers announcers on Wemby tonight: \u201cThis guy spends more time on the floor than anyone I\u2019ve ever seen. Ugh, what are we doing here?\u201d",
+      "url": "https://www.reddit.com/r/nba/comments/1xqsvqr/blazers_announcers_on_wemby_tonight_this_guy/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T07:39:38+00:00"
+    },
+    {
+      "id": "615c0aa24e45",
+      "title": "After signing a 4/64M dollar deal with the Milwaukee Bucks. Gary Trent Jr has amassed a total of 13 minute, 6 points, and 7 DNP - Coaches Decision\u2019s in 9 games.",
+      "url": "https://www.reddit.com/r/nba/comments/1xqdr3o/after_signing_a_464m_dollar_deal_with_the/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-07T18:48:12+00:00"
+    },
+    {
+      "id": "2ae4e65d4c02",
+      "title": "[Highlight] Curry launches a ridiculous fading away rainbow shot as the shot clock winds down",
+      "url": "https://www.reddit.com/r/nba/comments/1xqnptm/highlight_curry_launches_a_ridiculous_fading_away/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T02:35:42+00:00"
+    },
+    {
+      "id": "08387163d0fe",
+      "title": "Wemby gets 8 FT in the second quarter and the Blazers announcers get annoyed",
+      "url": "https://www.reddit.com/r/nba/comments/1xr1rc2/wemby_gets_8_ft_in_the_second_quarter_and_the/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T16:01:41+00:00"
+    },
+    {
+      "id": "a34a3d10116f",
+      "title": "The Warriors are the first team since the 1950-51 Celtics to win 7+ straight games after starting 0-3",
+      "url": "https://www.reddit.com/r/nba/comments/1xqpv07/the_warriors_are_the_first_team_since_the_195051/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T04:34:18+00:00"
+    },
+    {
+      "id": "34605f273566",
+      "title": "[Post Game Thread] The Golden State Warriors (7-3) defeat the Orlando Magic (2-7), 126-119 behind a masterclass 41 points by Steph Curry",
+      "url": "https://www.reddit.com/r/nba/comments/1xqpreg/post_game_thread_the_golden_state_warriors_73/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T04:28:31+00:00"
+    },
+    {
+      "id": "b29f18f124e4",
+      "title": "[Highlight] Steph Curry with zero hesitation on the quick deep 3 off a pass from Draymond Green",
+      "url": "https://www.reddit.com/r/nba/comments/1xqmu0x/highlight_steph_curry_with_zero_hesitation_on_the/",
+      "source": "r/nba",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-08T01:48:55+00:00"
+    }
+  ]
+}
