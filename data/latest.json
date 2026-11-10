@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T23:04:10.583454+00:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:33:29.045558+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Claude Fable 5.2 and Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
           "source": "Hacker News",
-          "score": 811,
+          "score": 660,
           "summary": null
         },
         {
-          "title": "Fold Epic Paper Airplanes",
-          "url": "https://www.foldableflight.com",
+          "title": "AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
           "source": "Hacker News",
-          "score": 784,
+          "score": 517,
           "summary": null
         },
         {
-          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-          "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/",
           "source": "Hacker News",
-          "score": 687,
+          "score": 452,
           "summary": null
         },
         {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+          "title": "Smart home devices should work without the internet",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/",
           "source": "Hacker News",
-          "score": 435,
+          "score": 407,
           "summary": null
         },
         {
-          "title": "USPS now offers official ZIP Code boundary polygons",
-          "url": "https://postalpro.usps.com/zcb",
+          "title": "Blender 5.3 released with Gaussian Splat support",
+          "url": "https://www.blender.org/download/releases/5-3/",
           "source": "Hacker News",
-          "score": 323,
+          "score": 328,
           "summary": null
         },
         {
-          "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-          "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+          "title": "AI usage generates a fragile codebase",
+          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
           "source": "Hacker News",
-          "score": 263,
+          "score": 248,
           "summary": null
         },
         {
-          "title": "Google Gemini routes personal Drive files and emails to human annotators",
-          "url": "https://github.com/thisisme6598/gemini_files/",
+          "title": "Ableton Live 13",
+          "url": "https://www.ableton.com/en/live/",
           "source": "Hacker News",
-          "score": 235,
+          "score": 214,
           "summary": null
         },
         {
-          "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+          "title": "Val Town is winding down",
+          "url": "https://blog.val.town/winding-down",
           "source": "Hacker News",
-          "score": 241,
+          "score": 168,
           "summary": null
         }
       ]
@@ -71,30 +71,30 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Cricket Scotland announces reduced relations with Afghanistan",
-          "url": "https://www.cricinfo.com/ci/content/story/1562059.html?ex_cid=OTC-RSS",
+          "title": "'IPL has earned the right to influence the calendar' - KKR co-owner wants shift to January",
+          "url": "https://www.cricinfo.com/ci/content/story/1562111.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Laurie Evans: 'My world was turned upside-down' during four-year fight against doping ban",
-          "url": "https://www.cricinfo.com/ci/content/story/1562056.html?ex_cid=OTC-RSS",
+          "title": "Smog in Lahore forces PCB to relocate second Test to Rawalpindi",
+          "url": "https://www.cricinfo.com/ci/content/story/1562158.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Dale Benkenstein appointed Bangladesh's batting specialist ahead of SA tour",
-          "url": "https://www.cricinfo.com/ci/content/story/1562055.html?ex_cid=OTC-RSS",
+          "title": "Surrey confirm Lee Fortis departure as head groundsman",
+          "url": "https://www.cricinfo.com/ci/content/story/1562159.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Shanto: Bangladesh failed to make use of home conditions",
-          "url": "https://www.cricinfo.com/ci/content/story/1562052.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
+          "title": "Kane Williamson: \"World Cup final loss was our scar \u2014 I can\u2019t watch it\", an interview with Atherton",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xsuf16/kane_williamson_world_cup_final_loss_was_our_scar/",
+          "source": "r/Cricket",
           "score": null,
           "summary": null
         }
@@ -105,30 +105,30 @@
       "title": "Football",
       "items": [
         {
-          "title": "Man Utd expected to sack head coach Carrick",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+          "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Brady ends association with Birmingham City",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+          "title": "Wales' Johnson says definitely more to come after 50 caps",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "[David Ornstein]: Manchester United expected to sack Michael Carrick as head coach",
-          "url": "https://www.reddit.com/r/soccer/comments/1xs53s0/david_ornstein_manchester_united_expected_to_sack/",
+          "title": "[Sky Sports] Manchester United women are on a 11 game unbeaten run",
+          "url": "https://www.reddit.com/r/soccer/comments/1xsss4s/sky_sports_manchester_united_women_are_on_a_11/",
           "source": "r/soccer",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "McTominay reveals heart treatment at World Cup",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
           "summary": null
         }
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Dirk Nowitzki on his first impressions of Jalen Brunson: \"I was like this isn't gonna work. His body... the head's too big. How is he not falling forward the whole time?\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xs5qbw/dirk_nowitzki_on_his_first_impressions_of_jalen/",
+          "title": "[ESPN] Brown never asked the Celtics to be traded. Instead he discovered Boston had tried to trade him to Milwaukee while he was on vacation over the summer. The 1 thing Brown did ask for was to be involved in the process of where he was traded. Boston ignored the request and sent him to the Sixers.",
+          "url": "https://www.reddit.com/r/nba/comments/1xso6ya/espn_brown_never_asked_the_celtics_to_be_traded/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Steph Curry's 70.8% TS is the 4th best in NBA history among players to average 30 PPG through 8 games. He's behind 2023 Curry (30.9 PPG on 73.0% TS), 2018 Curry (32.5 PPG on 72.6% TS), and 2015 Curry (32.4 PPG on 71.0% TS).",
-          "url": "https://www.reddit.com/r/nba/comments/1xryk5s/steph_currys_708_ts_is_the_4th_best_in_nba/",
+          "title": "Luka Don\u010di\u0107 since the Overwatch Roadhog Rework: 39.3 ppg, 7.9 apg, 7.8 rpg, 2.8 stocks, on 49.8/40.7/88.1 splits.",
+          "url": "https://www.reddit.com/r/nba/comments/1xsjwtn/luka_don\u010di\u0107_since_the_overwatch_roadhog_rework/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Cooper Flagg when asked about being spotted 2 straight games eating a PB&J sandwich: \"I wanna give a shoutout to our strength staff, our medical staff. They\u2019re the best in the business and I\u2019m trying to put on some weight... Those are requirements I gotta meet & I\u2019m just trying to stay ahead of it.\u201d",
-          "url": "https://www.reddit.com/r/nba/comments/1xrxhm1/cooper_flagg_when_asked_about_being_spotted_2/",
+          "title": "[Highlight] Wemby questioning why he even tried that",
+          "url": "https://www.reddit.com/r/nba/comments/1xsgf35/highlight_wemby_questioning_why_he_even_tried_that/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "In 2022 the Utah Jazz traded their stars, Donovan Mitchell and Rudy Gobert, for draft picks as a way to reset the roster and create a championship contender down the line. 5 years later the Jazz haven\u2019t been back to the playoffs and are currently 1-8 and hopeless",
-          "url": "https://www.reddit.com/r/nba/comments/1xruyzr/in_2022_the_utah_jazz_traded_their_stars_donovan/",
+          "title": "Luka Doncic trash talking Hawks fans tonight \"You all wish you would have had me. You all wish, huh?\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xsfsmw/luka_doncic_trash_talking_hawks_fans_tonight_you/",
           "source": "r/nba",
           "score": null,
           "summary": null
