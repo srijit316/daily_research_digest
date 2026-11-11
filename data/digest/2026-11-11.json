@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T20:17:29.367732+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "url": "https://pietromiotti.com/latest/maya-site/?maya",
+          "source": "Hacker News",
+          "score": 846,
+          "summary": null
+        },
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "source": "Hacker News",
+          "score": 468,
+          "summary": null
+        },
+        {
+          "title": "AWS Finally Built Its Own AWS Emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "source": "Hacker News",
+          "score": 324,
+          "summary": null
+        },
+        {
+          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "source": "Hacker News",
+          "score": 274,
+          "summary": null
+        },
+        {
+          "title": "Hyper-Realistic Sand with WebGL2",
+          "url": "https://av.github.io/safe-sand/",
+          "source": "Hacker News",
+          "score": 227,
+          "summary": null
+        },
+        {
+          "title": "Using voltage glitching to unleash the A100 in my mining card",
+          "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+          "source": "Hacker News",
+          "score": 223,
+          "summary": null
+        },
+        {
+          "title": "Can a Linear Program Do Weight-Space Programming?",
+          "url": "https://nathan.rs/posts/weight-space-lp/",
+          "source": "Hacker News",
+          "score": 199,
+          "summary": null
+        },
+        {
+          "title": "Atuin Threads: All your agent sessions on every machine",
+          "url": "https://blog.atuin.sh/threads-agent-sessions/",
+          "source": "Hacker News",
+          "score": 146,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Test cricket dying? Have they told Test cricket that? - Andy Zaltzman",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xtokbx/test_cricket_dying_have_they_told_test_cricket/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Glasgow pips Edinburgh as Scottish venue for 2030 Men's T20 World Cup",
+          "url": "https://www.cricinfo.com/ci/content/story/1562260.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "England women scrap West Indies Test to prioritise Ashes preparation",
+          "url": "https://www.cricinfo.com/ci/content/story/1562258.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "SL is on fire!",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xtkwu0/sl_is_on_fire/",
+          "source": "r/Cricket",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino",
+          "url": "https://www.reddit.com/r/soccer/comments/1xtqmqv/pep_guardiola_expected_to_be_a_top_usmnt_target/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Legally restrict heading a football in training, says MP",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "O'Shea proud of how team-mates handled Israel games",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Niklas S\u00fcle: I liked beers and McDonalds too often",
+          "url": "https://www.reddit.com/r/soccer/comments/1xtn68x/niklas_s\u00fcle_i_liked_beers_and_mcdonalds_too_often/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "[Windhorst] The Bucks are facing a \u201ccatastrophe\u201d in the Gary Trent Jr. investigation: \u201cEverybody in the league expects a guilty finding \u2026 If they are found guilty, there are going to be draft picks stripped and people suspended indefinitely.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Acuff when asked what the most frustrating part is about this start: \u201cWhen the clock says 0 and we lost. I don\u2019t understand, I don\u2019t know, I feel like we\u2019re trying\u2026 1-10 just don\u2019t sound right.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xta8m2/acuff_when_asked_what_the_most_frustrating_part/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[Highlight] It's Dame Time in Portland as Damian Lillard splashes the 3/4 court shot to end the 3rd quarter!",
+          "url": "https://www.reddit.com/r/nba/comments/1xta4go/highlight_its_dame_time_in_portland_as_damian/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[Highlight] Damian Lillard thinks about it, then decides to shoot it in McCain's face",
+          "url": "https://www.reddit.com/r/nba/comments/1xt9u3w/highlight_damian_lillard_thinks_about_it_then/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}
