@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T20:17:29.367732+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T20:56:13.013507+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya",
+          "title": "Jensen Huang resigns",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
           "source": "Hacker News",
-          "score": 846,
+          "score": 2285,
           "summary": null
         },
         {
-          "title": "Tim Peters has died",
-          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "title": "Anthropic IPO",
+          "url": "https://ipo.anthropic.com/us/",
           "source": "Hacker News",
-          "score": 468,
+          "score": 716,
           "summary": null
         },
         {
-          "title": "AWS Finally Built Its Own AWS Emulator",
-          "url": "https://github.com/aws/aws-emulator",
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
           "source": "Hacker News",
-          "score": 324,
+          "score": 338,
           "summary": null
         },
         {
-          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "title": "Ask HN: Microsoft/Azure Outage?",
+          "url": "https://news.ycombinator.com/item?id=50471668",
           "source": "Hacker News",
-          "score": 274,
+          "score": 290,
           "summary": null
         },
         {
-          "title": "Hyper-Realistic Sand with WebGL2",
-          "url": "https://av.github.io/safe-sand/",
+          "title": "Why Writing Correct Software Is Hard",
+          "url": "https://pron.github.io/posts/correctness-and-complexity",
           "source": "Hacker News",
-          "score": 227,
+          "score": 322,
           "summary": null
         },
         {
-          "title": "Using voltage glitching to unleash the A100 in my mining card",
-          "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+          "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+          "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
           "source": "Hacker News",
-          "score": 223,
+          "score": 201,
           "summary": null
         },
         {
-          "title": "Can a Linear Program Do Weight-Space Programming?",
-          "url": "https://nathan.rs/posts/weight-space-lp/",
+          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
           "source": "Hacker News",
-          "score": 199,
+          "score": 204,
           "summary": null
         },
         {
-          "title": "Atuin Threads: All your agent sessions on every machine",
-          "url": "https://blog.atuin.sh/threads-agent-sessions/",
+          "title": "I'm making LLMs work on small and old devices",
+          "url": "https://github.com/hyperionaidev/smolmaxxing/",
           "source": "Hacker News",
-          "score": 146,
+          "score": 193,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Test cricket dying? Have they told Test cricket that? - Andy Zaltzman",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xtokbx/test_cricket_dying_have_they_told_test_cricket/",
+          "title": "'Didn't like Australia being strong': Glenn McGrath claims only those with 'agendas' want to keep talking about Sandpapergate",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xul1ib/didnt_like_australia_being_strong_glenn_mcgrath/",
           "source": "r/Cricket",
           "score": null,
           "summary": null
         },
         {
-          "title": "Glasgow pips Edinburgh as Scottish venue for 2030 Men's T20 World Cup",
-          "url": "https://www.cricinfo.com/ci/content/story/1562260.html?ex_cid=OTC-RSS",
+          "title": "Brook: Rashid is a 'magician' but recall not guaranteed",
+          "url": "https://www.cricinfo.com/ci/content/story/1562408.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "England women scrap West Indies Test to prioritise Ashes preparation",
-          "url": "https://www.cricinfo.com/ci/content/story/1562258.html?ex_cid=OTC-RSS",
+          "title": "Raichandani and Sood set up India-Pakistan final",
+          "url": "https://www.cricinfo.com/ci/content/story/1562389.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "SL is on fire!",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xtkwu0/sl_is_on_fire/",
+          "title": "India and Pakistan are set to face off in a final for the third time across different Asian tournaments in the last 12 months",
+          "url": "https://www.reddit.com/r/Cricket/comments/1xuej3o/india_and_pakistan_are_set_to_face_off_in_a_final/",
           "source": "r/Cricket",
           "score": null,
           "summary": null
@@ -105,30 +105,30 @@
       "title": "Football",
       "items": [
         {
-          "title": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino",
-          "url": "https://www.reddit.com/r/soccer/comments/1xtqmqv/pep_guardiola_expected_to_be_a_top_usmnt_target/",
-          "source": "r/soccer",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "Legally restrict heading a football in training, says MP",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+          "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "O'Shea proud of how team-mates handled Israel games",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+          "title": "Harry Kane presenting the Ballon d'Or at Wembley Stadium, and being honoured for becoming England's all-time record appearance maker.",
+          "url": "https://www.reddit.com/r/soccer/comments/1xumpqh/harry_kane_presenting_the_ballon_dor_at_wembley/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Quiz: Name England's all-time leading appearance makers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Niklas S\u00fcle: I liked beers and McDonalds too often",
-          "url": "https://www.reddit.com/r/soccer/comments/1xtn68x/niklas_s\u00fcle_i_liked_beers_and_mcdonalds_too_often/",
-          "source": "r/soccer",
+          "title": "SFA in talks with Boston officials over biannual friendly match",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
           "score": null,
           "summary": null
         }
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Windhorst] The Bucks are facing a \u201ccatastrophe\u201d in the Gary Trent Jr. investigation: \u201cEverybody in the league expects a guilty finding \u2026 If they are found guilty, there are going to be draft picks stripped and people suspended indefinitely.\u201d",
-          "url": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
+          "title": "[Charania] Golden State's Stephen Curry has an oblique abdominal tear and will be re-evaluated in two weeks.",
+          "url": "https://www.reddit.com/r/nba/comments/1xui2g3/charania_golden_states_stephen_curry_has_an/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Acuff when asked what the most frustrating part is about this start: \u201cWhen the clock says 0 and we lost. I don\u2019t understand, I don\u2019t know, I feel like we\u2019re trying\u2026 1-10 just don\u2019t sound right.\u201d",
-          "url": "https://www.reddit.com/r/nba/comments/1xta8m2/acuff_when_asked_what_the_most_frustrating_part/",
+          "title": "Zion after the Nets' loss \"Unacceptable. I don't even have a lot of words. Just unacceptable. If we don't like to lose like this we need to look in the mirror and say: did I do what I needed to do for my team?\". This season he's averaging an efficient 21.7 PTS on 69.1 TS% (highest TS% of his career)",
+          "url": "https://www.reddit.com/r/nba/comments/1xueccr/zion_after_the_nets_loss_unacceptable_i_dont_even/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "[Highlight] It's Dame Time in Portland as Damian Lillard splashes the 3/4 court shot to end the 3rd quarter!",
-          "url": "https://www.reddit.com/r/nba/comments/1xta4go/highlight_its_dame_time_in_portland_as_damian/",
+          "title": "Charles Barkley: \"The Spurs are the team to beat in the NBA. I don't see any team that's in their league right now east or west. They are the best team. It is the Spurs thing to win now\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xuamoo/charles_barkley_the_spurs_are_the_team_to_beat_in/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "[Highlight] Damian Lillard thinks about it, then decides to shoot it in McCain's face",
-          "url": "https://www.reddit.com/r/nba/comments/1xt9u3w/highlight_damian_lillard_thinks_about_it_then/",
+          "title": "James Harden: \"I'm still trying to figure it out. It's my 18th year... my name is James Harden, I used to score a lot of points. Now it's like.. find other ways to impact the game. Donovan averages a lot of points, he's the scoring machine on this team\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xu6vge/james_harden_im_still_trying_to_figure_it_out_its/",
           "source": "r/nba",
           "score": null,
           "summary": null
