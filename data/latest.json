@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T20:56:13.013507+00:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:34:21.598867+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Jensen Huang resigns",
-          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "title": "LibreOffice actually works 365 days a year",
+          "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
           "source": "Hacker News",
-          "score": 2285,
+          "score": 658,
           "summary": null
         },
         {
-          "title": "Anthropic IPO",
-          "url": "https://ipo.anthropic.com/us/",
+          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
           "source": "Hacker News",
-          "score": 716,
+          "score": 467,
           "summary": null
         },
         {
-          "title": "Gemini 4 Hydrogen",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
           "source": "Hacker News",
-          "score": 338,
+          "score": 589,
           "summary": null
         },
         {
-          "title": "Ask HN: Microsoft/Azure Outage?",
-          "url": "https://news.ycombinator.com/item?id=50471668",
+          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
           "source": "Hacker News",
-          "score": 290,
+          "score": 390,
           "summary": null
         },
         {
-          "title": "Why Writing Correct Software Is Hard",
-          "url": "https://pron.github.io/posts/correctness-and-complexity",
+          "title": "IceWM",
+          "url": "https://ice-wm.org/",
           "source": "Hacker News",
-          "score": 322,
+          "score": 347,
           "summary": null
         },
         {
-          "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-          "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+          "title": "AI is destroying the trust between writers and readers",
+          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
           "source": "Hacker News",
-          "score": 201,
+          "score": 279,
           "summary": null
         },
         {
-          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+          "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
           "source": "Hacker News",
-          "score": 204,
+          "score": 216,
           "summary": null
         },
         {
-          "title": "I'm making LLMs work on small and old devices",
-          "url": "https://github.com/hyperionaidev/smolmaxxing/",
+          "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+          "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
           "source": "Hacker News",
-          "score": 193,
+          "score": 151,
           "summary": null
         }
       ]
@@ -71,30 +71,30 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "'Didn't like Australia being strong': Glenn McGrath claims only those with 'agendas' want to keep talking about Sandpapergate",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xul1ib/didnt_like_australia_being_strong_glenn_mcgrath/",
-          "source": "r/Cricket",
-          "score": null,
-          "summary": null
-        },
-        {
-          "title": "Brook: Rashid is a 'magician' but recall not guaranteed",
-          "url": "https://www.cricinfo.com/ci/content/story/1562408.html?ex_cid=OTC-RSS",
+          "title": "Raheem Ahmed signs Leicestershire deal to play alongside brother Rehan",
+          "url": "https://www.cricinfo.com/ci/content/story/1562537.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Raichandani and Sood set up India-Pakistan final",
-          "url": "https://www.cricinfo.com/ci/content/story/1562389.html?ex_cid=OTC-RSS",
+          "title": "England see tight Adelaide turnaround as dry run for 2027 World Cup",
+          "url": "https://www.cricinfo.com/ci/content/story/1562513.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "India and Pakistan are set to face off in a final for the third time across different Asian tournaments in the last 12 months",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xuej3o/india_and_pakistan_are_set_to_face_off_in_a_final/",
-          "source": "r/Cricket",
+          "title": "Rabada 'chuffed at engagement from fans' after series win against Australia",
+          "url": "https://www.cricinfo.com/ci/content/story/1562543.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Debutant Naseer turns it around for Afghanistan after Kaia and Taylor star",
+          "url": "https://www.cricinfo.com/ci/content/story/1562535.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         }
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+          "title": "Ronaldinho, 46, to play first game since 2015",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Harry Kane presenting the Ballon d'Or at Wembley Stadium, and being honoured for becoming England's all-time record appearance maker.",
-          "url": "https://www.reddit.com/r/soccer/comments/1xumpqh/harry_kane_presenting_the_ballon_dor_at_wembley/",
+          "title": "Maktoob - Israel kills Palestinian footballer Mahmoud Kamal Abdel-Malek, days after he played in tournament honouring athletes killed in Gaza",
+          "url": "https://www.reddit.com/r/soccer/comments/1xvgc2k/maktoob_israel_kills_palestinian_footballer/",
           "source": "r/soccer",
           "score": null,
           "summary": null
         },
         {
-          "title": "Quiz: Name England's all-time leading appearance makers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+          "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "SFA in talks with Boston officials over biannual friendly match",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+          "title": "EFL warns clubs over social media posts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "[Charania] Golden State's Stephen Curry has an oblique abdominal tear and will be re-evaluated in two weeks.",
-          "url": "https://www.reddit.com/r/nba/comments/1xui2g3/charania_golden_states_stephen_curry_has_an/",
+          "title": "Warriors star Jimmy Butler wants to play a G League game as he rehabs from ACL tear - \u201cIt may not be for long, but I\u2019m going to play in Santa Cruz,\u201d he said. \u201cI\u2019m playing in a f\u2014ing game.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xv8wbv/warriors_star_jimmy_butler_wants_to_play_a_g/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Zion after the Nets' loss \"Unacceptable. I don't even have a lot of words. Just unacceptable. If we don't like to lose like this we need to look in the mirror and say: did I do what I needed to do for my team?\". This season he's averaging an efficient 21.7 PTS on 69.1 TS% (highest TS% of his career)",
-          "url": "https://www.reddit.com/r/nba/comments/1xueccr/zion_after_the_nets_loss_unacceptable_i_dont_even/",
+          "title": "[NBA Today] Jeremy Lin and Danny Green breakdown why James Harden's step back three is still effective",
+          "url": "https://www.reddit.com/r/nba/comments/1xv3s5q/nba_today_jeremy_lin_and_danny_green_breakdown/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Charles Barkley: \"The Spurs are the team to beat in the NBA. I don't see any team that's in their league right now east or west. They are the best team. It is the Spurs thing to win now\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xuamoo/charles_barkley_the_spurs_are_the_team_to_beat_in/",
+          "title": "[Highlight] Cade Cunningham (52 PTS, 11 AST, 0 TO) scores a career-high 52 points, including 30 in the 4Q and overtime, to lead the Pistons to a thrilling 2OT win. He becomes the first player since 1977-78 to record 50+ points and 10+ assists with zero turnovers.",
+          "url": "https://www.reddit.com/r/nba/comments/1xuxkhm/highlight_cade_cunningham_52_pts_11_ast_0_to/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "James Harden: \"I'm still trying to figure it out. It's my 18th year... my name is James Harden, I used to score a lot of points. Now it's like.. find other ways to impact the game. Donovan averages a lot of points, he's the scoring machine on this team\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xu6vge/james_harden_im_still_trying_to_figure_it_out_its/",
+          "title": "The Minesotta Timberwolves (9-3, +13.4) are flying under the radar. They've won 5 straight without their starting backcourt, scored 110+ in every game and are 1st for DRTG",
+          "url": "https://www.reddit.com/r/nba/comments/1xux78n/the_minesotta_timberwolves_93_134_are_flying/",
           "source": "r/nba",
           "score": null,
           "summary": null

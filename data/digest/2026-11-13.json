@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:34:21.598867+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "LibreOffice actually works 365 days a year",
+          "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+          "source": "Hacker News",
+          "score": 658,
+          "summary": null
+        },
+        {
+          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
+          "source": "Hacker News",
+          "score": 467,
+          "summary": null
+        },
+        {
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+          "source": "Hacker News",
+          "score": 589,
+          "summary": null
+        },
+        {
+          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+          "source": "Hacker News",
+          "score": 390,
+          "summary": null
+        },
+        {
+          "title": "IceWM",
+          "url": "https://ice-wm.org/",
+          "source": "Hacker News",
+          "score": 347,
+          "summary": null
+        },
+        {
+          "title": "AI is destroying the trust between writers and readers",
+          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+          "source": "Hacker News",
+          "score": 279,
+          "summary": null
+        },
+        {
+          "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "source": "Hacker News",
+          "score": 216,
+          "summary": null
+        },
+        {
+          "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+          "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+          "source": "Hacker News",
+          "score": 151,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Raheem Ahmed signs Leicestershire deal to play alongside brother Rehan",
+          "url": "https://www.cricinfo.com/ci/content/story/1562537.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "England see tight Adelaide turnaround as dry run for 2027 World Cup",
+          "url": "https://www.cricinfo.com/ci/content/story/1562513.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Rabada 'chuffed at engagement from fans' after series win against Australia",
+          "url": "https://www.cricinfo.com/ci/content/story/1562543.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Debutant Naseer turns it around for Afghanistan after Kaia and Taylor star",
+          "url": "https://www.cricinfo.com/ci/content/story/1562535.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Ronaldinho, 46, to play first game since 2015",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Maktoob - Israel kills Palestinian footballer Mahmoud Kamal Abdel-Malek, days after he played in tournament honouring athletes killed in Gaza",
+          "url": "https://www.reddit.com/r/soccer/comments/1xvgc2k/maktoob_israel_kills_palestinian_footballer/",
+          "source": "r/soccer",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "EFL warns clubs over social media posts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Warriors star Jimmy Butler wants to play a G League game as he rehabs from ACL tear - \u201cIt may not be for long, but I\u2019m going to play in Santa Cruz,\u201d he said. \u201cI\u2019m playing in a f\u2014ing game.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xv8wbv/warriors_star_jimmy_butler_wants_to_play_a_g/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[NBA Today] Jeremy Lin and Danny Green breakdown why James Harden's step back three is still effective",
+          "url": "https://www.reddit.com/r/nba/comments/1xv3s5q/nba_today_jeremy_lin_and_danny_green_breakdown/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "[Highlight] Cade Cunningham (52 PTS, 11 AST, 0 TO) scores a career-high 52 points, including 30 in the 4Q and overtime, to lead the Pistons to a thrilling 2OT win. He becomes the first player since 1977-78 to record 50+ points and 10+ assists with zero turnovers.",
+          "url": "https://www.reddit.com/r/nba/comments/1xuxkhm/highlight_cade_cunningham_52_pts_11_ast_0_to/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "The Minesotta Timberwolves (9-3, +13.4) are flying under the radar. They've won 5 straight without their starting backcourt, scored 110+ in every game and are 1st for DRTG",
+          "url": "https://www.reddit.com/r/nba/comments/1xux78n/the_minesotta_timberwolves_93_134_are_flying/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}
