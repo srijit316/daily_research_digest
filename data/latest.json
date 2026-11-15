@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T18:49:20.873288+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T19:27:26.166727+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Monkey Island: all 13 versions side by side",
-          "url": "https://monkeyisland.pages.dev/",
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
           "source": "Hacker News",
-          "score": 380,
+          "score": 1546,
           "summary": null
         },
         {
-          "title": "Ggml v1.0.0",
-          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "title": "All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
           "source": "Hacker News",
-          "score": 383,
-          "summary": null
-        },
-        {
-          "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-          "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-          "source": "Hacker News",
-          "score": 279,
-          "summary": null
-        },
-        {
-          "title": "KDE: The documentary [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News",
-          "score": 210,
-          "summary": null
-        },
-        {
-          "title": "Italy fines Meta $887M over Android users' data access",
-          "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-          "source": "Hacker News",
-          "score": 180,
-          "summary": null
-        },
-        {
-          "title": "PyPI's redesigned project pages with clearer security signals are now live",
-          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-          "source": "Hacker News",
-          "score": 121,
+          "score": 777,
           "summary": null
         },
         {
           "title": "Lovable apps expose passport details and more than 200K private messages",
           "url": "https://www.crissyfield.de/research/lovable-en/",
           "source": "Hacker News",
-          "score": 111,
+          "score": 958,
           "summary": null
         },
         {
-          "title": "Italy fines Meta \u20ac805M over photo privacy",
-          "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
           "source": "Hacker News",
-          "score": 107,
+          "score": 331,
+          "summary": null
+        },
+        {
+          "title": "Court denies motion to dismiss DRAM price fixing case",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "Hacker News",
+          "score": 428,
+          "summary": null
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "source": "Hacker News",
+          "score": 288,
+          "summary": null
+        },
+        {
+          "title": "A family tree of software job titles",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+          "source": "Hacker News",
+          "score": 416,
+          "summary": null
+        },
+        {
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "url": "https://retrocomputing.stackexchange.com/questions/17957",
+          "source": "Hacker News",
+          "score": 290,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Ulva: 'I knew it was my day and I'll finish the game'",
-          "url": "https://www.cricinfo.com/ci/content/story/1562647.html?ex_cid=OTC-RSS",
+          "title": "Rabada: 'We need to be more ruthless'",
+          "url": "https://www.cricinfo.com/ci/content/story/1562805.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "We Must Not Allow The IPL To Subjugate World Cricket",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xw840q/we_must_not_allow_the_ipl_to_subjugate_world/",
-          "source": "r/Cricket",
+          "title": "ICC scraps Super Six from 2027 World Cup Qualifier",
+          "url": "https://www.cricinfo.com/ci/content/story/1562804.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "So Many Jadejas, So Few Ashwins: What Is Going Wrong In India's Off-Spin Pipeline?",
-          "url": "https://www.reddit.com/r/Cricket/comments/1xw808f/so_many_jadejas_so_few_ashwins_what_is_going/",
-          "source": "r/Cricket",
+          "title": "Bangladesh, USA to host men's and women's LA28 qualifying tournaments",
+          "url": "https://www.cricinfo.com/ci/content/story/1562785.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "World Test Championship set to stay nine-team contest till 2031",
-          "url": "https://www.cricinfo.com/ci/content/story/1562664.html?ex_cid=OTC-RSS",
+          "title": "Hridoy and Litton's 206-run stand powers Bangladesh after Rabada's five-for",
+          "url": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+          "title": "Ronaldinho makes comeback in Ravenna win",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+          "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "'I just play where the manager tells me to play!' - Walsh",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
+          "title": "Children's tournament abandoned for parents' behaviour",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Chelsea go top with 1-0 win against Man City",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+          "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "Damian Lillard says playing with Deni Avdija is the most joy he's had out of any player he's ever played with and praises how much Deni's skillset complements his own",
-          "url": "https://www.reddit.com/r/nba/comments/1xw5do6/damian_lillard_says_playing_with_deni_avdija_is/",
+          "title": "M.Harrell \"I went to China for 2 months: I hated that sh*t. I wasn't in 1 of the popping cities like Shanghai, Hong Kong, Bejing (he was in Urumqi). Motherfuckers in the elevator smoking cigarettes looking at you like an experiment. They be feeding you some sh*t so I was eating same meal every day\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xx17td/mharrell_i_went_to_china_for_2_months_i_hated/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "[Almanza] Shai Gilgeous-Alexander fact-checks an LA reporter who used AI search results to get an incorrect stat",
-          "url": "https://www.reddit.com/r/nba/comments/1xw4y6u/almanza_shai_gilgeousalexander_factchecks_an_la/",
+          "title": "JJ Redick on Lakers' 3rd-string unit \"It\u2019s unacceptable to just consistently be calling offensive plays and then they come down and jack a 3 with 18 on the shot clock. That group just hasn\u2019t been organized: when they play they turn the ball over and give up a bunch of 3s. They just gotta be better\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xwx6dm/jj_redick_on_lakers_3rdstring_unit_its/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "[Highlight] NBA G-League player Keyshawn Bryant completely cleared a defender on a dunk last night",
-          "url": "https://www.reddit.com/r/nba/comments/1xw1rvf/highlight_nba_gleague_player_keyshawn_bryant/",
+          "title": "For the post-Ja Morant era, it seems like the currently 9-4 Grizzlies messed around and ended up with a genuinely great four man PG rotation off a combined shoestring budget of just $14,000,000",
+          "url": "https://www.reddit.com/r/nba/comments/1xwt16r/for_the_postja_morant_era_it_seems_like_the/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "A very concise Victor Wembanyama, asked if he has any thoughts on Draymond Green's flagrant foul: \"Do I have any thoughts? Not much. I'm not surprised.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xvv681/a_very_concise_victor_wembanyama_asked_if_he_has/",
+          "title": "Charles Barkley: \"New Orleans. We need that team in Seattle. I'll help y'all pack.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xwnryo/charles_barkley_new_orleans_we_need_that_team_in/",
           "source": "r/nba",
           "score": null,
           "summary": null

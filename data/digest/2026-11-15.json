@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T19:27:26.166727+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "source": "Hacker News",
+          "score": 1546,
+          "summary": null
+        },
+        {
+          "title": "All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "source": "Hacker News",
+          "score": 777,
+          "summary": null
+        },
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "source": "Hacker News",
+          "score": 958,
+          "summary": null
+        },
+        {
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+          "source": "Hacker News",
+          "score": 331,
+          "summary": null
+        },
+        {
+          "title": "Court denies motion to dismiss DRAM price fixing case",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "Hacker News",
+          "score": 428,
+          "summary": null
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "source": "Hacker News",
+          "score": 288,
+          "summary": null
+        },
+        {
+          "title": "A family tree of software job titles",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+          "source": "Hacker News",
+          "score": 416,
+          "summary": null
+        },
+        {
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "url": "https://retrocomputing.stackexchange.com/questions/17957",
+          "source": "Hacker News",
+          "score": 290,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Rabada: 'We need to be more ruthless'",
+          "url": "https://www.cricinfo.com/ci/content/story/1562805.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "ICC scraps Super Six from 2027 World Cup Qualifier",
+          "url": "https://www.cricinfo.com/ci/content/story/1562804.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Bangladesh, USA to host men's and women's LA28 qualifying tournaments",
+          "url": "https://www.cricinfo.com/ci/content/story/1562785.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Hridoy and Litton's 206-run stand powers Bangladesh after Rabada's five-for",
+          "url": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Ronaldinho makes comeback in Ravenna win",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Children's tournament abandoned for parents' behaviour",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "M.Harrell \"I went to China for 2 months: I hated that sh*t. I wasn't in 1 of the popping cities like Shanghai, Hong Kong, Bejing (he was in Urumqi). Motherfuckers in the elevator smoking cigarettes looking at you like an experiment. They be feeding you some sh*t so I was eating same meal every day\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xx17td/mharrell_i_went_to_china_for_2_months_i_hated/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "JJ Redick on Lakers' 3rd-string unit \"It\u2019s unacceptable to just consistently be calling offensive plays and then they come down and jack a 3 with 18 on the shot clock. That group just hasn\u2019t been organized: when they play they turn the ball over and give up a bunch of 3s. They just gotta be better\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xwx6dm/jj_redick_on_lakers_3rdstring_unit_its/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "For the post-Ja Morant era, it seems like the currently 9-4 Grizzlies messed around and ended up with a genuinely great four man PG rotation off a combined shoestring budget of just $14,000,000",
+          "url": "https://www.reddit.com/r/nba/comments/1xwt16r/for_the_postja_morant_era_it_seems_like_the/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Charles Barkley: \"New Orleans. We need that team in Seattle. I'll help y'all pack.\"",
+          "url": "https://www.reddit.com/r/nba/comments/1xwnryo/charles_barkley_new_orleans_we_need_that_team_in/",
+          "source": "r/nba",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}
