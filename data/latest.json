@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T19:27:26.166727+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:59:33.786815+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "SpaceX catches the Starship to end Flight 15",
-          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+          "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
           "source": "Hacker News",
-          "score": 1546,
+          "score": 779,
           "summary": null
         },
         {
-          "title": "All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
           "source": "Hacker News",
-          "score": 777,
+          "score": 657,
           "summary": null
         },
         {
-          "title": "Lovable apps expose passport details and more than 200K private messages",
-          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "title": "Software is breaking down at a systemic level",
+          "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
           "source": "Hacker News",
-          "score": 958,
+          "score": 305,
           "summary": null
         },
         {
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+          "title": "Jiff 1.0: A datetime library for Rust",
+          "url": "https://burntsushi.net/jiff/",
           "source": "Hacker News",
-          "score": 331,
+          "score": 270,
           "summary": null
         },
         {
-          "title": "Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "url": "https://www.cs.cmu.edu/learn/",
           "source": "Hacker News",
-          "score": 428,
+          "score": 227,
           "summary": null
         },
         {
-          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+          "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
           "source": "Hacker News",
-          "score": 288,
+          "score": 285,
           "summary": null
         },
         {
-          "title": "A family tree of software job titles",
-          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+          "title": "Frame \u2013 31.5\" color ePaper display",
+          "url": "https://trmnl.com/blog/introducing-frame",
           "source": "Hacker News",
-          "score": 416,
+          "score": 242,
           "summary": null
         },
         {
-          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-          "url": "https://retrocomputing.stackexchange.com/questions/17957",
+          "title": "Nvidia was in trouble before the Jensen Huang mess",
+          "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
           "source": "Hacker News",
-          "score": 290,
+          "score": 234,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Rabada: 'We need to be more ruthless'",
-          "url": "https://www.cricinfo.com/ci/content/story/1562805.html?ex_cid=OTC-RSS",
+          "title": "Litton: 'I always see crisis situations as opportunities'",
+          "url": "https://www.cricinfo.com/ci/content/story/1562885.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "ICC scraps Super Six from 2027 World Cup Qualifier",
-          "url": "https://www.cricinfo.com/ci/content/story/1562804.html?ex_cid=OTC-RSS",
+          "title": "Bishnoi: 'Spinners also need to know how to bowl yorkers and slower deliveries'",
+          "url": "https://www.cricinfo.com/ci/content/story/1562882.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Bangladesh, USA to host men's and women's LA28 qualifying tournaments",
-          "url": "https://www.cricinfo.com/ci/content/story/1562785.html?ex_cid=OTC-RSS",
+          "title": "LSG set to trade Shami to RR for Sam Curran",
+          "url": "https://www.cricinfo.com/ci/content/story/1562524.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Hridoy and Litton's 206-run stand powers Bangladesh after Rabada's five-for",
-          "url": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
+          "title": "Ackerman 157 leads South Africa's strong reply",
+          "url": "https://www.cricinfo.com/ci/content/story/1562841.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Ronaldinho makes comeback in Ravenna win",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+          "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+          "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Children's tournament abandoned for parents' behaviour",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport Football",
+          "title": "Germany [4] - 0 Netherlands - F. Wirtz 71'",
+          "url": "https://www.reddit.com/r/soccer/comments/1xy1gao/germany_4_0_netherlands_f_wirtz_71/",
+          "source": "r/soccer",
           "score": null,
           "summary": null
         },
         {
-          "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+          "title": "Portugal boss responds to criticism from Ronaldo's mum",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
@@ -139,29 +139,29 @@
       "title": "NBA",
       "items": [
         {
-          "title": "M.Harrell \"I went to China for 2 months: I hated that sh*t. I wasn't in 1 of the popping cities like Shanghai, Hong Kong, Bejing (he was in Urumqi). Motherfuckers in the elevator smoking cigarettes looking at you like an experiment. They be feeding you some sh*t so I was eating same meal every day\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xx17td/mharrell_i_went_to_china_for_2_months_i_hated/",
+          "title": "[McMenamin] \u201cA Sixers source told ESPN that James has asked coaches to be patient with him as he expects to find his rhythm and get his conditioning in line by December as he ramps up.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xxug9b/mcmenamin_a_sixers_source_told_espn_that_james/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "JJ Redick on Lakers' 3rd-string unit \"It\u2019s unacceptable to just consistently be calling offensive plays and then they come down and jack a 3 with 18 on the shot clock. That group just hasn\u2019t been organized: when they play they turn the ball over and give up a bunch of 3s. They just gotta be better\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xwx6dm/jj_redick_on_lakers_3rdstring_unit_its/",
+          "title": "Rick Carlisle: \u201cLeBron James is one of the reasons we try not to have play calls cuz he knows all of them. Yeah, he\u2019s a walking NBA basketball AI machine\u2014is what he is. So smart and so everything else\u2026 I don\u2019t think we\u2019ll ever see this again.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xxtp2d/rick_carlisle_lebron_james_is_one_of_the_reasons/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "For the post-Ja Morant era, it seems like the currently 9-4 Grizzlies messed around and ended up with a genuinely great four man PG rotation off a combined shoestring budget of just $14,000,000",
-          "url": "https://www.reddit.com/r/nba/comments/1xwt16r/for_the_postja_morant_era_it_seems_like_the/",
+          "title": "LeBron James, millenial, when asked about team groupchats: \"I've been in the league so long it was probably a point where there was no such thing as a damn group chat on phones.\u201d",
+          "url": "https://www.reddit.com/r/nba/comments/1xxt6tk/lebron_james_millenial_when_asked_about_team/",
           "source": "r/nba",
           "score": null,
           "summary": null
         },
         {
-          "title": "Charles Barkley: \"New Orleans. We need that team in Seattle. I'll help y'all pack.\"",
-          "url": "https://www.reddit.com/r/nba/comments/1xwnryo/charles_barkley_new_orleans_we_need_that_team_in/",
+          "title": "The #1 seed Boston Celtics have a higher point differential than the #2, #3, #4, and #5 seeds combined",
+          "url": "https://www.reddit.com/r/nba/comments/1xxfq97/the_1_seed_boston_celtics_have_a_higher_point/",
           "source": "r/nba",
           "score": null,
           "summary": null
