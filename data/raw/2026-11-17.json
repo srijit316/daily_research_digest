@@ -1,0 +1,718 @@
+{
+  "date": "2026-11-17",
+  "fetched_at": "2026-11-17T21:51:17.070088+00:00",
+  "item_count": 79,
+  "items": [
+    {
+      "id": "725c967606ce",
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 886,
+      "published_at": "2026-11-17T17:46:43+00:00"
+    },
+    {
+      "id": "6f099656459b",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 155,
+      "published_at": "2026-11-17T19:50:40+00:00"
+    },
+    {
+      "id": "4d9c0f5d9260",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 51,
+      "published_at": "2026-11-17T21:11:28+00:00"
+    },
+    {
+      "id": "930d2827a809",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 200,
+      "published_at": "2026-11-17T18:25:13+00:00"
+    },
+    {
+      "id": "7400913a4dc8",
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 142,
+      "published_at": "2026-11-17T19:25:27+00:00"
+    },
+    {
+      "id": "851193cad36b",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 223,
+      "published_at": "2026-11-17T17:12:06+00:00"
+    },
+    {
+      "id": "724bc174af09",
+      "title": "Web Browser Engineering (2021)",
+      "url": "https://browser.engineering/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 74,
+      "published_at": "2026-11-17T20:01:35+00:00"
+    },
+    {
+      "id": "0818b59eab9a",
+      "title": "Phrack 73 Released",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 165,
+      "published_at": "2026-11-17T18:31:25+00:00"
+    },
+    {
+      "id": "e3f80aa13f80",
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 342,
+      "published_at": "2026-11-17T15:38:28+00:00"
+    },
+    {
+      "id": "6165d219d320",
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 139,
+      "published_at": "2026-11-17T18:56:17+00:00"
+    },
+    {
+      "id": "c7ee78cc35fb",
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 64,
+      "published_at": "2026-11-17T14:48:03+00:00"
+    },
+    {
+      "id": "9fe7768ba977",
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 528,
+      "published_at": "2026-11-17T17:47:14+00:00"
+    },
+    {
+      "id": "b563d314a26c",
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 296,
+      "published_at": "2026-11-17T14:53:43+00:00"
+    },
+    {
+      "id": "8975118590d3",
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "url": "https://arxiv.org/abs/2611.09827",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 33,
+      "published_at": "2026-11-17T19:46:57+00:00"
+    },
+    {
+      "id": "ad7d3ed495e3",
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 31,
+      "published_at": "2026-11-17T19:01:43+00:00"
+    },
+    {
+      "id": "640196fafe85",
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 55,
+      "published_at": "2026-11-17T17:45:39+00:00"
+    },
+    {
+      "id": "2c43cd14957f",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 157,
+      "published_at": "2026-11-17T15:07:09+00:00"
+    },
+    {
+      "id": "76e95097d061",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1080,
+      "published_at": "2026-11-17T11:45:51+00:00"
+    },
+    {
+      "id": "39e994344746",
+      "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 34,
+      "published_at": "2026-11-17T16:01:04+00:00"
+    },
+    {
+      "id": "567d2c83df20",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 230,
+      "published_at": "2026-11-17T10:20:40+00:00"
+    },
+    {
+      "id": "f9f203e06799",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 23,
+      "published_at": "2026-11-17T18:26:05+00:00"
+    },
+    {
+      "id": "5bed9f969574",
+      "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+      "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 79,
+      "published_at": "2026-11-17T18:34:10+00:00"
+    },
+    {
+      "id": "b8930a9a56df",
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 26,
+      "published_at": "2026-11-17T18:16:18+00:00"
+    },
+    {
+      "id": "f7882b4c21ba",
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 104,
+      "published_at": "2026-11-16T15:02:20+00:00"
+    },
+    {
+      "id": "320959dca20c",
+      "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T21:34:50+00:00"
+    },
+    {
+      "id": "122115e1f3c9",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:49:41+00:00"
+    },
+    {
+      "id": "d9a047affb02",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:32:11+00:00"
+    },
+    {
+      "id": "0fc744e43d60",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:02:20+00:00"
+    },
+    {
+      "id": "3e0e7322cd6e",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T18:55:40+00:00"
+    },
+    {
+      "id": "560e703561a2",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T18:48:23+00:00"
+    },
+    {
+      "id": "f4982bcb3ccb",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T18:10:00+00:00"
+    },
+    {
+      "id": "b145ab91c010",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T18:04:16+00:00"
+    },
+    {
+      "id": "42c4fd05f3f4",
+      "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T17:32:25+00:00"
+    },
+    {
+      "id": "447a475adced",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T17:20:41+00:00"
+    },
+    {
+      "id": "5fbc7d8ce285",
+      "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T16:44:15+00:00"
+    },
+    {
+      "id": "f70b9be32865",
+      "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T16:32:55+00:00"
+    },
+    {
+      "id": "5a12ee8825b7",
+      "title": "Uber and Zipline\u2019s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T15:07:06+00:00"
+    },
+    {
+      "id": "45f18158044f",
+      "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T15:01:46+00:00"
+    },
+    {
+      "id": "27f55ceac514",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T15:00:00+00:00"
+    },
+    {
+      "id": "b8b8a9d24770",
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T21:46:20+00:00"
+    },
+    {
+      "id": "7465bbc4c963",
+      "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T21:40:59+00:00"
+    },
+    {
+      "id": "b6fce55d8985",
+      "title": "Nike\u2019s new air sole technology can mix soft and firm cushioning",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T21:38:08+00:00"
+    },
+    {
+      "id": "859fe7425ca0",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T21:00:55+00:00"
+    },
+    {
+      "id": "99d0991b3141",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T20:46:31+00:00"
+    },
+    {
+      "id": "6e196c35fa12",
+      "title": "Democrats try to figure out how not to get swept away by the blue wave",
+      "url": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T20:30:00+00:00"
+    },
+    {
+      "id": "3fb9bd8afd0a",
+      "title": "Framework\u2019s better couch keyboard is now available for preorder",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:38:42+00:00"
+    },
+    {
+      "id": "9344b0dae741",
+      "title": "California just banned Waymo from all state freeways",
+      "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:38:05+00:00"
+    },
+    {
+      "id": "9a0dbb019c7d",
+      "title": "JBL\u2019s headphones that are great for in-flight entertainment are 67 percent off",
+      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T19:19:10+00:00"
+    },
+    {
+      "id": "72284a47c9d9",
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-17T18:58:01+00:00"
+    },
+    {
+      "id": "f2602c4c87f6",
+      "title": "Dunkley's onslaught keeps Sixers top of the table",
+      "url": "https://www.cricinfo.com/ci/content/story/1563011.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T21:02:42+00:00"
+    },
+    {
+      "id": "cd25aea39cd6",
+      "title": "Travis Head to miss IPL 2027",
+      "url": "https://www.cricinfo.com/ci/content/story/1562856.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T17:58:41+00:00"
+    },
+    {
+      "id": "2c5208dd3345",
+      "title": "Rickelton lays out South Africa's plan: 'Bat long, get a lead, put ball in their court'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563004.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T17:37:34+00:00"
+    },
+    {
+      "id": "3cfea06621c1",
+      "title": "Men's county ins and outs 2026-27",
+      "url": "https://www.cricinfo.com/county-cricket-2017/content/story/1562870.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T17:02:01+00:00"
+    },
+    {
+      "id": "0e058760cd0b",
+      "title": "Ruan de Swardt agrees Leicestershire return for 2027",
+      "url": "https://www.cricinfo.com/ci/content/story/1563003.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T16:54:55+00:00"
+    },
+    {
+      "id": "adae000a4fc5",
+      "title": "Heartbreak for Naseer and Afghanistan as Zimbabwe snatch late win",
+      "url": "https://www.cricinfo.com/ci/content/story/1562975.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T15:59:02+00:00"
+    },
+    {
+      "id": "fe1f8c58afd7",
+      "title": "Zimbabwe continue to push for space in WTC even as doors appear to close",
+      "url": "https://www.cricinfo.com/ci/content/story/1562991.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T15:53:46+00:00"
+    },
+    {
+      "id": "0a381e2347ed",
+      "title": "Bethell to miss South Africa tour and IPL in bid to recover from knee injury",
+      "url": "https://www.cricinfo.com/ci/content/story/1562973.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T15:35:42+00:00"
+    },
+    {
+      "id": "d5d449ea92bb",
+      "title": "Starc, Head, Bethell released by DC, SRH, RCB ahead of IPL 2027 player auction",
+      "url": "https://www.cricinfo.com/ci/content/story/1562958.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T15:33:19+00:00"
+    },
+    {
+      "id": "389b1d8b2083",
+      "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
+      "url": "https://www.cricinfo.com/ci/content/story/1562948.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T14:24:04+00:00"
+    },
+    {
+      "id": "b84bf0568a7b",
+      "title": "Khulna Division win National Cricket League title for record eighth time",
+      "url": "https://www.cricinfo.com/ci/content/story/1562964.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T14:13:17+00:00"
+    },
+    {
+      "id": "a523a8f30bfe",
+      "title": "MS Dhoni ends IPL career, appointed CSK mentor",
+      "url": "https://www.cricinfo.com/ci/content/story/1562938.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T13:16:55+00:00"
+    },
+    {
+      "id": "482b167f555f",
+      "title": "Pakistan quicks rout Sri Lanka for 98 to seize control on opening day",
+      "url": "https://www.cricinfo.com/ci/content/story/1562925.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T12:52:17+00:00"
+    },
+    {
+      "id": "6b0be6b6df5d",
+      "title": "Brar handed demerit point for aggressive celebration of Seifert wicket",
+      "url": "https://www.cricinfo.com/ci/content/story/1562947.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T10:53:00+00:00"
+    },
+    {
+      "id": "1e3716618d68",
+      "title": "No let-up from Jordan Cox as he embraces all-formats opportunity",
+      "url": "https://www.cricinfo.com/ci/content/story/1562937.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-17T10:03:46+00:00"
+    },
+    {
+      "id": "298141bb2e08",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T14:09:19+00:00"
+    },
+    {
+      "id": "287e502d90d6",
+      "title": "FA wants to host Nations League finals in England",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T15:51:30+00:00"
+    },
+    {
+      "id": "9ec7cec39781",
+      "title": "Arsenal Double winner Storey dies aged 81",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T17:33:41+00:00"
+    },
+    {
+      "id": "046b7a05c862",
+      "title": "Rangers great Brand dies aged 89",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T21:02:57+00:00"
+    },
+    {
+      "id": "b43abf8e0e50",
+      "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T07:22:26+00:00"
+    },
+    {
+      "id": "7f1847dfee28",
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T19:35:06+00:00"
+    },
+    {
+      "id": "3b89b98da73e",
+      "title": "Blackburn boss Mowbray steps back over health issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T10:40:41+00:00"
+    },
+    {
+      "id": "051ba2440e9c",
+      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T10:32:07+00:00"
+    },
+    {
+      "id": "d2fe327b2498",
+      "title": "London City's Goodwin gets first England call-up",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T11:06:33+00:00"
+    },
+    {
+      "id": "1b5cf1064757",
+      "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T17:13:24+00:00"
+    },
+    {
+      "id": "3475ffe11ad5",
+      "title": "Why always him? The rise and fall of Balotelli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T06:15:43+00:00"
+    },
+    {
+      "id": "ffb30eecc3ae",
+      "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T11:13:40+00:00"
+    },
+    {
+      "id": "e227a6312dde",
+      "title": "Millwall open disciplinary proceedings against Baker",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T20:00:52+00:00"
+    },
+    {
+      "id": "a36b066abc3d",
+      "title": "Romario demands Ancelotti sacking as war of words continues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T13:10:58+00:00"
+    },
+    {
+      "id": "cd46f229bf09",
+      "title": "Hincapie in advanced talks over new Arsenal deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-17T13:09:23+00:00"
+    }
+  ]
+}
