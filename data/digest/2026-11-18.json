@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T21:31:33.886664+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "source": "Hacker News",
+          "score": 842,
+          "summary": null
+        },
+        {
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "source": "Hacker News",
+          "score": 505,
+          "summary": null
+        },
+        {
+          "title": "Inside Deutsche Bank",
+          "url": "https://www.inside-db.com/",
+          "source": "Hacker News",
+          "score": 431,
+          "summary": null
+        },
+        {
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "source": "Hacker News",
+          "score": 349,
+          "summary": null
+        },
+        {
+          "title": "Energy-Based Reasoners: 385x more efficient inference",
+          "url": "https://energy-based-reasoners.github.io/",
+          "source": "Hacker News",
+          "score": 287,
+          "summary": null
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "Hacker News",
+          "score": 221,
+          "summary": null
+        },
+        {
+          "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+          "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+          "source": "Hacker News",
+          "score": 197,
+          "summary": null
+        },
+        {
+          "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+          "source": "Hacker News",
+          "score": 152,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "The key takeaways from Cameron Bancroft's revelations about sandpapergate",
+          "url": "https://www.cricinfo.com/ci/content/story/1563115.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
+          "url": "https://www.cricinfo.com/ci/content/story/1563137.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Litton sets new world record with eight dismissals in a Test innings",
+          "url": "https://www.cricinfo.com/ci/content/story/1563090.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Bad light stops play early with Bangladesh under the pump",
+          "url": "https://www.cricinfo.com/ci/content/story/1563091.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "England defender Carter joins Bay FC after Gotham exit",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Strasbourg appoint Swansea boss Matos",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "FA explored legal challenge to Infantino staying on",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": [
+        {
+          "title": "Lakers' Grimes makes history after hitting 10 3s in win over Hornets",
+          "url": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Spurs guard Harper limps off in pain after slip on court",
+          "url": "https://www.espn.com/nba/story/_/id/50517203/spurs-dylan-harper-limps-pain-slip-court",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Rozier co-defendant signals intent to change plea in NBA betting case",
+          "url": "https://www.espn.com/nba/story/_/id/50513416/deniro-laster-terry-rozier-friend-change-plea-nba-betting",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "76ers' Brown to miss Wednesday's game vs. Magic with hamstring strain",
+          "url": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
+          "source": "ESPN NBA",
+          "score": null,
+          "summary": null
+        }
+      ]
+    }
+  ]
+}

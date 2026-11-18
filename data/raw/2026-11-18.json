@@ -1,0 +1,871 @@
+{
+  "date": "2026-11-18",
+  "fetched_at": "2026-11-18T21:31:22.376915+00:00",
+  "item_count": 96,
+  "items": [
+    {
+      "id": "ff0c2dfa0648",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 842,
+      "published_at": "2026-11-18T15:19:55+00:00"
+    },
+    {
+      "id": "208b7ebb3cea",
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 349,
+      "published_at": "2026-11-18T16:08:24+00:00"
+    },
+    {
+      "id": "db253b67c20c",
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 431,
+      "published_at": "2026-11-18T15:38:33+00:00"
+    },
+    {
+      "id": "7222d21645ca",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 221,
+      "published_at": "2026-11-18T15:49:34+00:00"
+    },
+    {
+      "id": "b1281458bec0",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 505,
+      "published_at": "2026-11-18T13:18:02+00:00"
+    },
+    {
+      "id": "70cc8a0a1d31",
+      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 47,
+      "published_at": "2026-11-18T19:39:16+00:00"
+    },
+    {
+      "id": "bb5459d8891c",
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 131,
+      "published_at": "2026-11-18T18:49:51+00:00"
+    },
+    {
+      "id": "bc92b7a6195e",
+      "title": "The Magic of Partial Evaluation",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 64,
+      "published_at": "2026-11-18T18:29:03+00:00"
+    },
+    {
+      "id": "9de59b9dc687",
+      "title": "Search Browser \u2013 Minimalist WebKit browser with Chrome extension support",
+      "url": "https://searchbrowser.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 24,
+      "published_at": "2026-11-18T20:04:31+00:00"
+    },
+    {
+      "id": "0d576c5fe887",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 92,
+      "published_at": "2026-11-18T17:45:47+00:00"
+    },
+    {
+      "id": "f45c67f96747",
+      "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 197,
+      "published_at": "2026-11-18T14:43:52+00:00"
+    },
+    {
+      "id": "055a12ed15be",
+      "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 106,
+      "published_at": "2026-11-18T16:04:43+00:00"
+    },
+    {
+      "id": "21efcf41c872",
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 61,
+      "published_at": "2026-11-18T16:53:42+00:00"
+    },
+    {
+      "id": "95d9bfc8f4c8",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 108,
+      "published_at": "2026-11-18T16:18:51+00:00"
+    },
+    {
+      "id": "4bb3cf084033",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 152,
+      "published_at": "2026-11-18T16:06:21+00:00"
+    },
+    {
+      "id": "2eb50ded113e",
+      "title": "Sexp Matrix",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 17,
+      "published_at": "2026-11-18T20:01:50+00:00"
+    },
+    {
+      "id": "a4a8d2325502",
+      "title": "F-22 Next-Generation micro\u2013Data Transfer Cartridge (mDTC)",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 125,
+      "published_at": "2026-11-18T15:35:44+00:00"
+    },
+    {
+      "id": "a8ee4d9c0bf4",
+      "title": "The x86 CPU: From 4004 to 486",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 114,
+      "published_at": "2026-11-18T14:47:53+00:00"
+    },
+    {
+      "id": "357d085ae06f",
+      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 16,
+      "published_at": "2026-11-18T20:20:17+00:00"
+    },
+    {
+      "id": "19fbdaaaed27",
+      "title": "When Free Software Isn't Free Enough",
+      "url": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 26,
+      "published_at": "2026-11-18T18:39:28+00:00"
+    },
+    {
+      "id": "0f6db8483e9e",
+      "title": "CrossPoint Reader",
+      "url": "https://crosspointreader.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 59,
+      "published_at": "2026-11-18T17:14:31+00:00"
+    },
+    {
+      "id": "724823e096fd",
+      "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 29,
+      "published_at": "2026-11-18T17:26:28+00:00"
+    },
+    {
+      "id": "23a6e8d38fa0",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 287,
+      "published_at": "2026-11-18T09:29:32+00:00"
+    },
+    {
+      "id": "5f56974239eb",
+      "title": "A Primer on Fourier Series (2025)",
+      "url": "https://arxiv.org/abs/2510.18203",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 87,
+      "published_at": "2026-11-18T14:44:33+00:00"
+    },
+    {
+      "id": "1828812e37c1",
+      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 15,
+      "published_at": "2026-11-18T18:53:17+00:00"
+    },
+    {
+      "id": "b3c7ff29fad7",
+      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 35,
+      "published_at": "2026-11-18T17:41:48+00:00"
+    },
+    {
+      "id": "89dc61422b35",
+      "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T20:07:01+00:00"
+    },
+    {
+      "id": "93ec3dad35d6",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:56:39+00:00"
+    },
+    {
+      "id": "371d4074c9b5",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:29:41+00:00"
+    },
+    {
+      "id": "890e2f7b3ac9",
+      "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T18:04:05+00:00"
+    },
+    {
+      "id": "708e52618cd9",
+      "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T17:32:10+00:00"
+    },
+    {
+      "id": "c0eb00cd5950",
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T17:30:56+00:00"
+    },
+    {
+      "id": "3439be5ca604",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T16:59:00+00:00"
+    },
+    {
+      "id": "f816757e046d",
+      "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T16:14:09+00:00"
+    },
+    {
+      "id": "36ee48faa08c",
+      "title": "Sony\u2019s updated turntable is an easy entry into the world of vinyl",
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T16:00:00+00:00"
+    },
+    {
+      "id": "9610a86cb801",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T14:55:13+00:00"
+    },
+    {
+      "id": "5d3a453ab03d",
+      "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014 keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T13:00:00+00:00"
+    },
+    {
+      "id": "620756f297e9",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "id": "996c920e2c06",
+      "title": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T11:30:00+00:00"
+    },
+    {
+      "id": "59b4b7589a72",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T11:00:00+00:00"
+    },
+    {
+      "id": "d652f478feee",
+      "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T01:44:21+00:00"
+    },
+    {
+      "id": "f50b5ea124af",
+      "title": "Absolute Batman can save DC Studios",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T21:20:00+00:00"
+    },
+    {
+      "id": "66574755f6b3",
+      "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:40:36+00:00"
+    },
+    {
+      "id": "d0d45b2248dd",
+      "title": "What\u2019s next for Nvidia? Whatever doesn\u2019t rock the mind-bogglingly profitable boat",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:30:00+00:00"
+    },
+    {
+      "id": "5d0ca014f086",
+      "title": "Sony\u2019s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:30:00+00:00"
+    },
+    {
+      "id": "936f18e64ab6",
+      "title": "Instagram now lets you edit your stories after you post them",
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:29:10+00:00"
+    },
+    {
+      "id": "ceb4a9d2a8ed",
+      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:11:50+00:00"
+    },
+    {
+      "id": "a19f9e7086b4",
+      "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T19:07:29+00:00"
+    },
+    {
+      "id": "b10ebf43407e",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T18:44:27+00:00"
+    },
+    {
+      "id": "35b63c52e8cd",
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T18:34:55+00:00"
+    },
+    {
+      "id": "d7174b90d189",
+      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-18T18:34:15+00:00"
+    },
+    {
+      "id": "e2e05c85dd8e",
+      "title": "The key takeaways from Cameron Bancroft's revelations about sandpapergate",
+      "url": "https://www.cricinfo.com/ci/content/story/1563115.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T19:56:38+00:00"
+    },
+    {
+      "id": "48b3a856b3fa",
+      "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563137.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T18:42:22+00:00"
+    },
+    {
+      "id": "b37df58978bb",
+      "title": "Litton sets new world record with eight dismissals in a Test innings",
+      "url": "https://www.cricinfo.com/ci/content/story/1563090.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T16:27:05+00:00"
+    },
+    {
+      "id": "44626f545398",
+      "title": "Bad light stops play early with Bangladesh under the pump",
+      "url": "https://www.cricinfo.com/ci/content/story/1563091.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T16:00:29+00:00"
+    },
+    {
+      "id": "3f3b766774f8",
+      "title": "Ghori, bowlers put Pakistan in command despite Kumara five-for",
+      "url": "https://www.cricinfo.com/ci/content/story/1563048.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T14:07:51+00:00"
+    },
+    {
+      "id": "8b2d252dc6a0",
+      "title": "Bancroft: 'I did not give a complete and truthful account'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563070.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T13:55:30+00:00"
+    },
+    {
+      "id": "14f38230db98",
+      "title": "Green suffers concussion as Peake steps up as substitute",
+      "url": "https://www.cricinfo.com/ci/content/story/1563100.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T12:06:59+00:00"
+    },
+    {
+      "id": "fdb0f527a274",
+      "title": "Duckett century, Baker four-for seal series win for England",
+      "url": "https://www.cricinfo.com/ci/content/story/1563045.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T11:36:05+00:00"
+    },
+    {
+      "id": "4a477daefcd8",
+      "title": "Bavuma suffers calf strain, will not take the field in the second innings",
+      "url": "https://www.cricinfo.com/ci/content/story/1563097.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T11:31:14+00:00"
+    },
+    {
+      "id": "780af2a24191",
+      "title": "In windy Wellington, India begin new era with history and form against them",
+      "url": "https://www.cricinfo.com/ci/content/story/1563027.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T09:50:43+00:00"
+    },
+    {
+      "id": "77e5b223e9e4",
+      "title": "Morkel: India need to get out of 'comfort zone' to make WTC final",
+      "url": "https://www.cricinfo.com/ci/content/story/1563057.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T09:16:00+00:00"
+    },
+    {
+      "id": "35cceff372c0",
+      "title": "New Zealand 'trying to be a little bit fluid' with fast bowlers' workloads",
+      "url": "https://www.cricinfo.com/ci/content/story/1563034.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T06:20:36+00:00"
+    },
+    {
+      "id": "97f5f98f3282",
+      "title": "CA sets up 'independent forum' into Sandpapergate but will not re-litigate the incident",
+      "url": "https://www.cricinfo.com/ci/content/story/1563012.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T05:38:06+00:00"
+    },
+    {
+      "id": "703fcac9f358",
+      "title": "Unchanged England bat; Zampa out with back spasms for Australia",
+      "url": "https://www.cricinfo.com/ci/content/story/1563019.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T03:42:45+00:00"
+    },
+    {
+      "id": "d5d449ea92bb",
+      "title": "Starc, Head, Bethell released by DC, SRH, RCB ahead of IPL 2027 player auction",
+      "url": "https://www.cricinfo.com/ci/content/story/1562958.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-18T06:19:34+00:00"
+    },
+    {
+      "id": "4d2b51536eee",
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T16:09:55+00:00"
+    },
+    {
+      "id": "54b38bfdb6c1",
+      "title": "Joint-record six referee errors in last Premier League weekend",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T12:38:38+00:00"
+    },
+    {
+      "id": "f851e37f47d3",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T20:55:01+00:00"
+    },
+    {
+      "id": "b4d7346e4023",
+      "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T21:22:18+00:00"
+    },
+    {
+      "id": "a3bd9d4dcd60",
+      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T06:27:11+00:00"
+    },
+    {
+      "id": "d282a2fdfebd",
+      "title": "Manchester won't always be blue - Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T08:42:28+00:00"
+    },
+    {
+      "id": "5f7444c291a1",
+      "title": "Ward close to new Republic of Ireland deal as Noonan returns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T18:06:04+00:00"
+    },
+    {
+      "id": "4e9ea6eadf73",
+      "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T10:51:37+00:00"
+    },
+    {
+      "id": "6a692ec1aabf",
+      "title": "Strasbourg appoint Swansea boss Matos",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T20:57:54+00:00"
+    },
+    {
+      "id": "f275da7534ac",
+      "title": "Leicester split with sponsor after porn actress row",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T19:10:21+00:00"
+    },
+    {
+      "id": "08bc3db97628",
+      "title": "Former Spain midfielder Mata retires aged 38",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T10:12:46+00:00"
+    },
+    {
+      "id": "1fb2dedb0596",
+      "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T19:09:00+00:00"
+    },
+    {
+      "id": "38c8921d3e3a",
+      "title": "Israel row a 'defining moment for us' - Hallgrimsson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T13:05:48+00:00"
+    },
+    {
+      "id": "47e8b9f48e4f",
+      "title": "England defender Carter joins Bay FC after Gotham exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T21:07:26+00:00"
+    },
+    {
+      "id": "904726caa6de",
+      "title": "Toney loses bid to avoid Euro 2028 court clash",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-18T12:46:12+00:00"
+    },
+    {
+      "id": "35e97249967d",
+      "title": "The Giannis trade changed everything, including Miami's margin for error",
+      "url": "https://www.espn.com/nba/story/_/id/50513378/miami-heat-giannis-antetokounmpo-blueprint",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:56:48+00:00"
+    },
+    {
+      "id": "27ae5c5ddac4",
+      "title": "'A Night in Vice City': Heat unveil court, activities for special GTA VI game promo",
+      "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:56:48+00:00"
+    },
+    {
+      "id": "0117146b44c8",
+      "title": "Lakers' Grimes makes history after hitting 10 3s in win over Hornets",
+      "url": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "a06fdeb843a3",
+      "title": "Spurs guard Harper limps off in pain after slip on court",
+      "url": "https://www.espn.com/nba/story/_/id/50517203/spurs-dylan-harper-limps-pain-slip-court",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "d9a630f65caa",
+      "title": "Rozier co-defendant signals intent to change plea in NBA betting case",
+      "url": "https://www.espn.com/nba/story/_/id/50513416/deniro-laster-terry-rozier-friend-change-plea-nba-betting",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "0059df349446",
+      "title": "76ers' Brown to miss Wednesday's game vs. Magic with hamstring strain",
+      "url": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "e7239004d935",
+      "title": "LeBron sues makers of AI sports-betting app 'Bron,' cites 'willful, bad-faith tactic'",
+      "url": "https://www.espn.com/nba/story/_/id/50514699/76ers-lebron-james-sues-makers-ai-sports-betting-app-bron",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "001a8c06dc16",
+      "title": "KU's Stokes, top NBA prospect, to undergo MRI after being helped off",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50518136/kansas-tyran-stokes-mri-leg-injury-early-exit-unlv",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "48c181bbae5e",
+      "title": "Hawks lose guard McCollum for at least 4 weeks with calf strain",
+      "url": "https://www.espn.com/nba/story/_/id/50513506/hawks-lose-cj-mccollum-least-4-weeks-calf-strain",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "53a0a6a759bf",
+      "title": "Raptors say Leonard out at least another week",
+      "url": "https://www.espn.com/nba/story/_/id/50514496/raptors-kawhi-leonard-progressing-another-week",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "eeb12344a24e",
+      "title": "\ud83d\udc40 What the first month has revealed about all 30 teams",
+      "url": "https://www.espn.com/nba/story/_/id/50502518/first-month-lakers-knicks-spurs-celtics",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T18:57:42+00:00"
+    },
+    {
+      "id": "ac05eb8ee73e",
+      "title": "NBA Power Rankings: One wild stat for all 30 teams",
+      "url": "https://www.espn.com/nba/story/_/id/50513109/nba-power-rankings-wild-stats-spurs-lakers",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T14:26:32+00:00"
+    },
+    {
+      "id": "bea42bd4e288",
+      "title": "Steph Curry confronts his 'basketball mortality'",
+      "url": "https://www.espn.com/nba/story/_/id/50503111/steph-curry-warriors-race-injuries",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-18T00:07:43+00:00"
+    },
+    {
+      "id": "de61e561d09b",
+      "title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
+      "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-17T17:47:16+00:00"
+    },
+    {
+      "id": "7e6b89d11d4a",
+      "title": "Is the 76ers' fast start real or a mirage? We asked execs what they're seeing",
+      "url": "https://www.espn.com/nba/story/_/id/50490202/lebron-76ers-start-execs-big-questions",
+      "source": "ESPN NBA",
+      "category": "nba",
+      "score": null,
+      "published_at": "2026-11-17T12:29:32+00:00"
+    }
+  ]
+}
