@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T21:42:17.072482+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Anthropic hits $2T in Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "source": "Hacker News",
+          "score": 649,
+          "summary": null
+        },
+        {
+          "title": "How the European Commission rolled out Matrix to more than 40k staff",
+          "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+          "source": "Hacker News",
+          "score": 619,
+          "summary": null
+        },
+        {
+          "title": "UK government forced to admit it issued Apple a secret encryption order",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+          "source": "Hacker News",
+          "score": 372,
+          "summary": null
+        },
+        {
+          "title": "Fuck Your AI Safeguards",
+          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+          "source": "Hacker News",
+          "score": 362,
+          "summary": null
+        },
+        {
+          "title": "Claude solves two open problems in the physics of black holes",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "source": "Hacker News",
+          "score": 286,
+          "summary": null
+        },
+        {
+          "title": "Pancreatic cancer halted by virus injection in three patients",
+          "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+          "source": "Hacker News",
+          "score": 284,
+          "summary": null
+        },
+        {
+          "title": "Everything you need to survive and rebuild society",
+          "url": "https://lastbook.org/",
+          "source": "Hacker News",
+          "score": 299,
+          "summary": null
+        },
+        {
+          "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+          "url": "https://kapteko.com/15-million-webservers/",
+          "source": "Hacker News",
+          "score": 354,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Laura Harris wins family battle with record-breaking 15-ball fifty",
+          "url": "https://www.cricinfo.com/ci/content/story/1563255.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Luc Benkenstein to follow in father's footsteps as he leaves Essex for Durham",
+          "url": "https://www.cricinfo.com/ci/content/story/1563243.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "'We could have seen a different result' - Shanto rues no-balls and dropped catches",
+          "url": "https://www.cricinfo.com/ci/content/story/1563241.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
+          "url": "https://www.cricinfo.com/ci/content/story/1563218.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Frank happy to be 'back in the circus' at Palace",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "New manager Frick to take Aberdeen back to basics",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "England fined for fans' anti-Catholic chants in Spain",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": []
+    }
+  ]
+}
