@@ -1,0 +1,718 @@
+{
+  "date": "2026-11-20",
+  "fetched_at": "2026-11-20T21:17:23.077790+00:00",
+  "item_count": 79,
+  "items": [
+    {
+      "id": "81fd9565f775",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 899,
+      "published_at": "2026-11-20T18:33:14+00:00"
+    },
+    {
+      "id": "b9db119f86f5",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 205,
+      "published_at": "2026-11-20T20:12:19+00:00"
+    },
+    {
+      "id": "bbe099f2944c",
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 2064,
+      "published_at": "2026-11-20T14:16:21+00:00"
+    },
+    {
+      "id": "ac6264fec7d5",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 52,
+      "published_at": "2026-11-20T20:03:07+00:00"
+    },
+    {
+      "id": "e1a223b73868",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 140,
+      "published_at": "2026-11-20T18:17:51+00:00"
+    },
+    {
+      "id": "f171afb8f16c",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 200,
+      "published_at": "2026-11-20T17:21:36+00:00"
+    },
+    {
+      "id": "9fe3e937f57a",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 272,
+      "published_at": "2026-11-20T16:29:06+00:00"
+    },
+    {
+      "id": "be8226d8a1bb",
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 64,
+      "published_at": "2026-11-20T18:15:16+00:00"
+    },
+    {
+      "id": "a2f265bcff14",
+      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 203,
+      "published_at": "2026-11-20T15:34:31+00:00"
+    },
+    {
+      "id": "64e738ae7bbb",
+      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 39,
+      "published_at": "2026-11-20T19:30:16+00:00"
+    },
+    {
+      "id": "601ef0d322ce",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 556,
+      "published_at": "2026-11-20T09:43:19+00:00"
+    },
+    {
+      "id": "a53e8ede7ebd",
+      "title": "Combatting Adversarial Distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 13,
+      "published_at": "2026-11-20T20:11:14+00:00"
+    },
+    {
+      "id": "000028228240",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 568,
+      "published_at": "2026-11-20T10:01:41+00:00"
+    },
+    {
+      "id": "11f79f6f88ff",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 411,
+      "published_at": "2026-11-20T09:42:16+00:00"
+    },
+    {
+      "id": "8a8dcbaefcfe",
+      "title": "And Yet, It Moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 10,
+      "published_at": "2026-11-20T20:07:55+00:00"
+    },
+    {
+      "id": "c69438672bb7",
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 64,
+      "published_at": "2026-11-20T20:22:41+00:00"
+    },
+    {
+      "id": "97ba4ccf6d68",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 76,
+      "published_at": "2026-11-20T16:45:25+00:00"
+    },
+    {
+      "id": "3c1f8452c0b4",
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 44,
+      "published_at": "2026-11-20T17:14:03+00:00"
+    },
+    {
+      "id": "321223b3abbe",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 181,
+      "published_at": "2026-11-20T16:59:27+00:00"
+    },
+    {
+      "id": "3cc68ecd0e5c",
+      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "url": "https://certuvia.com/blog/postgres-19",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 33,
+      "published_at": "2026-11-20T17:08:56+00:00"
+    },
+    {
+      "id": "adb3f13c617a",
+      "title": "Reverse Engineering my cat's litter box",
+      "url": "https://master--ytulsiani.netlify.app/blog/furrytails/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 6,
+      "published_at": "2026-11-20T20:07:14+00:00"
+    },
+    {
+      "id": "4a5d64a1c5eb",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 4,
+      "published_at": "2026-11-20T20:03:59+00:00"
+    },
+    {
+      "id": "8ca4060d63f5",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 290,
+      "published_at": "2026-11-20T15:03:31+00:00"
+    },
+    {
+      "id": "65240b2b3970",
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 118,
+      "published_at": "2026-11-19T14:29:49+00:00"
+    },
+    {
+      "id": "00dcab6deae0",
+      "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 15,
+      "published_at": "2026-11-20T20:19:56+00:00"
+    },
+    {
+      "id": "6787a271fdfe",
+      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T20:58:29+00:00"
+    },
+    {
+      "id": "340614cb1d45",
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:53:41+00:00"
+    },
+    {
+      "id": "d6bff5841b5a",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:32:08+00:00"
+    },
+    {
+      "id": "388977f644d2",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T18:34:00+00:00"
+    },
+    {
+      "id": "079373956374",
+      "title": "Chips can survive the space environment \u2014 can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T17:40:01+00:00"
+    },
+    {
+      "id": "2ede9796ebfe",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T16:16:06+00:00"
+    },
+    {
+      "id": "91f1fffca12a",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T15:46:07+00:00"
+    },
+    {
+      "id": "7d8981ef5476",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "id": "7f996f41bb20",
+      "title": "Behind Jensen Huang\u2019s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T13:25:00+00:00"
+    },
+    {
+      "id": "85c8a58c4cf3",
+      "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T13:21:11+00:00"
+    },
+    {
+      "id": "8165d9521735",
+      "title": "The US national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T09:14:19+00:00"
+    },
+    {
+      "id": "8f4728ffc5b9",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T00:56:01+00:00"
+    },
+    {
+      "id": "f1dd0bea0b97",
+      "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T00:43:50+00:00"
+    },
+    {
+      "id": "300c7c788356",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T00:26:03+00:00"
+    },
+    {
+      "id": "0f5c2ebdca5a",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-19T23:37:56+00:00"
+    },
+    {
+      "id": "9efc52d1f8b3",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T20:43:52+00:00"
+    },
+    {
+      "id": "4b3f595fab30",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:35:06+00:00"
+    },
+    {
+      "id": "7225edced384",
+      "title": "Eufy\u2019s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:15:00+00:00"
+    },
+    {
+      "id": "3a0cb236fd32",
+      "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T18:50:19+00:00"
+    },
+    {
+      "id": "4ae683aa8267",
+      "title": "Multiplying your Switch 2\u2019s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T18:15:00+00:00"
+    },
+    {
+      "id": "d1e87ef3ac12",
+      "title": "Google says it\u2019s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T18:00:00+00:00"
+    },
+    {
+      "id": "79c0f44d64a7",
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T17:33:59+00:00"
+    },
+    {
+      "id": "5b66ad549a6a",
+      "title": "Teenage Engineering\u2019s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T17:05:52+00:00"
+    },
+    {
+      "id": "859ee3ec8c20",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T16:34:13+00:00"
+    },
+    {
+      "id": "f8baaec16099",
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T16:22:15+00:00"
+    },
+    {
+      "id": "e8dfd5988f42",
+      "title": "SMAT 2026-27: Kuldeep set to feature in Uttar Pradesh's last three games",
+      "url": "https://www.cricinfo.com/ci/content/story/1563377.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T17:12:10+00:00"
+    },
+    {
+      "id": "a5f33a5a72a6",
+      "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
+      "url": "https://www.cricinfo.com/ci/content/story/1563375.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T16:42:48+00:00"
+    },
+    {
+      "id": "843660c993fa",
+      "title": "Injured Hasan Mahmud ruled out of South Africa tour",
+      "url": "https://www.cricinfo.com/ci/content/story/1563369.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T14:03:18+00:00"
+    },
+    {
+      "id": "d37d8f18af53",
+      "title": "'You've got to take the emotion out of it': Conrad on Maharaj's omission",
+      "url": "https://www.cricinfo.com/ci/content/story/1563365.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T13:46:56+00:00"
+    },
+    {
+      "id": "5d340c7ace25",
+      "title": "Australia seek a change of narrative as England return to MCG happy place",
+      "url": "https://www.cricinfo.com/ci/content/story/1563331.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T13:46:33+00:00"
+    },
+    {
+      "id": "b9c1b8ef7db0",
+      "title": "Ottis Gibson returns to Durham as head coach on three-year deal",
+      "url": "https://www.cricinfo.com/ci/content/story/1563364.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T13:07:14+00:00"
+    },
+    {
+      "id": "e159d34c2041",
+      "title": "Babar after SL series win: 'We have achieved nothing yet'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563363.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T12:47:36+00:00"
+    },
+    {
+      "id": "172e60bf45fa",
+      "title": "Ngidi back from injury for Bangladesh ODIs; Maharaj to lead SA",
+      "url": "https://www.cricinfo.com/ci/content/story/1563324.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T12:38:00+00:00"
+    },
+    {
+      "id": "2e0cb954690a",
+      "title": "Pope named as Surrey vice-captain, Burns backed to continue despite quiet 2026",
+      "url": "https://www.cricinfo.com/ci/content/story/1563354.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T11:59:00+00:00"
+    },
+    {
+      "id": "caec37e2004e",
+      "title": "UAE players to miss ILT20 midway for World Cup Qualifier Play-off",
+      "url": "https://www.cricinfo.com/ci/content/story/1563359.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T11:55:07+00:00"
+    },
+    {
+      "id": "ab9e1e8e5396",
+      "title": "'I've found a nice game plan' - Phillips backs his method after second straight Test ton",
+      "url": "https://www.cricinfo.com/ci/content/story/1563355.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T11:27:34+00:00"
+    },
+    {
+      "id": "b2a838010a83",
+      "title": "Hridoy fined 40% of match fee, handed two demerit points for dissent",
+      "url": "https://www.cricinfo.com/ci/content/story/1563348.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T11:14:09+00:00"
+    },
+    {
+      "id": "01d973982c54",
+      "title": "Jaiswal and Rahul turn Test India's way after 216-run Nicholls-Phillips stand",
+      "url": "https://www.cricinfo.com/ci/content/story/1563296.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T10:15:35+00:00"
+    },
+    {
+      "id": "c71b47c7bd28",
+      "title": "Imam-ul-Haq returns to Yorkshire for 2027 season",
+      "url": "https://www.cricinfo.com/ci/content/story/1563244.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T10:01:33+00:00"
+    },
+    {
+      "id": "fc3efb5a4293",
+      "title": "Harper's Australia debut a much-needed good story",
+      "url": "https://www.cricinfo.com/ci/content/story/1563295.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-20T10:00:11+00:00"
+    },
+    {
+      "id": "f008d21d9f53",
+      "title": "Man Utd fan criticism has gone too far at times - Berrada",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T16:55:11+00:00"
+    },
+    {
+      "id": "911901f6115d",
+      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T20:06:51+00:00"
+    },
+    {
+      "id": "97b7ea241532",
+      "title": "Arteta warns Arsenal players over FPL team news leak",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T14:08:55+00:00"
+    },
+    {
+      "id": "4819f42791d9",
+      "title": "Why injured Joao Pedro may be Chelsea's most important player",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T15:18:42+00:00"
+    },
+    {
+      "id": "7e64a2a5d4fc",
+      "title": "Filming training by drones should be illegal - Iraola",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T15:08:51+00:00"
+    },
+    {
+      "id": "4fa0e0ef8b41",
+      "title": "Sarr focused on Palace return after Liverpool interest",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T18:41:33+00:00"
+    },
+    {
+      "id": "2808efde55db",
+      "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T16:00:04+00:00"
+    },
+    {
+      "id": "fdffcaac14aa",
+      "title": "Chelsea fined \u00a3150,000 for discriminatory chanting",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T17:52:50+00:00"
+    },
+    {
+      "id": "60f73c22ca0c",
+      "title": "Celtic's Baur out for 10 weeks, says O'Neill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T14:47:54+00:00"
+    },
+    {
+      "id": "db9278715120",
+      "title": "Southampton give head coach Eckert new deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T13:10:33+00:00"
+    },
+    {
+      "id": "f0fb8832b4bb",
+      "title": "'I felt like I was a ghost' - when players miss a season through injury",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T06:13:23+00:00"
+    },
+    {
+      "id": "bc4802c68c9c",
+      "title": "Matos accepts Swansea fans' anger over shock exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T16:57:06+00:00"
+    },
+    {
+      "id": "c685aba7883d",
+      "title": "Mowbray support no surprise, says interim boss Johnson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-20T16:27:19+00:00"
+    },
+    {
+      "id": "bfb32849d8d1",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-19T22:56:07+00:00"
+    }
+  ]
+}
