@@ -1,0 +1,718 @@
+{
+  "date": "2026-11-21",
+  "fetched_at": "2026-11-21T20:12:00.051906+00:00",
+  "item_count": 79,
+  "items": [
+    {
+      "id": "c6e0f6fe1d32",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 162,
+      "published_at": "2026-11-21T18:02:19+00:00"
+    },
+    {
+      "id": "de6a6b768afb",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 575,
+      "published_at": "2026-11-21T14:36:45+00:00"
+    },
+    {
+      "id": "07a481fe6b0c",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 404,
+      "published_at": "2026-11-21T13:23:14+00:00"
+    },
+    {
+      "id": "a2d27828b0dc",
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 70,
+      "published_at": "2026-11-21T17:08:04+00:00"
+    },
+    {
+      "id": "4f0d7815da49",
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 359,
+      "published_at": "2026-11-21T10:36:32+00:00"
+    },
+    {
+      "id": "81fd9565f775",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 2340,
+      "published_at": "2026-11-20T18:33:14+00:00"
+    },
+    {
+      "id": "9f212063f4c4",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 50,
+      "published_at": "2026-11-21T15:54:34+00:00"
+    },
+    {
+      "id": "fd986dd95e42",
+      "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 73,
+      "published_at": "2026-11-21T15:39:09+00:00"
+    },
+    {
+      "id": "b9db119f86f5",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1297,
+      "published_at": "2026-11-20T20:12:19+00:00"
+    },
+    {
+      "id": "949c4d3d12a1",
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "url": "https://klauria.tech/klauria-art/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 98,
+      "published_at": "2026-11-20T17:03:39+00:00"
+    },
+    {
+      "id": "4cb2fb025b2b",
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 192,
+      "published_at": "2026-11-21T08:32:58+00:00"
+    },
+    {
+      "id": "6d859339b158",
+      "title": "Upload2Shell \u00b7 CVE-2026-125396",
+      "url": "https://pwn.ai/upload2shell",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 15,
+      "published_at": "2026-11-21T18:29:29+00:00"
+    },
+    {
+      "id": "6784575ef645",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 3,
+      "published_at": "2026-11-20T21:03:12+00:00"
+    },
+    {
+      "id": "8ca4060d63f5",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 372,
+      "published_at": "2026-11-20T15:03:31+00:00"
+    },
+    {
+      "id": "35f854dd7615",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 509,
+      "published_at": "2026-11-20T23:18:32+00:00"
+    },
+    {
+      "id": "9e4ce01edc37",
+      "title": "Deterministic Simulation Testing Is for Everyone",
+      "url": "https://outdata.net/blog/261120",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 56,
+      "published_at": "2026-11-20T13:19:48+00:00"
+    },
+    {
+      "id": "e1a223b73868",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 554,
+      "published_at": "2026-11-20T18:17:51+00:00"
+    },
+    {
+      "id": "c2f60c13cbe0",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 123,
+      "published_at": "2026-11-21T17:59:59+00:00"
+    },
+    {
+      "id": "f171afb8f16c",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 518,
+      "published_at": "2026-11-20T17:21:36+00:00"
+    },
+    {
+      "id": "bbe099f2944c",
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 2841,
+      "published_at": "2026-11-20T14:16:21+00:00"
+    },
+    {
+      "id": "44041f7d1d02",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 340,
+      "published_at": "2026-11-20T22:30:47+00:00"
+    },
+    {
+      "id": "d5eeee1878b5",
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 142,
+      "published_at": "2026-11-21T05:38:01+00:00"
+    },
+    {
+      "id": "b69d84487ec0",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 181,
+      "published_at": "2026-11-21T02:40:39+00:00"
+    },
+    {
+      "id": "aaaedd31c43d",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "url": "https://simple-bench.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 144,
+      "published_at": "2026-11-21T13:16:12+00:00"
+    },
+    {
+      "id": "df0cbaf8a585",
+      "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T18:44:53+00:00"
+    },
+    {
+      "id": "01945f6a907c",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "id": "89298d3b7fb0",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "ab0e3076d458",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T15:18:29+00:00"
+    },
+    {
+      "id": "f1c7ef38a91f",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T04:00:00+00:00"
+    },
+    {
+      "id": "6787a271fdfe",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T20:58:29+00:00"
+    },
+    {
+      "id": "340614cb1d45",
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:53:41+00:00"
+    },
+    {
+      "id": "d6bff5841b5a",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T19:32:08+00:00"
+    },
+    {
+      "id": "388977f644d2",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T18:34:00+00:00"
+    },
+    {
+      "id": "079373956374",
+      "title": "Chips can survive the space environment \u2014 can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T17:40:01+00:00"
+    },
+    {
+      "id": "2ede9796ebfe",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T16:16:06+00:00"
+    },
+    {
+      "id": "91f1fffca12a",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T15:46:07+00:00"
+    },
+    {
+      "id": "7d8981ef5476",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "id": "7f996f41bb20",
+      "title": "Behind Jensen Huang\u2019s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T13:25:00+00:00"
+    },
+    {
+      "id": "85c8a58c4cf3",
+      "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-20T13:21:11+00:00"
+    },
+    {
+      "id": "234da3fc1867",
+      "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T20:03:37+00:00"
+    },
+    {
+      "id": "e9776a8605c6",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T17:42:27+00:00"
+    },
+    {
+      "id": "2445cb63e344",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "ac2e64a2c435",
+      "title": "Amazon\u2019s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "a9f34b76fcc6",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T15:00:00+00:00"
+    },
+    {
+      "id": "691eb797ab10",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T14:55:28+00:00"
+    },
+    {
+      "id": "e74727ec8af7",
+      "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T14:00:00+00:00"
+    },
+    {
+      "id": "10ba175a48d5",
+      "title": "The Xiaomi 18 Pro proves two screens aren\u2019t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T13:00:00+00:00"
+    },
+    {
+      "id": "c1d86eadf669",
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T13:00:00+00:00"
+    },
+    {
+      "id": "264c5c071204",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-21T12:00:00+00:00"
+    },
+    {
+      "id": "22e1161dfe81",
+      "title": "Lehmann maintains he did not know of sandpaper use after Bancroft's article",
+      "url": "https://www.cricinfo.com/ci/content/story/1563472.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T16:09:57+00:00"
+    },
+    {
+      "id": "e5c25381ad91",
+      "title": "England face captaincy dilemma after deputy Jacks suffers hand injury",
+      "url": "https://www.cricinfo.com/ci/content/story/1563497.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T14:38:56+00:00"
+    },
+    {
+      "id": "81330545886b",
+      "title": "Ben McKinney called up to England Test squad for South Africa",
+      "url": "https://www.cricinfo.com/ci/content/story/1563517.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T14:35:17+00:00"
+    },
+    {
+      "id": "29457f2bed7c",
+      "title": "Mushfiqur Rahim ruled out of Centurion Test because of groin injury",
+      "url": "https://www.cricinfo.com/ci/content/story/1563495.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T12:25:50+00:00"
+    },
+    {
+      "id": "26e83184f3d4",
+      "title": "Chaudhary, Edwards star as Australia end bleak week with win",
+      "url": "https://www.cricinfo.com/ci/content/story/1563459.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T12:21:12+00:00"
+    },
+    {
+      "id": "05f52ced8d6b",
+      "title": "Oram on Duffy: One bad day won't 'put him in the depths of despair'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563466.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T11:07:32+00:00"
+    },
+    {
+      "id": "c35ae5f1d1e2",
+      "title": "Sydney Sixers survive scare to secure finals berth",
+      "url": "https://www.cricinfo.com/ci/content/story/1563475.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T10:45:05+00:00"
+    },
+    {
+      "id": "6c744efd2028",
+      "title": "India's top five rack up the runs to push New Zealand to a corner",
+      "url": "https://www.cricinfo.com/ci/content/story/1563419.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T10:40:49+00:00"
+    },
+    {
+      "id": "e7000755338d",
+      "title": "Rizwan, Shan Masood, Saim Ayub dropped from PCB central contracts list",
+      "url": "https://www.cricinfo.com/ci/content/story/1563434.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T09:46:30+00:00"
+    },
+    {
+      "id": "7e870fd2fdd1",
+      "title": "Green ruled out of Shield game, expected to be fit for first Test against New Zealand",
+      "url": "https://www.cricinfo.com/ci/content/story/1563445.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T09:00:08+00:00"
+    },
+    {
+      "id": "26ef42f7e243",
+      "title": "Harper and Shaw debut as Australia bowl, Crocombe debuts for England",
+      "url": "https://www.cricinfo.com/ci/content/story/1563436.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T08:13:13+00:00"
+    },
+    {
+      "id": "b25a1d198742",
+      "title": "Linsey Smith and Lizelle Lee give Hurricanes their first win of the season",
+      "url": "https://www.cricinfo.com/ci/content/story/1563413.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T05:09:16+00:00"
+    },
+    {
+      "id": "2efbdffe2cd7",
+      "title": "Cummins gets 'unanimous support' from Cricket Australia amid 2018 fallout",
+      "url": "https://www.cricinfo.com/ci/content/story/1563404.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T03:55:09+00:00"
+    },
+    {
+      "id": "caec37e2004e",
+      "title": "UAE players to play three-to-five ILT20 matches before heading to WC qualifiers",
+      "url": "https://www.cricinfo.com/ci/content/story/1563359.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T06:54:45+00:00"
+    },
+    {
+      "id": "537a52554af4",
+      "title": "Wolvaardt's WBBL best leads Adelaide Strikers to critical victory",
+      "url": "https://www.cricinfo.com/ci/content/story/1563390.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-21T00:01:53+00:00"
+    },
+    {
+      "id": "2ce6e6ac399e",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:59:13+00:00"
+    },
+    {
+      "id": "e9333bde7d56",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:59:35+00:00"
+    },
+    {
+      "id": "cca5f1b77f25",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:59:02+00:00"
+    },
+    {
+      "id": "9931f17576c7",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:58:52+00:00"
+    },
+    {
+      "id": "5a1e65c69539",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:59:08+00:00"
+    },
+    {
+      "id": "1d88ebc40428",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:59:17+00:00"
+    },
+    {
+      "id": "0c5ba0292f44",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:58:56+00:00"
+    },
+    {
+      "id": "16e1f2c479a2",
+      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:21:01+00:00"
+    },
+    {
+      "id": "5d584dd47b78",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T18:30:22+00:00"
+    },
+    {
+      "id": "d022d5cb261c",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:04:09+00:00"
+    },
+    {
+      "id": "e506dd39baaa",
+      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T19:29:48+00:00"
+    },
+    {
+      "id": "3b8c5a5d0262",
+      "title": "Fernandez dropped, Anderson scores - Man City's \u00a3327m midfield dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T16:07:19+00:00"
+    },
+    {
+      "id": "76ead4935cef",
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T18:34:55+00:00"
+    },
+    {
+      "id": "f5d2f7517a8a",
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T18:32:27+00:00"
+    },
+    {
+      "id": "02aba33d2ed2",
+      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-21T17:42:14+00:00"
+    }
+  ]
+}

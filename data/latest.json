@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T21:17:31.383918+00:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T20:12:05.691946+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -12,56 +12,56 @@
           "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
           "url": "https://alpo.ge/remark.pdf",
           "source": "Hacker News",
-          "score": 2064,
+          "score": 2841,
           "summary": null
         },
         {
           "title": "Hurried Announcement: Alessandro Masullo GRH",
           "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
           "source": "Hacker News",
-          "score": 899,
-          "summary": null
-        },
-        {
-          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-          "url": "https://architectlabs.com/blog/frostbite",
-          "source": "Hacker News",
-          "score": 568,
-          "summary": null
-        },
-        {
-          "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-          "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-          "source": "Hacker News",
-          "score": 556,
-          "summary": null
-        },
-        {
-          "title": "Signal Is Serious About Protecting Your Privacy",
-          "url": "https://signal.org/blog/protecting-your-privacy/",
-          "source": "Hacker News",
-          "score": 411,
-          "summary": null
-        },
-        {
-          "title": "Why there are still no non-WebKit browsers on iOS",
-          "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-          "source": "Hacker News",
-          "score": 290,
-          "summary": null
-        },
-        {
-          "title": "Language Models Can Rewrite Their Own Weights",
-          "url": "https://arxiv.org/abs/2611.21885",
-          "source": "Hacker News",
-          "score": 272,
+          "score": 2340,
           "summary": null
         },
         {
           "title": "Inkling 2 Mini",
           "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
           "source": "Hacker News",
-          "score": 205,
+          "score": 1297,
+          "summary": null
+        },
+        {
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "source": "Hacker News",
+          "score": 575,
+          "summary": null
+        },
+        {
+          "title": "Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News",
+          "score": 404,
+          "summary": null
+        },
+        {
+          "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+          "url": "https://news.ycombinator.com/item?id=50583761",
+          "source": "Hacker News",
+          "score": 509,
+          "summary": null
+        },
+        {
+          "title": "My monitor was cutting my download speed by 75%",
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+          "source": "Hacker News",
+          "score": 359,
+          "summary": null
+        },
+        {
+          "title": "We promoted developers into architects without informing them",
+          "url": "https://manidoraisamy.com/developer-to-architect.html",
+          "source": "Hacker News",
+          "score": 554,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "SMAT 2026-27: Kuldeep set to feature in Uttar Pradesh's last three games",
-          "url": "https://www.cricinfo.com/ci/content/story/1563377.html?ex_cid=OTC-RSS",
+          "title": "Lehmann maintains he did not know of sandpaper use after Bancroft's article",
+          "url": "https://www.cricinfo.com/ci/content/story/1563472.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
-          "url": "https://www.cricinfo.com/ci/content/story/1563375.html?ex_cid=OTC-RSS",
+          "title": "England face captaincy dilemma after deputy Jacks suffers hand injury",
+          "url": "https://www.cricinfo.com/ci/content/story/1563497.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Injured Hasan Mahmud ruled out of South Africa tour",
-          "url": "https://www.cricinfo.com/ci/content/story/1563369.html?ex_cid=OTC-RSS",
+          "title": "Ben McKinney called up to England Test squad for South Africa",
+          "url": "https://www.cricinfo.com/ci/content/story/1563517.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "'You've got to take the emotion out of it': Conrad on Maharaj's omission",
-          "url": "https://www.cricinfo.com/ci/content/story/1563365.html?ex_cid=OTC-RSS",
+          "title": "Mushfiqur Rahim ruled out of Centurion Test because of groin injury",
+          "url": "https://www.cricinfo.com/ci/content/story/1563495.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Osimhen keen on Man Utd move - Saturday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+          "title": "Arsenal go six points clear after lively draw at Newcastle",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Sarr focused on Palace return after Liverpool interest",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
+          "title": "Evanilson strikes again as Bournemouth beat Forest",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Chelsea fined \u00a3150,000 for discriminatory chanting",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+          "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Matos accepts Swansea fans' anger over shock exit",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
+          "title": "Man City drop points to Fulham despite superb Anderson volley",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
