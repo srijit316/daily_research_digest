@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T20:27:34.522214+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+          "source": "Hacker News",
+          "score": 1070,
+          "summary": null
+        },
+        {
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "source": "Hacker News",
+          "score": 708,
+          "summary": null
+        },
+        {
+          "title": "Sandwich Simulator",
+          "url": "https://stulle.app/",
+          "source": "Hacker News",
+          "score": 515,
+          "summary": null
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "Hacker News",
+          "score": 297,
+          "summary": null
+        },
+        {
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "source": "Hacker News",
+          "score": 555,
+          "summary": null
+        },
+        {
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "Hacker News",
+          "score": 208,
+          "summary": null
+        },
+        {
+          "title": "Data Processing Incidents on Inference Providers",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+          "source": "Hacker News",
+          "score": 267,
+          "summary": null
+        },
+        {
+          "title": "Open Social Web Alliance",
+          "url": "https://osw-alliance.net/en/",
+          "source": "Hacker News",
+          "score": 167,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "Nawaz's all-round show trumps Tilak's ton as Pakistan A seal win",
+          "url": "https://www.cricinfo.com/ci/content/story/1563628.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Jacks ruled out of Australia tour after suffering broken right hand",
+          "url": "https://www.cricinfo.com/ci/content/story/1563497.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
+          "url": "https://www.cricinfo.com/ci/content/story/1563619.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Injury-hit Bangladesh face uphill task against Bavuma-less South Africa",
+          "url": "https://www.cricinfo.com/ci/content/story/1563618.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Own-goal mishap gifts Brighton first away victory",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Iraola 'enjoyed' big win over Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": []
+    }
+  ]
+}
