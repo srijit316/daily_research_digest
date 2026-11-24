@@ -1,0 +1,727 @@
+{
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T01:02:25.423565+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "id": "e3a79f42fb3c",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 2032,
+      "published_at": "2026-11-23T14:00:18+00:00"
+    },
+    {
+      "id": "d5878f2f15b7",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 168,
+      "published_at": "2026-11-23T22:32:29+00:00"
+    },
+    {
+      "id": "60fd17d3da0d",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1378,
+      "published_at": "2026-11-23T16:13:12+00:00"
+    },
+    {
+      "id": "5a38c81d0fbc",
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 108,
+      "published_at": "2026-11-23T20:52:54+00:00"
+    },
+    {
+      "id": "61a485f34ad8",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 91,
+      "published_at": "2026-11-23T21:01:16+00:00"
+    },
+    {
+      "id": "5094532b4e2e",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1041,
+      "published_at": "2026-11-23T10:06:43+00:00"
+    },
+    {
+      "id": "e6efe33a083e",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 823,
+      "published_at": "2026-11-23T19:17:55+00:00"
+    },
+    {
+      "id": "3c69fd56490c",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1089,
+      "published_at": "2026-11-23T17:07:26+00:00"
+    },
+    {
+      "id": "258148fd1ab0",
+      "title": "Freeing the iPod Nano 5G",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 26,
+      "published_at": "2026-11-23T23:03:13+00:00"
+    },
+    {
+      "id": "7e689a2455fd",
+      "title": "VP \u2260 VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 206,
+      "published_at": "2026-11-23T22:09:10+00:00"
+    },
+    {
+      "id": "7d89f844fb82",
+      "title": "The Power of GraphQL, Without GraphQL",
+      "url": "https://cobalt27.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 5,
+      "published_at": "2026-11-24T00:03:59+00:00"
+    },
+    {
+      "id": "81ecb7742efe",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 120,
+      "published_at": "2026-11-23T13:42:38+00:00"
+    },
+    {
+      "id": "f91a4f1450e3",
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 100,
+      "published_at": "2026-11-23T23:11:38+00:00"
+    },
+    {
+      "id": "8f20e5199f55",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 14,
+      "published_at": "2026-11-23T22:29:48+00:00"
+    },
+    {
+      "id": "109d2f6894af",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 347,
+      "published_at": "2026-11-23T17:17:01+00:00"
+    },
+    {
+      "id": "677c0e35fb16",
+      "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 271,
+      "published_at": "2026-11-23T11:31:54+00:00"
+    },
+    {
+      "id": "048482af0e5e",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 938,
+      "published_at": "2026-11-23T01:13:51+00:00"
+    },
+    {
+      "id": "3809f828d19a",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 99,
+      "published_at": "2026-11-22T15:59:59+00:00"
+    },
+    {
+      "id": "03d193fe7e4e",
+      "title": "Levent Alp\u00f6ge comments on his Riemann Hypothesis proof",
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 74,
+      "published_at": "2026-11-23T22:22:56+00:00"
+    },
+    {
+      "id": "34893789ad9d",
+      "title": "The horse made the state",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 55,
+      "published_at": "2026-11-23T20:59:12+00:00"
+    },
+    {
+      "id": "e771adae4008",
+      "title": "Show HN: Type-C \u2013 variants, options, generics and pattern matching for C",
+      "url": "https://github.com/stass/type-c",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 22,
+      "published_at": "2026-11-22T18:40:57+00:00"
+    },
+    {
+      "id": "b1ae1a6721c6",
+      "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 212,
+      "published_at": "2026-11-23T12:28:11+00:00"
+    },
+    {
+      "id": "42afc3642f4f",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 499,
+      "published_at": "2026-11-23T18:48:10+00:00"
+    },
+    {
+      "id": "d17e7b701323",
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 18,
+      "published_at": "2026-11-23T21:30:41+00:00"
+    },
+    {
+      "id": "cb793a567b2e",
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 43,
+      "published_at": "2026-11-23T17:19:25+00:00"
+    },
+    {
+      "id": "1f165a47af18",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T23:07:49+00:00"
+    },
+    {
+      "id": "27065c561fbc",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:05:50+00:00"
+    },
+    {
+      "id": "0d63fb1e6c01",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:02:05+00:00"
+    },
+    {
+      "id": "ada2460a24f6",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T21:47:41+00:00"
+    },
+    {
+      "id": "9d1f6a725104",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T21:25:42+00:00"
+    },
+    {
+      "id": "2475b067992d",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T20:38:53+00:00"
+    },
+    {
+      "id": "8fb6be28f3f1",
+      "title": "\u2018Outrageous,\u2019 \u2018reckless,\u2019 \u2018wow\u2019: Here\u2019s what politicians are saying about Jensen Huang\u2019s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T19:31:41+00:00"
+    },
+    {
+      "id": "7601f68fa236",
+      "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T19:14:46+00:00"
+    },
+    {
+      "id": "a2f14d06f82b",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T18:12:22+00:00"
+    },
+    {
+      "id": "6a7990e1ad10",
+      "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T17:14:23+00:00"
+    },
+    {
+      "id": "982123aceb9b",
+      "title": "Meta throws out its net-zero goal \u2014 its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T17:13:45+00:00"
+    },
+    {
+      "id": "b7579835e4e7",
+      "title": "Jensen Huang isn\u2019t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T16:57:40+00:00"
+    },
+    {
+      "id": "81a464b2bd01",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T16:39:10+00:00"
+    },
+    {
+      "id": "c32e65acfc49",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T16:20:11+00:00"
+    },
+    {
+      "id": "423071d6f76d",
+      "title": "Dutch privacy authority urges consumers not to buy \u2018pervert glasses\u2019",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T15:29:49+00:00"
+    },
+    {
+      "id": "485decdaf481",
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-24T00:02:52+00:00"
+    },
+    {
+      "id": "eca24540e663",
+      "title": "The hacker behind early GTA VI leaks has been sentenced \u2014 and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T23:25:01+00:00"
+    },
+    {
+      "id": "89d2a35976f4",
+      "title": "The Verge\u2019s 2026 holiday gift guide",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T23:14:10+00:00"
+    },
+    {
+      "id": "5d7720922390",
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:38:09+00:00"
+    },
+    {
+      "id": "049542555c2c",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:25:12+00:00"
+    },
+    {
+      "id": "15c28179b2dc",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:10:32+00:00"
+    },
+    {
+      "id": "8ab70d6f89cf",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T22:09:26+00:00"
+    },
+    {
+      "id": "7964d2edf739",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T21:36:48+00:00"
+    },
+    {
+      "id": "0cd17937bdc8",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T21:09:37+00:00"
+    },
+    {
+      "id": "f41c0847f22b",
+      "title": "Apple renews Ted Lasso for season 5",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-23T20:56:00+00:00"
+    },
+    {
+      "id": "32bc6cec427f",
+      "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563656.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-24T00:36:53+00:00"
+    },
+    {
+      "id": "f1b6cf487af7",
+      "title": "PBKS appoint Paras Mhambrey as bowling coach",
+      "url": "https://www.cricinfo.com/ci/content/story/1563727.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T18:32:02+00:00"
+    },
+    {
+      "id": "3098c8a92352",
+      "title": "Sonny Baker set to enter IPL auction amid franchise interest",
+      "url": "https://www.cricinfo.com/ci/content/story/1563721.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T17:36:58+00:00"
+    },
+    {
+      "id": "f999d0e8f634",
+      "title": "South Africa dominate after bowling Bangladesh out for 91",
+      "url": "https://www.cricinfo.com/ci/content/story/1563706.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T16:42:46+00:00"
+    },
+    {
+      "id": "645ad8ddf802",
+      "title": "Fernando, Wanuja help SL A stay unbeaten",
+      "url": "https://www.cricinfo.com/ci/content/story/1563717.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T15:55:28+00:00"
+    },
+    {
+      "id": "78a8918f6c12",
+      "title": "Peshawar added as PSL's sixth venue, set to host 2027 opener",
+      "url": "https://www.cricinfo.com/ci/content/story/1563712.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T15:42:20+00:00"
+    },
+    {
+      "id": "40b5649d14b9",
+      "title": "Bangladesh bring back Yasir Ali and Khaled Ahmed for SA ODIs",
+      "url": "https://www.cricinfo.com/ci/content/story/1563702.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T13:37:55+00:00"
+    },
+    {
+      "id": "a3e6b2fa812d",
+      "title": "Smith, Konstas frustrated as New South Wales struggle",
+      "url": "https://www.cricinfo.com/ci/content/story/1563654.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T12:46:33+00:00"
+    },
+    {
+      "id": "7831db55618e",
+      "title": "Silk anchors Tasmania recovery amid renewed attention on Bancroft",
+      "url": "https://www.cricinfo.com/ci/content/story/1563690.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T11:37:15+00:00"
+    },
+    {
+      "id": "2142c5225c86",
+      "title": "South Africa bowl in Centurion; Bangladesh bring in Jaker and field all-pace attack",
+      "url": "https://www.cricinfo.com/ci/content/story/1563693.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T11:37:00+00:00"
+    },
+    {
+      "id": "99ccd20deb8c",
+      "title": "New Zealand and India play out stalemate on stubborn Basin Reserve pitch",
+      "url": "https://www.cricinfo.com/ci/content/story/1563651.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T10:04:07+00:00"
+    },
+    {
+      "id": "b7e9fe324afa",
+      "title": "Last-over MCG finish suggests a series of fine margins",
+      "url": "https://www.cricinfo.com/ci/content/story/1563642.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T09:29:12+00:00"
+    },
+    {
+      "id": "310cb122b8a1",
+      "title": "'We are way past Covid times' - Gill wants saliva ban to be reversed",
+      "url": "https://www.cricinfo.com/ci/content/story/1563667.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T08:43:52+00:00"
+    },
+    {
+      "id": "932a4c47bc5e",
+      "title": "Injury-hit Bangladesh face uphill task against Bavuma-less South Africa",
+      "url": "https://www.cricinfo.com/ci/content/story/1563618.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-23T07:08:45+00:00"
+    },
+    {
+      "id": "16f4b83127e1",
+      "title": "Nawaz's all-round show trumps Tilak's ton as Pakistan A seal win",
+      "url": "https://www.cricinfo.com/ci/content/story/1563628.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-22T19:37:27+00:00"
+    },
+    {
+      "id": "96bbb98994c0",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T22:43:39+00:00"
+    },
+    {
+      "id": "4bf50b0a2b99",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T22:31:27+00:00"
+    },
+    {
+      "id": "7eb0688f4569",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T16:30:59+00:00"
+    },
+    {
+      "id": "5ed9727066a6",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T23:26:35+00:00"
+    },
+    {
+      "id": "327bf4117d9f",
+      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T15:09:50+00:00"
+    },
+    {
+      "id": "dd7dd14733f8",
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T21:05:23+00:00"
+    },
+    {
+      "id": "56de3d6b5144",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T15:23:09+00:00"
+    },
+    {
+      "id": "d90e856c723f",
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T13:07:12+00:00"
+    },
+    {
+      "id": "89398415083b",
+      "title": "Watford set to appoint former Romania boss Iordanescu",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T12:36:46+00:00"
+    },
+    {
+      "id": "0ad5fa732b41",
+      "title": "Holloway sacked by Swindon after two seasons",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T08:44:53+00:00"
+    },
+    {
+      "id": "66ab1bea4c22",
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T21:41:52+00:00"
+    },
+    {
+      "id": "bb656045d5de",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T06:17:59+00:00"
+    },
+    {
+      "id": "1957e3db98a5",
+      "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T16:17:17+00:00"
+    },
+    {
+      "id": "d665ea6e3417",
+      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-23T11:49:40+00:00"
+    },
+    {
+      "id": "1df5ba39e285",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-22T21:22:10+00:00"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T01:02:31.126704+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "source": "Hacker News",
+          "score": 2032,
+          "summary": null
+        },
+        {
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/",
+          "source": "Hacker News",
+          "score": 1378,
+          "summary": null
+        },
+        {
+          "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+          "url": "https://twitter.com/ylecun/status/2124550037912920090",
+          "source": "Hacker News",
+          "score": 1089,
+          "summary": null
+        },
+        {
+          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "Hacker News",
+          "score": 1041,
+          "summary": null
+        },
+        {
+          "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+          "url": "https://arm.jonpalmisc.com/",
+          "source": "Hacker News",
+          "score": 823,
+          "summary": null
+        },
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://spelunkr.tv",
+          "source": "Hacker News",
+          "score": 938,
+          "summary": null
+        },
+        {
+          "title": "Apple removed my open-source app from EU App Stores after 9 years",
+          "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+          "source": "Hacker News",
+          "score": 499,
+          "summary": null
+        },
+        {
+          "title": "Kagi Mail (public beta)",
+          "url": "https://blog.kagi.com/kagi-mail-public-beta",
+          "source": "Hacker News",
+          "score": 347,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
+          "url": "https://www.cricinfo.com/ci/content/story/1563656.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "PBKS appoint Paras Mhambrey as bowling coach",
+          "url": "https://www.cricinfo.com/ci/content/story/1563727.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Sonny Baker set to enter IPL auction amid franchise interest",
+          "url": "https://www.cricinfo.com/ci/content/story/1563721.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "South Africa dominate after bowling Bangladesh out for 91",
+          "url": "https://www.cricinfo.com/ci/content/story/1563706.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Who has made Troy's Premier League team of the week?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": []
+    }
+  ]
+}
