@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T23:07:32.609297+00:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T22:40:27.059282+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "LLM agents work for their parent companies, not for you",
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
           "source": "Hacker News",
-          "score": 855,
+          "score": 918,
           "summary": null
         },
         {
-          "title": "2035 came early",
-          "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
           "source": "Hacker News",
-          "score": 934,
+          "score": 684,
           "summary": null
         },
         {
-          "title": "Quad9 pulled their DNS service from France",
-          "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+          "title": "The matrix multiplication exponent is nine fourths [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
           "source": "Hacker News",
-          "score": 322,
+          "score": 1003,
           "summary": null
         },
         {
-          "title": "Ternary Bonsai 2.5 27B",
-          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+          "url": "https://buttons.joshwcomeau.com/",
           "source": "Hacker News",
-          "score": 231,
+          "score": 819,
           "summary": null
         },
         {
-          "title": "Active intrusion campaign against Check Point security management servers",
-          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "title": "Rumors swirling that labs might have cracked Factoring in P",
+          "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
           "source": "Hacker News",
-          "score": 241,
+          "score": 434,
           "summary": null
         },
         {
-          "title": "Jetty Pro",
-          "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
           "source": "Hacker News",
-          "score": 239,
+          "score": 413,
           "summary": null
         },
         {
-          "title": "GTA 6 Running on Windows",
-          "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
           "source": "Hacker News",
-          "score": 231,
+          "score": 416,
           "summary": null
         },
         {
-          "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-          "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
           "source": "Hacker News",
-          "score": 200,
+          "score": 440,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Ackerman, Mulder tons grind down Bangladesh as SA batters make hay",
-          "url": "https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS",
+          "title": "Clayton shuts out the noise to average 74. Will it be enough?",
+          "url": "https://www.cricinfo.com/ci/content/story/1564127.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Shoriful admits Bangladesh's pace attack 'lacked discipline'",
-          "url": "https://www.cricinfo.com/ci/content/story/1563856.html?ex_cid=OTC-RSS",
+          "title": "Swepson outshines Lyon with 11 but New South Wales cling on",
+          "url": "https://www.cricinfo.com/ci/content/story/1563880.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Ben Stokes enters IPL 2027 auction at maximum base price",
-          "url": "https://www.cricinfo.com/ci/content/story/1563846.html?ex_cid=OTC-RSS",
+          "title": "Handscomb and Macdonald put Victoria in control",
+          "url": "https://www.cricinfo.com/ci/content/story/1563881.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Pakistan A defend 168 to survive Nepal scare",
-          "url": "https://www.cricinfo.com/ci/content/story/1563845.html?ex_cid=OTC-RSS",
+          "title": "T20 Blast features more double-headers - but no sponsor - for 2027",
+          "url": "https://www.cricinfo.com/ci/content/story/1563848.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+          "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Man Utd target Collins - Wednesday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+          "title": "PSG held by Roma as in-form Malen scores again",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Bayern hold 'constructive' talks over Musiala's health",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
+          "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Klopp advice and Iraola confidence boosts Wirtz",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+          "title": "Isak scores twice as clinical Liverpool beat Brugge",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null

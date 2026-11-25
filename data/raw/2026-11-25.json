@@ -1,0 +1,682 @@
+{
+  "date": "2026-11-25",
+  "fetched_at": "2026-11-25T22:40:20.074363+00:00",
+  "item_count": 75,
+  "items": [
+    {
+      "id": "2da10ebf7215",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 918,
+      "published_at": "2026-11-25T17:18:26+00:00"
+    },
+    {
+      "id": "f63f4cad1468",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 65,
+      "published_at": "2026-11-25T21:48:10+00:00"
+    },
+    {
+      "id": "c31465abe4a5",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 684,
+      "published_at": "2026-11-25T19:11:27+00:00"
+    },
+    {
+      "id": "7df80db3eb20",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 413,
+      "published_at": "2026-11-25T15:14:32+00:00"
+    },
+    {
+      "id": "32af7980898e",
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 33,
+      "published_at": "2026-11-25T21:18:02+00:00"
+    },
+    {
+      "id": "0cd0a8c6d8b0",
+      "title": "Defang Security Incident",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 26,
+      "published_at": "2026-11-25T21:47:16+00:00"
+    },
+    {
+      "id": "0e01e5db69b9",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 32,
+      "published_at": "2026-11-25T20:35:50+00:00"
+    },
+    {
+      "id": "601d91d3e4b0",
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 28,
+      "published_at": "2026-11-25T20:35:39+00:00"
+    },
+    {
+      "id": "bc2737d3be64",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 36,
+      "published_at": "2026-11-25T20:38:00+00:00"
+    },
+    {
+      "id": "3e11caea3c27",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 93,
+      "published_at": "2026-11-25T17:34:34+00:00"
+    },
+    {
+      "id": "f13df2f7366e",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 161,
+      "published_at": "2026-11-25T14:56:52+00:00"
+    },
+    {
+      "id": "694a58f46966",
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 72,
+      "published_at": "2026-11-25T17:43:46+00:00"
+    },
+    {
+      "id": "abef7dcffe0c",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 416,
+      "published_at": "2026-11-25T13:33:07+00:00"
+    },
+    {
+      "id": "ffad66169d8c",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 298,
+      "published_at": "2026-11-25T11:34:25+00:00"
+    },
+    {
+      "id": "5ee45fc63309",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 1003,
+      "published_at": "2026-11-25T01:19:26+00:00"
+    },
+    {
+      "id": "731330eec3a0",
+      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 819,
+      "published_at": "2026-11-25T03:23:07+00:00"
+    },
+    {
+      "id": "66287db3ab0f",
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 100,
+      "published_at": "2026-11-24T22:34:29+00:00"
+    },
+    {
+      "id": "6b48cdab7a5f",
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 92,
+      "published_at": "2026-11-25T15:20:15+00:00"
+    },
+    {
+      "id": "1f0f577d6114",
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 237,
+      "published_at": "2026-11-25T07:46:43+00:00"
+    },
+    {
+      "id": "30d463386b15",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 440,
+      "published_at": "2026-11-25T02:34:21+00:00"
+    },
+    {
+      "id": "11947ff3967e",
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 434,
+      "published_at": "2026-11-25T15:08:44+00:00"
+    },
+    {
+      "id": "cb0207958353",
+      "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+      "url": "https://arxiv.org/abs/2611.31286",
+      "source": "Hacker News",
+      "category": "tech",
+      "score": 63,
+      "published_at": "2026-11-25T08:23:34+00:00"
+    },
+    {
+      "id": "a4c3fb2f4ae0",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T20:56:44+00:00"
+    },
+    {
+      "id": "dc85126b0ac7",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T20:03:27+00:00"
+    },
+    {
+      "id": "fb5a7d58c9a9",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T19:54:57+00:00"
+    },
+    {
+      "id": "6660f88e5b5f",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T19:54:32+00:00"
+    },
+    {
+      "id": "00d3c793baf9",
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T19:44:24+00:00"
+    },
+    {
+      "id": "8f62a618cddf",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T18:49:52+00:00"
+    },
+    {
+      "id": "4f0b7bfbd5a5",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T18:11:46+00:00"
+    },
+    {
+      "id": "c7c1cebe2261",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T17:36:51+00:00"
+    },
+    {
+      "id": "16ddaf7683c8",
+      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T17:35:58+00:00"
+    },
+    {
+      "id": "3f099d94e518",
+      "title": "X\u2019s latest update for creators focuses on vertical video",
+      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T17:28:29+00:00"
+    },
+    {
+      "id": "ff23b12ebb82",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T16:57:51+00:00"
+    },
+    {
+      "id": "8137568c5ca5",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T15:08:37+00:00"
+    },
+    {
+      "id": "f5ef2a358697",
+      "title": "Todoist confirms 6% of customers\u2019 details were stolen in data breach",
+      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T14:20:28+00:00"
+    },
+    {
+      "id": "61cb6e1f95ec",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T14:10:18+00:00"
+    },
+    {
+      "id": "8e1e36fd187a",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T13:08:19+00:00"
+    },
+    {
+      "id": "ceecf9e348f1",
+      "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T21:51:26+00:00"
+    },
+    {
+      "id": "9cd7e84cbfd2",
+      "title": "The Verge\u2019s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T21:48:00+00:00"
+    },
+    {
+      "id": "2669f263fdac",
+      "title": "WhatsApp\u2019s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T20:31:48+00:00"
+    },
+    {
+      "id": "aeef62858770",
+      "title": "EPA reports \u2018zero\u2019 airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T19:45:51+00:00"
+    },
+    {
+      "id": "11b99dd6ea41",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T19:10:15+00:00"
+    },
+    {
+      "id": "9576e3e695b5",
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "id": "e38156e0dc6c",
+      "title": "The loneliest peptide party in New York",
+      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "id": "6359c2ce0900",
+      "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T17:44:51+00:00"
+    },
+    {
+      "id": "cb7227ebb4b0",
+      "title": "The Verge\u2019s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T17:00:00+00:00"
+    },
+    {
+      "id": "6b1c4ab3d056",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "category": "tech",
+      "score": null,
+      "published_at": "2026-11-25T16:00:59+00:00"
+    },
+    {
+      "id": "e35eaef0fb93",
+      "title": "Clayton shuts out the noise to average 74. Will it be enough?",
+      "url": "https://www.cricinfo.com/ci/content/story/1564127.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T22:03:37+00:00"
+    },
+    {
+      "id": "34ec3bf0de25",
+      "title": "Swepson outshines Lyon with 11 but New South Wales cling on",
+      "url": "https://www.cricinfo.com/ci/content/story/1563880.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T21:36:24+00:00"
+    },
+    {
+      "id": "34bcf5e2f5e6",
+      "title": "Handscomb and Macdonald put Victoria in control",
+      "url": "https://www.cricinfo.com/ci/content/story/1563881.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T21:35:59+00:00"
+    },
+    {
+      "id": "6a6300b780b9",
+      "title": "T20 Blast features more double-headers - but no sponsor - for 2027",
+      "url": "https://www.cricinfo.com/ci/content/story/1563848.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T19:12:08+00:00"
+    },
+    {
+      "id": "364053c510e4",
+      "title": "Dottin returns to West Indies squad for Pakistan series",
+      "url": "https://www.cricinfo.com/ci/content/story/1564154.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T17:07:36+00:00"
+    },
+    {
+      "id": "a36febd4e298",
+      "title": "Shanto: 'We have to do consistently well to go to the next level'",
+      "url": "https://www.cricinfo.com/ci/content/story/1564153.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T17:02:58+00:00"
+    },
+    {
+      "id": "10a714ae63da",
+      "title": "PSL 2027: United select Henry, Gladiators grab Ferguson as marquee picks",
+      "url": "https://www.cricinfo.com/ci/content/story/1564146.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T15:09:52+00:00"
+    },
+    {
+      "id": "6066381a4244",
+      "title": "Dottin bowled off a 'free ball' under WBBL's modified Timed Out law",
+      "url": "https://www.cricinfo.com/ci/content/story/1564130.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T13:55:30+00:00"
+    },
+    {
+      "id": "2047a7769468",
+      "title": "Seven-star Mulder leads South Africa to 2-0 whitewash",
+      "url": "https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T13:02:03+00:00"
+    },
+    {
+      "id": "e4911075a9c1",
+      "title": "Durban's Super Giants set to appoint Williamson as head coach for SA20",
+      "url": "https://www.cricinfo.com/ci/content/story/1563842.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T12:28:46+00:00"
+    },
+    {
+      "id": "e04b4a1d2c0a",
+      "title": "Rocchiccioli 140, Wasley 88 turn tables on Tasmania",
+      "url": "https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T11:34:07+00:00"
+    },
+    {
+      "id": "daf56a8a78e2",
+      "title": "Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth",
+      "url": "https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T10:05:40+00:00"
+    },
+    {
+      "id": "b86101d40e32",
+      "title": "Fatima Sana returns to lead Pakistan on tour of the West Indies",
+      "url": "https://www.cricinfo.com/ci/content/story/1563904.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T09:39:27+00:00"
+    },
+    {
+      "id": "f71ca4afbe71",
+      "title": "Sooryavanshi on 53-ball 204: 'I spoke to Yuvraj openly and backed my strengths'",
+      "url": "https://www.cricinfo.com/ci/content/story/1563875.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T08:48:36+00:00"
+    },
+    {
+      "id": "66ed3ca15f61",
+      "title": "Khawaja: Never expected Pat to come out and attack me personally",
+      "url": "https://www.cricinfo.com/ci/content/story/1563887.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "category": "cricket",
+      "score": null,
+      "published_at": "2026-11-25T07:26:21+00:00"
+    },
+    {
+      "id": "1d97ab8803eb",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T21:27:35+00:00"
+    },
+    {
+      "id": "98a6cc0011f4",
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T16:46:36+00:00"
+    },
+    {
+      "id": "418ba6e637b8",
+      "title": "Glasner criticises Forest players yet to learn English",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T18:32:55+00:00"
+    },
+    {
+      "id": "e80cd9e927be",
+      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:32:51+00:00"
+    },
+    {
+      "id": "9076b5cd37db",
+      "title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:12:19+00:00"
+    },
+    {
+      "id": "68ab2506c1ad",
+      "title": "Gordon stars in comfortable Barca win over Sabah",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:07:02+00:00"
+    },
+    {
+      "id": "c15706b67b77",
+      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:24:57+00:00"
+    },
+    {
+      "id": "66d2523e994f",
+      "title": "PSG held by Roma as in-form Malen scores again",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:27:14+00:00"
+    },
+    {
+      "id": "3fc8af6842c2",
+      "title": "Borussia Dortmund fight back to draw with Arsenal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:05:57+00:00"
+    },
+    {
+      "id": "cf0a358f93f7",
+      "title": "Real Madrid put in five-star second half to win against PSV",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:05:45+00:00"
+    },
+    {
+      "id": "9493a74c6080",
+      "title": "Blunt Villa beaten by late Galatasaray winner",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:05:53+00:00"
+    },
+    {
+      "id": "ac555707e82b",
+      "title": "Cherki rescues point for Man City against Napoli",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T22:05:49+00:00"
+    },
+    {
+      "id": "3ac4c432fceb",
+      "title": "Raheem Sterling - from national icon to suspended jail sentence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "score": null,
+      "published_at": "2026-11-25T12:42:57+00:00"
+    }
+  ]
+}
