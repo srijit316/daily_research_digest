@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T22:27:31.828819+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Hacker News",
+          "score": 1955,
+          "summary": null
+        },
+        {
+          "title": "Tell HN: Happy Thanksgiving",
+          "url": "https://news.ycombinator.com/item?id=50655664",
+          "source": "Hacker News",
+          "score": 541,
+          "summary": null
+        },
+        {
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono",
+          "source": "Hacker News",
+          "score": 431,
+          "summary": null
+        },
+        {
+          "title": "Nextcloud Office Desktop app",
+          "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+          "source": "Hacker News",
+          "score": 381,
+          "summary": null
+        },
+        {
+          "title": "Collection of preserved UI style guides",
+          "url": "https://aresluna.org/ui-style-guides/",
+          "source": "Hacker News",
+          "score": 391,
+          "summary": null
+        },
+        {
+          "title": "AMD-specific fork of llama.cpp",
+          "url": "https://devnull.land/amd-specific-llama-cpp",
+          "source": "Hacker News",
+          "score": 231,
+          "summary": null
+        },
+        {
+          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "source": "Hacker News",
+          "score": 264,
+          "summary": null
+        },
+        {
+          "title": "Minipg: PostgreSQL as a Single Executable",
+          "url": "https://progrium.github.io/minipg/",
+          "source": "Hacker News",
+          "score": 281,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "India bowl in Christchurch; Brar debuts in place of Prasidh",
+          "url": "https://www.cricinfo.com/ci/content/story/1564351.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "SL A storm into final after Croospulle, Jayawardena tons",
+          "url": "https://www.cricinfo.com/ci/content/story/1564343.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Afridi, Abrar shine amid concerns over tight Quaid-e-Azam Trophy schedule",
+          "url": "https://www.cricinfo.com/ci/content/story/1564346.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "2027 World Cup venue at Victoria Falls stages first official match",
+          "url": "https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Haaland considers Man City exit - Friday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Calvert-Lewin signs new Leeds deal until 2029",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Germany's Freigang given 16-month ban over drugs test issues",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": []
+    }
+  ]
+}

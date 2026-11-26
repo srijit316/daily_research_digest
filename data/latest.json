@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T22:40:27.059282+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T22:27:31.828819+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "1Password Security Incident",
-          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-          "source": "Hacker News",
-          "score": 918,
-          "summary": null
-        },
-        {
           "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
           "url": "https://scottaaronson.blog/?p=10379",
           "source": "Hacker News",
-          "score": 684,
+          "score": 1955,
           "summary": null
         },
         {
-          "title": "The matrix multiplication exponent is nine fourths [pdf]",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "title": "Tell HN: Happy Thanksgiving",
+          "url": "https://news.ycombinator.com/item?id=50655664",
           "source": "Hacker News",
-          "score": 1003,
+          "score": 541,
           "summary": null
         },
         {
-          "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-          "url": "https://buttons.joshwcomeau.com/",
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono",
           "source": "Hacker News",
-          "score": 819,
+          "score": 431,
           "summary": null
         },
         {
-          "title": "Rumors swirling that labs might have cracked Factoring in P",
-          "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+          "title": "Nextcloud Office Desktop app",
+          "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
           "source": "Hacker News",
-          "score": 434,
+          "score": 381,
           "summary": null
         },
         {
-          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "title": "Collection of preserved UI style guides",
+          "url": "https://aresluna.org/ui-style-guides/",
           "source": "Hacker News",
-          "score": 413,
+          "score": 391,
           "summary": null
         },
         {
-          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+          "title": "AMD-specific fork of llama.cpp",
+          "url": "https://devnull.land/amd-specific-llama-cpp",
           "source": "Hacker News",
-          "score": 416,
+          "score": 231,
           "summary": null
         },
         {
-          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
           "source": "Hacker News",
-          "score": 440,
+          "score": 264,
+          "summary": null
+        },
+        {
+          "title": "Minipg: PostgreSQL as a Single Executable",
+          "url": "https://progrium.github.io/minipg/",
+          "source": "Hacker News",
+          "score": 281,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "Clayton shuts out the noise to average 74. Will it be enough?",
-          "url": "https://www.cricinfo.com/ci/content/story/1564127.html?ex_cid=OTC-RSS",
+          "title": "India bowl in Christchurch; Brar debuts in place of Prasidh",
+          "url": "https://www.cricinfo.com/ci/content/story/1564351.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Swepson outshines Lyon with 11 but New South Wales cling on",
-          "url": "https://www.cricinfo.com/ci/content/story/1563880.html?ex_cid=OTC-RSS",
+          "title": "SL A storm into final after Croospulle, Jayawardena tons",
+          "url": "https://www.cricinfo.com/ci/content/story/1564343.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Handscomb and Macdonald put Victoria in control",
-          "url": "https://www.cricinfo.com/ci/content/story/1563881.html?ex_cid=OTC-RSS",
+          "title": "Afridi, Abrar shine amid concerns over tight Quaid-e-Azam Trophy schedule",
+          "url": "https://www.cricinfo.com/ci/content/story/1564346.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "T20 Blast features more double-headers - but no sponsor - for 2027",
-          "url": "https://www.cricinfo.com/ci/content/story/1563848.html?ex_cid=OTC-RSS",
+          "title": "2027 World Cup venue at Victoria Falls stages first official match",
+          "url": "https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+          "title": "Haaland considers Man City exit - Friday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "PSG held by Roma as in-form Malen scores again",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+          "title": "Calvert-Lewin signs new Leeds deal until 2029",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Isak scores twice as clinical Liverpool beat Brugge",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+          "title": "Germany's Freigang given 16-month ban over drugs test issues",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
