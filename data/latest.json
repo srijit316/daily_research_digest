@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T22:27:31.828819+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T22:06:24.817373+00:00",
   "mode": "fallback",
   "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
   "sections": [
@@ -9,59 +9,59 @@
       "title": "Tech",
       "items": [
         {
-          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-          "url": "https://scottaaronson.blog/?p=10379",
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
           "source": "Hacker News",
-          "score": 1955,
+          "score": 1061,
           "summary": null
         },
         {
-          "title": "Tell HN: Happy Thanksgiving",
-          "url": "https://news.ycombinator.com/item?id=50655664",
+          "title": "Group chat where your AI talks behind your back",
+          "url": "https://construct22.com/",
           "source": "Hacker News",
-          "score": 541,
+          "score": 650,
           "summary": null
         },
         {
-          "title": "Intel One Mono font (2023)",
-          "url": "https://github.com/intel/intel-one-mono",
+          "title": "Claude sabotaging ML research tasks?",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
           "source": "Hacker News",
-          "score": 431,
+          "score": 493,
           "summary": null
         },
         {
-          "title": "Nextcloud Office Desktop app",
-          "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
           "source": "Hacker News",
-          "score": 381,
+          "score": 331,
           "summary": null
         },
         {
-          "title": "Collection of preserved UI style guides",
-          "url": "https://aresluna.org/ui-style-guides/",
+          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+          "url": "https://bouncemarket.minhanhday.com/",
           "source": "Hacker News",
-          "score": 391,
+          "score": 300,
           "summary": null
         },
         {
-          "title": "AMD-specific fork of llama.cpp",
-          "url": "https://devnull.land/amd-specific-llama-cpp",
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
           "source": "Hacker News",
-          "score": 231,
+          "score": 499,
           "summary": null
         },
         {
-          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "title": "US Air Force's cloud computing platform hacked",
+          "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
           "source": "Hacker News",
-          "score": 264,
+          "score": 289,
           "summary": null
         },
         {
-          "title": "Minipg: PostgreSQL as a Single Executable",
-          "url": "https://progrium.github.io/minipg/",
+          "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
           "source": "Hacker News",
-          "score": 281,
+          "score": 529,
           "summary": null
         }
       ]
@@ -71,29 +71,29 @@
       "title": "Cricket",
       "items": [
         {
-          "title": "India bowl in Christchurch; Brar debuts in place of Prasidh",
-          "url": "https://www.cricinfo.com/ci/content/story/1564351.html?ex_cid=OTC-RSS",
+          "title": "CSA 4-day match in Newlands abandoned due to dangerous pitch",
+          "url": "https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "SL A storm into final after Croospulle, Jayawardena tons",
-          "url": "https://www.cricinfo.com/ci/content/story/1564343.html?ex_cid=OTC-RSS",
+          "title": "Nawaz's all-round show, Moqim's three-for lead Pakistan A to final",
+          "url": "https://www.cricinfo.com/ci/content/story/1564479.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "Afridi, Abrar shine amid concerns over tight Quaid-e-Azam Trophy schedule",
-          "url": "https://www.cricinfo.com/ci/content/story/1564346.html?ex_cid=OTC-RSS",
+          "title": "Shreyas Iyer to join Mumbai's squad for Super League phase of Syed Mushtaq Ali Trophy",
+          "url": "https://www.cricinfo.com/ci/content/story/1564465.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
         },
         {
-          "title": "2027 World Cup venue at Victoria Falls stages first official match",
-          "url": "https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS",
+          "title": "Rohit Sharma to lead Mumbai Indians again in IPL 2027",
+          "url": "https://www.cricinfo.com/ci/content/story/1563366.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "score": null,
           "summary": null
@@ -105,29 +105,29 @@
       "title": "Football",
       "items": [
         {
-          "title": "Haaland considers Man City exit - Friday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+          "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+          "title": "Celtic defend head of security amid Green Brigade row",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Calvert-Lewin signs new Leeds deal until 2029",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+          "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null
         },
         {
-          "title": "Germany's Freigang given 16-month ban over drugs test issues",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+          "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Sport Football",
           "score": null,
           "summary": null

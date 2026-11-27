@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T22:06:24.817373+00:00",
+  "mode": "fallback",
+  "overview": "Automated ranking by engagement and recency \u2014 AI curation was unavailable for this run, so items appear without summaries.",
+  "sections": [
+    {
+      "category": "tech",
+      "title": "Tech",
+      "items": [
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News",
+          "score": 1061,
+          "summary": null
+        },
+        {
+          "title": "Group chat where your AI talks behind your back",
+          "url": "https://construct22.com/",
+          "source": "Hacker News",
+          "score": 650,
+          "summary": null
+        },
+        {
+          "title": "Claude sabotaging ML research tasks?",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News",
+          "score": 493,
+          "summary": null
+        },
+        {
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+          "source": "Hacker News",
+          "score": 331,
+          "summary": null
+        },
+        {
+          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+          "url": "https://bouncemarket.minhanhday.com/",
+          "source": "Hacker News",
+          "score": 300,
+          "summary": null
+        },
+        {
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+          "source": "Hacker News",
+          "score": 499,
+          "summary": null
+        },
+        {
+          "title": "US Air Force's cloud computing platform hacked",
+          "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+          "source": "Hacker News",
+          "score": 289,
+          "summary": null
+        },
+        {
+          "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "source": "Hacker News",
+          "score": 529,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "cricket",
+      "title": "Cricket",
+      "items": [
+        {
+          "title": "CSA 4-day match in Newlands abandoned due to dangerous pitch",
+          "url": "https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Nawaz's all-round show, Moqim's three-for lead Pakistan A to final",
+          "url": "https://www.cricinfo.com/ci/content/story/1564479.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Shreyas Iyer to join Mumbai's squad for Super League phase of Syed Mushtaq Ali Trophy",
+          "url": "https://www.cricinfo.com/ci/content/story/1564465.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Rohit Sharma to lead Mumbai Indians again in IPL 2027",
+          "url": "https://www.cricinfo.com/ci/content/story/1563366.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "football",
+      "title": "Football",
+      "items": [
+        {
+          "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Celtic defend head of security amid Green Brigade row",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        },
+        {
+          "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport Football",
+          "score": null,
+          "summary": null
+        }
+      ]
+    },
+    {
+      "category": "nba",
+      "title": "NBA",
+      "items": []
+    }
+  ]
+}
